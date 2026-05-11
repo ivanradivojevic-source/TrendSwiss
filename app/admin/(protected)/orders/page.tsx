@@ -1,13 +1,18 @@
+import type { Prisma } from '@prisma/client';
 import { prisma } from '@/src/lib/db';
 
 export const dynamic = 'force-dynamic';
+
+type OrderRow = Prisma.OrderGetPayload<{
+  include: { customer: true; shippingAddress: true; items: true };
+}>;
 
 function formatCHF(cents: number) {
   return `${(cents / 100).toFixed(2)} CHF`;
 }
 
 export default async function AdminOrdersPage() {
-  const orders = await prisma.order.findMany({
+  const orders: OrderRow[] = await prisma.order.findMany({
     orderBy: { createdAt: 'desc' },
     take: 200,
     include: {

@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "postinstall": "prisma generate",
     "dev": "next dev -p 3000",
     "clean": "node -e \"try{require('fs').rmSync('.next',{recursive:true,force:true});console.log('Removed .next')}catch(e){console.log('No .next to remove')}\"",
     "dev:clean": "npm run clean && next dev -p 3000",

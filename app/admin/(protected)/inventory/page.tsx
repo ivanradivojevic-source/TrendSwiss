@@ -1,9 +1,14 @@
+import type { Prisma } from '@prisma/client';
 import { prisma } from '@/src/lib/db';
 
 export const dynamic = 'force-dynamic';
 
+type VariantWithProduct = Prisma.ProductVariantGetPayload<{
+  include: { product: true };
+}>;
+
 export default async function AdminInventoryPage() {
-  const variants = await prisma.productVariant.findMany({
+  const variants: VariantWithProduct[] = await prisma.productVariant.findMany({
     orderBy: [{ updatedAt: 'desc' }],
     take: 300,
     include: { product: true },

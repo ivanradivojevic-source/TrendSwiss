@@ -1,0 +1,95 @@
+{
+  "nav": {
+    "home": "Home",
+    "shop": "Shop",
+    "cart": "Cart",
+    "about": "About us",
+    "contact": "Contact"
+  },
+  "home": {
+    "heroTitle": "Welcome to Trend Swiss Shop",
+    "heroSubtitle": "Swiss quality and style",
+    "aboutTitle": "About us",
+    "aboutText": "Trend Swiss Shop stands for Swiss quality and timeless style. We offer selected products for your everyday life – from comfortable slippers to trendy accessories.",
+    "contactTitle": "Contact",
+    "contactPhone": "Phone",
+    "contactAddress": "Address",
+    "contactEmail": "Email"
+  },
+  "shop": {
+    "title": "Shop",
+    "allProducts": "All products",
+    "exploreByCategory": "Explore by category",
+    "view": "View",
+    "exploreFilterTitle": "Categories",
+    "filtersTitle": "Filters",
+    "openFilters": "Filters",
+    "close": "Close",
+    "categories": "Categories",
+    "all": "All",
+    "brandTitle": "Brand",
+    "allBrands": "All brands",
+    "noProductsInCategory": "No products in this category.",
+    "addToCart": "Add to cart",
+    "size": "Size",
+    "color": "Color",
+    "price": "Price",
+    "chf": "CHF",
+    "selectSize": "Select size",
+    "selectColor": "Select color",
+    "quantity": "Quantity",
+    "sameModelColors": "This model in other colours",
+    "leonSizeGuide": {
+      "link": "Size guide",
+      "title": "Size guide",
+      "tabMeasurements": "Measurements",
+      "tabInstructions": "Instructions",
+      "close": "Close",
+      "eu": "EU",
+      "footLengthMm": "Foot length (mm)",
+      "footLengthIn": "Foot length (in)",
+      "unitMm": "mm",
+      "unitIn": "in",
+      "howToTitle": "How to measure:",
+      "step1": "Place your foot flat on a sheet of paper and mark the longest point of your toes and the back of your heel. It is best to do this standing up and wearing socks.",
+      "step2": "Measure the distance in a straight line from the longest toe to the back of your heel using a ruler or tape measure.",
+      "step3": "Use the table to find your EU size."
+    }
+  },
+  "productTabs": {
+    "specs": "Specifications",
+    "description": "Description",
+    "shipping": "Shipping & returns",
+    "reviews": "Reviews",
+    "specsContent": "Material: Soft pile, cotton blend. Care: Machine wash 30°C. Available sizes and colours see selection above.",
+    "shippingContent": "Shipping within Switzerland: 2–4 working days. Shipping from 6 CHF, free from 80 CHF. 30-day return policy, unused items.",
+    "reviewsIntro": "Customer reviews",
+    "review1": "Very comfortable, I wear them every day. Fit perfectly.",
+    "review2": "Good quality, fast delivery. Would buy again.",
+    "review3": "Soft and warm. Recommend choosing your usual size."
+  },
+  "cart": {
+    "title": "Cart",
+    "empty": "Your cart is empty",
+    "subtotal": "Subtotal",
+    "discount": "Discount",
+    "total": "Total",
+    "checkout": "Checkout",
+    "remove": "Remove",
+    "voucherPlaceholder": "Voucher code",
+    "applyVoucher": "Apply",
+    "voucherInvalid": "Invalid or not applicable code.",
+    "voucherApplied": "Code \"{code}\" applied: -{amount} CHF",
+    "goToShop": "To shop"
+  },
+  "checkout": {
+    "title": "Checkout",
+    "successTitle": "Payment successful",
+    "successMessage": "Thank you! You will receive a confirmation email shortly.",
+    "cancelMessage": "Payment cancelled.",
+    "backToShop": "Back to shop"
+  },
+  "footer": {
+    "rights": "All rights reserved."
+  }
+}

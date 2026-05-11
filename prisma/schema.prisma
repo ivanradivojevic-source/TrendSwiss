@@ -1,0 +1,183 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+enum PaymentStatus {
+  pending
+  paid
+  failed
+  refunded
+  partially_refunded
+}
+
+enum OrderStatus {
+  new
+  confirmed
+  processing
+  packed
+  shipped
+  delivered
+  completed
+  cancelled
+  returned
+}
+
+enum DeliveryStatus {
+  not_shipped
+  prepared
+  shipped
+  in_transit
+  delivered
+  returned
+}
+
+enum InventoryMovementType {
+  incoming
+  sale
+  return
+  manual_adjustment
+}
+
+model Product {
+  id          String   @id @default(cuid())
+  slug        String   @unique
+  name        String
+  description String?
+  basePrice   Int      @default(0) // cents (fallback if variants don't override)
+  currency    String   @default("CHF")
+  active      Boolean  @default(true)
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  variants ProductVariant[]
+}
+
+model ProductVariant {
+  id            String   @id @default(cuid())
+  productId     String
+  sku           String   @unique
+  size          String?
+  color         String?
+  model         String?
+  priceOverride Int?     // cents, overrides product base price if set
+  currency      String   @default("CHF")
+  stockQuantity Int      @default(0)
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+
+  product Product @relation(fields: [productId], references: [id], onDelete: Cascade)
+  orderItems OrderItem[]
+  inventoryMovements InventoryMovement[]
+
+  @@index([productId])
+}
+
+model Customer {
+  id        String   @id @default(cuid())
+  firstName String?
+  lastName  String?
+  email     String   @unique
+  phone     String?
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  orders Order[]
+  shippingAddresses ShippingAddress[]
+}
+
+model ShippingAddress {
+  id         String   @id @default(cuid())
+  customerId String?
+  orderId    String?  @unique
+
+  country    String?
+  city       String?
+  postalCode String?
+  street     String?
+  number     String?
+  note       String?
+  createdAt  DateTime @default(now())
+  updatedAt  DateTime @updatedAt
+
+  customer Customer? @relation(fields: [customerId], references: [id], onDelete: SetNull)
+  order    Order?    @relation(fields: [orderId], references: [id], onDelete: Cascade)
+
+  @@index([customerId])
+}
+
+model Order {
+  id                String        @id @default(cuid())
+  orderNumber       String        @unique
+  customerId        String?
+  currency          String        @default("CHF")
+  totalAmount       Int           // cents
+  paymentStatus     PaymentStatus @default(pending)
+  orderStatus       OrderStatus   @default(new)
+  deliveryStatus    DeliveryStatus @default(not_shipped)
+
+  stripeSessionId   String?       @unique
+  stripePaymentIntentId String?   @unique
+
+  createdAt         DateTime      @default(now())
+  updatedAt         DateTime      @updatedAt
+
+  customer          Customer?     @relation(fields: [customerId], references: [id], onDelete: SetNull)
+  items             OrderItem[]
+  shippingAddress   ShippingAddress?
+  inventoryMovements InventoryMovement[]
+
+  @@index([customerId])
+}
+
+model OrderItem {
+  id          String   @id @default(cuid())
+  orderId     String
+  variantId   String?
+  sku         String?
+  name        String
+  quantity    Int
+  unitPrice   Int      // cents
+  totalPrice  Int      // cents
+  currency    String   @default("CHF")
+
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  order   Order @relation(fields: [orderId], references: [id], onDelete: Cascade)
+  variant ProductVariant? @relation(fields: [variantId], references: [id], onDelete: SetNull)
+
+  @@index([orderId])
+  @@index([variantId])
+  @@index([sku])
+}
+
+model InventoryMovement {
+  id            String                @id @default(cuid())
+  variantId     String
+  type          InventoryMovementType
+  quantityChange Int
+  reason        String?
+  relatedOrderId String?
+  createdAt     DateTime @default(now())
+
+  variant ProductVariant @relation(fields: [variantId], references: [id], onDelete: Cascade)
+  relatedOrder Order? @relation(fields: [relatedOrderId], references: [id], onDelete: SetNull)
+
+  @@index([variantId])
+  @@index([relatedOrderId])
+  @@index([createdAt])
+}
+
+model AdminUser {
+  id           String   @id @default(cuid())
+  email        String   @unique
+  passwordHash String?
+  role         String   @default("admin")
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+}
+

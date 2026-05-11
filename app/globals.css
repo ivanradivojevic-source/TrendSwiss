@@ -1,0 +1,98 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-red: #dc2626;
+  --color-red-dark: #b91c1c;
+  --color-black: #111827;
+  --color-gold: #d97706;
+  --header-dark: #1f2937;   /* neutral-800 */
+  --header-dark-border: #374151;
+  --bg-subtle: #fef2f2;   /* red-50 */
+  --bg-rose: #fdf2f4;     /* blaga roze */
+  --bg-warm: #fcf9fa;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  background: var(--bg-warm);
+}
+
+/* Bolji fokus za linkove i dugmad */
+a:focus-visible,
+button:focus-visible {
+  outline: 2px solid var(--color-red);
+  outline-offset: 2px;
+}
+
+@keyframes shop-fly {
+  0% {
+    transform: translate(0, 0) scale(1);
+    opacity: 1;
+  }
+  30% {
+    transform: translate(8px, -15px) scale(1.05);
+    opacity: 1;
+  }
+  100% {
+    transform: translate(35px, -100px) scale(1.12);
+    opacity: 0;
+  }
+}
+
+.shop-fly-active {
+  animation: shop-fly 2s ease-out forwards;
+  pointer-events: none;
+}
+
+/* Kraća verzija za Add to cart */
+.shop-fly-active-short {
+  animation: shop-fly 1s ease-out forwards;
+  pointer-events: none;
+}
+
+/* Mahanje krila tokom leta */
+@keyframes wing-flap-left {
+  0%, 100% { transform: translateY(-0.5cm) rotate(-4deg); }
+  50% { transform: translateY(-0.5cm) rotate(4deg); }
+}
+
+@keyframes wing-flap-right {
+  0%, 100% { transform: scaleX(-1) translateY(-0.5cm) rotate(-4deg); }
+  50% { transform: scaleX(-1) translateY(-0.5cm) rotate(4deg); }
+}
+
+.wing-flap-left {
+  animation: wing-flap-left 0.22s ease-in-out 9;
+}
+
+.wing-flap-right {
+  animation: wing-flap-right 0.22s ease-in-out 9;
+}
+
+/* Kraće mahanje za Add to cart (~1s) */
+.wing-flap-left-short {
+  animation: wing-flap-left 0.2s ease-in-out 5;
+}
+
+.wing-flap-right-short {
+  animation: wing-flap-right 0.2s ease-in-out 5;
+}
+
+@keyframes page-fade-in {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.page-fade-in {
+  animation: page-fade-in 0.4s ease-out;
+}

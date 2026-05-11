@@ -1,0 +1,95 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "shop": "Boutique",
+    "cart": "Panier",
+    "about": "À propos",
+    "contact": "Contact"
+  },
+  "home": {
+    "heroTitle": "Bienvenue chez Trend Swiss Shop",
+    "heroSubtitle": "Qualité et style suisses",
+    "aboutTitle": "À propos de nous",
+    "aboutText": "Trend Swiss Shop représente la qualité suisse et le style intemporel. Nous proposons des produits sélectionnés pour votre quotidien – des pantoufles confortables aux accessoires tendance.",
+    "contactTitle": "Contact",
+    "contactPhone": "Téléphone",
+    "contactAddress": "Adresse",
+    "contactEmail": "E-mail"
+  },
+  "shop": {
+    "title": "Boutique",
+    "allProducts": "Tous les produits",
+    "exploreByCategory": "Explorer par catégorie",
+    "view": "Voir",
+    "exploreFilterTitle": "Catégories",
+    "filtersTitle": "Filtres",
+    "openFilters": "Filtres",
+    "close": "Fermer",
+    "categories": "Catégories",
+    "all": "Tout",
+    "brandTitle": "Marque",
+    "allBrands": "Toutes les marques",
+    "noProductsInCategory": "Aucun produit dans cette catégorie.",
+    "addToCart": "Ajouter au panier",
+    "size": "Taille",
+    "color": "Couleur",
+    "price": "Prix",
+    "chf": "CHF",
+    "selectSize": "Choisir la taille",
+    "selectColor": "Choisir la couleur",
+    "quantity": "Quantité",
+    "sameModelColors": "Ce modèle dans d’autres couleurs",
+    "leonSizeGuide": {
+      "link": "Guide des tailles",
+      "title": "Guide des tailles",
+      "tabMeasurements": "Mesures",
+      "tabInstructions": "Mode d’emploi",
+      "close": "Fermer",
+      "eu": "UE",
+      "footLengthMm": "Longueur du pied (mm)",
+      "footLengthIn": "Longueur du pied (po)",
+      "unitMm": "mm",
+      "unitIn": "po",
+      "howToTitle": "Comment mesurer :",
+      "step1": "Posez le pied à plat sur une feuille et marquez le point le plus long des orteils et l’arrière du talon. Idéalement debout et avec des chaussettes.",
+      "step2": "Mesurez en ligne droite de l’orteil le plus long jusqu’au talon avec une règle ou un mètre ruban.",
+      "step3": "Utilisez le tableau pour trouver votre pointure EU."
+    }
+  },
+  "productTabs": {
+    "specs": "Spécifications",
+    "description": "Description",
+    "shipping": "Livraison & retours",
+    "reviews": "Avis",
+    "specsContent": "Matière : peluche douce, mélange coton. Entretien : lavage machine 30 °C. Tailles et couleurs disponibles voir sélection ci-dessus.",
+    "shippingContent": "Livraison en Suisse : 2–4 jours ouvrés. Frais de port à partir de 6 CHF, gratuit dès 80 CHF. Retours sous 30 jours, article non porté.",
+    "reviewsIntro": "Avis clients",
+    "review1": "Très confortables, je les porte tous les jours. Taille parfaite.",
+    "review2": "Bon rapport qualité-prix, livraison rapide. Je recommande.",
+    "review3": "Doux et chauds. Je conseille de prendre sa taille habituelle."
+  },
+  "cart": {
+    "title": "Panier",
+    "empty": "Votre panier est vide",
+    "subtotal": "Sous-total",
+    "discount": "Réduction",
+    "total": "Total",
+    "checkout": "Commander",
+    "remove": "Retirer",
+    "voucherPlaceholder": "Code promo",
+    "applyVoucher": "Appliquer",
+    "voucherInvalid": "Code invalide ou non applicable.",
+    "voucherApplied": "Code « {code} » appliqué : -{amount} CHF",
+    "goToShop": "À la boutique"
+  },
+  "checkout": {
+    "title": "Paiement",
+    "successTitle": "Paiement réussi",
+    "successMessage": "Merci ! Vous recevrez sous peu un e-mail de confirmation.",
+    "cancelMessage": "Paiement annulé.",
+    "backToShop": "Retour à la boutique"
+  },
+  "footer": {
+    "rights": "Tous droits réservés."
+  }
+}

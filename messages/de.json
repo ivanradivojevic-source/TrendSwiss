@@ -1,0 +1,95 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "shop": "Shop",
+    "cart": "Warenkorb",
+    "about": "Über uns",
+    "contact": "Kontakt"
+  },
+  "home": {
+    "heroTitle": "Willkommen bei Trend Swiss Shop",
+    "heroSubtitle": "Qualität und Stil aus der Schweiz",
+    "aboutTitle": "Über uns",
+    "aboutText": "Trend Swiss Shop steht für Schweizer Qualität und zeitlosen Stil. Wir bieten ausgewählte Produkte für Ihren Alltag – von bequemen Hausschuhen bis zu trendigen Accessoires.",
+    "contactTitle": "Kontakt",
+    "contactPhone": "Telefon",
+    "contactAddress": "Adresse",
+    "contactEmail": "E-Mail"
+  },
+  "shop": {
+    "title": "Shop",
+    "allProducts": "Alle Produkte",
+    "exploreByCategory": "Nach Kategorie entdecken",
+    "view": "Ansehen",
+    "exploreFilterTitle": "Kategorien",
+    "filtersTitle": "Filter",
+    "openFilters": "Filter",
+    "close": "Schliessen",
+    "categories": "Kategorien",
+    "all": "Alle",
+    "brandTitle": "Marke",
+    "allBrands": "Alle Marken",
+    "noProductsInCategory": "Keine Produkte in dieser Kategorie.",
+    "addToCart": "In den Warenkorb",
+    "size": "Grösse",
+    "color": "Farbe",
+    "price": "Preis",
+    "chf": "CHF",
+    "selectSize": "Grösse wählen",
+    "selectColor": "Farbe wählen",
+    "quantity": "Menge",
+    "sameModelColors": "Dieses Modell in anderen Farben",
+    "leonSizeGuide": {
+      "link": "Grösseninfo",
+      "title": "Grösseninfo",
+      "tabMeasurements": "Masse",
+      "tabInstructions": "Anleitung",
+      "close": "Schliessen",
+      "eu": "EU",
+      "footLengthMm": "Fusslänge (mm)",
+      "footLengthIn": "Fusslänge (in)",
+      "unitMm": "mm",
+      "unitIn": "in",
+      "howToTitle": "So messen Sie:",
+      "step1": "Stellen Sie den Fuss flach auf ein Blatt Papier und markieren Sie den längsten Punkt der Zehen und die Ferse. Am besten stehend und mit Socken.",
+      "step2": "Messen Sie die Strecke geradlinig vom längsten Zeh bis zur Ferse mit Lineal oder Massband.",
+      "step3": "Lesen Sie Ihre EU-Grösse in der Tabelle ab."
+    }
+  },
+  "productTabs": {
+    "specs": "Specifikationen",
+    "description": "Beschreibung",
+    "shipping": "Versand & Rückgabe",
+    "reviews": "Bewertungen",
+    "specsContent": "Material: Weicher Flor, Baumwollanteil. Pflege: Maschinenwäsche 30°C. Verfügbare Grössen und Farben siehe Auswahl oben.",
+    "shippingContent": "Versand in die Schweiz: 2–4 Werktage. Versandkosten ab 6 CHF, kostenlos ab 80 CHF. 30 Tage Rückgaberecht, unbenutzte Ware.",
+    "reviewsIntro": "Kundenbewertungen",
+    "review1": "Sehr bequem, trage sie jeden Tag. Passt perfekt.",
+    "review2": "Gute Qualität, schnelle Lieferung. Gerne wieder.",
+    "review3": "Weich und warm. Empfehle die Grösse normal zu wählen."
+  },
+  "cart": {
+    "title": "Warenkorb",
+    "empty": "Ihr Warenkorb ist leer",
+    "subtotal": "Zwischensumme",
+    "discount": "Rabatt",
+    "total": "Gesamt",
+    "checkout": "Zur Kasse",
+    "remove": "Entfernen",
+    "voucherPlaceholder": "Gutscheincode",
+    "applyVoucher": "Anwenden",
+    "voucherInvalid": "Ungültiger oder nicht anwendbarer Code.",
+    "voucherApplied": "Code \"{code}\" angewendet: -{amount} CHF",
+    "goToShop": "Zum Shop"
+  },
+  "checkout": {
+    "title": "Kasse",
+    "successTitle": "Zahlung erfolgreich",
+    "successMessage": "Vielen Dank! Sie erhalten in Kürze eine Bestätigungs-E-Mail.",
+    "cancelMessage": "Zahlung abgebrochen.",
+    "backToShop": "Zurück zum Shop"
+  },
+  "footer": {
+    "rights": "Alle Rechte vorbehalten."
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "nav": {
+    "home": "Home",
+    "shop": "Shop",
+    "cart": "Carrello",
+    "about": "Chi siamo",
+    "contact": "Contatti"
+  },
+  "home": {
+    "heroTitle": "Benvenuto su Trend Swiss Shop",
+    "heroSubtitle": "Qualità e stile svizzeri",
+    "aboutTitle": "Chi siamo",
+    "aboutText": "Trend Swiss Shop rappresenta la qualità svizzera e uno stile senza tempo. Offriamo prodotti selezionati per la vita quotidiana – dalle comode pantofole agli accessori di tendenza.",
+    "contactTitle": "Contatti",
+    "contactPhone": "Telefono",
+    "contactAddress": "Indirizzo",
+    "contactEmail": "E-mail"
+  },
+  "shop": {
+    "title": "Shop",
+    "allProducts": "Tutti i prodotti",
+    "exploreByCategory": "Esplora per categoria",
+    "view": "Vedi",
+    "exploreFilterTitle": "Categorie",
+    "filtersTitle": "Filtri",
+    "openFilters": "Filtri",
+    "close": "Chiudi",
+    "categories": "Categorie",
+    "all": "Tutti",
+    "brandTitle": "Marca",
+    "allBrands": "Tutte le marche",
+    "noProductsInCategory": "Nessun prodotto in questa categoria.",
+    "addToCart": "Aggiungi al carrello",
+    "size": "Taglia",
+    "color": "Colore",
+    "price": "Prezzo",
+    "chf": "CHF",
+    "selectSize": "Seleziona la taglia",
+    "selectColor": "Seleziona il colore",
+    "quantity": "Quantità",
+    "sameModelColors": "Stesso modello in altri colori",
+    "leonSizeGuide": {
+      "link": "Guida alle taglie",
+      "title": "Guida alle taglie",
+      "tabMeasurements": "Misure",
+      "tabInstructions": "Istruzioni",
+      "close": "Chiudi",
+      "eu": "EU",
+      "footLengthMm": "Lunghezza del piede (mm)",
+      "footLengthIn": "Lunghezza del piede (in)",
+      "unitMm": "mm",
+      "unitIn": "in",
+      "howToTitle": "Come misurare:",
+      "step1": "Appoggia il piede in piano su un foglio e segna il punto più lungo delle dita e il tallone. Meglio in piedi e con le calze.",
+      "step2": "Misura in linea retta dal dito più lungo al tallone con un righello o un metro.",
+      "step3": "Usa la tabella per trovare la tua taglia EU."
+    }
+  },
+  "productTabs": {
+    "specs": "Specifiche",
+    "description": "Descrizione",
+    "shipping": "Spedizione e resi",
+    "reviews": "Recensioni",
+    "specsContent": "Materiale: pelo morbido, misto cotone. Cura: lavaggio in lavatrice a 30°C. Taglie e colori disponibili: vedi selezione sopra.",
+    "shippingContent": "Spedizione in Svizzera: 2–4 giorni lavorativi. Spese di spedizione da 6 CHF, gratis da 80 CHF. Reso entro 30 giorni, articolo non utilizzato.",
+    "reviewsIntro": "Recensioni dei clienti",
+    "review1": "Molto comode, le indosso ogni giorno. Vestono perfettamente.",
+    "review2": "Buona qualità, consegna rapida. Acquisterò di nuovo.",
+    "review3": "Morbide e calde. Consiglio la taglia abituale."
+  },
+  "cart": {
+    "title": "Carrello",
+    "empty": "Il tuo carrello è vuoto",
+    "subtotal": "Subtotale",
+    "discount": "Sconto",
+    "total": "Totale",
+    "checkout": "Vai alla cassa",
+    "remove": "Rimuovi",
+    "voucherPlaceholder": "Codice sconto",
+    "applyVoucher": "Applica",
+    "voucherInvalid": "Codice non valido o non applicabile.",
+    "voucherApplied": "Codice \"{code}\" applicato: -{amount} CHF",
+    "goToShop": "Vai allo shop"
+  },
+  "checkout": {
+    "title": "Cassa",
+    "successTitle": "Pagamento riuscito",
+    "successMessage": "Grazie! Riceverai a breve un’e-mail di conferma.",
+    "cancelMessage": "Pagamento annullato.",
+    "backToShop": "Torna allo shop"
+  },
+  "footer": {
+    "rights": "Tutti i diritti riservati."
+  }
+}
+

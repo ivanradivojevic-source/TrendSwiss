@@ -31,6 +31,8 @@
     "allBrands": "All brands",
     "noProductsInCategory": "No products in this category.",
     "addToCart": "Add to cart",
+    "catalogOnly": "Catalogue only",
+    "purchaseDisabled": "Purchasing is temporarily disabled. This website currently serves as an online catalogue.",
     "size": "Size",
     "color": "Color",
     "price": "Price",
@@ -71,6 +73,7 @@
   "cart": {
     "title": "Cart",
     "empty": "Your cart is empty",
+    "purchaseDisabled": "Purchasing is temporarily disabled. The cart and checkout are not available right now.",
     "subtotal": "Subtotal",
     "discount": "Discount",
     "total": "Total",

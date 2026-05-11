@@ -31,6 +31,8 @@
     "allBrands": "Toutes les marques",
     "noProductsInCategory": "Aucun produit dans cette catégorie.",
     "addToCart": "Ajouter au panier",
+    "catalogOnly": "Catalogue uniquement",
+    "purchaseDisabled": "Les achats sont temporairement désactivés. Ce site sert actuellement de catalogue en ligne.",
     "size": "Taille",
     "color": "Couleur",
     "price": "Prix",
@@ -71,6 +73,7 @@
   "cart": {
     "title": "Panier",
     "empty": "Votre panier est vide",
+    "purchaseDisabled": "Les achats sont temporairement désactivés. Le panier et le paiement ne sont pas disponibles pour le moment.",
     "subtotal": "Sous-total",
     "discount": "Réduction",
     "total": "Total",

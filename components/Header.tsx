@@ -101,7 +101,8 @@ export default function Header() {
 
           <div className="flex flex-shrink-0 items-center gap-2 mr-4 md:mr-6">
             <LocaleSwitcher />
-            <Link
+            {/* Use full navigation to avoid chunk/cache mismatch errors during rapid rebuilds. */}
+            <a
               href={`${base}/cart`}
               className="relative flex items-center gap-2 rounded-lg bg-[var(--header-dark)] px-4 py-2.5 text-base font-semibold text-white transition hover:bg-neutral-900 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-red-500 focus-visible:ring-offset-2"
             >
@@ -112,7 +113,7 @@ export default function Header() {
                   {cartCount}
                 </span>
               )}
-            </Link>
+            </a>
           </div>
         </div>
       </div>

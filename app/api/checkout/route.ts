@@ -1,11 +1,18 @@
 import { NextResponse } from 'next/server';
 import Stripe from 'stripe';
+import { CATALOG_MODE } from '@/src/lib/catalogMode';
 
 const stripe = new Stripe(process.env.STRIPE_SECRET_KEY!, {
   apiVersion: '2023-10-16',
 });
 
 export async function POST(req: Request) {
+  if (CATALOG_MODE) {
+    return NextResponse.json(
+      { error: 'Commerce is disabled (catalog-only mode).' },
+      { status: 503 }
+    );
+  }
   try {
     const { lines, discountCHF = 0, voucherCode, locale = 'de' } = await req.json();
     if (!lines?.length) {

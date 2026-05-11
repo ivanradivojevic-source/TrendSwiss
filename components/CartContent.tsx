@@ -7,6 +7,7 @@ import { useCartStore } from '@/store/cart-store';
 import { useLocale } from 'next-intl';
 import { useState } from 'react';
 import { findVoucher, applyVoucher } from '@/data/vouchers';
+import { CATALOG_MODE } from '@/src/lib/catalogMode';
 
 export default function CartContent() {
   const t = useTranslations('cart');
@@ -117,6 +118,11 @@ export default function CartContent() {
       </div>
 
       <div className="rounded-2xl border-2 border-red-200 bg-red-50/80 p-6 ring-1 ring-red-100">
+        {CATALOG_MODE ? (
+          <div className="mb-4 rounded-xl border border-amber-200 bg-amber-50 px-4 py-3 text-sm text-amber-900">
+            {t('purchaseDisabled')}
+          </div>
+        ) : null}
         <div className="space-y-2">
           <div className="flex justify-between text-neutral-700">
             <span>{t('subtotal')}</span>
@@ -147,6 +153,7 @@ function CheckoutButton({ totalCHF, locale }: { totalCHF: number; locale: string
   const voucherCode = useCartStore((s) => s.voucherCode);
 
   const handleCheckout = async () => {
+    if (CATALOG_MODE) return;
     setLoading(true);
     try {
       const res = await fetch('/api/checkout', {
@@ -177,7 +184,7 @@ function CheckoutButton({ totalCHF, locale }: { totalCHF: number; locale: string
     <button
       type="button"
       onClick={handleCheckout}
-      disabled={loading || totalCHF <= 0}
+      disabled={CATALOG_MODE || loading || totalCHF <= 0}
       className="mt-6 w-full rounded-xl bg-red-600 py-3.5 font-semibold text-white shadow-lg ring-2 ring-red-400/40 transition hover:bg-red-700 disabled:opacity-50"
     >
       {loading ? '…' : t('checkout')}

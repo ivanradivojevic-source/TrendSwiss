@@ -7,6 +7,7 @@ import type { Product } from '@/data/products';
 import { getVariant } from '@/data/products';
 import { useCartStore } from '@/store/cart-store';
 import LeonSizeGuideModal from '@/components/LeonSizeGuideModal';
+import { CATALOG_MODE } from '@/src/lib/catalogMode';
 
 export default function AddToCartForm({
   product,
@@ -39,6 +40,7 @@ export default function AddToCartForm({
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
+    if (CATALOG_MODE) return;
     if (!variant || flying) return;
     addLine({
       productId: product.id,
@@ -62,6 +64,11 @@ export default function AddToCartForm({
 
   return (
     <form onSubmit={handleSubmit} className="mt-8 space-y-6">
+      {CATALOG_MODE ? (
+        <div className="rounded-xl border border-amber-200 bg-amber-50 px-4 py-3 text-sm text-amber-900">
+          {t('purchaseDisabled')}
+        </div>
+      ) : null}
       <div>
         <div className="flex max-w-xs items-baseline justify-between gap-2">
           <label className="text-sm font-medium text-neutral-700">
@@ -114,6 +121,7 @@ export default function AddToCartForm({
           max={variant?.stock ?? 99}
           value={qty}
           onChange={(e) => setQty(Number(e.target.value))}
+          disabled={CATALOG_MODE}
           className="mt-1 w-24 rounded-lg border border-neutral-300 px-3 py-2"
         />
       </div>
@@ -135,10 +143,10 @@ export default function AddToCartForm({
         </span>
         <button
           type="submit"
-          disabled={!variant || variant.stock < qty || flying}
+          disabled={CATALOG_MODE || !variant || variant.stock < qty || flying}
           className="inline-flex h-[3.5rem] items-center justify-center rounded-2xl bg-red-600 px-10 py-4 font-bold text-white shadow-xl ring-4 ring-red-300/50 transition hover:bg-red-700 hover:shadow-2xl hover:ring-red-400/60 focus:outline-none focus:ring-4 focus:ring-red-400 disabled:opacity-50 disabled:pointer-events-none"
         >
-          {added ? '✓ ' + t('addToCart') : t('addToCart')}
+          {CATALOG_MODE ? t('catalogOnly') : added ? '✓ ' + t('addToCart') : t('addToCart')}
         </button>
         <span
           className={`relative -ml-3 hidden h-[5.2rem] w-28 flex-shrink-0 overflow-visible sm:block ${flying ? 'wing-flap-right-short' : ''}`}

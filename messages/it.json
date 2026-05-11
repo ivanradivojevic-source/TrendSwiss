@@ -31,6 +31,8 @@
     "allBrands": "Tutte le marche",
     "noProductsInCategory": "Nessun prodotto in questa categoria.",
     "addToCart": "Aggiungi al carrello",
+    "catalogOnly": "Solo catalogo",
+    "purchaseDisabled": "Gli acquisti sono temporaneamente disattivati. Questo sito al momento è solo un catalogo online.",
     "size": "Taglia",
     "color": "Colore",
     "price": "Prezzo",
@@ -71,6 +73,7 @@
   "cart": {
     "title": "Carrello",
     "empty": "Il tuo carrello è vuoto",
+    "purchaseDisabled": "Gli acquisti sono temporaneamente disattivati. Carrello e checkout non sono disponibili al momento.",
     "subtotal": "Subtotale",
     "discount": "Sconto",
     "total": "Totale",

@@ -1,10 +1,15 @@
 import { getTranslations } from 'next-intl/server';
 import Link from 'next/link';
 import Image from 'next/image';
-import { products } from '@/data/products';
 import { categories } from '@/data/categories';
 import { exploreCategories } from '@/data/explore-categories';
 import ShopFlyButton from '@/components/ShopFlyButton';
+
+const HOME_CATEGORY_IMAGES: Record<'women' | 'men' | 'children', string> = {
+  women: 'https://cdn.leon.rs/wp-content/uploads/2025/10/050-Roze1.jpg',
+  men: 'https://cdn.leon.rs/wp-content/uploads/2026/02/300M-bela1.jpg',
+  children: 'https://cdn.leon.rs/wp-content/uploads/2025/11/4870-Ciklama1.jpg',
+};
 
 export default async function HomePage({
   params,
@@ -57,8 +62,7 @@ export default async function HomePage({
 
           <div className="mt-8 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
             {categories.map((c) => {
-              const img =
-                products.find((p) => p.category === c.id)?.image ?? '/logo.png';
+              const img = HOME_CATEGORY_IMAGES[c.id] ?? '/logo.png';
               return (
                 <Link
                   key={c.id}

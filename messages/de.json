@@ -31,6 +31,8 @@
     "allBrands": "Alle Marken",
     "noProductsInCategory": "Keine Produkte in dieser Kategorie.",
     "addToCart": "In den Warenkorb",
+    "catalogOnly": "Nur Katalog",
+    "purchaseDisabled": "Der Kauf ist vorübergehend deaktiviert. Diese Website dient aktuell nur als Online-Katalog.",
     "size": "Grösse",
     "color": "Farbe",
     "price": "Preis",
@@ -71,6 +73,7 @@
   "cart": {
     "title": "Warenkorb",
     "empty": "Ihr Warenkorb ist leer",
+    "purchaseDisabled": "Der Kauf ist vorübergehend deaktiviert. Warenkorb und Checkout sind aktuell nicht verfügbar.",
     "subtotal": "Zwischensumme",
     "discount": "Rabatt",
     "total": "Gesamt",

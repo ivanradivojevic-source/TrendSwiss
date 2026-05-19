@@ -7,7 +7,11 @@ import type { CategoryId } from '@/data/categories';
 import { exploreCategories } from '@/data/explore-categories';
 import type { ExploreCategoryId } from '@/data/explore-categories';
 import { getExploreCategoriesForProduct } from '@/src/lib/exploreClassifier';
+import { formatArticleLine } from '@/src/lib/productArticle';
+import { formatProductPriceLabel, productHasPrice } from '@/src/lib/productPrice';
 import MobileFilterSheet from '@/components/MobileFilterSheet';
+
+export const dynamic = 'force-dynamic';
 
 export default async function ShopPage({
   params,
@@ -55,6 +59,7 @@ export default async function ShopPage({
   const filtered = products.filter((p) => {
     if (selectedCats.length && !selectedCats.includes(p.category)) return false;
     if (selectedBrand && p.brand !== selectedBrand) return false;
+    if (!productHasPrice(p)) return false;
     if (selectedExplore.length) {
       const tags = getExploreCategoriesForProduct(p);
       if (!selectedExplore.some((id) => tags.includes(id))) return false;
@@ -407,10 +412,16 @@ export default async function ShopPage({
                   {categories.find((c) => c.id === p.category)?.name[loc]}
                 </p>
                 <h2 className="mt-0.5 font-semibold text-neutral-900">{p.name[loc]}</h2>
-                <p className="mt-1 text-red-600 font-medium">
-                  {t('chf')} {Math.min(...p.variants.map((v) => v.priceCHF))} –
-                  {Math.max(...p.variants.map((v) => v.priceCHF))}
-                </p>
+                {formatArticleLine(p) ? (
+                  <p className="mt-0.5 font-mono text-xs font-medium text-neutral-500">
+                    {t('sku')}: {formatArticleLine(p)}
+                  </p>
+                ) : null}
+                {formatProductPriceLabel(p, t('chf')) ? (
+                  <p className="mt-1 font-medium text-red-600">
+                    {formatProductPriceLabel(p, t('chf'))}
+                  </p>
+                ) : null}
               </div>
             </Link>
           ))}

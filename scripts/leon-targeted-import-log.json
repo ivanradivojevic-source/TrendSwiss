@@ -1,0 +1,57 @@
+[
+  {
+    "job": "Flow",
+    "added": 4
+  },
+  {
+    "job": "Line",
+    "added": 3
+  },
+  {
+    "job": "Linea",
+    "url": "https://leon.rs/p/linea-bez/",
+    "skip": "exists"
+  },
+  {
+    "job": "Linea",
+    "url": "https://leon.rs/p/linea-zlatna/",
+    "skip": "exists"
+  },
+  {
+    "job": "Linea",
+    "added": 1
+  },
+  {
+    "job": "Siena2",
+    "url": "https://leon.rs/p/siena-ii-zlatna/",
+    "skip": "broj_not_in_images"
+  },
+  {
+    "job": "Siena2",
+    "url": "https://leon.rs/p/siena-ii-crna/",
+    "skip": "broj_not_in_images"
+  },
+  {
+    "job": "Siena2",
+    "added": 0
+  },
+  {
+    "job": "Rubikon",
+    "url": "https://leon.rs/p/rubicon-teget-bakkar/",
+    "skip": "broj_not_in_images"
+  },
+  {
+    "job": "Rubikon",
+    "url": "https://leon.rs/p/rubicon-crna-bakkar/",
+    "skip": "broj_not_in_images"
+  },
+  {
+    "job": "Rubikon",
+    "url": "https://leon.rs/p/rubicon-bela-bakkar/",
+    "skip": "broj_not_in_images"
+  },
+  {
+    "job": "Rubikon",
+    "added": 0
+  }
+]

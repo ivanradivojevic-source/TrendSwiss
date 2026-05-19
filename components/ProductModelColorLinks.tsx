@@ -4,6 +4,10 @@ import Image from 'next/image';
 import Link from 'next/link';
 import { useTranslations } from 'next-intl';
 import type { Product } from '@/data/products';
+import {
+  formatColorPickerArticleLine,
+  localizedColorDisplayName,
+} from '@/src/lib/productArticle';
 
 export default function ProductModelColorLinks({
   locale,
@@ -26,6 +30,8 @@ export default function ProductModelColorLinks({
       <div className="mt-2 flex flex-wrap gap-3">
         {ordered.map((p) => {
           const active = p.slug === currentSlug;
+          const colorName = localizedColorDisplayName(p, loc);
+          const articleLine = formatColorPickerArticleLine(p, siblings, loc);
           return (
             <Link
               key={p.id}
@@ -37,14 +43,23 @@ export default function ProductModelColorLinks({
               <span className="relative h-12 w-12 shrink-0 overflow-hidden rounded-lg bg-neutral-100">
                 <Image
                   src={p.image}
-                  alt=""
+                  alt={colorName ?? ''}
                   fill
                   className="object-cover"
                   sizes="48px"
                   unoptimized
                 />
               </span>
-              <span className="text-xs font-medium leading-snug text-neutral-900">{p.name[loc]}</span>
+              <span className="min-w-0">
+                <span className="block text-xs font-medium leading-snug text-neutral-900">
+                  {colorName ?? p.name[loc]}
+                </span>
+                {articleLine ? (
+                  <span className="mt-0.5 block font-mono text-[10px] text-neutral-500">
+                    {articleLine}
+                  </span>
+                ) : null}
+              </span>
             </Link>
           );
         })}

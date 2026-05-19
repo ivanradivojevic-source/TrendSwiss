@@ -1,0 +1,806 @@
+{
+  "updated": 14,
+  "missing": 281,
+  "failures": [
+    {
+      "slug": "geneve-comfort",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "matterhorn-soft",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "zurich-everyday",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "lugano-warm",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "basel-relax",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "bern-classic",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "lausanne-air",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "sion-cozy",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "st-moritz-premium",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "locarno-breeze",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "zermatt-winter",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-2",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-3",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-4",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-5",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-7",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-8",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-6",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-10",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-9",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-11",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-13",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-12",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-14",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-15",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-16",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-17",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-18",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-19",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-20",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-21",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-22",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-23",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-24",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-25",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-26",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-29",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-27",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-28",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-30",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-32",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-31",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-35",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-34",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-33",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-37",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-36",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-39",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-38",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-40",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-41",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-42",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-43",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-44",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-45",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-46",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-47",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-49",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-48",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-50",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-51",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-52",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-53",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-54",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-55",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-56",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-57",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-58",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-59",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-61",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-60",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-62",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-63",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-64",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-65",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-67",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-66",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-68",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-69",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-70",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-71",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-72",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-73",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-74",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-75",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-76",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-77",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-78",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-79",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-80",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-81",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-82",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-83",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-84",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-85",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-86",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-87",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-88",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-89",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-90",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-91",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-92",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-93",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-94",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-95",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-96",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-97",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-98",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-99",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-101",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-100",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-102",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-103",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-104",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-105",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-106",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-107",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-108",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-109",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-110",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-111",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-113",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-112",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-114",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-115",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-116",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-117",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-118",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-120",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-119",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-121",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-122",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-123",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-124",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-125",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-126",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-127",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-128",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-129",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-130",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-131",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-132",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-133",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-134",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-135",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-136",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-138",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-137",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-139",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-140",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-142",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-141",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-144",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-143",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-145",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-146",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-147",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-148",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-149",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-150",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-153",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-151",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-152",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-154",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-155",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-156",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-157",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-158",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-159",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-160",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-161",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-162",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-164",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-163",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-165",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-166",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-167",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-168",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-169",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-172",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-174",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-170",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-171",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-173",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-175",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-176",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-177",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-180",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-178",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-179",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-181",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-182",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-183",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-184",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-186",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-185",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-187",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-189",
+      "issue": "HTTP 404"
+    },
+    {
+      "slug": "alpen-komfort-188",
+      "issue": "HTTP 404"
+    }
+  ]
+}

@@ -8,6 +8,7 @@ import { getVariant } from '@/data/products';
 import { useCartStore } from '@/store/cart-store';
 import LeonSizeGuideModal from '@/components/LeonSizeGuideModal';
 import { CATALOG_MODE } from '@/src/lib/catalogMode';
+import { variantPriceCHF } from '@/src/lib/productPrice';
 
 export default function AddToCartForm({
   product,
@@ -28,10 +29,13 @@ export default function AddToCartForm({
   const [flying, setFlying] = useState(false);
 
   const variant = getVariant(product, size, color);
+  const unitPrice = variant ? variantPriceCHF(variant, product) : null;
   const colorMeta = product.colors.find((c) => c.id === color);
   const groupedModelColors = (modelGroupSiblings?.length ?? 0) > 1;
+  const leonSingleModelVariant =
+    product.brand === 'leon' && !groupedModelColors;
   const showInlineColorSwatches =
-    !groupedModelColors && product.colors.length > 1;
+    !groupedModelColors && !leonSingleModelVariant && product.colors.length > 1;
   const showLeonSizeGuide =
     product.brand === 'leon' &&
     (product.category === 'men' || product.category === 'women');
@@ -41,7 +45,7 @@ export default function AddToCartForm({
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
     if (CATALOG_MODE) return;
-    if (!variant || flying) return;
+    if (!variant || unitPrice == null || flying) return;
     addLine({
       productId: product.id,
       slug: product.slug,
@@ -50,7 +54,7 @@ export default function AddToCartForm({
       size,
       color: colorMeta?.label ?? color,
       colorHex: colorMeta?.hex,
-      priceCHF: variant.priceCHF,
+      priceCHF: unitPrice,
       quantity: qty,
       sku: variant.sku,
     });
@@ -143,7 +147,7 @@ export default function AddToCartForm({
         </span>
         <button
           type="submit"
-          disabled={CATALOG_MODE || !variant || variant.stock < qty || flying}
+          disabled={CATALOG_MODE || !variant || unitPrice == null || variant.stock < qty || flying}
           className="inline-flex h-[3.5rem] items-center justify-center rounded-2xl bg-red-600 px-10 py-4 font-bold text-white shadow-xl ring-4 ring-red-300/50 transition hover:bg-red-700 hover:shadow-2xl hover:ring-red-400/60 focus:outline-none focus:ring-4 focus:ring-red-400 disabled:opacity-50 disabled:pointer-events-none"
         >
           {CATALOG_MODE ? t('catalogOnly') : added ? '✓ ' + t('addToCart') : t('addToCart')}

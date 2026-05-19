@@ -18,6 +18,8 @@ const TWO_SUFFIX = new Set(
     'teget-bakkar',
     'zuta-velur',
     'roze-velur',
+    'tamno-siva',
+    'tamno-braon',
   ].map((s) => s.toLowerCase())
 );
 
@@ -46,6 +48,7 @@ const ONE_SUFFIX = new Set(
     'plava',
     'crvena',
     'sampanj',
+    'mink',
     'mint',
     'dark',
     'white',
@@ -60,6 +63,8 @@ const ONE_SUFFIX = new Set(
     'bakkar',
     'velur',
     'lak',
+    'led',
+    'riza',
     'sjaj',
     'tbc',
     'puprle',

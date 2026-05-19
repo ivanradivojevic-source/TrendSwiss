@@ -19,7 +19,7 @@ const desc: Product['description'] = {
   it: 'Sandalo uomo «Harbor» (4710M): plantare anatomico con gel massaggiante. Tomaia in pelle, suola in PU, fibbie metalliche.',
 };
 
-const priceCHF = 54.9;
+const priceCHF = 79;
 
 function variantsFor(skuColor: string, colorId: string) {
   return SIZES.map((size) => ({
@@ -37,6 +37,8 @@ export const harborMensSandalProducts: Product[] = [
     slug: 'harbor-braon',
     category: 'men',
     brand: 'leon',
+    articleNumber: '4710M',
+    colorLabel: 'Braun',
     modelGroupId: MODEL_GROUP,
     name: {
       de: 'Harbor – Braun',
@@ -56,6 +58,8 @@ export const harborMensSandalProducts: Product[] = [
     slug: 'harbor-crna',
     category: 'men',
     brand: 'leon',
+    articleNumber: '4710M',
+    colorLabel: 'Schwarz Lack',
     modelGroupId: MODEL_GROUP,
     name: {
       de: 'Harbor – Schwarz (Lack)',
@@ -75,6 +79,8 @@ export const harborMensSandalProducts: Product[] = [
     slug: 'harbor-siva',
     category: 'men',
     brand: 'leon',
+    articleNumber: '4710M',
+    colorLabel: 'Grau Velours',
     modelGroupId: MODEL_GROUP,
     name: {
       de: 'Harbor – Grau (Velours)',

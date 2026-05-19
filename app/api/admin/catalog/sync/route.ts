@@ -28,7 +28,10 @@ export async function POST(req: Request) {
   let upsertedProducts = 0;
   let upsertedVariants = 0;
   for (const p of products) {
-    const basePriceCents = Math.round(Math.min(...p.variants.map((v) => v.priceCHF)) * 100);
+    const priced = p.variants
+      .map((v) => v.priceCHF)
+      .filter((x): x is number => x != null && x > 0);
+    const basePriceCents = priced.length ? Math.round(Math.min(...priced) * 100) : 0;
 
     const dbProduct = await prisma.product.upsert({
       where: { slug: p.slug },
@@ -52,7 +55,8 @@ export async function POST(req: Request) {
 
     for (const v of p.variants) {
       const sku = v.sku;
-      const priceCents = Math.round(v.priceCHF * 100);
+      const priceCents =
+        v.priceCHF != null && v.priceCHF > 0 ? Math.round(v.priceCHF * 100) : null;
       await prisma.productVariant.upsert({
         where: { sku },
         update: {

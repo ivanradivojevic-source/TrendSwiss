@@ -1,6 +1,6 @@
 'use client';
 
-import { useState } from 'react';
+import { Fragment, useState } from 'react';
 import { useTranslations } from 'next-intl';
 import type { Product } from '@/data/products';
 
@@ -35,9 +35,23 @@ export default function ProductTabs({
         ))}
       </div>
       <div className="rounded-b-lg border border-t-0 border-neutral-200 bg-white px-4 py-6 text-neutral-700">
-        {active === 'specs' && (
-          <p className="whitespace-pre-line">{t('specsContent')}</p>
-        )}
+        {active === 'specs' &&
+          (product.specifications?.length ? (
+            <dl className="space-y-4">
+              {product.specifications.map((row, i) => (
+                <Fragment key={i}>
+                  <dt className="text-sm font-semibold text-neutral-900">
+                    {row.label[locale]}
+                  </dt>
+                  <dd className="mt-1 mb-4 last:mb-0 text-neutral-600">
+                    {row.value[locale]}
+                  </dd>
+                </Fragment>
+              ))}
+            </dl>
+          ) : (
+            <p className="whitespace-pre-line">{t('specsContent')}</p>
+          ))}
         {active === 'description' && (
           <p className="whitespace-pre-line">{product.description[locale]}</p>
         )}

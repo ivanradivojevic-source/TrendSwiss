@@ -1,0 +1,7145 @@
+[
+  {
+    "broj": "6016",
+    "naziv": "Anchor",
+    "maloprodajnaCHF": 87,
+    "status": "matched",
+    "matchMethod": [
+      "broj",
+      "slug"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-anchor-crna",
+        "slug": "anchor-crna",
+        "nameEn": "Anchor Crna",
+        "category": "women",
+        "modelGroupId": "leon-mg-6016-women",
+        "stemKey": "6016",
+        "variantCount": 21,
+        "oldPriceCHF": 87,
+        "newPriceCHF": 87
+      },
+      {
+        "id": "leon-anchor-braon",
+        "slug": "anchor-braon",
+        "nameEn": "Anchor Braon",
+        "category": "women",
+        "modelGroupId": "leon-mg-6016-women",
+        "stemKey": "6016",
+        "variantCount": 21,
+        "oldPriceCHF": 87,
+        "newPriceCHF": 87
+      },
+      {
+        "id": "leon-anchor-zelena",
+        "slug": "anchor-zelena",
+        "nameEn": "Anchor Zelena",
+        "category": "women",
+        "modelGroupId": "leon-mg-anchor-6016",
+        "stemKey": "6016-zeleni",
+        "variantCount": 21,
+        "oldPriceCHF": 87,
+        "newPriceCHF": 87
+      },
+      {
+        "id": "leon-anchor-mink",
+        "slug": "anchor-mink",
+        "nameEn": "Anchor Mink",
+        "category": "women",
+        "modelGroupId": "leon-mg-anchor-6016",
+        "stemKey": "6016-mink",
+        "variantCount": 21,
+        "oldPriceCHF": 87,
+        "newPriceCHF": 87
+      },
+      {
+        "id": "milami-1575",
+        "slug": "milami-chillicothe-navy-blue-anchor",
+        "nameEn": "CHILLICOTHE NAVY BLUE ANCHOR",
+        "category": "children",
+        "stemKey": "1091-g",
+        "variantCount": 16,
+        "oldPriceCHF": 87,
+        "newPriceCHF": 87
+      }
+    ]
+  },
+  {
+    "broj": "6017",
+    "naziv": "Strata",
+    "maloprodajnaCHF": 87,
+    "status": "matched",
+    "matchMethod": [
+      "broj"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-strata-crna",
+        "slug": "strata-crna",
+        "nameEn": "Strata Crna",
+        "category": "women",
+        "modelGroupId": "leon-mg-strata-6017",
+        "stemKey": "6017-crna-rafija",
+        "variantCount": 21,
+        "oldPriceCHF": 87,
+        "newPriceCHF": 87
+      },
+      {
+        "id": "leon-strata-bez",
+        "slug": "strata-bez",
+        "nameEn": "Strata Bez",
+        "category": "women",
+        "modelGroupId": "leon-mg-strata-6017",
+        "stemKey": "6017-bez-rafija",
+        "variantCount": 21,
+        "oldPriceCHF": 87,
+        "newPriceCHF": 87
+      }
+    ]
+  },
+  {
+    "broj": "7032",
+    "naziv": "Axis",
+    "maloprodajnaCHF": 59,
+    "status": "matched",
+    "matchMethod": [
+      "broj"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-axis-zlatna",
+        "slug": "axis-zlatna",
+        "nameEn": "Axis Zlatna",
+        "category": "women",
+        "modelGroupId": "leon-mg-7032-women",
+        "stemKey": "7032",
+        "variantCount": 21,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-axis-led",
+        "slug": "axis-led",
+        "nameEn": "Axis Led",
+        "category": "women",
+        "modelGroupId": "leon-mg-axis-7032",
+        "stemKey": "7032-led",
+        "variantCount": 21,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-axis-bez",
+        "slug": "axis-bez",
+        "nameEn": "Axis Bez",
+        "category": "women",
+        "modelGroupId": "leon-mg-7032-women",
+        "stemKey": "7032",
+        "variantCount": 21,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-axis-crna",
+        "slug": "axis-crna",
+        "nameEn": "Axis Crna",
+        "category": "women",
+        "modelGroupId": "leon-mg-axis-7032",
+        "stemKey": "7032-crna-riza",
+        "variantCount": 21,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      }
+    ]
+  },
+  {
+    "broj": "7012",
+    "naziv": "Halo",
+    "maloprodajnaCHF": 69,
+    "status": "matched",
+    "matchMethod": [
+      "broj"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-halo-zlatna",
+        "slug": "halo-zlatna",
+        "nameEn": "Halo Zlatna",
+        "category": "women",
+        "modelGroupId": "leon-mg-7012-women",
+        "stemKey": "7012",
+        "variantCount": 21,
+        "oldPriceCHF": 69,
+        "newPriceCHF": 69
+      },
+      {
+        "id": "leon-halo-zelena",
+        "slug": "halo-zelena",
+        "nameEn": "Halo Zelena",
+        "category": "women",
+        "modelGroupId": "leon-mg-7012-women",
+        "stemKey": "7012",
+        "variantCount": 21,
+        "oldPriceCHF": 69,
+        "newPriceCHF": 69
+      },
+      {
+        "id": "leon-halo-braon",
+        "slug": "halo-braon",
+        "nameEn": "Halo Braon",
+        "category": "women",
+        "modelGroupId": "leon-mg-7012-women",
+        "stemKey": "7012",
+        "variantCount": 21,
+        "oldPriceCHF": 69,
+        "newPriceCHF": 69
+      }
+    ]
+  },
+  {
+    "broj": "7022",
+    "naziv": "Avera",
+    "maloprodajnaCHF": 59,
+    "status": "matched",
+    "matchMethod": [
+      "broj"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-avera-crna",
+        "slug": "avera-crna",
+        "nameEn": "Avera Crna",
+        "category": "women",
+        "modelGroupId": "leon-mg-avera-7022",
+        "stemKey": "7022-crna-rafija",
+        "variantCount": 21,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-avera-bez",
+        "slug": "avera-bez",
+        "nameEn": "Avera Bez",
+        "category": "women",
+        "modelGroupId": "leon-mg-avera-7022",
+        "stemKey": "7022-bez-rafija",
+        "variantCount": 21,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      }
+    ]
+  },
+  {
+    "broj": "7031",
+    "naziv": "Plain",
+    "maloprodajnaCHF": 59,
+    "status": "matched",
+    "matchMethod": [
+      "broj"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-plain-bez",
+        "slug": "plain-bez",
+        "nameEn": "Plain Bez",
+        "category": "women",
+        "modelGroupId": "leon-mg-plain-7031",
+        "stemKey": "7031-bez-rafija",
+        "variantCount": 21,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-plain-crna",
+        "slug": "plain-crna",
+        "nameEn": "Plain Crna",
+        "category": "women",
+        "modelGroupId": "leon-mg-plain-7031",
+        "stemKey": "7031-crna-rafija",
+        "variantCount": 21,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      }
+    ]
+  },
+  {
+    "broj": "4016",
+    "naziv": "Edge",
+    "maloprodajnaCHF": 79,
+    "status": "matched",
+    "matchMethod": [
+      "broj"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-edge-braon",
+        "slug": "edge-braon",
+        "nameEn": "Edge Braon",
+        "category": "women",
+        "modelGroupId": "leon-mg-4016-women",
+        "stemKey": "4016",
+        "variantCount": 21,
+        "oldPriceCHF": 79,
+        "newPriceCHF": 79
+      },
+      {
+        "id": "leon-edge-siva",
+        "slug": "edge-siva",
+        "nameEn": "Edge Siva",
+        "category": "women",
+        "modelGroupId": "leon-mg-4016-women",
+        "stemKey": "4016",
+        "variantCount": 21,
+        "oldPriceCHF": 79,
+        "newPriceCHF": 79
+      },
+      {
+        "id": "leon-edge-crna",
+        "slug": "edge-crna",
+        "nameEn": "Edge Crna",
+        "category": "women",
+        "modelGroupId": "leon-mg-edge-4016",
+        "stemKey": "4016-crni",
+        "variantCount": 21,
+        "oldPriceCHF": 79,
+        "newPriceCHF": 79
+      },
+      {
+        "id": "leon-edge-bordo",
+        "slug": "edge-bordo",
+        "nameEn": "Edge Bordo",
+        "category": "women",
+        "modelGroupId": "leon-mg-4016-women",
+        "stemKey": "4016",
+        "variantCount": 21,
+        "oldPriceCHF": 79,
+        "newPriceCHF": 79
+      }
+    ]
+  },
+  {
+    "broj": "4015",
+    "naziv": "Orbita",
+    "maloprodajnaCHF": 79,
+    "status": "matched",
+    "matchMethod": [
+      "broj"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-orbita-siva",
+        "slug": "orbita-siva",
+        "nameEn": "Orbita Siva",
+        "category": "women",
+        "modelGroupId": "leon-mg-orbita-4015",
+        "stemKey": "4015-sivi",
+        "variantCount": 21,
+        "oldPriceCHF": 79,
+        "newPriceCHF": 79
+      },
+      {
+        "id": "leon-orbita-bordo",
+        "slug": "orbita-bordo",
+        "nameEn": "Orbita Bordo",
+        "category": "women",
+        "modelGroupId": "leon-mg-4015-women",
+        "stemKey": "4015",
+        "variantCount": 21,
+        "oldPriceCHF": 79,
+        "newPriceCHF": 79
+      },
+      {
+        "id": "leon-orbita-braon",
+        "slug": "orbita-braon",
+        "nameEn": "Orbita Braon",
+        "category": "women",
+        "modelGroupId": "leon-mg-4015-women",
+        "stemKey": "4015",
+        "variantCount": 21,
+        "oldPriceCHF": 79,
+        "newPriceCHF": 79
+      },
+      {
+        "id": "leon-orbita-zelena",
+        "slug": "orbita-zelena",
+        "nameEn": "Orbita Zelena",
+        "category": "women",
+        "modelGroupId": "leon-mg-4015-women",
+        "stemKey": "4015",
+        "variantCount": 21,
+        "oldPriceCHF": 79,
+        "newPriceCHF": 79
+      },
+      {
+        "id": "leon-orbita-tamno-braon",
+        "slug": "orbita-tamno-braon",
+        "nameEn": "Orbita Tamno Braon",
+        "category": "women",
+        "modelGroupId": "leon-mg-orbita-4015",
+        "stemKey": "4015-t.braon1",
+        "variantCount": 21,
+        "oldPriceCHF": 79,
+        "newPriceCHF": 79
+      },
+      {
+        "id": "leon-orbita-crna",
+        "slug": "orbita-crna",
+        "nameEn": "Orbita Crna",
+        "category": "women",
+        "modelGroupId": "leon-mg-orbita-4015",
+        "stemKey": "4015-crni",
+        "variantCount": 21,
+        "oldPriceCHF": 79,
+        "newPriceCHF": 79
+      }
+    ]
+  },
+  {
+    "broj": "4014",
+    "naziv": "Aura",
+    "maloprodajnaCHF": 69,
+    "status": "matched",
+    "matchMethod": [
+      "slug",
+      "broj"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-alpen-komfort-125",
+        "slug": "alpen-komfort-125",
+        "nameEn": "Laura – Pearl",
+        "category": "women",
+        "modelGroupId": "leon-mg-laura-women",
+        "stemKey": "laura",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 69
+      },
+      {
+        "id": "leon-alpen-komfort-126",
+        "slug": "alpen-komfort-126",
+        "nameEn": "Laura – Black",
+        "category": "women",
+        "modelGroupId": "leon-mg-laura-women",
+        "stemKey": "laura",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 69
+      },
+      {
+        "id": "leon-alpen-komfort-127",
+        "slug": "alpen-komfort-127",
+        "nameEn": "Laura – Gold gloss",
+        "category": "women",
+        "modelGroupId": "leon-mg-laura-women",
+        "stemKey": "laura",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 69
+      },
+      {
+        "id": "leon-alpen-komfort-128",
+        "slug": "alpen-komfort-128",
+        "nameEn": "Laura – White",
+        "category": "women",
+        "modelGroupId": "leon-mg-laura-women",
+        "stemKey": "laura",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 69
+      },
+      {
+        "id": "leon-aura-roze",
+        "slug": "aura-roze",
+        "nameEn": "Aura Roze",
+        "category": "women",
+        "modelGroupId": "leon-mg-aura-4014",
+        "stemKey": "4014-roze-riza",
+        "variantCount": 21,
+        "oldPriceCHF": 69,
+        "newPriceCHF": 69
+      },
+      {
+        "id": "leon-aura-zelena",
+        "slug": "aura-zelena",
+        "nameEn": "Aura Zelena",
+        "category": "women",
+        "modelGroupId": "leon-mg-aura-4014",
+        "stemKey": "4014-zelena-riza",
+        "variantCount": 21,
+        "oldPriceCHF": 69,
+        "newPriceCHF": 69
+      }
+    ]
+  },
+  {
+    "broj": "510",
+    "naziv": "Line",
+    "maloprodajnaCHF": 49,
+    "status": "matched",
+    "matchMethod": [
+      "slug",
+      "broj"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-linea-bez",
+        "slug": "linea-bez",
+        "nameEn": "Linea Bez",
+        "category": "women",
+        "modelGroupId": "leon-mg-8001-women",
+        "stemKey": "8001",
+        "variantCount": 21,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-linea-zlatna",
+        "slug": "linea-zlatna",
+        "nameEn": "Linea Zlatna",
+        "category": "women",
+        "modelGroupId": "leon-mg-8001-women",
+        "stemKey": "8001",
+        "variantCount": 21,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-line-zelena",
+        "slug": "line-zelena",
+        "nameEn": "Line Zelena",
+        "category": "children",
+        "modelGroupId": "leon-mg-510-children",
+        "stemKey": "510",
+        "variantCount": 12,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-line-braon",
+        "slug": "line-braon",
+        "nameEn": "Line Braon",
+        "category": "children",
+        "modelGroupId": "leon-mg-line-510",
+        "stemKey": "510-tamno",
+        "variantCount": 12,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-line-siva",
+        "slug": "line-siva",
+        "nameEn": "Line Siva",
+        "category": "children",
+        "modelGroupId": "leon-mg-510-children",
+        "stemKey": "510",
+        "variantCount": 12,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "milami-1546",
+        "slug": "milami-socks-black-lines",
+        "nameEn": "Socks Black Lines",
+        "category": "children",
+        "stemKey": null,
+        "variantCount": 16,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "milami-1555",
+        "slug": "milami-socks-gray-lines",
+        "nameEn": "Socks Gray Lines",
+        "category": "children",
+        "stemKey": null,
+        "variantCount": 16,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      }
+    ]
+  },
+  {
+    "broj": "511",
+    "naziv": "Motio",
+    "maloprodajnaCHF": 49,
+    "status": "matched",
+    "matchMethod": [
+      "broj"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-motio-zelena",
+        "slug": "motio-zelena",
+        "nameEn": "Motio Zelena",
+        "category": "women",
+        "modelGroupId": "leon-mg-motio-511",
+        "stemKey": "511-zelena-riza",
+        "variantCount": 21,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-motio-led",
+        "slug": "motio-led",
+        "nameEn": "Motio Led",
+        "category": "women",
+        "modelGroupId": "leon-mg-motio-511",
+        "stemKey": "511-led",
+        "variantCount": 21,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-motio-crna",
+        "slug": "motio-crna",
+        "nameEn": "Motio Crna",
+        "category": "women",
+        "modelGroupId": "leon-mg-motio-511",
+        "stemKey": "511-crna-riza",
+        "variantCount": 21,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-motio-bez",
+        "slug": "motio-bez",
+        "nameEn": "Motio Bez",
+        "category": "women",
+        "modelGroupId": "leon-mg-motio-511",
+        "stemKey": "511-bez-riza",
+        "variantCount": 21,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      }
+    ]
+  },
+  {
+    "broj": "520",
+    "naziv": "Moveo",
+    "maloprodajnaCHF": 53,
+    "status": "matched",
+    "matchMethod": [
+      "broj"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-moveo-led",
+        "slug": "moveo-led",
+        "nameEn": "Moveo Led",
+        "category": "women",
+        "modelGroupId": "leon-mg-moveo-520",
+        "stemKey": "520-led",
+        "variantCount": 21,
+        "oldPriceCHF": 53,
+        "newPriceCHF": 53
+      },
+      {
+        "id": "leon-moveo-crna",
+        "slug": "moveo-crna",
+        "nameEn": "Moveo Crna",
+        "category": "women",
+        "modelGroupId": "leon-mg-520-women",
+        "stemKey": "520",
+        "variantCount": 21,
+        "oldPriceCHF": 53,
+        "newPriceCHF": 53
+      },
+      {
+        "id": "leon-moveo-bez",
+        "slug": "moveo-bez",
+        "nameEn": "Moveo Bez",
+        "category": "women",
+        "modelGroupId": "leon-mg-520-women",
+        "stemKey": "520",
+        "variantCount": 21,
+        "oldPriceCHF": 53,
+        "newPriceCHF": 53
+      }
+    ]
+  },
+  {
+    "broj": "917",
+    "naziv": "Moss",
+    "maloprodajnaCHF": 49,
+    "status": "matched",
+    "matchMethod": [
+      "broj"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-moss-siva",
+        "slug": "moss-siva",
+        "nameEn": "Moss Siva",
+        "category": "women",
+        "modelGroupId": "leon-mg-917-women",
+        "stemKey": "917",
+        "variantCount": 21,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-moss-zelena",
+        "slug": "moss-zelena",
+        "nameEn": "Moss Zelena",
+        "category": "women",
+        "modelGroupId": "leon-mg-917-women",
+        "stemKey": "917",
+        "variantCount": 21,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-moss-braon",
+        "slug": "moss-braon",
+        "nameEn": "Moss Braon",
+        "category": "women",
+        "modelGroupId": "leon-mg-moss-917",
+        "stemKey": "917-tamno",
+        "variantCount": 21,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-moss-crna",
+        "slug": "moss-crna",
+        "nameEn": "Moss Crna",
+        "category": "women",
+        "modelGroupId": "leon-mg-moss-917",
+        "stemKey": "917-crni",
+        "variantCount": 21,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      }
+    ]
+  },
+  {
+    "broj": "310",
+    "naziv": "Felx",
+    "maloprodajnaCHF": 59,
+    "status": "matched",
+    "matchMethod": [
+      "broj"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-felx-crna",
+        "slug": "felx-crna",
+        "nameEn": "Felx Crna",
+        "category": "women",
+        "modelGroupId": "leon-mg-felx-310",
+        "stemKey": "310-crna-napa",
+        "variantCount": 21,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-felx-bez",
+        "slug": "felx-bez",
+        "nameEn": "Felx Bez",
+        "category": "women",
+        "modelGroupId": "leon-mg-felx-310",
+        "stemKey": "310",
+        "variantCount": 21,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      }
+    ]
+  },
+  {
+    "broj": "320",
+    "naziv": "Calm",
+    "maloprodajnaCHF": 59,
+    "status": "matched",
+    "matchMethod": [
+      "broj"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-calm-bez",
+        "slug": "calm-bez",
+        "nameEn": "Calm Bez",
+        "category": "women",
+        "modelGroupId": "leon-mg-calm-320",
+        "stemKey": "320",
+        "variantCount": 21,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-calm-crna",
+        "slug": "calm-crna",
+        "nameEn": "Calm Crna",
+        "category": "women",
+        "modelGroupId": "leon-mg-calm-320",
+        "stemKey": "320-crna-napa",
+        "variantCount": 21,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      }
+    ]
+  },
+  {
+    "broj": "302",
+    "naziv": "Melt",
+    "maloprodajnaCHF": 60,
+    "status": "matched",
+    "matchMethod": [
+      "broj"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-melt-led",
+        "slug": "melt-led",
+        "nameEn": "Melt Led",
+        "category": "women",
+        "modelGroupId": "leon-mg-melt-302",
+        "stemKey": "302-led",
+        "variantCount": 21,
+        "oldPriceCHF": 60,
+        "newPriceCHF": 60
+      },
+      {
+        "id": "leon-melt-crna",
+        "slug": "melt-crna",
+        "nameEn": "Melt Crna",
+        "category": "women",
+        "modelGroupId": "leon-mg-melt-302",
+        "stemKey": "302-crna-napa",
+        "variantCount": 21,
+        "oldPriceCHF": 60,
+        "newPriceCHF": 60
+      },
+      {
+        "id": "leon-melt-bez",
+        "slug": "melt-bez",
+        "nameEn": "Melt Bez",
+        "category": "women",
+        "modelGroupId": "leon-mg-melt-302",
+        "stemKey": "302",
+        "variantCount": 21,
+        "oldPriceCHF": 60,
+        "newPriceCHF": 60
+      }
+    ]
+  },
+  {
+    "broj": "500",
+    "naziv": "Flow",
+    "maloprodajnaCHF": 47,
+    "status": "matched",
+    "matchMethod": [
+      "broj",
+      "slug"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-zenska-klompa-5002-bela",
+        "slug": "zenska-klompa-5002-bela",
+        "nameEn": "Women's clog 5002 – White",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-5002-women",
+        "stemKey": "5002",
+        "variantCount": 21,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 47
+      },
+      {
+        "id": "leon-flow-zelena-perlato",
+        "slug": "flow-zelena-perlato",
+        "nameEn": "Flow Zelena Perlato",
+        "category": "children",
+        "modelGroupId": "leon-mg-500-children",
+        "stemKey": "500",
+        "variantCount": 12,
+        "oldPriceCHF": 47,
+        "newPriceCHF": 47
+      },
+      {
+        "id": "leon-flow-crna",
+        "slug": "flow-crna",
+        "nameEn": "Flow Crna",
+        "category": "children",
+        "modelGroupId": "leon-mg-flow-500",
+        "stemKey": "500-crni",
+        "variantCount": 12,
+        "oldPriceCHF": 47,
+        "newPriceCHF": 47
+      },
+      {
+        "id": "leon-flow-bela",
+        "slug": "flow-bela",
+        "nameEn": "Flow Bela",
+        "category": "children",
+        "modelGroupId": "leon-mg-500-children",
+        "stemKey": "500",
+        "variantCount": 12,
+        "oldPriceCHF": 47,
+        "newPriceCHF": 47
+      },
+      {
+        "id": "leon-flow-perla",
+        "slug": "flow-perla",
+        "nameEn": "Flow Perla",
+        "category": "children",
+        "modelGroupId": "leon-mg-500-children",
+        "stemKey": "500",
+        "variantCount": 12,
+        "oldPriceCHF": 47,
+        "newPriceCHF": 47
+      },
+      {
+        "id": "milami-1459",
+        "slug": "milami-artic-rose-flower",
+        "nameEn": "Artic rose flower",
+        "category": "children",
+        "stemKey": "505-0bc-main",
+        "variantCount": 16,
+        "oldPriceCHF": 47,
+        "newPriceCHF": 47
+      },
+      {
+        "id": "milami-1471",
+        "slug": "milami-shallow-rose-flower",
+        "nameEn": "Shallow rose flower",
+        "category": "children",
+        "stemKey": "606-0bc-main",
+        "variantCount": 16,
+        "oldPriceCHF": 47,
+        "newPriceCHF": 47
+      },
+      {
+        "id": "milami-1481",
+        "slug": "milami-bali-rose-flower",
+        "nameEn": "Bali rose flower",
+        "category": "children",
+        "stemKey": "900-0bc10-main",
+        "variantCount": 16,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 47
+      },
+      {
+        "id": "milami-1492",
+        "slug": "milami-bali-white-flower",
+        "nameEn": "Bali white flower",
+        "category": "children",
+        "stemKey": "908-15cv0-main",
+        "variantCount": 16,
+        "oldPriceCHF": 47,
+        "newPriceCHF": 47
+      },
+      {
+        "id": "milami-1493",
+        "slug": "milami-bali-white-rose-flower",
+        "nameEn": "Bali white rose flower",
+        "category": "children",
+        "stemKey": "908-15cv2-main",
+        "variantCount": 16,
+        "oldPriceCHF": 47,
+        "newPriceCHF": 47
+      },
+      {
+        "id": "milami-1518",
+        "slug": "milami-max-purple-flower",
+        "nameEn": "Max Purple Flower",
+        "category": "children",
+        "stemKey": "118-8flo",
+        "variantCount": 16,
+        "oldPriceCHF": 47,
+        "newPriceCHF": 47
+      },
+      {
+        "id": "leon-alpen-komfort-244",
+        "slug": "alpen-komfort-244",
+        "nameEn": "Women's clog 5002 – White",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-5002-women",
+        "stemKey": "5002",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 47
+      },
+      {
+        "id": "leon-alpen-komfort-247",
+        "slug": "alpen-komfort-247",
+        "nameEn": "Women's clog 5002 – Pearl",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-5002-women",
+        "stemKey": "5002",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 47
+      },
+      {
+        "id": "leon-alpen-komfort-250",
+        "slug": "alpen-komfort-250",
+        "nameEn": "Women's clog 5002 – Black",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-5002-women",
+        "stemKey": "5002",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 47
+      }
+    ]
+  },
+  {
+    "broj": "940",
+    "naziv": "Pure",
+    "maloprodajnaCHF": 49,
+    "status": "matched",
+    "matchMethod": [
+      "broj"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-pure-zelena",
+        "slug": "pure-zelena",
+        "nameEn": "Pure Zelena",
+        "category": "women",
+        "modelGroupId": "leon-mg-pure-940",
+        "stemKey": "940-zeleni",
+        "variantCount": 21,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-pure-bez",
+        "slug": "pure-bez",
+        "nameEn": "Pure Bez",
+        "category": "women",
+        "modelGroupId": "leon-mg-pure-940",
+        "stemKey": "940",
+        "variantCount": 21,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-pure-bela",
+        "slug": "pure-bela",
+        "nameEn": "Pure Bela",
+        "category": "women",
+        "modelGroupId": "leon-mg-pure-940",
+        "stemKey": "940-belai",
+        "variantCount": 21,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      }
+    ]
+  },
+  {
+    "broj": "7002",
+    "naziv": "Forge",
+    "maloprodajnaCHF": 59,
+    "status": "matched",
+    "matchMethod": [
+      "broj"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-forge-crne",
+        "slug": "forge-crne",
+        "nameEn": "Forge Crne",
+        "category": "women",
+        "modelGroupId": "leon-mg-7002-women",
+        "stemKey": "7002",
+        "variantCount": 21,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-forge-braon",
+        "slug": "forge-braon",
+        "nameEn": "Forge Braon",
+        "category": "women",
+        "modelGroupId": "leon-mg-7002-women",
+        "stemKey": "7002",
+        "variantCount": 21,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      }
+    ]
+  },
+  {
+    "broj": "8001",
+    "naziv": "Linea",
+    "maloprodajnaCHF": 59,
+    "status": "matched",
+    "matchMethod": [
+      "broj"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-linea-bez",
+        "slug": "linea-bez",
+        "nameEn": "Linea Bez",
+        "category": "women",
+        "modelGroupId": "leon-mg-8001-women",
+        "stemKey": "8001",
+        "variantCount": 21,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-linea-zlatna",
+        "slug": "linea-zlatna",
+        "nameEn": "Linea Zlatna",
+        "category": "women",
+        "modelGroupId": "leon-mg-8001-women",
+        "stemKey": "8001",
+        "variantCount": 21,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-liena-braon",
+        "slug": "liena-braon",
+        "nameEn": "Liena Braon",
+        "category": "children",
+        "modelGroupId": "leon-mg-linea-8001",
+        "stemKey": "8001",
+        "variantCount": 12,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      }
+    ]
+  },
+  {
+    "broj": "8003",
+    "naziv": "Here",
+    "maloprodajnaCHF": 49,
+    "status": "matched",
+    "matchMethod": [
+      "broj"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-here-zlatna",
+        "slug": "here-zlatna",
+        "nameEn": "Here Zlatna",
+        "category": "women",
+        "modelGroupId": "leon-mg-8003-women",
+        "stemKey": "8003",
+        "variantCount": 21,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-here-crna",
+        "slug": "here-crna",
+        "nameEn": "Here Crna",
+        "category": "women",
+        "modelGroupId": "leon-mg-here-8003",
+        "stemKey": "8003-crni",
+        "variantCount": 21,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-here-braon",
+        "slug": "here-braon",
+        "nameEn": "Here Braon",
+        "category": "women",
+        "modelGroupId": "leon-mg-8003-women",
+        "stemKey": "8003",
+        "variantCount": 21,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      }
+    ]
+  },
+  {
+    "broj": "8004",
+    "naziv": "Virea",
+    "maloprodajnaCHF": 59,
+    "status": "matched",
+    "matchMethod": [
+      "broj"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-virea-bordo",
+        "slug": "virea-bordo",
+        "nameEn": "Virea Bordo",
+        "category": "women",
+        "modelGroupId": "leon-mg-8004-women",
+        "stemKey": "8004",
+        "variantCount": 21,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-virea-crna",
+        "slug": "virea-crna",
+        "nameEn": "Virea Crna",
+        "category": "women",
+        "modelGroupId": "leon-mg-virea-8004",
+        "stemKey": "8004-crni",
+        "variantCount": 21,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-virea-braon",
+        "slug": "virea-braon",
+        "nameEn": "Virea Braon",
+        "category": "women",
+        "modelGroupId": "leon-mg-8004-women",
+        "stemKey": "8004",
+        "variantCount": 21,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      }
+    ]
+  },
+  {
+    "broj": "1132",
+    "naziv": "Serene",
+    "maloprodajnaCHF": 59,
+    "status": "matched",
+    "matchMethod": [
+      "broj"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-serene-braon",
+        "slug": "serene-braon",
+        "nameEn": "Serene Braon",
+        "category": "women",
+        "modelGroupId": "leon-mg-1132-women",
+        "stemKey": "1132",
+        "variantCount": 21,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-serene-zlatna",
+        "slug": "serene-zlatna",
+        "nameEn": "Serene Zlatna",
+        "category": "women",
+        "modelGroupId": "leon-mg-1132-women",
+        "stemKey": "1132",
+        "variantCount": 21,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-serene-siva",
+        "slug": "serene-siva",
+        "nameEn": "Serene Siva",
+        "category": "women",
+        "modelGroupId": "leon-mg-1132-women",
+        "stemKey": "1132",
+        "variantCount": 21,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      }
+    ]
+  },
+  {
+    "broj": "1131",
+    "naziv": "Grace",
+    "maloprodajnaCHF": 59,
+    "status": "matched",
+    "matchMethod": [
+      "broj"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-grace-bez",
+        "slug": "grace-bez",
+        "nameEn": "Grace Bez",
+        "category": "women",
+        "modelGroupId": "leon-mg-1131-women",
+        "stemKey": "1131",
+        "variantCount": 21,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-grace-zlatna",
+        "slug": "grace-zlatna",
+        "nameEn": "Grace Zlatna",
+        "category": "women",
+        "modelGroupId": "leon-mg-1131-women",
+        "stemKey": "1131",
+        "variantCount": 21,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-grace-braon",
+        "slug": "grace-braon",
+        "nameEn": "Grace Braon",
+        "category": "women",
+        "modelGroupId": "leon-mg-1131-women",
+        "stemKey": "1131",
+        "variantCount": 21,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      }
+    ]
+  },
+  {
+    "broj": "1112",
+    "naziv": "Rise",
+    "maloprodajnaCHF": 59,
+    "status": "matched",
+    "matchMethod": [
+      "broj"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-rise-zlatna",
+        "slug": "rise-zlatna",
+        "nameEn": "Rise Zlatna",
+        "category": "women",
+        "modelGroupId": "leon-mg-1112-women",
+        "stemKey": "1112",
+        "variantCount": 21,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-rise-braon",
+        "slug": "rise-braon",
+        "nameEn": "Rise Braon",
+        "category": "women",
+        "modelGroupId": "leon-mg-1112-women",
+        "stemKey": "1112",
+        "variantCount": 21,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-rise-bez",
+        "slug": "rise-bez",
+        "nameEn": "Rise Bez",
+        "category": "women",
+        "modelGroupId": "leon-mg-1112-women",
+        "stemKey": "1112",
+        "variantCount": 21,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      }
+    ]
+  },
+  {
+    "broj": "1111",
+    "naziv": "Eleve",
+    "maloprodajnaCHF": 59,
+    "status": "matched",
+    "matchMethod": [
+      "broj"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-eleve-braon",
+        "slug": "eleve-braon",
+        "nameEn": "Eleve Braon",
+        "category": "women",
+        "modelGroupId": "leon-mg-1111-women",
+        "stemKey": "1111",
+        "variantCount": 21,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-eleve-zlatna",
+        "slug": "eleve-zlatna",
+        "nameEn": "Eleve Zlatna",
+        "category": "women",
+        "modelGroupId": "leon-mg-1111-women",
+        "stemKey": "1111",
+        "variantCount": 21,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      }
+    ]
+  },
+  {
+    "broj": "4307",
+    "naziv": "Root",
+    "maloprodajnaCHF": 59,
+    "status": "matched",
+    "matchMethod": [
+      "broj"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-root-braon",
+        "slug": "root-braon",
+        "nameEn": "Root Braon",
+        "category": "women",
+        "modelGroupId": "leon-mg-root-4307",
+        "stemKey": "4307-braon-nubuk",
+        "variantCount": 21,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-root-bez",
+        "slug": "root-bez",
+        "nameEn": "Root Bez",
+        "category": "women",
+        "modelGroupId": "leon-mg-root-4307",
+        "stemKey": "4307-bez-nubuk",
+        "variantCount": 21,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-root-crna",
+        "slug": "root-crna",
+        "nameEn": "Root Crna",
+        "category": "women",
+        "modelGroupId": "leon-mg-root-4307",
+        "stemKey": "4307-crni-nubuk",
+        "variantCount": 21,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      }
+    ]
+  },
+  {
+    "broj": "937",
+    "naziv": "Even",
+    "maloprodajnaCHF": 59,
+    "status": "matched",
+    "matchMethod": [
+      "broj"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-even-braon",
+        "slug": "even-braon",
+        "nameEn": "Even Braon",
+        "category": "women",
+        "modelGroupId": "leon-mg-937-women",
+        "stemKey": "937",
+        "variantCount": 21,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-even-siva",
+        "slug": "even-siva",
+        "nameEn": "Even Siva",
+        "category": "women",
+        "modelGroupId": "leon-mg-937-women",
+        "stemKey": "937",
+        "variantCount": 21,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      }
+    ]
+  },
+  {
+    "broj": "4812",
+    "naziv": "Stella 2 *",
+    "maloprodajnaCHF": 49,
+    "status": "matched",
+    "matchMethod": [
+      "broj"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-stella-ii-zlatna",
+        "slug": "stella-ii-zlatna",
+        "nameEn": "Stella II Zlatna",
+        "category": "children",
+        "modelGroupId": "leon-mg-stella-4812",
+        "stemKey": "4812-zlato1",
+        "variantCount": 12,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-stella-ii-roze",
+        "slug": "stella-ii-roze",
+        "nameEn": "Stella II Roze",
+        "category": "children",
+        "modelGroupId": "leon-mg-stella-4812",
+        "stemKey": "4812",
+        "variantCount": 12,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      }
+    ]
+  },
+  {
+    "broj": "4811",
+    "naziv": "Stella 1*",
+    "maloprodajnaCHF": 49,
+    "status": "matched",
+    "matchMethod": [
+      "broj"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-stella-i-zlatna",
+        "slug": "stella-i-zlatna",
+        "nameEn": "Stella I Zlatna",
+        "category": "children",
+        "modelGroupId": "leon-mg-4811-children",
+        "stemKey": "4811",
+        "variantCount": 12,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-stella-i-roze",
+        "slug": "stella-i-roze",
+        "nameEn": "Stella I Roze",
+        "category": "children",
+        "modelGroupId": "leon-mg-4811-children",
+        "stemKey": "4811",
+        "variantCount": 12,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      }
+    ]
+  },
+  {
+    "broj": "4813",
+    "naziv": "Elio*",
+    "maloprodajnaCHF": 49,
+    "status": "matched",
+    "matchMethod": [
+      "broj"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-elio-zlatna",
+        "slug": "elio-zlatna",
+        "nameEn": "Elio Zlatna",
+        "category": "children",
+        "modelGroupId": "leon-mg-4813-children",
+        "stemKey": "4813",
+        "variantCount": 12,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-elio-teget",
+        "slug": "elio-teget",
+        "nameEn": "Elio Teget",
+        "category": "children",
+        "modelGroupId": "leon-mg-4813-children",
+        "stemKey": "4813",
+        "variantCount": 12,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-elio-zelena",
+        "slug": "elio-zelena",
+        "nameEn": "Elio Zelena",
+        "category": "children",
+        "modelGroupId": "leon-mg-4813-children",
+        "stemKey": "4813",
+        "variantCount": 12,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-elio-siva",
+        "slug": "elio-siva",
+        "nameEn": "Elio Siva",
+        "category": "children",
+        "modelGroupId": "leon-mg-4813-children",
+        "stemKey": "4813",
+        "variantCount": 12,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-elio-roze",
+        "slug": "elio-roze",
+        "nameEn": "Elio Roze",
+        "category": "children",
+        "modelGroupId": "leon-mg-4813-children",
+        "stemKey": "4813",
+        "variantCount": 12,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      }
+    ]
+  },
+  {
+    "broj": "4813",
+    "naziv": "Elio*",
+    "maloprodajnaCHF": 49,
+    "status": "matched",
+    "matchMethod": [
+      "broj"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-elio-zlatna",
+        "slug": "elio-zlatna",
+        "nameEn": "Elio Zlatna",
+        "category": "children",
+        "modelGroupId": "leon-mg-4813-children",
+        "stemKey": "4813",
+        "variantCount": 12,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-elio-teget",
+        "slug": "elio-teget",
+        "nameEn": "Elio Teget",
+        "category": "children",
+        "modelGroupId": "leon-mg-4813-children",
+        "stemKey": "4813",
+        "variantCount": 12,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-elio-zelena",
+        "slug": "elio-zelena",
+        "nameEn": "Elio Zelena",
+        "category": "children",
+        "modelGroupId": "leon-mg-4813-children",
+        "stemKey": "4813",
+        "variantCount": 12,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-elio-siva",
+        "slug": "elio-siva",
+        "nameEn": "Elio Siva",
+        "category": "children",
+        "modelGroupId": "leon-mg-4813-children",
+        "stemKey": "4813",
+        "variantCount": 12,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-elio-roze",
+        "slug": "elio-roze",
+        "nameEn": "Elio Roze",
+        "category": "children",
+        "modelGroupId": "leon-mg-4813-children",
+        "stemKey": "4813",
+        "variantCount": 12,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      }
+    ]
+  },
+  {
+    "broj": "4810",
+    "naziv": "Nino*",
+    "maloprodajnaCHF": 49,
+    "status": "matched",
+    "matchMethod": [
+      "broj"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-nino-siva",
+        "slug": "nino-siva",
+        "nameEn": "Nino Siva",
+        "category": "children",
+        "modelGroupId": "leon-mg-4810-children",
+        "stemKey": "4810",
+        "variantCount": 12,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-nino-braon",
+        "slug": "nino-braon",
+        "nameEn": "Nino Braon",
+        "category": "children",
+        "modelGroupId": "leon-mg-4810-children",
+        "stemKey": "4810",
+        "variantCount": 12,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-nino-roze",
+        "slug": "nino-roze",
+        "nameEn": "Nino Roze",
+        "category": "children",
+        "modelGroupId": "leon-mg-4810-children",
+        "stemKey": "4810",
+        "variantCount": 12,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      }
+    ]
+  },
+  {
+    "broj": "4800",
+    "naziv": "Olaf*",
+    "maloprodajnaCHF": 49,
+    "status": "matched",
+    "matchMethod": [
+      "naziv"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-alpen-komfort-84",
+        "slug": "alpen-komfort-84",
+        "nameEn": "Olaf – Charcoal",
+        "category": "children",
+        "modelGroupId": "leon-mg-olaf-children",
+        "stemKey": "olaf",
+        "variantCount": 10,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-85",
+        "slug": "alpen-komfort-85",
+        "nameEn": "Olaf – Pearl",
+        "category": "children",
+        "modelGroupId": "leon-mg-olaf-children",
+        "stemKey": "olaf",
+        "variantCount": 10,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      }
+    ]
+  },
+  {
+    "broj": "4710M",
+    "naziv": "Harbor",
+    "maloprodajnaCHF": 79,
+    "status": "matched",
+    "matchMethod": [
+      "broj"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-harbor-braon",
+        "slug": "harbor-braon",
+        "nameEn": "Harbor – Brown",
+        "category": "men",
+        "modelGroupId": "leon-mg-4710m-men",
+        "stemKey": "4710m",
+        "variantCount": 7,
+        "oldPriceCHF": 79,
+        "newPriceCHF": 79
+      },
+      {
+        "id": "leon-harbor-crna",
+        "slug": "harbor-crna",
+        "nameEn": "Harbor – Black (patent)",
+        "category": "men",
+        "modelGroupId": "leon-mg-4710m-men",
+        "stemKey": "4710m",
+        "variantCount": 7,
+        "oldPriceCHF": 79,
+        "newPriceCHF": 79
+      },
+      {
+        "id": "leon-harbor-siva",
+        "slug": "harbor-siva",
+        "nameEn": "Harbor – Grey (suede)",
+        "category": "men",
+        "modelGroupId": "leon-mg-4710m-men",
+        "stemKey": "4710m",
+        "variantCount": 7,
+        "oldPriceCHF": 79,
+        "newPriceCHF": 79
+      }
+    ]
+  },
+  {
+    "broj": "4705M",
+    "naziv": "Ridge",
+    "maloprodajnaCHF": 89,
+    "status": "matched",
+    "matchMethod": [
+      "broj"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-ridge-siva",
+        "slug": "ridge-siva",
+        "nameEn": "Ridge Siva",
+        "category": "men",
+        "modelGroupId": "leon-mg-4705m-men",
+        "stemKey": "4705m",
+        "variantCount": 21,
+        "oldPriceCHF": 89,
+        "newPriceCHF": 89
+      },
+      {
+        "id": "leon-ridge-tamno-siva",
+        "slug": "ridge-tamno-siva",
+        "nameEn": "Ridge Tamno Siva",
+        "category": "men",
+        "modelGroupId": "leon-mg-4705m-men",
+        "stemKey": "4705m",
+        "variantCount": 21,
+        "oldPriceCHF": 89,
+        "newPriceCHF": 89
+      },
+      {
+        "id": "leon-ridge-braon",
+        "slug": "ridge-braon",
+        "nameEn": "Ridge Braon",
+        "category": "men",
+        "modelGroupId": "leon-mg-4705m-men",
+        "stemKey": "4705m",
+        "variantCount": 21,
+        "oldPriceCHF": 89,
+        "newPriceCHF": 89
+      }
+    ]
+  },
+  {
+    "broj": "4703M",
+    "naziv": "Kratos",
+    "maloprodajnaCHF": 59,
+    "status": "matched",
+    "matchMethod": [
+      "naziv",
+      "broj"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-alpen-komfort-140",
+        "slug": "alpen-komfort-140",
+        "nameEn": "Kratos – Grey suede",
+        "category": "men",
+        "modelGroupId": "leon-mg-kratos-men",
+        "stemKey": "kratos",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-alpen-komfort-142",
+        "slug": "alpen-komfort-142",
+        "nameEn": "Kratos – Black",
+        "category": "men",
+        "modelGroupId": "leon-mg-kratos-men",
+        "stemKey": "4703m",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-alpen-komfort-141",
+        "slug": "alpen-komfort-141",
+        "nameEn": "Kratos – Brown Suede",
+        "category": "men",
+        "modelGroupId": "leon-mg-kratos-men",
+        "stemKey": "kratos",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      }
+    ]
+  },
+  {
+    "broj": "4704M",
+    "naziv": "Mateo",
+    "maloprodajnaCHF": 59,
+    "status": "matched",
+    "matchMethod": [
+      "naziv"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-alpen-komfort-106",
+        "slug": "alpen-komfort-106",
+        "nameEn": "Mateo – Green",
+        "category": "men",
+        "modelGroupId": "leon-mg-mateo-men",
+        "stemKey": "mateo",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-alpen-komfort-107",
+        "slug": "alpen-komfort-107",
+        "nameEn": "Mateo – Grey",
+        "category": "men",
+        "modelGroupId": "leon-mg-mateo-men",
+        "stemKey": "mateo",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-alpen-komfort-108",
+        "slug": "alpen-komfort-108",
+        "nameEn": "Mateo – Brown",
+        "category": "men",
+        "modelGroupId": "leon-mg-mateo-men",
+        "stemKey": "mateo",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      }
+    ]
+  },
+  {
+    "broj": "4701M",
+    "naziv": "North",
+    "maloprodajnaCHF": 109,
+    "status": "matched",
+    "matchMethod": [
+      "broj",
+      "slug"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-north-siva",
+        "slug": "north-siva",
+        "nameEn": "North Siva",
+        "category": "men",
+        "modelGroupId": "leon-mg-4701m-men",
+        "stemKey": "4701m",
+        "variantCount": 21,
+        "oldPriceCHF": 109,
+        "newPriceCHF": 109
+      },
+      {
+        "id": "leon-north-braon",
+        "slug": "north-braon",
+        "nameEn": "North Braon",
+        "category": "men",
+        "modelGroupId": "leon-mg-4701m-men",
+        "stemKey": "4701m",
+        "variantCount": 21,
+        "oldPriceCHF": 109,
+        "newPriceCHF": 109
+      },
+      {
+        "id": "leon-north-tamno-siva",
+        "slug": "north-tamno-siva",
+        "nameEn": "North Tamno Siva",
+        "category": "men",
+        "modelGroupId": "leon-mg-north-4701m",
+        "stemKey": "4701-siva1",
+        "variantCount": 21,
+        "oldPriceCHF": 109,
+        "newPriceCHF": 109
+      }
+    ]
+  },
+  {
+    "broj": "4700M",
+    "naziv": "Bjorn",
+    "maloprodajnaCHF": 59,
+    "status": "matched",
+    "matchMethod": [
+      "slug",
+      "naziv"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-alpen-komfort-260",
+        "slug": "alpen-komfort-260",
+        "nameEn": "Bjorn Crazy – Olive Green",
+        "category": "men",
+        "stemKey": "bjorn-crazy",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-alpen-komfort-262",
+        "slug": "alpen-komfort-262",
+        "nameEn": "Bjorn Crazy – Grey",
+        "category": "women",
+        "stemKey": "bjorn-crazy",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-alpen-komfort-261",
+        "slug": "alpen-komfort-261",
+        "nameEn": "Bjorn – Charcoal",
+        "category": "women",
+        "modelGroupId": "leon-mg-bjorn-women",
+        "stemKey": "bjorn",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-alpen-komfort-264",
+        "slug": "alpen-komfort-264",
+        "nameEn": "Bjorn – Black",
+        "category": "women",
+        "modelGroupId": "leon-mg-bjorn-women",
+        "stemKey": "bjorn",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-alpen-komfort-263",
+        "slug": "alpen-komfort-263",
+        "nameEn": "Bjorn – White",
+        "category": "women",
+        "modelGroupId": "leon-mg-bjorn-women",
+        "stemKey": "bjorn",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      }
+    ]
+  },
+  {
+    "broj": "700M",
+    "naziv": "Kasper",
+    "maloprodajnaCHF": 49,
+    "status": "matched",
+    "matchMethod": [
+      "naziv"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-alpen-komfort-144",
+        "slug": "alpen-komfort-144",
+        "nameEn": "Kasper – Black",
+        "category": "women",
+        "modelGroupId": "leon-mg-kasper-women",
+        "stemKey": "kasper",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-143",
+        "slug": "alpen-komfort-143",
+        "nameEn": "Kasper – White",
+        "category": "women",
+        "modelGroupId": "leon-mg-kasper-women",
+        "stemKey": "kasper",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      }
+    ]
+  },
+  {
+    "broj": "V230M",
+    "naziv": "Thomas",
+    "maloprodajnaCHF": 49,
+    "status": "matched",
+    "matchMethod": [
+      "naziv"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-alpen-komfort-255",
+        "slug": "alpen-komfort-255",
+        "nameEn": "Thomas – Black",
+        "category": "women",
+        "stemKey": "thomas",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-256",
+        "slug": "alpen-komfort-256",
+        "nameEn": "Thomas – White",
+        "category": "men",
+        "stemKey": "thomas",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      }
+    ]
+  },
+  {
+    "broj": "300M",
+    "naziv": "Ground",
+    "maloprodajnaCHF": 49,
+    "status": "matched",
+    "matchMethod": [
+      "broj"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-bern-classic",
+        "slug": "bern-classic",
+        "nameEn": "Ground – White",
+        "category": "men",
+        "modelGroupId": "leon-mg-ground-men",
+        "stemKey": "300m",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-lausanne-air",
+        "slug": "lausanne-air",
+        "nameEn": "Ground – Black",
+        "category": "men",
+        "modelGroupId": "leon-mg-ground-men",
+        "stemKey": "300m",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      }
+    ]
+  },
+  {
+    "broj": "707M",
+    "naziv": "Oskar",
+    "maloprodajnaCHF": 69,
+    "status": "matched",
+    "matchMethod": [
+      "broj",
+      "naziv"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-alpen-komfort-257",
+        "slug": "alpen-komfort-257",
+        "nameEn": "Oskar – Charcoal",
+        "category": "women",
+        "modelGroupId": "leon-mg-oskar-women",
+        "stemKey": "707m",
+        "variantCount": 14,
+        "oldPriceCHF": 69,
+        "newPriceCHF": 69
+      },
+      {
+        "id": "leon-alpen-komfort-258",
+        "slug": "alpen-komfort-258",
+        "nameEn": "Oskar – Black",
+        "category": "women",
+        "modelGroupId": "leon-mg-oskar-women",
+        "stemKey": "oskar",
+        "variantCount": 14,
+        "oldPriceCHF": 69,
+        "newPriceCHF": 69
+      },
+      {
+        "id": "leon-alpen-komfort-259",
+        "slug": "alpen-komfort-259",
+        "nameEn": "Oskar – Brown",
+        "category": "women",
+        "modelGroupId": "leon-mg-oskar-women",
+        "stemKey": "oskar",
+        "variantCount": 14,
+        "oldPriceCHF": 69,
+        "newPriceCHF": 69
+      }
+    ]
+  },
+  {
+    "broj": "V200M",
+    "naziv": "Arthur 1",
+    "maloprodajnaCHF": 49,
+    "status": "matched",
+    "matchMethod": [
+      "naziv"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-alpen-komfort-217",
+        "slug": "alpen-komfort-217",
+        "nameEn": "Arthur I – Black",
+        "category": "women",
+        "stemKey": "arthur-i",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-219",
+        "slug": "alpen-komfort-219",
+        "nameEn": "Arthur I – White",
+        "category": "men",
+        "stemKey": "arthur-i",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      }
+    ]
+  },
+  {
+    "broj": "V202M",
+    "naziv": "Vigo",
+    "maloprodajnaCHF": 49,
+    "status": "matched",
+    "matchMethod": [
+      "naziv"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-alpen-komfort-252",
+        "slug": "alpen-komfort-252",
+        "nameEn": "Vigo – Black",
+        "category": "women",
+        "modelGroupId": "leon-mg-vigo-women",
+        "stemKey": "vigo",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-254",
+        "slug": "alpen-komfort-254",
+        "nameEn": "Vigo – White",
+        "category": "women",
+        "modelGroupId": "leon-mg-vigo-women",
+        "stemKey": "vigo",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      }
+    ]
+  },
+  {
+    "broj": "PU100M",
+    "naziv": "Muska Klompa",
+    "maloprodajnaCHF": 49,
+    "status": "matched",
+    "matchMethod": [
+      "slug",
+      "broj"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-alpen-komfort-98",
+        "slug": "alpen-komfort-98",
+        "nameEn": "Men's clog Klasik I – Black",
+        "category": "women",
+        "stemKey": "muska-klompa-klasik-i",
+        "variantCount": 14,
+        "oldPriceCHF": 39,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-99",
+        "slug": "alpen-komfort-99",
+        "nameEn": "Men's clog Klasik I – White",
+        "category": "men",
+        "stemKey": "pu100m",
+        "variantCount": 14,
+        "oldPriceCHF": 39,
+        "newPriceCHF": 49
+      }
+    ]
+  },
+  {
+    "broj": "PU101M",
+    "naziv": "Muska Klompa",
+    "maloprodajnaCHF": 49,
+    "status": "matched",
+    "matchMethod": [
+      "slug"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-alpen-komfort-98",
+        "slug": "alpen-komfort-98",
+        "nameEn": "Men's clog Klasik I – Black",
+        "category": "women",
+        "stemKey": "muska-klompa-klasik-i",
+        "variantCount": 14,
+        "oldPriceCHF": 39,
+        "newPriceCHF": 49
+      }
+    ]
+  },
+  {
+    "broj": "PU100",
+    "naziv": "Muska Klompa Klasik 1",
+    "maloprodajnaCHF": 39,
+    "status": "matched",
+    "matchMethod": [
+      "naziv"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-alpen-komfort-98",
+        "slug": "alpen-komfort-98",
+        "nameEn": "Men's clog Klasik I – Black",
+        "category": "women",
+        "stemKey": "muska-klompa-klasik-i",
+        "variantCount": 14,
+        "oldPriceCHF": 39,
+        "newPriceCHF": 39
+      },
+      {
+        "id": "leon-alpen-komfort-99",
+        "slug": "alpen-komfort-99",
+        "nameEn": "Men's clog Klasik I – White",
+        "category": "men",
+        "stemKey": "pu100m",
+        "variantCount": 14,
+        "oldPriceCHF": 39,
+        "newPriceCHF": 39
+      }
+    ]
+  },
+  {
+    "broj": "PU115",
+    "naziv": "Zenska Klompa",
+    "maloprodajnaCHF": 39,
+    "status": "matched",
+    "matchMethod": [
+      "slug"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-alpen-komfort-238",
+        "slug": "alpen-komfort-238",
+        "nameEn": "Women's clog Klasik I – White",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-klasik-i-women",
+        "stemKey": "zenska-klompa-klasik-i",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 39
+      },
+      {
+        "id": "leon-alpen-komfort-239",
+        "slug": "alpen-komfort-239",
+        "nameEn": "Women's clog Klasik I – Pearl",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-klasik-i-women",
+        "stemKey": "zenska-klompa-klasik-i",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 39
+      },
+      {
+        "id": "leon-alpen-komfort-241",
+        "slug": "alpen-komfort-241",
+        "nameEn": "Women's clog Klasik I – Black",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-klasik-i-women",
+        "stemKey": "zenska-klompa-klasik-i",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 39
+      },
+      {
+        "id": "leon-zenska-klompa-5002-bela",
+        "slug": "zenska-klompa-5002-bela",
+        "nameEn": "Women's clog 5002 – White",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-5002-women",
+        "stemKey": "5002",
+        "variantCount": 21,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 39
+      },
+      {
+        "id": "leon-zenska-klompa-3300-crna",
+        "slug": "zenska-klompa-3300-crna",
+        "nameEn": "Women's clog 3300 – Black",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-3300-women",
+        "stemKey": "dsc",
+        "variantCount": 21,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 39
+      },
+      {
+        "id": "leon-alpen-komfort-244",
+        "slug": "alpen-komfort-244",
+        "nameEn": "Women's clog 5002 – White",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-5002-women",
+        "stemKey": "5002",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 39
+      },
+      {
+        "id": "leon-alpen-komfort-247",
+        "slug": "alpen-komfort-247",
+        "nameEn": "Women's clog 5002 – Pearl",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-5002-women",
+        "stemKey": "5002",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 39
+      },
+      {
+        "id": "leon-alpen-komfort-250",
+        "slug": "alpen-komfort-250",
+        "nameEn": "Women's clog 5002 – Black",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-5002-women",
+        "stemKey": "5002",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 39
+      },
+      {
+        "id": "leon-alpen-komfort-242",
+        "slug": "alpen-komfort-242",
+        "nameEn": "Women's clog 3300 – Black",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-3300-women",
+        "stemKey": "dsc",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 39
+      },
+      {
+        "id": "leon-alpen-komfort-243",
+        "slug": "alpen-komfort-243",
+        "nameEn": "Women's clog 3300 – Pearl",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-3300-women",
+        "stemKey": "dsc",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 39
+      },
+      {
+        "id": "leon-alpen-komfort-245",
+        "slug": "alpen-komfort-245",
+        "nameEn": "Women's clog 3300 – White",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-3300-women",
+        "stemKey": "dsc",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 39
+      }
+    ]
+  },
+  {
+    "broj": "3400",
+    "naziv": "Zenska Klompa",
+    "maloprodajnaCHF": 39,
+    "status": "matched",
+    "matchMethod": [
+      "slug"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-alpen-komfort-238",
+        "slug": "alpen-komfort-238",
+        "nameEn": "Women's clog Klasik I – White",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-klasik-i-women",
+        "stemKey": "zenska-klompa-klasik-i",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 39
+      },
+      {
+        "id": "leon-alpen-komfort-239",
+        "slug": "alpen-komfort-239",
+        "nameEn": "Women's clog Klasik I – Pearl",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-klasik-i-women",
+        "stemKey": "zenska-klompa-klasik-i",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 39
+      },
+      {
+        "id": "leon-alpen-komfort-241",
+        "slug": "alpen-komfort-241",
+        "nameEn": "Women's clog Klasik I – Black",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-klasik-i-women",
+        "stemKey": "zenska-klompa-klasik-i",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 39
+      },
+      {
+        "id": "leon-zenska-klompa-5002-bela",
+        "slug": "zenska-klompa-5002-bela",
+        "nameEn": "Women's clog 5002 – White",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-5002-women",
+        "stemKey": "5002",
+        "variantCount": 21,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 39
+      },
+      {
+        "id": "leon-zenska-klompa-3300-crna",
+        "slug": "zenska-klompa-3300-crna",
+        "nameEn": "Women's clog 3300 – Black",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-3300-women",
+        "stemKey": "dsc",
+        "variantCount": 21,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 39
+      },
+      {
+        "id": "leon-alpen-komfort-244",
+        "slug": "alpen-komfort-244",
+        "nameEn": "Women's clog 5002 – White",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-5002-women",
+        "stemKey": "5002",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 39
+      },
+      {
+        "id": "leon-alpen-komfort-247",
+        "slug": "alpen-komfort-247",
+        "nameEn": "Women's clog 5002 – Pearl",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-5002-women",
+        "stemKey": "5002",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 39
+      },
+      {
+        "id": "leon-alpen-komfort-250",
+        "slug": "alpen-komfort-250",
+        "nameEn": "Women's clog 5002 – Black",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-5002-women",
+        "stemKey": "5002",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 39
+      },
+      {
+        "id": "leon-alpen-komfort-242",
+        "slug": "alpen-komfort-242",
+        "nameEn": "Women's clog 3300 – Black",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-3300-women",
+        "stemKey": "dsc",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 39
+      },
+      {
+        "id": "leon-alpen-komfort-243",
+        "slug": "alpen-komfort-243",
+        "nameEn": "Women's clog 3300 – Pearl",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-3300-women",
+        "stemKey": "dsc",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 39
+      },
+      {
+        "id": "leon-alpen-komfort-245",
+        "slug": "alpen-komfort-245",
+        "nameEn": "Women's clog 3300 – White",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-3300-women",
+        "stemKey": "dsc",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 39
+      }
+    ]
+  },
+  {
+    "broj": "3500",
+    "naziv": "Rubikon",
+    "maloprodajnaCHF": 49,
+    "status": "matched",
+    "matchMethod": [
+      "slug"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-alpen-komfort-72",
+        "slug": "alpen-komfort-72",
+        "nameEn": "Rubicon – Charcoal patent",
+        "category": "women",
+        "modelGroupId": "leon-mg-rubicon-women",
+        "stemKey": "rubicon",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-73",
+        "slug": "alpen-komfort-73",
+        "nameEn": "Rubicon – Pink patent",
+        "category": "women",
+        "modelGroupId": "leon-mg-rubicon-women",
+        "stemKey": "rubicon",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-76",
+        "slug": "alpen-komfort-76",
+        "nameEn": "Rubicon – Black patent",
+        "category": "women",
+        "modelGroupId": "leon-mg-rubicon-women",
+        "stemKey": "rubicon",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-77",
+        "slug": "alpen-komfort-77",
+        "nameEn": "Rubicon – White patent",
+        "category": "women",
+        "modelGroupId": "leon-mg-rubicon-women",
+        "stemKey": "rubicon",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      }
+    ]
+  },
+  {
+    "broj": "V260",
+    "naziv": "Emili 1",
+    "maloprodajnaCHF": 39,
+    "status": "matched",
+    "matchMethod": [
+      "slug",
+      "naziv"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-alpen-komfort-152",
+        "slug": "alpen-komfort-152",
+        "nameEn": "Emili III – Charcoal",
+        "category": "women",
+        "modelGroupId": "leon-mg-emili-iii-women",
+        "stemKey": "emili-iii",
+        "variantCount": 14,
+        "oldPriceCHF": 49.9,
+        "newPriceCHF": 39
+      },
+      {
+        "id": "leon-alpen-komfort-154",
+        "slug": "alpen-komfort-154",
+        "nameEn": "Emili III – Pink",
+        "category": "women",
+        "modelGroupId": "leon-mg-emili-iii-women",
+        "stemKey": "emili-iii",
+        "variantCount": 14,
+        "oldPriceCHF": 49.9,
+        "newPriceCHF": 39
+      },
+      {
+        "id": "leon-alpen-komfort-155",
+        "slug": "alpen-komfort-155",
+        "nameEn": "Emili III – White",
+        "category": "women",
+        "modelGroupId": "leon-mg-emili-iii-women",
+        "stemKey": "emili-iii",
+        "variantCount": 14,
+        "oldPriceCHF": 49.9,
+        "newPriceCHF": 39
+      },
+      {
+        "id": "leon-alpen-komfort-156",
+        "slug": "alpen-komfort-156",
+        "nameEn": "Emili I – Pearl",
+        "category": "women",
+        "modelGroupId": "leon-mg-emili-i-women",
+        "stemKey": "emili-i",
+        "variantCount": 14,
+        "oldPriceCHF": 39,
+        "newPriceCHF": 39
+      },
+      {
+        "id": "leon-alpen-komfort-157",
+        "slug": "alpen-komfort-157",
+        "nameEn": "Emili I – Black",
+        "category": "women",
+        "modelGroupId": "leon-mg-emili-i-women",
+        "stemKey": "emili-i",
+        "variantCount": 14,
+        "oldPriceCHF": 39,
+        "newPriceCHF": 39
+      },
+      {
+        "id": "leon-alpen-komfort-158",
+        "slug": "alpen-komfort-158",
+        "nameEn": "Emili I – White",
+        "category": "women",
+        "modelGroupId": "leon-mg-emili-i-women",
+        "stemKey": "emili-i",
+        "variantCount": 14,
+        "oldPriceCHF": 39,
+        "newPriceCHF": 39
+      }
+    ]
+  },
+  {
+    "broj": "V202",
+    "naziv": "Elena 1",
+    "maloprodajnaCHF": 39,
+    "status": "matched",
+    "matchMethod": [
+      "slug",
+      "naziv"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-alpen-komfort-159",
+        "slug": "alpen-komfort-159",
+        "nameEn": "Elena II – Black",
+        "category": "women",
+        "modelGroupId": "leon-mg-elena-ii-women",
+        "stemKey": "elena-ii",
+        "variantCount": 14,
+        "oldPriceCHF": 39,
+        "newPriceCHF": 39
+      },
+      {
+        "id": "leon-alpen-komfort-160",
+        "slug": "alpen-komfort-160",
+        "nameEn": "Elena II – White",
+        "category": "women",
+        "modelGroupId": "leon-mg-elena-ii-women",
+        "stemKey": "elena-ii",
+        "variantCount": 14,
+        "oldPriceCHF": 39,
+        "newPriceCHF": 39
+      },
+      {
+        "id": "leon-alpen-komfort-235",
+        "slug": "alpen-komfort-235",
+        "nameEn": "Elena I – Black",
+        "category": "women",
+        "modelGroupId": "leon-mg-elena-i-women",
+        "stemKey": "dsc",
+        "variantCount": 14,
+        "oldPriceCHF": 39,
+        "newPriceCHF": 39
+      },
+      {
+        "id": "leon-alpen-komfort-237",
+        "slug": "alpen-komfort-237",
+        "nameEn": "Elena I – White",
+        "category": "women",
+        "modelGroupId": "leon-mg-elena-i-women",
+        "stemKey": "dsc",
+        "variantCount": 14,
+        "oldPriceCHF": 39,
+        "newPriceCHF": 39
+      }
+    ]
+  },
+  {
+    "broj": "V200",
+    "naziv": "Elena 2",
+    "maloprodajnaCHF": 39,
+    "status": "matched",
+    "matchMethod": [
+      "naziv"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-alpen-komfort-159",
+        "slug": "alpen-komfort-159",
+        "nameEn": "Elena II – Black",
+        "category": "women",
+        "modelGroupId": "leon-mg-elena-ii-women",
+        "stemKey": "elena-ii",
+        "variantCount": 14,
+        "oldPriceCHF": 39,
+        "newPriceCHF": 39
+      },
+      {
+        "id": "leon-alpen-komfort-160",
+        "slug": "alpen-komfort-160",
+        "nameEn": "Elena II – White",
+        "category": "women",
+        "modelGroupId": "leon-mg-elena-ii-women",
+        "stemKey": "elena-ii",
+        "variantCount": 14,
+        "oldPriceCHF": 39,
+        "newPriceCHF": 39
+      }
+    ]
+  },
+  {
+    "broj": "2022",
+    "naziv": "Aurora 5",
+    "maloprodajnaCHF": 79,
+    "status": "matched",
+    "matchMethod": [
+      "naziv",
+      "slug"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-alpen-komfort-206",
+        "slug": "alpen-komfort-206",
+        "nameEn": "Aurora V – Burgundy Patent",
+        "category": "women",
+        "stemKey": "aurora-v",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 79
+      },
+      {
+        "id": "leon-alpen-komfort-208",
+        "slug": "alpen-komfort-208",
+        "nameEn": "Aurora V Led – Orladno",
+        "category": "women",
+        "stemKey": "aurora-v-led",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 79
+      }
+    ]
+  },
+  {
+    "broj": "2019",
+    "naziv": "Aurora 1",
+    "maloprodajnaCHF": 79,
+    "status": "matched",
+    "matchMethod": [
+      "slug",
+      "naziv"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-alpen-komfort-207",
+        "slug": "alpen-komfort-207",
+        "nameEn": "Aurora IV – Champagne",
+        "category": "women",
+        "modelGroupId": "leon-mg-aurora-iv-women",
+        "stemKey": "aurora-iv",
+        "variantCount": 14,
+        "oldPriceCHF": 49.9,
+        "newPriceCHF": 79
+      },
+      {
+        "id": "leon-alpen-komfort-209",
+        "slug": "alpen-komfort-209",
+        "nameEn": "Aurora IV – Pearl",
+        "category": "women",
+        "modelGroupId": "leon-mg-aurora-iv-women",
+        "stemKey": "aurora-iv",
+        "variantCount": 14,
+        "oldPriceCHF": 49.9,
+        "newPriceCHF": 79
+      },
+      {
+        "id": "leon-alpen-komfort-211",
+        "slug": "alpen-komfort-211",
+        "nameEn": "Aurora I – Black",
+        "category": "women",
+        "modelGroupId": "leon-mg-aurora-i-women",
+        "stemKey": "aurora-i",
+        "variantCount": 14,
+        "oldPriceCHF": 79,
+        "newPriceCHF": 79
+      },
+      {
+        "id": "leon-alpen-komfort-210",
+        "slug": "alpen-komfort-210",
+        "nameEn": "Aurora I – Brown",
+        "category": "women",
+        "modelGroupId": "leon-mg-aurora-i-women",
+        "stemKey": "aurora-i",
+        "variantCount": 14,
+        "oldPriceCHF": 79,
+        "newPriceCHF": 79
+      },
+      {
+        "id": "leon-alpen-komfort-212",
+        "slug": "alpen-komfort-212",
+        "nameEn": "Aurora I – White",
+        "category": "women",
+        "modelGroupId": "leon-mg-aurora-i-women",
+        "stemKey": "aurora-i",
+        "variantCount": 14,
+        "oldPriceCHF": 79,
+        "newPriceCHF": 79
+      }
+    ]
+  },
+  {
+    "broj": "902",
+    "naziv": "Lara",
+    "maloprodajnaCHF": 59,
+    "status": "matched",
+    "matchMethod": [
+      "naziv"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-alpen-komfort-129",
+        "slug": "alpen-komfort-129",
+        "nameEn": "Lara – Charcoal",
+        "category": "women",
+        "modelGroupId": "leon-mg-lara-women",
+        "stemKey": "lara",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-alpen-komfort-130",
+        "slug": "alpen-komfort-130",
+        "nameEn": "Lara – Black",
+        "category": "women",
+        "modelGroupId": "leon-mg-lara-women",
+        "stemKey": "lara",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-alpen-komfort-131",
+        "slug": "alpen-komfort-131",
+        "nameEn": "Lara – Brown",
+        "category": "women",
+        "modelGroupId": "leon-mg-lara-women",
+        "stemKey": "lara",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-alpen-komfort-132",
+        "slug": "alpen-komfort-132",
+        "nameEn": "Lara – White",
+        "category": "women",
+        "modelGroupId": "leon-mg-lara-women",
+        "stemKey": "lara",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      }
+    ]
+  },
+  {
+    "broj": "5000",
+    "naziv": "Nora 1",
+    "maloprodajnaCHF": 79,
+    "status": "matched",
+    "matchMethod": [
+      "slug",
+      "naziv"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-alpen-komfort-89",
+        "slug": "alpen-komfort-89",
+        "nameEn": "Nora IV – Champagne",
+        "category": "women",
+        "modelGroupId": "leon-mg-nora-iv-women",
+        "stemKey": "nora-iv",
+        "variantCount": 14,
+        "oldPriceCHF": 79,
+        "newPriceCHF": 79
+      },
+      {
+        "id": "leon-alpen-komfort-90",
+        "slug": "alpen-komfort-90",
+        "nameEn": "Nora IV – Pearl",
+        "category": "women",
+        "modelGroupId": "leon-mg-nora-iv-women",
+        "stemKey": "nora-iv",
+        "variantCount": 14,
+        "oldPriceCHF": 79,
+        "newPriceCHF": 79
+      },
+      {
+        "id": "leon-alpen-komfort-91",
+        "slug": "alpen-komfort-91",
+        "nameEn": "Nora IV – Black",
+        "category": "women",
+        "modelGroupId": "leon-mg-nora-iv-women",
+        "stemKey": "nora-iv",
+        "variantCount": 14,
+        "oldPriceCHF": 79,
+        "newPriceCHF": 79
+      },
+      {
+        "id": "leon-alpen-komfort-92",
+        "slug": "alpen-komfort-92",
+        "nameEn": "Nora IV – White",
+        "category": "women",
+        "modelGroupId": "leon-mg-nora-iv-women",
+        "stemKey": "nora-iv",
+        "variantCount": 14,
+        "oldPriceCHF": 79,
+        "newPriceCHF": 79
+      },
+      {
+        "id": "leon-alpen-komfort-93",
+        "slug": "alpen-komfort-93",
+        "nameEn": "Nora II – Black",
+        "category": "women",
+        "modelGroupId": "leon-mg-nora-ii-women",
+        "stemKey": "nora-ii",
+        "variantCount": 14,
+        "oldPriceCHF": 69,
+        "newPriceCHF": 79
+      },
+      {
+        "id": "leon-alpen-komfort-94",
+        "slug": "alpen-komfort-94",
+        "nameEn": "Nora I – Black",
+        "category": "women",
+        "modelGroupId": "leon-mg-nora-i-women",
+        "stemKey": "nora-i",
+        "variantCount": 14,
+        "oldPriceCHF": 79,
+        "newPriceCHF": 79
+      },
+      {
+        "id": "leon-alpen-komfort-95",
+        "slug": "alpen-komfort-95",
+        "nameEn": "Nora I – Brown",
+        "category": "women",
+        "modelGroupId": "leon-mg-nora-i-women",
+        "stemKey": "nora-i",
+        "variantCount": 14,
+        "oldPriceCHF": 79,
+        "newPriceCHF": 79
+      },
+      {
+        "id": "leon-nora-iv-sampanj",
+        "slug": "nora-iv-sampanj",
+        "nameEn": "Nora IV – Champagne",
+        "category": "women",
+        "modelGroupId": "leon-mg-nora-iv-women",
+        "stemKey": "nora-iv",
+        "variantCount": 21,
+        "oldPriceCHF": 79,
+        "newPriceCHF": 79
+      },
+      {
+        "id": "leon-nora-ii-braon",
+        "slug": "nora-ii-braon",
+        "nameEn": "Nora II",
+        "category": "women",
+        "modelGroupId": "leon-mg-nora-ii-women",
+        "stemKey": "nora-ii",
+        "variantCount": 21,
+        "oldPriceCHF": 69,
+        "newPriceCHF": 79
+      },
+      {
+        "id": "leon-nora-iv-perla",
+        "slug": "nora-iv-perla",
+        "nameEn": "Nora IV – Pearl",
+        "category": "women",
+        "modelGroupId": "leon-mg-nora-iv-women",
+        "stemKey": "nora-iv",
+        "variantCount": 21,
+        "oldPriceCHF": 79,
+        "newPriceCHF": 79
+      },
+      {
+        "id": "leon-nora-iv-crna",
+        "slug": "nora-iv-crna",
+        "nameEn": "Nora IV – Black",
+        "category": "women",
+        "modelGroupId": "leon-mg-nora-iv-women",
+        "stemKey": "nora-iv",
+        "variantCount": 21,
+        "oldPriceCHF": 79,
+        "newPriceCHF": 79
+      },
+      {
+        "id": "leon-nora-iv-bela",
+        "slug": "nora-iv-bela",
+        "nameEn": "Nora IV – White",
+        "category": "women",
+        "modelGroupId": "leon-mg-nora-iv-women",
+        "stemKey": "nora-iv",
+        "variantCount": 21,
+        "oldPriceCHF": 79,
+        "newPriceCHF": 79
+      },
+      {
+        "id": "leon-nora-ii-crna",
+        "slug": "nora-ii-crna",
+        "nameEn": "Nora II – Black",
+        "category": "women",
+        "modelGroupId": "leon-mg-nora-ii-women",
+        "stemKey": "nora-ii",
+        "variantCount": 21,
+        "oldPriceCHF": 69,
+        "newPriceCHF": 79
+      },
+      {
+        "id": "leon-nora-i-crna",
+        "slug": "nora-i-crna",
+        "nameEn": "Nora I – Black",
+        "category": "women",
+        "modelGroupId": "leon-mg-nora-i-women",
+        "stemKey": "nora-i",
+        "variantCount": 21,
+        "oldPriceCHF": 79,
+        "newPriceCHF": 79
+      },
+      {
+        "id": "leon-nora-i-braon",
+        "slug": "nora-i-braon",
+        "nameEn": "Nora I – Brown",
+        "category": "women",
+        "modelGroupId": "leon-mg-nora-i-women",
+        "stemKey": "nora-i",
+        "variantCount": 21,
+        "oldPriceCHF": 79,
+        "newPriceCHF": 79
+      }
+    ]
+  },
+  {
+    "broj": "5001",
+    "naziv": "Nora 5",
+    "maloprodajnaCHF": 69,
+    "status": "matched",
+    "matchMethod": [
+      "slug"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-alpen-komfort-89",
+        "slug": "alpen-komfort-89",
+        "nameEn": "Nora IV – Champagne",
+        "category": "women",
+        "modelGroupId": "leon-mg-nora-iv-women",
+        "stemKey": "nora-iv",
+        "variantCount": 14,
+        "oldPriceCHF": 79,
+        "newPriceCHF": 69
+      },
+      {
+        "id": "leon-alpen-komfort-90",
+        "slug": "alpen-komfort-90",
+        "nameEn": "Nora IV – Pearl",
+        "category": "women",
+        "modelGroupId": "leon-mg-nora-iv-women",
+        "stemKey": "nora-iv",
+        "variantCount": 14,
+        "oldPriceCHF": 79,
+        "newPriceCHF": 69
+      },
+      {
+        "id": "leon-alpen-komfort-91",
+        "slug": "alpen-komfort-91",
+        "nameEn": "Nora IV – Black",
+        "category": "women",
+        "modelGroupId": "leon-mg-nora-iv-women",
+        "stemKey": "nora-iv",
+        "variantCount": 14,
+        "oldPriceCHF": 79,
+        "newPriceCHF": 69
+      },
+      {
+        "id": "leon-alpen-komfort-92",
+        "slug": "alpen-komfort-92",
+        "nameEn": "Nora IV – White",
+        "category": "women",
+        "modelGroupId": "leon-mg-nora-iv-women",
+        "stemKey": "nora-iv",
+        "variantCount": 14,
+        "oldPriceCHF": 79,
+        "newPriceCHF": 69
+      },
+      {
+        "id": "leon-nora-iv-sampanj",
+        "slug": "nora-iv-sampanj",
+        "nameEn": "Nora IV – Champagne",
+        "category": "women",
+        "modelGroupId": "leon-mg-nora-iv-women",
+        "stemKey": "nora-iv",
+        "variantCount": 21,
+        "oldPriceCHF": 79,
+        "newPriceCHF": 69
+      },
+      {
+        "id": "leon-nora-iv-perla",
+        "slug": "nora-iv-perla",
+        "nameEn": "Nora IV – Pearl",
+        "category": "women",
+        "modelGroupId": "leon-mg-nora-iv-women",
+        "stemKey": "nora-iv",
+        "variantCount": 21,
+        "oldPriceCHF": 79,
+        "newPriceCHF": 69
+      },
+      {
+        "id": "leon-nora-iv-crna",
+        "slug": "nora-iv-crna",
+        "nameEn": "Nora IV – Black",
+        "category": "women",
+        "modelGroupId": "leon-mg-nora-iv-women",
+        "stemKey": "nora-iv",
+        "variantCount": 21,
+        "oldPriceCHF": 79,
+        "newPriceCHF": 69
+      },
+      {
+        "id": "leon-nora-iv-bela",
+        "slug": "nora-iv-bela",
+        "nameEn": "Nora IV – White",
+        "category": "women",
+        "modelGroupId": "leon-mg-nora-iv-women",
+        "stemKey": "nora-iv",
+        "variantCount": 21,
+        "oldPriceCHF": 79,
+        "newPriceCHF": 69
+      }
+    ]
+  },
+  {
+    "broj": "912",
+    "naziv": "Aria 1",
+    "maloprodajnaCHF": 59,
+    "status": "matched",
+    "matchMethod": [
+      "naziv"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-alpen-komfort-218",
+        "slug": "alpen-komfort-218",
+        "nameEn": "Aria I – Black",
+        "category": "women",
+        "modelGroupId": "leon-mg-aria-i-women",
+        "stemKey": "aria-i",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-alpen-komfort-220",
+        "slug": "alpen-komfort-220",
+        "nameEn": "Aria I – White",
+        "category": "women",
+        "modelGroupId": "leon-mg-aria-i-women",
+        "stemKey": "aria-i",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-alpen-komfort-222",
+        "slug": "alpen-komfort-222",
+        "nameEn": "Aria I – Brown",
+        "category": "women",
+        "modelGroupId": "leon-mg-aria-i-women",
+        "stemKey": "aria-i-892-copy",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      }
+    ]
+  },
+  {
+    "broj": "953",
+    "naziv": "Ruby",
+    "maloprodajnaCHF": 59,
+    "status": "matched",
+    "matchMethod": [
+      "naziv"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-alpen-komfort-246",
+        "slug": "alpen-komfort-246",
+        "nameEn": "Ruby – Black",
+        "category": "women",
+        "modelGroupId": "leon-mg-ruby-women",
+        "stemKey": "dsc",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-alpen-komfort-248",
+        "slug": "alpen-komfort-248",
+        "nameEn": "Ruby – White",
+        "category": "women",
+        "modelGroupId": "leon-mg-ruby-women",
+        "stemKey": "dsc",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      }
+    ]
+  },
+  {
+    "broj": "967",
+    "naziv": "Nana",
+    "maloprodajnaCHF": 49,
+    "status": "matched",
+    "matchMethod": [
+      "broj",
+      "slug"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-alpen-komfort-16",
+        "slug": "alpen-komfort-16",
+        "nameEn": "Nana – Black",
+        "category": "women",
+        "modelGroupId": "leon-mg-nana-women",
+        "stemKey": "967",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-17",
+        "slug": "alpen-komfort-17",
+        "nameEn": "Nana – Burgundy",
+        "category": "women",
+        "modelGroupId": "leon-mg-nana-women",
+        "stemKey": "967",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-22",
+        "slug": "alpen-komfort-22",
+        "nameEn": "Nana II – Charcoal",
+        "category": "women",
+        "modelGroupId": "leon-mg-nana-ii-women",
+        "stemKey": "nana-ii",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-23",
+        "slug": "alpen-komfort-23",
+        "nameEn": "Nana II – Black",
+        "category": "women",
+        "modelGroupId": "leon-mg-nana-ii-women",
+        "stemKey": "nana-ii",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-24",
+        "slug": "alpen-komfort-24",
+        "nameEn": "Nana II – Burgundy",
+        "category": "women",
+        "modelGroupId": "leon-mg-nana-ii-women",
+        "stemKey": "nana-ii",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      }
+    ]
+  },
+  {
+    "broj": "950",
+    "naziv": "Leona",
+    "maloprodajnaCHF": 49,
+    "status": "matched",
+    "matchMethod": [
+      "naziv",
+      "broj"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-alpen-komfort",
+        "slug": "alpen-komfort",
+        "nameEn": "Leona – Pearl",
+        "category": "women",
+        "modelGroupId": "leon-mg-leona-women",
+        "stemKey": "leona",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-42",
+        "slug": "alpen-komfort-42",
+        "nameEn": "Leona – Champagne",
+        "category": "women",
+        "modelGroupId": "leon-mg-leona-women",
+        "stemKey": "950-samp",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-118",
+        "slug": "alpen-komfort-118",
+        "nameEn": "Leona – Patent Charcoal Patent",
+        "category": "women",
+        "modelGroupId": "leon-mg-leona-women",
+        "stemKey": "leona",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-120",
+        "slug": "alpen-komfort-120",
+        "nameEn": "Leona – Patent Pink Patent",
+        "category": "women",
+        "modelGroupId": "leon-mg-leona-women",
+        "stemKey": "leona",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-119",
+        "slug": "alpen-komfort-119",
+        "nameEn": "Leona – Patent White Patent",
+        "category": "women",
+        "modelGroupId": "leon-mg-leona-women",
+        "stemKey": "leona",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-121",
+        "slug": "alpen-komfort-121",
+        "nameEn": "Leona – Green perlato",
+        "category": "women",
+        "modelGroupId": "leon-mg-leona-women",
+        "stemKey": "leona",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-122",
+        "slug": "alpen-komfort-122",
+        "nameEn": "Leona – Charcoal",
+        "category": "women",
+        "modelGroupId": "leon-mg-leona-women",
+        "stemKey": "leona",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-123",
+        "slug": "alpen-komfort-123",
+        "nameEn": "Leona – Black",
+        "category": "women",
+        "modelGroupId": "leon-mg-leona-women",
+        "stemKey": "leona",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-124",
+        "slug": "alpen-komfort-124",
+        "nameEn": "Leona – White",
+        "category": "women",
+        "modelGroupId": "leon-mg-leona-women",
+        "stemKey": "leona",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-236",
+        "slug": "alpen-komfort-236",
+        "nameEn": "Leona – Red",
+        "category": "women",
+        "modelGroupId": "leon-mg-leona-women",
+        "stemKey": "950",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-leona-perla",
+        "slug": "leona-perla",
+        "nameEn": "Leona – Pearl",
+        "category": "women",
+        "modelGroupId": "leon-mg-leona-women",
+        "stemKey": "leona",
+        "variantCount": 21,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-leona-sampanj",
+        "slug": "leona-sampanj",
+        "nameEn": "Leona – Champagne",
+        "category": "women",
+        "modelGroupId": "leon-mg-leona-women",
+        "stemKey": "950-samp",
+        "variantCount": 21,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-leona-bakkar-teget-bakkar",
+        "slug": "leona-bakkar-teget-bakkar",
+        "nameEn": "Leona – Patent Charcoal Patent",
+        "category": "women",
+        "modelGroupId": "leon-mg-leona-women",
+        "stemKey": "leona",
+        "variantCount": 21,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-leona-bakkar-roze-bakkar",
+        "slug": "leona-bakkar-roze-bakkar",
+        "nameEn": "Leona – Patent Pink Patent",
+        "category": "women",
+        "modelGroupId": "leon-mg-leona-women",
+        "stemKey": "leona",
+        "variantCount": 21,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-leona-bakkar-bela-bakkar",
+        "slug": "leona-bakkar-bela-bakkar",
+        "nameEn": "Leona – Patent White Patent",
+        "category": "women",
+        "modelGroupId": "leon-mg-leona-women",
+        "stemKey": "leona",
+        "variantCount": 21,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-leona-zelena-perlato",
+        "slug": "leona-zelena-perlato",
+        "nameEn": "Leona – Green perlato",
+        "category": "women",
+        "modelGroupId": "leon-mg-leona-women",
+        "stemKey": "leona",
+        "variantCount": 21,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-leona-teget",
+        "slug": "leona-teget",
+        "nameEn": "Leona – Charcoal",
+        "category": "women",
+        "modelGroupId": "leon-mg-leona-women",
+        "stemKey": "leona",
+        "variantCount": 21,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-leona-crna",
+        "slug": "leona-crna",
+        "nameEn": "Leona – Black",
+        "category": "women",
+        "modelGroupId": "leon-mg-leona-women",
+        "stemKey": "leona",
+        "variantCount": 21,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-leona-bela",
+        "slug": "leona-bela",
+        "nameEn": "Leona – White",
+        "category": "women",
+        "modelGroupId": "leon-mg-leona-women",
+        "stemKey": "leona",
+        "variantCount": 21,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-leona-crvena",
+        "slug": "leona-crvena",
+        "nameEn": "Leona – Red",
+        "category": "women",
+        "modelGroupId": "leon-mg-leona-women",
+        "stemKey": "950",
+        "variantCount": 21,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      }
+    ]
+  },
+  {
+    "broj": "900",
+    "naziv": "Lana",
+    "maloprodajnaCHF": 49,
+    "status": "matched",
+    "matchMethod": [
+      "broj",
+      "naziv"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-alpen-komfort-133",
+        "slug": "alpen-komfort-133",
+        "nameEn": "Lana – Red",
+        "category": "women",
+        "modelGroupId": "leon-mg-lana-women",
+        "stemKey": "900",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-134",
+        "slug": "alpen-komfort-134",
+        "nameEn": "Lana – Charcoal",
+        "category": "women",
+        "modelGroupId": "leon-mg-lana-women",
+        "stemKey": "lana",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-135",
+        "slug": "alpen-komfort-135",
+        "nameEn": "Lana – Pearl",
+        "category": "women",
+        "modelGroupId": "leon-mg-lana-women",
+        "stemKey": "lana",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-136",
+        "slug": "alpen-komfort-136",
+        "nameEn": "Lana – Black",
+        "category": "women",
+        "modelGroupId": "leon-mg-lana-women",
+        "stemKey": "lana",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-138",
+        "slug": "alpen-komfort-138",
+        "nameEn": "Lana – White",
+        "category": "women",
+        "modelGroupId": "leon-mg-lana-women",
+        "stemKey": "lana",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "milami-1458",
+        "slug": "milami-new-bali-pink",
+        "nameEn": "New bali Pink",
+        "category": "children",
+        "stemKey": "900-10-main",
+        "variantCount": 16,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "milami-1481",
+        "slug": "milami-bali-rose-flower",
+        "nameEn": "Bali rose flower",
+        "category": "children",
+        "stemKey": "900-0bc10-main",
+        "variantCount": 16,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "milami-1482",
+        "slug": "milami-bali-green-dinosaur",
+        "nameEn": "Bali green dinosaur",
+        "category": "children",
+        "stemKey": "900-4dino12-main",
+        "variantCount": 16,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "milami-1483",
+        "slug": "milami-bali-dark-rose-star",
+        "nameEn": "Bali dark rose star",
+        "category": "children",
+        "stemKey": "900-4sr-main",
+        "variantCount": 16,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "milami-1484",
+        "slug": "milami-bali-blue-graffiti",
+        "nameEn": "Bali blue graffiti",
+        "category": "children",
+        "stemKey": "900-5graf-main",
+        "variantCount": 16,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "milami-1485",
+        "slug": "milami-bali-comic-boom",
+        "nameEn": "Bali comic boom",
+        "category": "children",
+        "stemKey": "900-6komik6-main",
+        "variantCount": 16,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "milami-1486",
+        "slug": "milami-bali-purple-star",
+        "nameEn": "Bali purple star",
+        "category": "children",
+        "stemKey": "900-8p2-main",
+        "variantCount": 16,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "milami-1487",
+        "slug": "milami-bali-navy-blue",
+        "nameEn": "Bali navy blue",
+        "category": "children",
+        "stemKey": "900-66-main",
+        "variantCount": 16,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "milami-1658",
+        "slug": "milami-new-bali-silver",
+        "nameEn": "NEW BALI SILVER",
+        "category": "children",
+        "stemKey": "900",
+        "variantCount": 16,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      }
+    ]
+  },
+  {
+    "broj": "933",
+    "naziv": "Bakkar",
+    "maloprodajnaCHF": 49,
+    "status": "matched",
+    "matchMethod": [
+      "slug"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-alpen-komfort-203",
+        "slug": "alpen-komfort-203",
+        "nameEn": "Bakkar II – Pink",
+        "category": "women",
+        "modelGroupId": "leon-mg-bakkar-ii-women",
+        "stemKey": "bakkar-ii",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-205",
+        "slug": "alpen-komfort-205",
+        "nameEn": "Bakkar II – Black",
+        "category": "women",
+        "modelGroupId": "leon-mg-bakkar-ii-women",
+        "stemKey": "bakkar-ii",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-204",
+        "slug": "alpen-komfort-204",
+        "nameEn": "Bakkar II – White",
+        "category": "women",
+        "modelGroupId": "leon-mg-bakkar-ii-women",
+        "stemKey": "bakkar-ii",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-leona-bakkar-teget-bakkar",
+        "slug": "leona-bakkar-teget-bakkar",
+        "nameEn": "Leona – Patent Charcoal Patent",
+        "category": "women",
+        "modelGroupId": "leon-mg-leona-women",
+        "stemKey": "leona",
+        "variantCount": 21,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-leona-bakkar-roze-bakkar",
+        "slug": "leona-bakkar-roze-bakkar",
+        "nameEn": "Leona – Patent Pink Patent",
+        "category": "women",
+        "modelGroupId": "leon-mg-leona-women",
+        "stemKey": "leona",
+        "variantCount": 21,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-leona-bakkar-bela-bakkar",
+        "slug": "leona-bakkar-bela-bakkar",
+        "nameEn": "Leona – Patent White Patent",
+        "category": "women",
+        "modelGroupId": "leon-mg-leona-women",
+        "stemKey": "leona",
+        "variantCount": 21,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-anna-crna-bakkar",
+        "slug": "anna-crna-bakkar",
+        "nameEn": "Anna – Black patent",
+        "category": "women",
+        "modelGroupId": "leon-mg-anna-women",
+        "stemKey": "anna",
+        "variantCount": 21,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort",
+        "slug": "alpen-komfort",
+        "nameEn": "Leona – Pearl",
+        "category": "women",
+        "modelGroupId": "leon-mg-leona-women",
+        "stemKey": "leona",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-42",
+        "slug": "alpen-komfort-42",
+        "nameEn": "Leona – Champagne",
+        "category": "women",
+        "modelGroupId": "leon-mg-leona-women",
+        "stemKey": "950-samp",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-118",
+        "slug": "alpen-komfort-118",
+        "nameEn": "Leona – Patent Charcoal Patent",
+        "category": "women",
+        "modelGroupId": "leon-mg-leona-women",
+        "stemKey": "leona",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-120",
+        "slug": "alpen-komfort-120",
+        "nameEn": "Leona – Patent Pink Patent",
+        "category": "women",
+        "modelGroupId": "leon-mg-leona-women",
+        "stemKey": "leona",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-119",
+        "slug": "alpen-komfort-119",
+        "nameEn": "Leona – Patent White Patent",
+        "category": "women",
+        "modelGroupId": "leon-mg-leona-women",
+        "stemKey": "leona",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-121",
+        "slug": "alpen-komfort-121",
+        "nameEn": "Leona – Green perlato",
+        "category": "women",
+        "modelGroupId": "leon-mg-leona-women",
+        "stemKey": "leona",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-122",
+        "slug": "alpen-komfort-122",
+        "nameEn": "Leona – Charcoal",
+        "category": "women",
+        "modelGroupId": "leon-mg-leona-women",
+        "stemKey": "leona",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-123",
+        "slug": "alpen-komfort-123",
+        "nameEn": "Leona – Black",
+        "category": "women",
+        "modelGroupId": "leon-mg-leona-women",
+        "stemKey": "leona",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-124",
+        "slug": "alpen-komfort-124",
+        "nameEn": "Leona – White",
+        "category": "women",
+        "modelGroupId": "leon-mg-leona-women",
+        "stemKey": "leona",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-236",
+        "slug": "alpen-komfort-236",
+        "nameEn": "Leona – Red",
+        "category": "women",
+        "modelGroupId": "leon-mg-leona-women",
+        "stemKey": "950",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-leona-perla",
+        "slug": "leona-perla",
+        "nameEn": "Leona – Pearl",
+        "category": "women",
+        "modelGroupId": "leon-mg-leona-women",
+        "stemKey": "leona",
+        "variantCount": 21,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-leona-sampanj",
+        "slug": "leona-sampanj",
+        "nameEn": "Leona – Champagne",
+        "category": "women",
+        "modelGroupId": "leon-mg-leona-women",
+        "stemKey": "950-samp",
+        "variantCount": 21,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-leona-zelena-perlato",
+        "slug": "leona-zelena-perlato",
+        "nameEn": "Leona – Green perlato",
+        "category": "women",
+        "modelGroupId": "leon-mg-leona-women",
+        "stemKey": "leona",
+        "variantCount": 21,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-leona-teget",
+        "slug": "leona-teget",
+        "nameEn": "Leona – Charcoal",
+        "category": "women",
+        "modelGroupId": "leon-mg-leona-women",
+        "stemKey": "leona",
+        "variantCount": 21,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-leona-crna",
+        "slug": "leona-crna",
+        "nameEn": "Leona – Black",
+        "category": "women",
+        "modelGroupId": "leon-mg-leona-women",
+        "stemKey": "leona",
+        "variantCount": 21,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-leona-bela",
+        "slug": "leona-bela",
+        "nameEn": "Leona – White",
+        "category": "women",
+        "modelGroupId": "leon-mg-leona-women",
+        "stemKey": "leona",
+        "variantCount": 21,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-leona-crvena",
+        "slug": "leona-crvena",
+        "nameEn": "Leona – Red",
+        "category": "women",
+        "modelGroupId": "leon-mg-leona-women",
+        "stemKey": "950",
+        "variantCount": 21,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-221",
+        "slug": "alpen-komfort-221",
+        "nameEn": "Anna – Suede Grey",
+        "category": "women",
+        "modelGroupId": "leon-mg-anna-women",
+        "stemKey": "anna",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-223",
+        "slug": "alpen-komfort-223",
+        "nameEn": "Anna – Suede Brown",
+        "category": "women",
+        "modelGroupId": "leon-mg-anna-women",
+        "stemKey": "anna",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-225",
+        "slug": "alpen-komfort-225",
+        "nameEn": "Anna – Suede Beige",
+        "category": "women",
+        "modelGroupId": "leon-mg-anna-women",
+        "stemKey": "anna",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-224",
+        "slug": "alpen-komfort-224",
+        "nameEn": "Anna – Yellow suede",
+        "category": "women",
+        "modelGroupId": "leon-mg-anna-women",
+        "stemKey": "anna",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-226",
+        "slug": "alpen-komfort-226",
+        "nameEn": "Anna – Pink suede",
+        "category": "women",
+        "modelGroupId": "leon-mg-anna-women",
+        "stemKey": "anna",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-227",
+        "slug": "alpen-komfort-227",
+        "nameEn": "Anna – Black patent",
+        "category": "women",
+        "modelGroupId": "leon-mg-anna-women",
+        "stemKey": "anna",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-240",
+        "slug": "alpen-komfort-240",
+        "nameEn": "Anna – Brown",
+        "category": "women",
+        "modelGroupId": "leon-mg-anna-women",
+        "stemKey": "4010-braon-novo",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-anna-velur-siva",
+        "slug": "anna-velur-siva",
+        "nameEn": "Anna – Suede Grey",
+        "category": "women",
+        "modelGroupId": "leon-mg-anna-women",
+        "stemKey": "anna",
+        "variantCount": 21,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-anna-velur-braon",
+        "slug": "anna-velur-braon",
+        "nameEn": "Anna – Suede Brown",
+        "category": "women",
+        "modelGroupId": "leon-mg-anna-women",
+        "stemKey": "anna",
+        "variantCount": 21,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-anna-velur-bez",
+        "slug": "anna-velur-bez",
+        "nameEn": "Anna – Suede Beige",
+        "category": "women",
+        "modelGroupId": "leon-mg-anna-women",
+        "stemKey": "anna",
+        "variantCount": 21,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-anna-roze-velur",
+        "slug": "anna-roze-velur",
+        "nameEn": "Anna – Pink suede",
+        "category": "women",
+        "modelGroupId": "leon-mg-anna-women",
+        "stemKey": "anna",
+        "variantCount": 21,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-anna-braon",
+        "slug": "anna-braon",
+        "nameEn": "Anna – Brown",
+        "category": "women",
+        "modelGroupId": "leon-mg-anna-women",
+        "stemKey": "4010-braon-novo",
+        "variantCount": 21,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      }
+    ]
+  },
+  {
+    "broj": "970",
+    "naziv": "Leona Bakkar",
+    "maloprodajnaCHF": 49,
+    "status": "matched",
+    "matchMethod": [
+      "slug"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-leona-bakkar-teget-bakkar",
+        "slug": "leona-bakkar-teget-bakkar",
+        "nameEn": "Leona – Patent Charcoal Patent",
+        "category": "women",
+        "modelGroupId": "leon-mg-leona-women",
+        "stemKey": "leona",
+        "variantCount": 21,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-leona-bakkar-roze-bakkar",
+        "slug": "leona-bakkar-roze-bakkar",
+        "nameEn": "Leona – Patent Pink Patent",
+        "category": "women",
+        "modelGroupId": "leon-mg-leona-women",
+        "stemKey": "leona",
+        "variantCount": 21,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-leona-bakkar-bela-bakkar",
+        "slug": "leona-bakkar-bela-bakkar",
+        "nameEn": "Leona – Patent White Patent",
+        "category": "women",
+        "modelGroupId": "leon-mg-leona-women",
+        "stemKey": "leona",
+        "variantCount": 21,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort",
+        "slug": "alpen-komfort",
+        "nameEn": "Leona – Pearl",
+        "category": "women",
+        "modelGroupId": "leon-mg-leona-women",
+        "stemKey": "leona",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-42",
+        "slug": "alpen-komfort-42",
+        "nameEn": "Leona – Champagne",
+        "category": "women",
+        "modelGroupId": "leon-mg-leona-women",
+        "stemKey": "950-samp",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-118",
+        "slug": "alpen-komfort-118",
+        "nameEn": "Leona – Patent Charcoal Patent",
+        "category": "women",
+        "modelGroupId": "leon-mg-leona-women",
+        "stemKey": "leona",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-120",
+        "slug": "alpen-komfort-120",
+        "nameEn": "Leona – Patent Pink Patent",
+        "category": "women",
+        "modelGroupId": "leon-mg-leona-women",
+        "stemKey": "leona",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-119",
+        "slug": "alpen-komfort-119",
+        "nameEn": "Leona – Patent White Patent",
+        "category": "women",
+        "modelGroupId": "leon-mg-leona-women",
+        "stemKey": "leona",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-121",
+        "slug": "alpen-komfort-121",
+        "nameEn": "Leona – Green perlato",
+        "category": "women",
+        "modelGroupId": "leon-mg-leona-women",
+        "stemKey": "leona",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-122",
+        "slug": "alpen-komfort-122",
+        "nameEn": "Leona – Charcoal",
+        "category": "women",
+        "modelGroupId": "leon-mg-leona-women",
+        "stemKey": "leona",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-123",
+        "slug": "alpen-komfort-123",
+        "nameEn": "Leona – Black",
+        "category": "women",
+        "modelGroupId": "leon-mg-leona-women",
+        "stemKey": "leona",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-124",
+        "slug": "alpen-komfort-124",
+        "nameEn": "Leona – White",
+        "category": "women",
+        "modelGroupId": "leon-mg-leona-women",
+        "stemKey": "leona",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-236",
+        "slug": "alpen-komfort-236",
+        "nameEn": "Leona – Red",
+        "category": "women",
+        "modelGroupId": "leon-mg-leona-women",
+        "stemKey": "950",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-leona-perla",
+        "slug": "leona-perla",
+        "nameEn": "Leona – Pearl",
+        "category": "women",
+        "modelGroupId": "leon-mg-leona-women",
+        "stemKey": "leona",
+        "variantCount": 21,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-leona-sampanj",
+        "slug": "leona-sampanj",
+        "nameEn": "Leona – Champagne",
+        "category": "women",
+        "modelGroupId": "leon-mg-leona-women",
+        "stemKey": "950-samp",
+        "variantCount": 21,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-leona-zelena-perlato",
+        "slug": "leona-zelena-perlato",
+        "nameEn": "Leona – Green perlato",
+        "category": "women",
+        "modelGroupId": "leon-mg-leona-women",
+        "stemKey": "leona",
+        "variantCount": 21,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-leona-teget",
+        "slug": "leona-teget",
+        "nameEn": "Leona – Charcoal",
+        "category": "women",
+        "modelGroupId": "leon-mg-leona-women",
+        "stemKey": "leona",
+        "variantCount": 21,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-leona-crna",
+        "slug": "leona-crna",
+        "nameEn": "Leona – Black",
+        "category": "women",
+        "modelGroupId": "leon-mg-leona-women",
+        "stemKey": "leona",
+        "variantCount": 21,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-leona-bela",
+        "slug": "leona-bela",
+        "nameEn": "Leona – White",
+        "category": "women",
+        "modelGroupId": "leon-mg-leona-women",
+        "stemKey": "leona",
+        "variantCount": 21,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-leona-crvena",
+        "slug": "leona-crvena",
+        "nameEn": "Leona – Red",
+        "category": "women",
+        "modelGroupId": "leon-mg-leona-women",
+        "stemKey": "950",
+        "variantCount": 21,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      }
+    ]
+  },
+  {
+    "broj": "5010",
+    "naziv": "Nora 2",
+    "maloprodajnaCHF": 69,
+    "status": "matched",
+    "matchMethod": [
+      "naziv"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-alpen-komfort-93",
+        "slug": "alpen-komfort-93",
+        "nameEn": "Nora II – Black",
+        "category": "women",
+        "modelGroupId": "leon-mg-nora-ii-women",
+        "stemKey": "nora-ii",
+        "variantCount": 14,
+        "oldPriceCHF": 69,
+        "newPriceCHF": 69
+      },
+      {
+        "id": "leon-nora-ii-braon",
+        "slug": "nora-ii-braon",
+        "nameEn": "Nora II",
+        "category": "women",
+        "modelGroupId": "leon-mg-nora-ii-women",
+        "stemKey": "nora-ii",
+        "variantCount": 21,
+        "oldPriceCHF": 69,
+        "newPriceCHF": 69
+      },
+      {
+        "id": "leon-nora-ii-crna",
+        "slug": "nora-ii-crna",
+        "nameEn": "Nora II – Black",
+        "category": "women",
+        "modelGroupId": "leon-mg-nora-ii-women",
+        "stemKey": "nora-ii",
+        "variantCount": 21,
+        "oldPriceCHF": 69,
+        "newPriceCHF": 69
+      }
+    ]
+  },
+  {
+    "broj": "904",
+    "naziv": "Lucia",
+    "maloprodajnaCHF": 49,
+    "status": "matched",
+    "matchMethod": [
+      "naziv"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-alpen-komfort-109",
+        "slug": "alpen-komfort-109",
+        "nameEn": "Lucia – Black",
+        "category": "women",
+        "modelGroupId": "leon-mg-lucia-women",
+        "stemKey": "lucia",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-110",
+        "slug": "alpen-komfort-110",
+        "nameEn": "Lucia – White",
+        "category": "women",
+        "modelGroupId": "leon-mg-lucia-women",
+        "stemKey": "lucia",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-111",
+        "slug": "alpen-komfort-111",
+        "nameEn": "Lucia – Pearl",
+        "category": "women",
+        "modelGroupId": "leon-mg-lucia-women",
+        "stemKey": "lucia",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      }
+    ]
+  },
+  {
+    "broj": "906",
+    "naziv": "Laura",
+    "maloprodajnaCHF": 49,
+    "status": "matched",
+    "matchMethod": [
+      "naziv",
+      "broj"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-alpen-komfort-125",
+        "slug": "alpen-komfort-125",
+        "nameEn": "Laura – Pearl",
+        "category": "women",
+        "modelGroupId": "leon-mg-laura-women",
+        "stemKey": "laura",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-126",
+        "slug": "alpen-komfort-126",
+        "nameEn": "Laura – Black",
+        "category": "women",
+        "modelGroupId": "leon-mg-laura-women",
+        "stemKey": "laura",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-127",
+        "slug": "alpen-komfort-127",
+        "nameEn": "Laura – Gold gloss",
+        "category": "women",
+        "modelGroupId": "leon-mg-laura-women",
+        "stemKey": "laura",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-128",
+        "slug": "alpen-komfort-128",
+        "nameEn": "Laura – White",
+        "category": "women",
+        "modelGroupId": "leon-mg-laura-women",
+        "stemKey": "laura",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "milami-1456",
+        "slug": "milami-luxury-silver-sandalas",
+        "nameEn": "LUXURY SILVER SANDALAS",
+        "category": "children",
+        "stemKey": "906-15-main",
+        "variantCount": 16,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "milami-1457",
+        "slug": "milami-luxury-golden-sandalas",
+        "nameEn": "LUXURY GOLDEN SANDALAS",
+        "category": "children",
+        "stemKey": "906-16-main",
+        "variantCount": 16,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      }
+    ]
+  },
+  {
+    "broj": "5002",
+    "naziv": "Zenska Klompa",
+    "maloprodajnaCHF": 59,
+    "status": "matched",
+    "matchMethod": [
+      "slug",
+      "broj"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-alpen-komfort-238",
+        "slug": "alpen-komfort-238",
+        "nameEn": "Women's clog Klasik I – White",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-klasik-i-women",
+        "stemKey": "zenska-klompa-klasik-i",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-alpen-komfort-239",
+        "slug": "alpen-komfort-239",
+        "nameEn": "Women's clog Klasik I – Pearl",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-klasik-i-women",
+        "stemKey": "zenska-klompa-klasik-i",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-alpen-komfort-241",
+        "slug": "alpen-komfort-241",
+        "nameEn": "Women's clog Klasik I – Black",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-klasik-i-women",
+        "stemKey": "zenska-klompa-klasik-i",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-alpen-komfort-244",
+        "slug": "alpen-komfort-244",
+        "nameEn": "Women's clog 5002 – White",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-5002-women",
+        "stemKey": "5002",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-alpen-komfort-247",
+        "slug": "alpen-komfort-247",
+        "nameEn": "Women's clog 5002 – Pearl",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-5002-women",
+        "stemKey": "5002",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-alpen-komfort-250",
+        "slug": "alpen-komfort-250",
+        "nameEn": "Women's clog 5002 – Black",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-5002-women",
+        "stemKey": "5002",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-zenska-klompa-5002-bela",
+        "slug": "zenska-klompa-5002-bela",
+        "nameEn": "Women's clog 5002 – White",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-5002-women",
+        "stemKey": "5002",
+        "variantCount": 21,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-zenska-klompa-3300-crna",
+        "slug": "zenska-klompa-3300-crna",
+        "nameEn": "Women's clog 3300 – Black",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-3300-women",
+        "stemKey": "dsc",
+        "variantCount": 21,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-alpen-komfort-242",
+        "slug": "alpen-komfort-242",
+        "nameEn": "Women's clog 3300 – Black",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-3300-women",
+        "stemKey": "dsc",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-alpen-komfort-243",
+        "slug": "alpen-komfort-243",
+        "nameEn": "Women's clog 3300 – Pearl",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-3300-women",
+        "stemKey": "dsc",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-alpen-komfort-245",
+        "slug": "alpen-komfort-245",
+        "nameEn": "Women's clog 3300 – White",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-3300-women",
+        "stemKey": "dsc",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 59
+      }
+    ]
+  },
+  {
+    "broj": "2023",
+    "naziv": "Zenska Klompa",
+    "maloprodajnaCHF": 59,
+    "status": "matched",
+    "matchMethod": [
+      "slug",
+      "broj"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-alpen-komfort-238",
+        "slug": "alpen-komfort-238",
+        "nameEn": "Women's clog Klasik I – White",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-klasik-i-women",
+        "stemKey": "zenska-klompa-klasik-i",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-alpen-komfort-239",
+        "slug": "alpen-komfort-239",
+        "nameEn": "Women's clog Klasik I – Pearl",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-klasik-i-women",
+        "stemKey": "zenska-klompa-klasik-i",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-alpen-komfort-241",
+        "slug": "alpen-komfort-241",
+        "nameEn": "Women's clog Klasik I – Black",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-klasik-i-women",
+        "stemKey": "zenska-klompa-klasik-i",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-alpen-komfort-249",
+        "slug": "alpen-komfort-249",
+        "nameEn": "Women's clog 2023 – Black",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-2023-women",
+        "stemKey": "2023",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-alpen-komfort-251",
+        "slug": "alpen-komfort-251",
+        "nameEn": "Women's clog 2023 – Pearl",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-2023-women",
+        "stemKey": "2023",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-alpen-komfort-253",
+        "slug": "alpen-komfort-253",
+        "nameEn": "Women's clog 2023 – White",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-2023-women",
+        "stemKey": "2023",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-zenska-klompa-5002-bela",
+        "slug": "zenska-klompa-5002-bela",
+        "nameEn": "Women's clog 5002 – White",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-5002-women",
+        "stemKey": "5002",
+        "variantCount": 21,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-zenska-klompa-3300-crna",
+        "slug": "zenska-klompa-3300-crna",
+        "nameEn": "Women's clog 3300 – Black",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-3300-women",
+        "stemKey": "dsc",
+        "variantCount": 21,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-alpen-komfort-244",
+        "slug": "alpen-komfort-244",
+        "nameEn": "Women's clog 5002 – White",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-5002-women",
+        "stemKey": "5002",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-alpen-komfort-247",
+        "slug": "alpen-komfort-247",
+        "nameEn": "Women's clog 5002 – Pearl",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-5002-women",
+        "stemKey": "5002",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-alpen-komfort-250",
+        "slug": "alpen-komfort-250",
+        "nameEn": "Women's clog 5002 – Black",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-5002-women",
+        "stemKey": "5002",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-alpen-komfort-242",
+        "slug": "alpen-komfort-242",
+        "nameEn": "Women's clog 3300 – Black",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-3300-women",
+        "stemKey": "dsc",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-alpen-komfort-243",
+        "slug": "alpen-komfort-243",
+        "nameEn": "Women's clog 3300 – Pearl",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-3300-women",
+        "stemKey": "dsc",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-alpen-komfort-245",
+        "slug": "alpen-komfort-245",
+        "nameEn": "Women's clog 3300 – White",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-3300-women",
+        "stemKey": "dsc",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 59
+      }
+    ]
+  },
+  {
+    "broj": "3300",
+    "naziv": "Zenska Klompa",
+    "maloprodajnaCHF": 49,
+    "status": "matched",
+    "matchMethod": [
+      "slug",
+      "broj"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-alpen-komfort-238",
+        "slug": "alpen-komfort-238",
+        "nameEn": "Women's clog Klasik I – White",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-klasik-i-women",
+        "stemKey": "zenska-klompa-klasik-i",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-239",
+        "slug": "alpen-komfort-239",
+        "nameEn": "Women's clog Klasik I – Pearl",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-klasik-i-women",
+        "stemKey": "zenska-klompa-klasik-i",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-241",
+        "slug": "alpen-komfort-241",
+        "nameEn": "Women's clog Klasik I – Black",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-klasik-i-women",
+        "stemKey": "zenska-klompa-klasik-i",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-242",
+        "slug": "alpen-komfort-242",
+        "nameEn": "Women's clog 3300 – Black",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-3300-women",
+        "stemKey": "dsc",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-243",
+        "slug": "alpen-komfort-243",
+        "nameEn": "Women's clog 3300 – Pearl",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-3300-women",
+        "stemKey": "dsc",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-245",
+        "slug": "alpen-komfort-245",
+        "nameEn": "Women's clog 3300 – White",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-3300-women",
+        "stemKey": "dsc",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-zenska-klompa-5002-bela",
+        "slug": "zenska-klompa-5002-bela",
+        "nameEn": "Women's clog 5002 – White",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-5002-women",
+        "stemKey": "5002",
+        "variantCount": 21,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-zenska-klompa-3300-crna",
+        "slug": "zenska-klompa-3300-crna",
+        "nameEn": "Women's clog 3300 – Black",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-3300-women",
+        "stemKey": "dsc",
+        "variantCount": 21,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-244",
+        "slug": "alpen-komfort-244",
+        "nameEn": "Women's clog 5002 – White",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-5002-women",
+        "stemKey": "5002",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-247",
+        "slug": "alpen-komfort-247",
+        "nameEn": "Women's clog 5002 – Pearl",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-5002-women",
+        "stemKey": "5002",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-250",
+        "slug": "alpen-komfort-250",
+        "nameEn": "Women's clog 5002 – Black",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-5002-women",
+        "stemKey": "5002",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 49
+      }
+    ]
+  },
+  {
+    "broj": "991",
+    "naziv": "Zenska Klompa",
+    "maloprodajnaCHF": 49,
+    "status": "matched",
+    "matchMethod": [
+      "slug"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-alpen-komfort-238",
+        "slug": "alpen-komfort-238",
+        "nameEn": "Women's clog Klasik I – White",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-klasik-i-women",
+        "stemKey": "zenska-klompa-klasik-i",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-239",
+        "slug": "alpen-komfort-239",
+        "nameEn": "Women's clog Klasik I – Pearl",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-klasik-i-women",
+        "stemKey": "zenska-klompa-klasik-i",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-241",
+        "slug": "alpen-komfort-241",
+        "nameEn": "Women's clog Klasik I – Black",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-klasik-i-women",
+        "stemKey": "zenska-klompa-klasik-i",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-zenska-klompa-5002-bela",
+        "slug": "zenska-klompa-5002-bela",
+        "nameEn": "Women's clog 5002 – White",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-5002-women",
+        "stemKey": "5002",
+        "variantCount": 21,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-zenska-klompa-3300-crna",
+        "slug": "zenska-klompa-3300-crna",
+        "nameEn": "Women's clog 3300 – Black",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-3300-women",
+        "stemKey": "dsc",
+        "variantCount": 21,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-244",
+        "slug": "alpen-komfort-244",
+        "nameEn": "Women's clog 5002 – White",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-5002-women",
+        "stemKey": "5002",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-247",
+        "slug": "alpen-komfort-247",
+        "nameEn": "Women's clog 5002 – Pearl",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-5002-women",
+        "stemKey": "5002",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-250",
+        "slug": "alpen-komfort-250",
+        "nameEn": "Women's clog 5002 – Black",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-5002-women",
+        "stemKey": "5002",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-242",
+        "slug": "alpen-komfort-242",
+        "nameEn": "Women's clog 3300 – Black",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-3300-women",
+        "stemKey": "dsc",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-243",
+        "slug": "alpen-komfort-243",
+        "nameEn": "Women's clog 3300 – Pearl",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-3300-women",
+        "stemKey": "dsc",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-245",
+        "slug": "alpen-komfort-245",
+        "nameEn": "Women's clog 3300 – White",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-3300-women",
+        "stemKey": "dsc",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      }
+    ]
+  },
+  {
+    "broj": "300",
+    "naziv": "Zenska Klompa",
+    "maloprodajnaCHF": 49,
+    "status": "matched",
+    "matchMethod": [
+      "broj",
+      "slug"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-matterhorn-soft",
+        "slug": "matterhorn-soft",
+        "nameEn": "Settle – Pearl",
+        "category": "women",
+        "modelGroupId": "leon-mg-settle-women",
+        "stemKey": "300",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-lugano-warm",
+        "slug": "lugano-warm",
+        "nameEn": "Settle – Black",
+        "category": "women",
+        "modelGroupId": "leon-mg-settle-women",
+        "stemKey": "300",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-basel-relax",
+        "slug": "basel-relax",
+        "nameEn": "Settle – White",
+        "category": "women",
+        "modelGroupId": "leon-mg-settle-women",
+        "stemKey": "300",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-238",
+        "slug": "alpen-komfort-238",
+        "nameEn": "Women's clog Klasik I – White",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-klasik-i-women",
+        "stemKey": "zenska-klompa-klasik-i",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-239",
+        "slug": "alpen-komfort-239",
+        "nameEn": "Women's clog Klasik I – Pearl",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-klasik-i-women",
+        "stemKey": "zenska-klompa-klasik-i",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-241",
+        "slug": "alpen-komfort-241",
+        "nameEn": "Women's clog Klasik I – Black",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-klasik-i-women",
+        "stemKey": "zenska-klompa-klasik-i",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-zenska-klompa-5002-bela",
+        "slug": "zenska-klompa-5002-bela",
+        "nameEn": "Women's clog 5002 – White",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-5002-women",
+        "stemKey": "5002",
+        "variantCount": 21,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-zenska-klompa-3300-crna",
+        "slug": "zenska-klompa-3300-crna",
+        "nameEn": "Women's clog 3300 – Black",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-3300-women",
+        "stemKey": "dsc",
+        "variantCount": 21,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-244",
+        "slug": "alpen-komfort-244",
+        "nameEn": "Women's clog 5002 – White",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-5002-women",
+        "stemKey": "5002",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-247",
+        "slug": "alpen-komfort-247",
+        "nameEn": "Women's clog 5002 – Pearl",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-5002-women",
+        "stemKey": "5002",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-250",
+        "slug": "alpen-komfort-250",
+        "nameEn": "Women's clog 5002 – Black",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-5002-women",
+        "stemKey": "5002",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-242",
+        "slug": "alpen-komfort-242",
+        "nameEn": "Women's clog 3300 – Black",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-3300-women",
+        "stemKey": "dsc",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-243",
+        "slug": "alpen-komfort-243",
+        "nameEn": "Women's clog 3300 – Pearl",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-3300-women",
+        "stemKey": "dsc",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-245",
+        "slug": "alpen-komfort-245",
+        "nameEn": "Women's clog 3300 – White",
+        "category": "women",
+        "modelGroupId": "leon-mg-zenska-klompa-3300-women",
+        "stemKey": "dsc",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      }
+    ]
+  },
+  {
+    "broj": "4250",
+    "naziv": "Edita",
+    "maloprodajnaCHF": 59,
+    "status": "matched",
+    "matchMethod": [
+      "broj",
+      "slug",
+      "naziv"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-alpen-komfort-161",
+        "slug": "alpen-komfort-161",
+        "nameEn": "Edita Orlando Roza – Pink patent",
+        "category": "women",
+        "stemKey": "4250-rozeorlandonova",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-alpen-komfort-162",
+        "slug": "alpen-komfort-162",
+        "nameEn": "Edita Orlando Braon – Brown Patent",
+        "category": "women",
+        "stemKey": "4250-braonorlandonova",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-alpen-komfort-164",
+        "slug": "alpen-komfort-164",
+        "nameEn": "Edita Orlando Bez – Beige Patent",
+        "category": "women",
+        "stemKey": "4250-bezorlandonova",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-alpen-komfort-163",
+        "slug": "alpen-komfort-163",
+        "nameEn": "Edita II – Green perlato",
+        "category": "women",
+        "modelGroupId": "leon-mg-edita-ii-women",
+        "stemKey": "edita-ii",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-alpen-komfort-165",
+        "slug": "alpen-komfort-165",
+        "nameEn": "Edita II – Champagne",
+        "category": "women",
+        "modelGroupId": "leon-mg-edita-ii-women",
+        "stemKey": "edita-ii",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-alpen-komfort-166",
+        "slug": "alpen-komfort-166",
+        "nameEn": "Edita II – Pearl",
+        "category": "women",
+        "modelGroupId": "leon-mg-edita-ii-women",
+        "stemKey": "edita-ii",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-alpen-komfort-167",
+        "slug": "alpen-komfort-167",
+        "nameEn": "Edita II – Mint",
+        "category": "women",
+        "modelGroupId": "leon-mg-edita-ii-women",
+        "stemKey": "edita-ii",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-alpen-komfort-168",
+        "slug": "alpen-komfort-168",
+        "nameEn": "Edita Crazy – Grey",
+        "category": "women",
+        "modelGroupId": "leon-mg-edita-crazy-women",
+        "stemKey": "edita-crazy",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-alpen-komfort-169",
+        "slug": "alpen-komfort-169",
+        "nameEn": "Edita Crazy – Pink",
+        "category": "women",
+        "modelGroupId": "leon-mg-edita-crazy-women",
+        "stemKey": "edita-crazy",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-alpen-komfort-172",
+        "slug": "alpen-komfort-172",
+        "nameEn": "Edita Crazy – Olive Green",
+        "category": "women",
+        "modelGroupId": "leon-mg-edita-crazy-women",
+        "stemKey": "edita-crazy",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-alpen-komfort-174",
+        "slug": "alpen-komfort-174",
+        "nameEn": "Edita Crazy – Black",
+        "category": "women",
+        "modelGroupId": "leon-mg-edita-crazy-women",
+        "stemKey": "edita-crazy",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-alpen-komfort-170",
+        "slug": "alpen-komfort-170",
+        "nameEn": "Edita Crazy – Brown Dark",
+        "category": "women",
+        "modelGroupId": "leon-mg-edita-crazy-women",
+        "stemKey": "edita-crazy",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-alpen-komfort-171",
+        "slug": "alpen-komfort-171",
+        "nameEn": "Edita Crazy – Beige",
+        "category": "women",
+        "modelGroupId": "leon-mg-edita-crazy-women",
+        "stemKey": "edita-crazy",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-alpen-komfort-173",
+        "slug": "alpen-komfort-173",
+        "nameEn": "Edita – Green perlato",
+        "category": "women",
+        "modelGroupId": "leon-mg-edita-women",
+        "stemKey": "edita",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-alpen-komfort-175",
+        "slug": "alpen-komfort-175",
+        "nameEn": "Edita – Charcoal",
+        "category": "women",
+        "modelGroupId": "leon-mg-edita-women",
+        "stemKey": "edita",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-alpen-komfort-176",
+        "slug": "alpen-komfort-176",
+        "nameEn": "Edita – Champagne",
+        "category": "women",
+        "modelGroupId": "leon-mg-edita-women",
+        "stemKey": "edita",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-alpen-komfort-177",
+        "slug": "alpen-komfort-177",
+        "nameEn": "Edita – Pearl",
+        "category": "women",
+        "modelGroupId": "leon-mg-edita-women",
+        "stemKey": "edita",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-alpen-komfort-180",
+        "slug": "alpen-komfort-180",
+        "nameEn": "Edita – Mint",
+        "category": "women",
+        "modelGroupId": "leon-mg-edita-women",
+        "stemKey": "edita",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-alpen-komfort-178",
+        "slug": "alpen-komfort-178",
+        "nameEn": "Edita – Black",
+        "category": "women",
+        "modelGroupId": "leon-mg-edita-women",
+        "stemKey": "edita",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-alpen-komfort-179",
+        "slug": "alpen-komfort-179",
+        "nameEn": "Edita – White",
+        "category": "women",
+        "modelGroupId": "leon-mg-edita-women",
+        "stemKey": "edita",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      }
+    ]
+  },
+  {
+    "broj": "4251",
+    "naziv": "Edita 2",
+    "maloprodajnaCHF": 59,
+    "status": "matched",
+    "matchMethod": [
+      "naziv"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-alpen-komfort-163",
+        "slug": "alpen-komfort-163",
+        "nameEn": "Edita II – Green perlato",
+        "category": "women",
+        "modelGroupId": "leon-mg-edita-ii-women",
+        "stemKey": "edita-ii",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-alpen-komfort-165",
+        "slug": "alpen-komfort-165",
+        "nameEn": "Edita II – Champagne",
+        "category": "women",
+        "modelGroupId": "leon-mg-edita-ii-women",
+        "stemKey": "edita-ii",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-alpen-komfort-166",
+        "slug": "alpen-komfort-166",
+        "nameEn": "Edita II – Pearl",
+        "category": "women",
+        "modelGroupId": "leon-mg-edita-ii-women",
+        "stemKey": "edita-ii",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-alpen-komfort-167",
+        "slug": "alpen-komfort-167",
+        "nameEn": "Edita II – Mint",
+        "category": "women",
+        "modelGroupId": "leon-mg-edita-ii-women",
+        "stemKey": "edita-ii",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      }
+    ]
+  },
+  {
+    "broj": "6000",
+    "naziv": "Andora",
+    "maloprodajnaCHF": 79,
+    "status": "matched",
+    "matchMethod": [
+      "slug",
+      "naziv"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-alpen-komfort-7",
+        "slug": "alpen-komfort-7",
+        "nameEn": "Andora II – Green",
+        "category": "women",
+        "modelGroupId": "leon-mg-andora-ii-women",
+        "stemKey": "andora-ii",
+        "variantCount": 14,
+        "oldPriceCHF": 79,
+        "newPriceCHF": 79
+      },
+      {
+        "id": "leon-alpen-komfort-6",
+        "slug": "alpen-komfort-6",
+        "nameEn": "Andora II – Brown",
+        "category": "women",
+        "modelGroupId": "leon-mg-andora-ii-women",
+        "stemKey": "andora-ii",
+        "variantCount": 14,
+        "oldPriceCHF": 79,
+        "newPriceCHF": 79
+      },
+      {
+        "id": "leon-alpen-komfort-10",
+        "slug": "alpen-komfort-10",
+        "nameEn": "Andora II – Beige",
+        "category": "women",
+        "modelGroupId": "leon-mg-andora-ii-women",
+        "stemKey": "andora-ii",
+        "variantCount": 14,
+        "oldPriceCHF": 79,
+        "newPriceCHF": 79
+      },
+      {
+        "id": "leon-alpen-komfort-9",
+        "slug": "alpen-komfort-9",
+        "nameEn": "Andora – Pink patent",
+        "category": "women",
+        "modelGroupId": "leon-mg-andora-women",
+        "stemKey": "andora",
+        "variantCount": 14,
+        "oldPriceCHF": 79,
+        "newPriceCHF": 79
+      },
+      {
+        "id": "leon-alpen-komfort-11",
+        "slug": "alpen-komfort-11",
+        "nameEn": "Andora – Black patent",
+        "category": "women",
+        "modelGroupId": "leon-mg-andora-women",
+        "stemKey": "andora",
+        "variantCount": 14,
+        "oldPriceCHF": 79,
+        "newPriceCHF": 79
+      },
+      {
+        "id": "leon-alpen-komfort-13",
+        "slug": "alpen-komfort-13",
+        "nameEn": "Andora – White patent",
+        "category": "women",
+        "modelGroupId": "leon-mg-andora-women",
+        "stemKey": "andora",
+        "variantCount": 14,
+        "oldPriceCHF": 79,
+        "newPriceCHF": 79
+      }
+    ]
+  },
+  {
+    "broj": "6006",
+    "naziv": "Andora 2",
+    "maloprodajnaCHF": 79,
+    "status": "matched",
+    "matchMethod": [
+      "naziv"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-alpen-komfort-7",
+        "slug": "alpen-komfort-7",
+        "nameEn": "Andora II – Green",
+        "category": "women",
+        "modelGroupId": "leon-mg-andora-ii-women",
+        "stemKey": "andora-ii",
+        "variantCount": 14,
+        "oldPriceCHF": 79,
+        "newPriceCHF": 79
+      },
+      {
+        "id": "leon-alpen-komfort-6",
+        "slug": "alpen-komfort-6",
+        "nameEn": "Andora II – Brown",
+        "category": "women",
+        "modelGroupId": "leon-mg-andora-ii-women",
+        "stemKey": "andora-ii",
+        "variantCount": 14,
+        "oldPriceCHF": 79,
+        "newPriceCHF": 79
+      },
+      {
+        "id": "leon-alpen-komfort-10",
+        "slug": "alpen-komfort-10",
+        "nameEn": "Andora II – Beige",
+        "category": "women",
+        "modelGroupId": "leon-mg-andora-ii-women",
+        "stemKey": "andora-ii",
+        "variantCount": 14,
+        "oldPriceCHF": 79,
+        "newPriceCHF": 79
+      }
+    ]
+  },
+  {
+    "broj": "6003",
+    "naziv": "Zoe",
+    "maloprodajnaCHF": 79,
+    "status": "matched",
+    "matchMethod": [
+      "naziv",
+      "slug"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-zurich-everyday",
+        "slug": "zurich-everyday",
+        "nameEn": "Zoe – White",
+        "category": "women",
+        "modelGroupId": "leon-mg-zoe-women",
+        "stemKey": "zoe",
+        "variantCount": 14,
+        "oldPriceCHF": 79,
+        "newPriceCHF": 79
+      },
+      {
+        "id": "leon-alpen-komfort-8",
+        "slug": "alpen-komfort-8",
+        "nameEn": "Zoe – Brown",
+        "category": "women",
+        "modelGroupId": "leon-mg-zoe-women",
+        "stemKey": "zoe",
+        "variantCount": 14,
+        "oldPriceCHF": 79,
+        "newPriceCHF": 79
+      },
+      {
+        "id": "milami-1431",
+        "slug": "milami-zoe-shine-black",
+        "nameEn": "ZOE SHINE BLACK",
+        "category": "children",
+        "stemKey": "t112",
+        "variantCount": 16,
+        "oldPriceCHF": 79,
+        "newPriceCHF": 79
+      },
+      {
+        "id": "milami-1432",
+        "slug": "milami-zoe-dark-red",
+        "nameEn": "Zoe Dark Red",
+        "category": "children",
+        "stemKey": "t114",
+        "variantCount": 16,
+        "oldPriceCHF": 79,
+        "newPriceCHF": 79
+      },
+      {
+        "id": "milami-1434",
+        "slug": "milami-zoe-outdoor-shine-black",
+        "nameEn": "ZOE OUTDOOR SHINE BLACK",
+        "category": "children",
+        "stemKey": "t115",
+        "variantCount": 16,
+        "oldPriceCHF": 79,
+        "newPriceCHF": 79
+      },
+      {
+        "id": "milami-1435",
+        "slug": "milami-zoe-outdoor-black",
+        "nameEn": "ZOE OUTDOOR BLACK",
+        "category": "children",
+        "stemKey": "t114",
+        "variantCount": 16,
+        "oldPriceCHF": 79,
+        "newPriceCHF": 79
+      },
+      {
+        "id": "milami-1443",
+        "slug": "milami-zoe-silver",
+        "nameEn": "ZOE SILVER",
+        "category": "children",
+        "stemKey": "t105",
+        "variantCount": 16,
+        "oldPriceCHF": 79,
+        "newPriceCHF": 79
+      },
+      {
+        "id": "milami-1447",
+        "slug": "milami-zoe-pink-fashion",
+        "nameEn": "ZOE Pink FASHION",
+        "category": "children",
+        "stemKey": "t108",
+        "variantCount": 16,
+        "oldPriceCHF": 79,
+        "newPriceCHF": 79
+      },
+      {
+        "id": "milami-1449",
+        "slug": "milami-zoe-shine-dark-red",
+        "nameEn": "ZOE SHINE DARK RED",
+        "category": "children",
+        "stemKey": "t112",
+        "variantCount": 16,
+        "oldPriceCHF": 79,
+        "newPriceCHF": 79
+      },
+      {
+        "id": "milami-1450",
+        "slug": "milami-zoe-shine-pink",
+        "nameEn": "ZOE SHINE Pink",
+        "category": "children",
+        "stemKey": "t110",
+        "variantCount": 16,
+        "oldPriceCHF": 79,
+        "newPriceCHF": 79
+      },
+      {
+        "id": "milami-1453",
+        "slug": "milami-zoe-baby-pink",
+        "nameEn": "ZOE BABY Pink",
+        "category": "children",
+        "stemKey": "t105",
+        "variantCount": 16,
+        "oldPriceCHF": 79,
+        "newPriceCHF": 79
+      },
+      {
+        "id": "milami-1455",
+        "slug": "milami-zoe-shine-dark-red-new",
+        "nameEn": "ZOE shine DARK RED",
+        "category": "children",
+        "stemKey": "t115",
+        "variantCount": 16,
+        "oldPriceCHF": 79,
+        "newPriceCHF": 79
+      }
+    ]
+  },
+  {
+    "broj": "6010",
+    "naziv": "Portofino",
+    "maloprodajnaCHF": 79,
+    "status": "matched",
+    "matchMethod": [
+      "slug",
+      "broj"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-alpen-komfort-78",
+        "slug": "alpen-komfort-78",
+        "nameEn": "Portofino II – Brown",
+        "category": "women",
+        "modelGroupId": "leon-mg-portofino-ii-women",
+        "stemKey": "portofino-ii",
+        "variantCount": 14,
+        "oldPriceCHF": 79,
+        "newPriceCHF": 79
+      },
+      {
+        "id": "leon-alpen-komfort-79",
+        "slug": "alpen-komfort-79",
+        "nameEn": "Portofino II – Beige",
+        "category": "women",
+        "modelGroupId": "leon-mg-portofino-ii-women",
+        "stemKey": "portofino-ii",
+        "variantCount": 14,
+        "oldPriceCHF": 79,
+        "newPriceCHF": 79
+      },
+      {
+        "id": "leon-alpen-komfort-80",
+        "slug": "alpen-komfort-80",
+        "nameEn": "Portofino I – Gold",
+        "category": "women",
+        "stemKey": "portofino-i",
+        "variantCount": 14,
+        "oldPriceCHF": 79,
+        "newPriceCHF": 79
+      },
+      {
+        "id": "leon-alpen-komfort-81",
+        "slug": "alpen-komfort-81",
+        "nameEn": "Portofino – Pink patent",
+        "category": "women",
+        "modelGroupId": "leon-mg-portofino-women",
+        "stemKey": "6010",
+        "variantCount": 14,
+        "oldPriceCHF": 79,
+        "newPriceCHF": 79
+      },
+      {
+        "id": "leon-alpen-komfort-82",
+        "slug": "alpen-komfort-82",
+        "nameEn": "Portofino – Black patent",
+        "category": "women",
+        "modelGroupId": "leon-mg-portofino-women",
+        "stemKey": "6010",
+        "variantCount": 14,
+        "oldPriceCHF": 79,
+        "newPriceCHF": 79
+      },
+      {
+        "id": "leon-alpen-komfort-83",
+        "slug": "alpen-komfort-83",
+        "nameEn": "Portofino – White patent",
+        "category": "women",
+        "modelGroupId": "leon-mg-portofino-women",
+        "stemKey": "6010",
+        "variantCount": 14,
+        "oldPriceCHF": 79,
+        "newPriceCHF": 79
+      }
+    ]
+  },
+  {
+    "broj": "6011",
+    "naziv": "Portofino 2",
+    "maloprodajnaCHF": 79,
+    "status": "matched",
+    "matchMethod": [
+      "naziv"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-alpen-komfort-78",
+        "slug": "alpen-komfort-78",
+        "nameEn": "Portofino II – Brown",
+        "category": "women",
+        "modelGroupId": "leon-mg-portofino-ii-women",
+        "stemKey": "portofino-ii",
+        "variantCount": 14,
+        "oldPriceCHF": 79,
+        "newPriceCHF": 79
+      },
+      {
+        "id": "leon-alpen-komfort-79",
+        "slug": "alpen-komfort-79",
+        "nameEn": "Portofino II – Beige",
+        "category": "women",
+        "modelGroupId": "leon-mg-portofino-ii-women",
+        "stemKey": "portofino-ii",
+        "variantCount": 14,
+        "oldPriceCHF": 79,
+        "newPriceCHF": 79
+      }
+    ]
+  },
+  {
+    "broj": "6013",
+    "naziv": "Terra",
+    "maloprodajnaCHF": 79,
+    "status": "matched",
+    "matchMethod": [
+      "naziv"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-alpen-komfort-55",
+        "slug": "alpen-komfort-55",
+        "nameEn": "Terra – Brown",
+        "category": "women",
+        "modelGroupId": "leon-mg-terra-women",
+        "stemKey": "terra",
+        "variantCount": 14,
+        "oldPriceCHF": 79,
+        "newPriceCHF": 79
+      },
+      {
+        "id": "leon-alpen-komfort-56",
+        "slug": "alpen-komfort-56",
+        "nameEn": "Terra – White",
+        "category": "women",
+        "modelGroupId": "leon-mg-terra-women",
+        "stemKey": "terra",
+        "variantCount": 14,
+        "oldPriceCHF": 79,
+        "newPriceCHF": 79
+      }
+    ]
+  },
+  {
+    "broj": "6300",
+    "naziv": "Roma",
+    "maloprodajnaCHF": 79,
+    "status": "matched",
+    "matchMethod": [
+      "naziv"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-alpen-komfort-25",
+        "slug": "alpen-komfort-25",
+        "nameEn": "Roma – Gold",
+        "category": "women",
+        "modelGroupId": "leon-mg-roma-women",
+        "stemKey": "roma",
+        "variantCount": 14,
+        "oldPriceCHF": 79,
+        "newPriceCHF": 79
+      },
+      {
+        "id": "leon-alpen-komfort-26",
+        "slug": "alpen-komfort-26",
+        "nameEn": "Roma – Black",
+        "category": "women",
+        "modelGroupId": "leon-mg-roma-women",
+        "stemKey": "roma",
+        "variantCount": 14,
+        "oldPriceCHF": 79,
+        "newPriceCHF": 79
+      },
+      {
+        "id": "leon-alpen-komfort-29",
+        "slug": "alpen-komfort-29",
+        "nameEn": "Roma – Brown",
+        "category": "women",
+        "modelGroupId": "leon-mg-roma-women",
+        "stemKey": "roma",
+        "variantCount": 14,
+        "oldPriceCHF": 79,
+        "newPriceCHF": 79
+      }
+    ]
+  },
+  {
+    "broj": "6022",
+    "naziv": "Tessa",
+    "maloprodajnaCHF": 75,
+    "status": "matched",
+    "matchMethod": [
+      "naziv"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-alpen-komfort-53",
+        "slug": "alpen-komfort-53",
+        "nameEn": "Tessa – Black",
+        "category": "women",
+        "modelGroupId": "leon-mg-tessa-women",
+        "stemKey": "tessa",
+        "variantCount": 14,
+        "oldPriceCHF": 75,
+        "newPriceCHF": 75
+      },
+      {
+        "id": "leon-alpen-komfort-54",
+        "slug": "alpen-komfort-54",
+        "nameEn": "Tessa – Beige",
+        "category": "women",
+        "modelGroupId": "leon-mg-tessa-women",
+        "stemKey": "tessa",
+        "variantCount": 14,
+        "oldPriceCHF": 75,
+        "newPriceCHF": 75
+      }
+    ]
+  },
+  {
+    "broj": "7010",
+    "naziv": "Siena 1",
+    "maloprodajnaCHF": 69,
+    "status": "matched",
+    "matchMethod": [
+      "slug",
+      "naziv"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-alpen-komfort-63",
+        "slug": "alpen-komfort-63",
+        "nameEn": "Siena II – Gold",
+        "category": "women",
+        "modelGroupId": "leon-mg-siena-ii-women",
+        "stemKey": "siena-ii",
+        "variantCount": 14,
+        "oldPriceCHF": 49.9,
+        "newPriceCHF": 69
+      },
+      {
+        "id": "leon-alpen-komfort-64",
+        "slug": "alpen-komfort-64",
+        "nameEn": "Siena II – Black",
+        "category": "women",
+        "modelGroupId": "leon-mg-siena-ii-women",
+        "stemKey": "siena-ii",
+        "variantCount": 14,
+        "oldPriceCHF": 49.9,
+        "newPriceCHF": 69
+      },
+      {
+        "id": "leon-alpen-komfort-65",
+        "slug": "alpen-komfort-65",
+        "nameEn": "Siena II – White",
+        "category": "women",
+        "modelGroupId": "leon-mg-siena-ii-women",
+        "stemKey": "siena-ii",
+        "variantCount": 14,
+        "oldPriceCHF": 49.9,
+        "newPriceCHF": 69
+      },
+      {
+        "id": "leon-alpen-komfort-67",
+        "slug": "alpen-komfort-67",
+        "nameEn": "Siena I – Green",
+        "category": "women",
+        "modelGroupId": "leon-mg-siena-i-women",
+        "stemKey": "siena-i",
+        "variantCount": 14,
+        "oldPriceCHF": 69,
+        "newPriceCHF": 69
+      },
+      {
+        "id": "leon-alpen-komfort-66",
+        "slug": "alpen-komfort-66",
+        "nameEn": "Siena I – Grey",
+        "category": "women",
+        "modelGroupId": "leon-mg-siena-i-women",
+        "stemKey": "siena-i",
+        "variantCount": 14,
+        "oldPriceCHF": 69,
+        "newPriceCHF": 69
+      },
+      {
+        "id": "leon-alpen-komfort-68",
+        "slug": "alpen-komfort-68",
+        "nameEn": "Siena I – Pink",
+        "category": "women",
+        "modelGroupId": "leon-mg-siena-i-women",
+        "stemKey": "siena-i",
+        "variantCount": 14,
+        "oldPriceCHF": 69,
+        "newPriceCHF": 69
+      },
+      {
+        "id": "leon-alpen-komfort-69",
+        "slug": "alpen-komfort-69",
+        "nameEn": "Siena I – Brown",
+        "category": "women",
+        "modelGroupId": "leon-mg-siena-i-women",
+        "stemKey": "siena-i",
+        "variantCount": 14,
+        "oldPriceCHF": 69,
+        "newPriceCHF": 69
+      },
+      {
+        "id": "leon-alpen-komfort-70",
+        "slug": "alpen-komfort-70",
+        "nameEn": "Siena I – Beige",
+        "category": "women",
+        "modelGroupId": "leon-mg-siena-i-women",
+        "stemKey": "siena-i",
+        "variantCount": 14,
+        "oldPriceCHF": 69,
+        "newPriceCHF": 69
+      }
+    ]
+  },
+  {
+    "broj": "7011",
+    "naziv": "Siena2",
+    "maloprodajnaCHF": 69,
+    "status": "matched",
+    "matchMethod": [
+      "slug"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-alpen-komfort-63",
+        "slug": "alpen-komfort-63",
+        "nameEn": "Siena II – Gold",
+        "category": "women",
+        "modelGroupId": "leon-mg-siena-ii-women",
+        "stemKey": "siena-ii",
+        "variantCount": 14,
+        "oldPriceCHF": 49.9,
+        "newPriceCHF": 69
+      },
+      {
+        "id": "leon-alpen-komfort-64",
+        "slug": "alpen-komfort-64",
+        "nameEn": "Siena II – Black",
+        "category": "women",
+        "modelGroupId": "leon-mg-siena-ii-women",
+        "stemKey": "siena-ii",
+        "variantCount": 14,
+        "oldPriceCHF": 49.9,
+        "newPriceCHF": 69
+      },
+      {
+        "id": "leon-alpen-komfort-65",
+        "slug": "alpen-komfort-65",
+        "nameEn": "Siena II – White",
+        "category": "women",
+        "modelGroupId": "leon-mg-siena-ii-women",
+        "stemKey": "siena-ii",
+        "variantCount": 14,
+        "oldPriceCHF": 49.9,
+        "newPriceCHF": 69
+      }
+    ]
+  },
+  {
+    "broj": "7080",
+    "naziv": "Doris",
+    "maloprodajnaCHF": 59,
+    "status": "matched",
+    "matchMethod": [
+      "broj"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-doris-zlatna",
+        "slug": "doris-zlatna",
+        "nameEn": "Doris Zlatna",
+        "category": "women",
+        "modelGroupId": "leon-mg-7080-women",
+        "stemKey": "7080",
+        "variantCount": 21,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-doris-crna",
+        "slug": "doris-crna",
+        "nameEn": "Doris Crna",
+        "category": "women",
+        "modelGroupId": "leon-mg-7080-women",
+        "stemKey": "7080",
+        "variantCount": 21,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      }
+    ]
+  },
+  {
+    "broj": "7021",
+    "naziv": "Hemera",
+    "maloprodajnaCHF": 59,
+    "status": "matched",
+    "matchMethod": [
+      "naziv"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-alpen-komfort-145",
+        "slug": "alpen-komfort-145",
+        "nameEn": "Hemera – Brown",
+        "category": "women",
+        "modelGroupId": "leon-mg-hemera-women",
+        "stemKey": "hemera",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-alpen-komfort-146",
+        "slug": "alpen-komfort-146",
+        "nameEn": "Hemera – White",
+        "category": "women",
+        "modelGroupId": "leon-mg-hemera-women",
+        "stemKey": "hemera",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      }
+    ]
+  },
+  {
+    "broj": "7020",
+    "naziv": "Gaia",
+    "maloprodajnaCHF": 59,
+    "status": "matched",
+    "matchMethod": [
+      "naziv"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-alpen-komfort-153",
+        "slug": "alpen-komfort-153",
+        "nameEn": "Gaia – Green",
+        "category": "women",
+        "modelGroupId": "leon-mg-gaia-women",
+        "stemKey": "gaia",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-alpen-komfort-151",
+        "slug": "alpen-komfort-151",
+        "nameEn": "Gaia – Brown",
+        "category": "women",
+        "modelGroupId": "leon-mg-gaia-women",
+        "stemKey": "gaia",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      }
+    ]
+  },
+  {
+    "broj": "4054",
+    "naziv": "Liora 1",
+    "maloprodajnaCHF": 53,
+    "status": "matched",
+    "matchMethod": [
+      "slug",
+      "naziv"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-alpen-komfort-112",
+        "slug": "alpen-komfort-112",
+        "nameEn": "Liora II – Gold",
+        "category": "women",
+        "modelGroupId": "leon-mg-liora-ii-women",
+        "stemKey": "liora-ii",
+        "variantCount": 14,
+        "oldPriceCHF": 49.9,
+        "newPriceCHF": 53
+      },
+      {
+        "id": "leon-alpen-komfort-114",
+        "slug": "alpen-komfort-114",
+        "nameEn": "Liora II – Black",
+        "category": "women",
+        "modelGroupId": "leon-mg-liora-ii-women",
+        "stemKey": "liora-ii",
+        "variantCount": 14,
+        "oldPriceCHF": 49.9,
+        "newPriceCHF": 53
+      },
+      {
+        "id": "leon-alpen-komfort-115",
+        "slug": "alpen-komfort-115",
+        "nameEn": "Liora II – White",
+        "category": "women",
+        "modelGroupId": "leon-mg-liora-ii-women",
+        "stemKey": "liora-ii",
+        "variantCount": 14,
+        "oldPriceCHF": 49.9,
+        "newPriceCHF": 53
+      },
+      {
+        "id": "leon-alpen-komfort-116",
+        "slug": "alpen-komfort-116",
+        "nameEn": "Liora I – Black",
+        "category": "women",
+        "modelGroupId": "leon-mg-liora-i-women",
+        "stemKey": "liora-i",
+        "variantCount": 14,
+        "oldPriceCHF": 53,
+        "newPriceCHF": 53
+      },
+      {
+        "id": "leon-alpen-komfort-117",
+        "slug": "alpen-komfort-117",
+        "nameEn": "Liora I – White",
+        "category": "women",
+        "modelGroupId": "leon-mg-liora-i-women",
+        "stemKey": "liora-i",
+        "variantCount": 14,
+        "oldPriceCHF": 53,
+        "newPriceCHF": 53
+      }
+    ]
+  },
+  {
+    "broj": "4000",
+    "naziv": "Atalanta",
+    "maloprodajnaCHF": 59,
+    "status": "matched",
+    "matchMethod": [
+      "naziv"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-alpen-komfort-215",
+        "slug": "alpen-komfort-215",
+        "nameEn": "Atalanta – Gold snake",
+        "category": "women",
+        "modelGroupId": "leon-mg-atalanta-women",
+        "stemKey": "atalanta",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-alpen-komfort-213",
+        "slug": "alpen-komfort-213",
+        "nameEn": "Atalanta – Pink snake",
+        "category": "women",
+        "modelGroupId": "leon-mg-atalanta-women",
+        "stemKey": "atalanta",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-alpen-komfort-214",
+        "slug": "alpen-komfort-214",
+        "nameEn": "Atalanta – White snake",
+        "category": "women",
+        "modelGroupId": "leon-mg-atalanta-women",
+        "stemKey": "atalanta",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-alpen-komfort-216",
+        "slug": "alpen-komfort-216",
+        "nameEn": "Atalanta – Gold Rust",
+        "category": "women",
+        "modelGroupId": "leon-mg-atalanta-women",
+        "stemKey": "atalanta",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      }
+    ]
+  },
+  {
+    "broj": "4011",
+    "naziv": "Anastasia",
+    "maloprodajnaCHF": 59,
+    "status": "matched",
+    "matchMethod": [
+      "naziv"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-alpen-komfort-228",
+        "slug": "alpen-komfort-228",
+        "nameEn": "Anastasia – Gold snake",
+        "category": "women",
+        "stemKey": "anastasia",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      }
+    ]
+  },
+  {
+    "broj": "4201",
+    "naziv": "Adriana",
+    "maloprodajnaCHF": 49,
+    "status": "matched",
+    "matchMethod": [
+      "naziv"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-alpen-komfort-233",
+        "slug": "alpen-komfort-233",
+        "nameEn": "Adriana – Pink snake",
+        "category": "women",
+        "modelGroupId": "leon-mg-adriana-women",
+        "stemKey": "adriana",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-234",
+        "slug": "alpen-komfort-234",
+        "nameEn": "Adriana – Gold snake",
+        "category": "women",
+        "modelGroupId": "leon-mg-adriana-women",
+        "stemKey": "adriana",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      }
+    ]
+  },
+  {
+    "broj": "4019",
+    "naziv": "Mia",
+    "maloprodajnaCHF": 49,
+    "status": "matched",
+    "matchMethod": [
+      "naziv"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-alpen-komfort-100",
+        "slug": "alpen-komfort-100",
+        "nameEn": "Mia – II Orlando Braon",
+        "category": "women",
+        "modelGroupId": "leon-mg-mia-women",
+        "stemKey": "mia",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-102",
+        "slug": "alpen-komfort-102",
+        "nameEn": "Mia – II Orlando Crvena",
+        "category": "women",
+        "modelGroupId": "leon-mg-mia-women",
+        "stemKey": "mia",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-103",
+        "slug": "alpen-komfort-103",
+        "nameEn": "Mia – Pink patent",
+        "category": "women",
+        "modelGroupId": "leon-mg-mia-women",
+        "stemKey": "mia",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-104",
+        "slug": "alpen-komfort-104",
+        "nameEn": "Mia – Black patent",
+        "category": "women",
+        "modelGroupId": "leon-mg-mia-women",
+        "stemKey": "mia",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-105",
+        "slug": "alpen-komfort-105",
+        "nameEn": "Mia – White patent",
+        "category": "women",
+        "modelGroupId": "leon-mg-mia-women",
+        "stemKey": "mia",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      }
+    ]
+  },
+  {
+    "broj": "4305",
+    "naziv": "Vivian",
+    "maloprodajnaCHF": 59,
+    "status": "matched",
+    "matchMethod": [
+      "naziv"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-alpen-komfort-31",
+        "slug": "alpen-komfort-31",
+        "nameEn": "Vivian – Black",
+        "category": "women",
+        "modelGroupId": "leon-mg-vivian-women",
+        "stemKey": "vivian",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-alpen-komfort-35",
+        "slug": "alpen-komfort-35",
+        "nameEn": "Vivian – Brown",
+        "category": "women",
+        "modelGroupId": "leon-mg-vivian-women",
+        "stemKey": "vivian",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      }
+    ]
+  },
+  {
+    "broj": "4300",
+    "naziv": "Helen",
+    "maloprodajnaCHF": 59,
+    "status": "matched",
+    "matchMethod": [
+      "naziv"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-alpen-komfort-149",
+        "slug": "alpen-komfort-149",
+        "nameEn": "Helen – Gold snake",
+        "category": "women",
+        "modelGroupId": "leon-mg-helen-women",
+        "stemKey": "helen",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-alpen-komfort-150",
+        "slug": "alpen-komfort-150",
+        "nameEn": "Helen – Pink snake",
+        "category": "women",
+        "modelGroupId": "leon-mg-helen-women",
+        "stemKey": "helen",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      }
+    ]
+  },
+  {
+    "broj": "4010",
+    "naziv": "Anna Velur",
+    "maloprodajnaCHF": 49,
+    "status": "matched",
+    "matchMethod": [
+      "broj",
+      "slug"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-alpen-komfort-240",
+        "slug": "alpen-komfort-240",
+        "nameEn": "Anna – Brown",
+        "category": "women",
+        "modelGroupId": "leon-mg-anna-women",
+        "stemKey": "4010-braon-novo",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-anna-velur-siva",
+        "slug": "anna-velur-siva",
+        "nameEn": "Anna – Suede Grey",
+        "category": "women",
+        "modelGroupId": "leon-mg-anna-women",
+        "stemKey": "anna",
+        "variantCount": 21,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-anna-velur-braon",
+        "slug": "anna-velur-braon",
+        "nameEn": "Anna – Suede Brown",
+        "category": "women",
+        "modelGroupId": "leon-mg-anna-women",
+        "stemKey": "anna",
+        "variantCount": 21,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-anna-velur-bez",
+        "slug": "anna-velur-bez",
+        "nameEn": "Anna – Suede Beige",
+        "category": "women",
+        "modelGroupId": "leon-mg-anna-women",
+        "stemKey": "anna",
+        "variantCount": 21,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-anna-braon",
+        "slug": "anna-braon",
+        "nameEn": "Anna – Brown",
+        "category": "women",
+        "modelGroupId": "leon-mg-anna-women",
+        "stemKey": "4010-braon-novo",
+        "variantCount": 21,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-221",
+        "slug": "alpen-komfort-221",
+        "nameEn": "Anna – Suede Grey",
+        "category": "women",
+        "modelGroupId": "leon-mg-anna-women",
+        "stemKey": "anna",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-223",
+        "slug": "alpen-komfort-223",
+        "nameEn": "Anna – Suede Brown",
+        "category": "women",
+        "modelGroupId": "leon-mg-anna-women",
+        "stemKey": "anna",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-225",
+        "slug": "alpen-komfort-225",
+        "nameEn": "Anna – Suede Beige",
+        "category": "women",
+        "modelGroupId": "leon-mg-anna-women",
+        "stemKey": "anna",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-224",
+        "slug": "alpen-komfort-224",
+        "nameEn": "Anna – Yellow suede",
+        "category": "women",
+        "modelGroupId": "leon-mg-anna-women",
+        "stemKey": "anna",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-226",
+        "slug": "alpen-komfort-226",
+        "nameEn": "Anna – Pink suede",
+        "category": "women",
+        "modelGroupId": "leon-mg-anna-women",
+        "stemKey": "anna",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-227",
+        "slug": "alpen-komfort-227",
+        "nameEn": "Anna – Black patent",
+        "category": "women",
+        "modelGroupId": "leon-mg-anna-women",
+        "stemKey": "anna",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-anna-roze-velur",
+        "slug": "anna-roze-velur",
+        "nameEn": "Anna – Pink suede",
+        "category": "women",
+        "modelGroupId": "leon-mg-anna-women",
+        "stemKey": "anna",
+        "variantCount": 21,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-anna-crna-bakkar",
+        "slug": "anna-crna-bakkar",
+        "nameEn": "Anna – Black patent",
+        "category": "women",
+        "modelGroupId": "leon-mg-anna-women",
+        "stemKey": "anna",
+        "variantCount": 21,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      }
+    ]
+  },
+  {
+    "broj": "1041",
+    "naziv": "Sofia 2",
+    "maloprodajnaCHF": 59,
+    "status": "matched",
+    "matchMethod": [
+      "naziv"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-alpen-komfort-57",
+        "slug": "alpen-komfort-57",
+        "nameEn": "Sofia II – Black",
+        "category": "women",
+        "modelGroupId": "leon-mg-sofia-ii-women",
+        "stemKey": "sofia-ii",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-alpen-komfort-58",
+        "slug": "alpen-komfort-58",
+        "nameEn": "Sofia II – Brown",
+        "category": "women",
+        "modelGroupId": "leon-mg-sofia-ii-women",
+        "stemKey": "sofia-ii",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-alpen-komfort-59",
+        "slug": "alpen-komfort-59",
+        "nameEn": "Sofia II – White",
+        "category": "women",
+        "modelGroupId": "leon-mg-sofia-ii-women",
+        "stemKey": "sofia-ii",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      }
+    ]
+  },
+  {
+    "broj": "1020",
+    "naziv": "Sofia 1",
+    "maloprodajnaCHF": 59,
+    "status": "matched",
+    "matchMethod": [
+      "slug",
+      "naziv"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-alpen-komfort-57",
+        "slug": "alpen-komfort-57",
+        "nameEn": "Sofia II – Black",
+        "category": "women",
+        "modelGroupId": "leon-mg-sofia-ii-women",
+        "stemKey": "sofia-ii",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-alpen-komfort-58",
+        "slug": "alpen-komfort-58",
+        "nameEn": "Sofia II – Brown",
+        "category": "women",
+        "modelGroupId": "leon-mg-sofia-ii-women",
+        "stemKey": "sofia-ii",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-alpen-komfort-59",
+        "slug": "alpen-komfort-59",
+        "nameEn": "Sofia II – White",
+        "category": "women",
+        "modelGroupId": "leon-mg-sofia-ii-women",
+        "stemKey": "sofia-ii",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-alpen-komfort-74",
+        "slug": "alpen-komfort-74",
+        "nameEn": "Sofia I – Black",
+        "category": "women",
+        "modelGroupId": "leon-mg-sofia-i-women",
+        "stemKey": "sofia-i",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-alpen-komfort-75",
+        "slug": "alpen-komfort-75",
+        "nameEn": "Sofia I – Brown",
+        "category": "women",
+        "modelGroupId": "leon-mg-sofia-i-women",
+        "stemKey": "sofia-i",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      }
+    ]
+  },
+  {
+    "broj": "1120",
+    "naziv": "Kiara",
+    "maloprodajnaCHF": 59,
+    "status": "matched",
+    "matchMethod": [
+      "naziv"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-alpen-komfort-34",
+        "slug": "alpen-komfort-34",
+        "nameEn": "Kiara – Gold",
+        "category": "women",
+        "modelGroupId": "leon-mg-kiara-women",
+        "stemKey": "kiara",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-alpen-komfort-33",
+        "slug": "alpen-komfort-33",
+        "nameEn": "Kiara – Brown",
+        "category": "women",
+        "modelGroupId": "leon-mg-kiara-women",
+        "stemKey": "kiara",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      }
+    ]
+  },
+  {
+    "broj": "1024",
+    "naziv": "Bakkar 2",
+    "maloprodajnaCHF": 49,
+    "status": "matched",
+    "matchMethod": [
+      "naziv"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-alpen-komfort-203",
+        "slug": "alpen-komfort-203",
+        "nameEn": "Bakkar II – Pink",
+        "category": "women",
+        "modelGroupId": "leon-mg-bakkar-ii-women",
+        "stemKey": "bakkar-ii",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-205",
+        "slug": "alpen-komfort-205",
+        "nameEn": "Bakkar II – Black",
+        "category": "women",
+        "modelGroupId": "leon-mg-bakkar-ii-women",
+        "stemKey": "bakkar-ii",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-204",
+        "slug": "alpen-komfort-204",
+        "nameEn": "Bakkar II – White",
+        "category": "women",
+        "modelGroupId": "leon-mg-bakkar-ii-women",
+        "stemKey": "bakkar-ii",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      }
+    ]
+  },
+  {
+    "broj": "924",
+    "naziv": "Violet",
+    "maloprodajnaCHF": 59,
+    "status": "matched",
+    "matchMethod": [
+      "naziv",
+      "slug"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-alpen-komfort-51",
+        "slug": "alpen-komfort-51",
+        "nameEn": "Violet – Black",
+        "category": "women",
+        "modelGroupId": "leon-mg-violet-women",
+        "stemKey": "violet",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-alpen-komfort-52",
+        "slug": "alpen-komfort-52",
+        "nameEn": "Violet – Brown",
+        "category": "women",
+        "modelGroupId": "leon-mg-violet-women",
+        "stemKey": "violet",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "milami-1593",
+        "slug": "milami-parker-violet",
+        "nameEn": "Parker Violet",
+        "category": "children",
+        "stemKey": "811",
+        "variantCount": 16,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      }
+    ]
+  },
+  {
+    "broj": "935",
+    "naziv": "Beti",
+    "maloprodajnaCHF": 59,
+    "status": "matched",
+    "matchMethod": [
+      "naziv"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-alpen-komfort-202",
+        "slug": "alpen-komfort-202",
+        "nameEn": "Beti – Beige",
+        "category": "women",
+        "stemKey": "beti",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      }
+    ]
+  },
+  {
+    "broj": "2024",
+    "naziv": "Aurora 5",
+    "maloprodajnaCHF": 59,
+    "status": "matched",
+    "matchMethod": [
+      "naziv",
+      "slug"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-alpen-komfort-206",
+        "slug": "alpen-komfort-206",
+        "nameEn": "Aurora V – Burgundy Patent",
+        "category": "women",
+        "stemKey": "aurora-v",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      },
+      {
+        "id": "leon-alpen-komfort-208",
+        "slug": "alpen-komfort-208",
+        "nameEn": "Aurora V Led – Orladno",
+        "category": "women",
+        "stemKey": "aurora-v-led",
+        "variantCount": 14,
+        "oldPriceCHF": 59,
+        "newPriceCHF": 59
+      }
+    ]
+  },
+  {
+    "broj": "966",
+    "naziv": "Bella",
+    "maloprodajnaCHF": 49,
+    "status": "matched",
+    "matchMethod": [
+      "naziv"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-alpen-komfort-200",
+        "slug": "alpen-komfort-200",
+        "nameEn": "Bella – LED Orlando",
+        "category": "women",
+        "modelGroupId": "leon-mg-bella-women",
+        "stemKey": "bella",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-201",
+        "slug": "alpen-komfort-201",
+        "nameEn": "Bella – Black Orlando",
+        "category": "women",
+        "modelGroupId": "leon-mg-bella-women",
+        "stemKey": "bella",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      }
+    ]
+  },
+  {
+    "broj": "963",
+    "naziv": "Xenia 3",
+    "maloprodajnaCHF": 49,
+    "status": "matched",
+    "matchMethod": [
+      "naziv"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-alpen-komfort-47",
+        "slug": "alpen-komfort-47",
+        "nameEn": "Xenia III – Charcoal Orlando",
+        "category": "women",
+        "modelGroupId": "leon-mg-xenia-iii-women",
+        "stemKey": "xenia-iii",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-49",
+        "slug": "alpen-komfort-49",
+        "nameEn": "Xenia III – Brown Orlando",
+        "category": "women",
+        "modelGroupId": "leon-mg-xenia-iii-women",
+        "stemKey": "xenia-iii",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      }
+    ]
+  },
+  {
+    "broj": "965",
+    "naziv": "Xenia 2",
+    "maloprodajnaCHF": 49,
+    "status": "matched",
+    "matchMethod": [
+      "slug",
+      "naziv"
+    ],
+    "shopProducts": [
+      {
+        "id": "leon-alpen-komfort-47",
+        "slug": "alpen-komfort-47",
+        "nameEn": "Xenia III – Charcoal Orlando",
+        "category": "women",
+        "modelGroupId": "leon-mg-xenia-iii-women",
+        "stemKey": "xenia-iii",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-49",
+        "slug": "alpen-komfort-49",
+        "nameEn": "Xenia III – Brown Orlando",
+        "category": "women",
+        "modelGroupId": "leon-mg-xenia-iii-women",
+        "stemKey": "xenia-iii",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-48",
+        "slug": "alpen-komfort-48",
+        "nameEn": "Xenia II – Gold gloss",
+        "category": "women",
+        "modelGroupId": "leon-mg-xenia-ii-women",
+        "stemKey": "xenia-ii",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      },
+      {
+        "id": "leon-alpen-komfort-50",
+        "slug": "alpen-komfort-50",
+        "nameEn": "Xenia II – Black gloss",
+        "category": "women",
+        "modelGroupId": "leon-mg-xenia-ii-women",
+        "stemKey": "xenia-ii",
+        "variantCount": 14,
+        "oldPriceCHF": 49,
+        "newPriceCHF": 49
+      }
+    ]
+  }
+]

@@ -1,5 +1,5 @@
 import type { Product } from './products';
-import { LEON_MEN_EU_SIZES } from './leonMenSizeTable';
+import { LEON_MEN_ARTICLE_SIZE_OVERRIDES, LEON_MEN_EU_SIZES } from './leonMenSizeTable';
 
 export { LEON_MEN_EU_SIZES, LEON_MEN_FOOT_LENGTH_MM } from './leonMenSizeTable';
 
@@ -22,7 +22,13 @@ function splitLeonVariantSku(
   return null;
 }
 
-/** Rebuild sizes & variants to EU 41–47 for men's Leon catalogue rows. */
+function menSizeIdsForProduct(p: Product): readonly string[] {
+  const broj = p.articleNumber?.trim();
+  if (broj && LEON_MEN_ARTICLE_SIZE_OVERRIDES[broj]) return LEON_MEN_ARTICLE_SIZE_OVERRIDES[broj];
+  return LEON_MEN_EU_SIZES;
+}
+
+/** Rebuild sizes & variants to EU 41–47 (or per-article override) for men's Leon rows. */
 export function applyLeonMenStandardSizesIfApplicable(p: Product): Product {
   if (p.brand !== 'leon' || p.category !== 'men') return p;
   const first = p.variants[0];
@@ -32,12 +38,13 @@ export function applyLeonMenStandardSizesIfApplicable(p: Product): Product {
   if (!parsed) return p;
 
   const { prefix } = parsed;
-  const sizes = LEON_MEN_EU_SIZES.map((id) => ({
+  const sizeIds = menSizeIdsForProduct(p);
+  const sizes = sizeIds.map((id) => ({
     id,
     label: { de: id, fr: id, en: id, it: id },
   }));
 
-  const variants = LEON_MEN_EU_SIZES.flatMap((size) =>
+  const variants = sizeIds.flatMap((size) =>
     p.colors.map((c) => {
       const ref =
         p.variants.find((v) => v.color === c.id) ??

@@ -22,6 +22,7 @@
 
 import fs from 'node:fs';
 import path from 'node:path';
+import { leonDefaultSizes } from './leon-size-rules.mjs';
 
 const ROOT = path.resolve(process.cwd());
 const SITEMAP_PRODUCTS_PATH = path.join(ROOT, 'scripts', '_leon_sitemaps', 'sitemap-post-type-product.xml');
@@ -189,12 +190,6 @@ function inferPriceFromHtml(html) {
     }
   }
   return null;
-}
-
-function makeDefaultSizes(category) {
-  if (category === 'children') return ['26', '28', '30', '32', '34'];
-  if (category === 'men') return ['40', '41', '42', '43', '44'];
-  return ['36', '37', '38', '39', '40', '41', '42'];
 }
 
 function makeDefaultColors() {
@@ -460,8 +455,8 @@ function isRelevantByCrumbs(crumbsLower) {
   );
 }
 
-function toProduct({ displayName, slug, images, priceCHF, genderCategory }) {
-  const sizes = makeDefaultSizes(genderCategory);
+function toProduct({ displayName, slug, images, priceCHF, genderCategory, crumbs, exploreTags }) {
+  const sizes = leonDefaultSizes(genderCategory, { crumbs, exploreTags, genderCategory });
   const colors = makeDefaultColors();
   const skuBase = slug.replace(/-/g, '').toUpperCase().slice(0, 18);
   const variants = sizes.flatMap((size) =>
@@ -602,6 +597,8 @@ async function main() {
       images: r.images,
       priceCHF: Number(r.price),
       genderCategory: r.genderCategory,
+      crumbs: r.crumbs,
+      exploreTags: r.exploreTags,
     });
   });
 

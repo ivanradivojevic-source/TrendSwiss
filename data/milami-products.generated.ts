@@ -113,112 +113,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1333-20-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1333-20-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1333-22-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1333-22-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1333-24-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1333-24-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1333-26-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1333-26-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1333-28-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1333-28-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1333-30-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1333-30-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1333-32-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1333-32-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1333-34-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1333-34-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -335,112 +335,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1334-20-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1334-20-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1334-22-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1334-22-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1334-24-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1334-24-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1334-26-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1334-26-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1334-28-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1334-28-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1334-30-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1334-30-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1334-32-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1334-32-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1334-34-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1334-34-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -557,112 +557,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1335-20-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1335-20-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1335-22-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1335-22-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1335-24-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1335-24-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1335-26-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1335-26-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1335-28-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1335-28-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1335-30-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1335-30-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1335-32-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1335-32-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1335-34-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1335-34-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -779,112 +779,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1336-20-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1336-20-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1336-22-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1336-22-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1336-24-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1336-24-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1336-26-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1336-26-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1336-28-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1336-28-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1336-30-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1336-30-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1336-32-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1336-32-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1336-34-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1336-34-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -1001,112 +1001,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1337-20-black",
-        "priceCHF": 20.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1337-20-grey",
-        "priceCHF": 20.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1337-22-black",
-        "priceCHF": 20.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1337-22-grey",
-        "priceCHF": 20.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1337-24-black",
-        "priceCHF": 20.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1337-24-grey",
-        "priceCHF": 20.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1337-26-black",
-        "priceCHF": 20.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1337-26-grey",
-        "priceCHF": 20.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1337-28-black",
-        "priceCHF": 20.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1337-28-grey",
-        "priceCHF": 20.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1337-30-black",
-        "priceCHF": 20.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1337-30-grey",
-        "priceCHF": 20.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1337-32-black",
-        "priceCHF": 20.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1337-32-grey",
-        "priceCHF": 20.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1337-34-black",
-        "priceCHF": 20.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1337-34-grey",
-        "priceCHF": 20.8,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -1223,112 +1223,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1339-20-black",
-        "priceCHF": 20.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1339-20-grey",
-        "priceCHF": 20.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1339-22-black",
-        "priceCHF": 20.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1339-22-grey",
-        "priceCHF": 20.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1339-24-black",
-        "priceCHF": 20.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1339-24-grey",
-        "priceCHF": 20.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1339-26-black",
-        "priceCHF": 20.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1339-26-grey",
-        "priceCHF": 20.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1339-28-black",
-        "priceCHF": 20.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1339-28-grey",
-        "priceCHF": 20.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1339-30-black",
-        "priceCHF": 20.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1339-30-grey",
-        "priceCHF": 20.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1339-32-black",
-        "priceCHF": 20.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1339-32-grey",
-        "priceCHF": 20.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1339-34-black",
-        "priceCHF": 20.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1339-34-grey",
-        "priceCHF": 20.8,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -1445,112 +1445,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1340-20-black",
-        "priceCHF": 20.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1340-20-grey",
-        "priceCHF": 20.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1340-22-black",
-        "priceCHF": 20.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1340-22-grey",
-        "priceCHF": 20.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1340-24-black",
-        "priceCHF": 20.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1340-24-grey",
-        "priceCHF": 20.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1340-26-black",
-        "priceCHF": 20.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1340-26-grey",
-        "priceCHF": 20.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1340-28-black",
-        "priceCHF": 20.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1340-28-grey",
-        "priceCHF": 20.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1340-30-black",
-        "priceCHF": 20.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1340-30-grey",
-        "priceCHF": 20.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1340-32-black",
-        "priceCHF": 20.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1340-32-grey",
-        "priceCHF": 20.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1340-34-black",
-        "priceCHF": 20.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1340-34-grey",
-        "priceCHF": 20.8,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -1667,112 +1667,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1341-20-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1341-20-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1341-22-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1341-22-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1341-24-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1341-24-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1341-26-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1341-26-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1341-28-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1341-28-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1341-30-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1341-30-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1341-32-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1341-32-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1341-34-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1341-34-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -1889,112 +1889,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1346-20-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1346-20-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1346-22-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1346-22-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1346-24-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1346-24-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1346-26-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1346-26-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1346-28-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1346-28-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1346-30-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1346-30-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1346-32-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1346-32-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1346-34-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1346-34-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -2111,112 +2111,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1347-20-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1347-20-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1347-22-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1347-22-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1347-24-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1347-24-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1347-26-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1347-26-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1347-28-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1347-28-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1347-30-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1347-30-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1347-32-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1347-32-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1347-34-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1347-34-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -2333,112 +2333,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1348-20-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1348-20-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1348-22-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1348-22-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1348-24-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1348-24-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1348-26-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1348-26-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1348-28-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1348-28-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1348-30-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1348-30-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1348-32-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1348-32-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1348-34-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1348-34-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -2555,112 +2555,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1349-20-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1349-20-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1349-22-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1349-22-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1349-24-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1349-24-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1349-26-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1349-26-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1349-28-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1349-28-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1349-30-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1349-30-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1349-32-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1349-32-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1349-34-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1349-34-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -2777,112 +2777,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1351-20-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1351-20-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1351-22-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1351-22-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1351-24-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1351-24-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1351-26-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1351-26-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1351-28-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1351-28-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1351-30-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1351-30-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1351-32-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1351-32-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1351-34-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1351-34-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -2999,112 +2999,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1352-20-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1352-20-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1352-22-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1352-22-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1352-24-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1352-24-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1352-26-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1352-26-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1352-28-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1352-28-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1352-30-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1352-30-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1352-32-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1352-32-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1352-34-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1352-34-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -3221,112 +3221,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1355-20-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1355-20-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1355-22-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1355-22-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1355-24-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1355-24-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1355-26-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1355-26-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1355-28-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1355-28-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1355-30-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1355-30-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1355-32-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1355-32-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1355-34-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1355-34-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -3443,112 +3443,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1358-20-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1358-20-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1358-22-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1358-22-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1358-24-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1358-24-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1358-26-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1358-26-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1358-28-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1358-28-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1358-30-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1358-30-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1358-32-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1358-32-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1358-34-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1358-34-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -3665,112 +3665,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1360-20-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1360-20-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1360-22-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1360-22-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1360-24-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1360-24-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1360-26-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1360-26-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1360-28-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1360-28-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1360-30-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1360-30-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1360-32-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1360-32-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1360-34-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1360-34-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -3887,112 +3887,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1362-20-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1362-20-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1362-22-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1362-22-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1362-24-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1362-24-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1362-26-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1362-26-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1362-28-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1362-28-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1362-30-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1362-30-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1362-32-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1362-32-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1362-34-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1362-34-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -4109,112 +4109,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1363-20-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1363-20-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1363-22-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1363-22-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1363-24-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1363-24-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1363-26-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1363-26-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1363-28-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1363-28-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1363-30-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1363-30-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1363-32-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1363-32-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1363-34-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1363-34-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -4331,112 +4331,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1365-20-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1365-20-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1365-22-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1365-22-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1365-24-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1365-24-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1365-26-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1365-26-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1365-28-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1365-28-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1365-30-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1365-30-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1365-32-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1365-32-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1365-34-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1365-34-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -4553,112 +4553,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1366-20-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1366-20-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1366-22-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1366-22-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1366-24-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1366-24-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1366-26-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1366-26-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1366-28-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1366-28-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1366-30-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1366-30-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1366-32-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1366-32-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1366-34-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1366-34-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -4775,112 +4775,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1375-20-black",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1375-20-grey",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1375-22-black",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1375-22-grey",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1375-24-black",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1375-24-grey",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1375-26-black",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1375-26-grey",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1375-28-black",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1375-28-grey",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1375-30-black",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1375-30-grey",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1375-32-black",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1375-32-grey",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1375-34-black",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1375-34-grey",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -4997,112 +4997,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1376-20-black",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1376-20-grey",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1376-22-black",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1376-22-grey",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1376-24-black",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1376-24-grey",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1376-26-black",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1376-26-grey",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1376-28-black",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1376-28-grey",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1376-30-black",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1376-30-grey",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1376-32-black",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1376-32-grey",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1376-34-black",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1376-34-grey",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -5219,112 +5219,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1377-20-black",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1377-20-grey",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1377-22-black",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1377-22-grey",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1377-24-black",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1377-24-grey",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1377-26-black",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1377-26-grey",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1377-28-black",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1377-28-grey",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1377-30-black",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1377-30-grey",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1377-32-black",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1377-32-grey",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1377-34-black",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1377-34-grey",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -5441,112 +5441,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1378-20-black",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1378-20-grey",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1378-22-black",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1378-22-grey",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1378-24-black",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1378-24-grey",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1378-26-black",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1378-26-grey",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1378-28-black",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1378-28-grey",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1378-30-black",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1378-30-grey",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1378-32-black",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1378-32-grey",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1378-34-black",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1378-34-grey",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -5663,112 +5663,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1379-20-black",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1379-20-grey",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1379-22-black",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1379-22-grey",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1379-24-black",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1379-24-grey",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1379-26-black",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1379-26-grey",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1379-28-black",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1379-28-grey",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1379-30-black",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1379-30-grey",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1379-32-black",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1379-32-grey",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1379-34-black",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1379-34-grey",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -5885,112 +5885,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1380-20-black",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1380-20-grey",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1380-22-black",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1380-22-grey",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1380-24-black",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1380-24-grey",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1380-26-black",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1380-26-grey",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1380-28-black",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1380-28-grey",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1380-30-black",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1380-30-grey",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1380-32-black",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1380-32-grey",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1380-34-black",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1380-34-grey",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -6107,112 +6107,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1381-20-black",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1381-20-grey",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1381-22-black",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1381-22-grey",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1381-24-black",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1381-24-grey",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1381-26-black",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1381-26-grey",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1381-28-black",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1381-28-grey",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1381-30-black",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1381-30-grey",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1381-32-black",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1381-32-grey",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1381-34-black",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1381-34-grey",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -6329,112 +6329,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1382-20-black",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1382-20-grey",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1382-22-black",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1382-22-grey",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1382-24-black",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1382-24-grey",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1382-26-black",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1382-26-grey",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1382-28-black",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1382-28-grey",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1382-30-black",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1382-30-grey",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1382-32-black",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1382-32-grey",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1382-34-black",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1382-34-grey",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -6551,112 +6551,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1385-20-black",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1385-20-grey",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1385-22-black",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1385-22-grey",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1385-24-black",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1385-24-grey",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1385-26-black",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1385-26-grey",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1385-28-black",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1385-28-grey",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1385-30-black",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1385-30-grey",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1385-32-black",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1385-32-grey",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1385-34-black",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1385-34-grey",
-        "priceCHF": 31.3,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -6773,112 +6773,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1387-20-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1387-20-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1387-22-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1387-22-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1387-24-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1387-24-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1387-26-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1387-26-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1387-28-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1387-28-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1387-30-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1387-30-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1387-32-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1387-32-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1387-34-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1387-34-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -6995,112 +6995,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1388-20-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1388-20-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1388-22-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1388-22-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1388-24-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1388-24-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1388-26-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1388-26-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1388-28-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1388-28-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1388-30-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1388-30-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1388-32-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1388-32-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1388-34-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1388-34-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -7217,112 +7217,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1389-20-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1389-20-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1389-22-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1389-22-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1389-24-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1389-24-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1389-26-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1389-26-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1389-28-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1389-28-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1389-30-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1389-30-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1389-32-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1389-32-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1389-34-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1389-34-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -7439,112 +7439,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1390-20-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1390-20-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1390-22-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1390-22-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1390-24-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1390-24-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1390-26-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1390-26-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1390-28-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1390-28-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1390-30-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1390-30-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1390-32-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1390-32-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1390-34-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1390-34-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -7661,112 +7661,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1391-20-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1391-20-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1391-22-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1391-22-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1391-24-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1391-24-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1391-26-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1391-26-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1391-28-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1391-28-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1391-30-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1391-30-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1391-32-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1391-32-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1391-34-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1391-34-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -7883,112 +7883,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1392-20-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1392-20-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1392-22-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1392-22-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1392-24-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1392-24-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1392-26-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1392-26-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1392-28-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1392-28-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1392-30-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1392-30-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1392-32-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1392-32-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1392-34-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1392-34-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -8105,112 +8105,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1395-20-black",
-        "priceCHF": 41.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1395-20-grey",
-        "priceCHF": 41.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1395-22-black",
-        "priceCHF": 41.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1395-22-grey",
-        "priceCHF": 41.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1395-24-black",
-        "priceCHF": 41.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1395-24-grey",
-        "priceCHF": 41.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1395-26-black",
-        "priceCHF": 41.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1395-26-grey",
-        "priceCHF": 41.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1395-28-black",
-        "priceCHF": 41.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1395-28-grey",
-        "priceCHF": 41.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1395-30-black",
-        "priceCHF": 41.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1395-30-grey",
-        "priceCHF": 41.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1395-32-black",
-        "priceCHF": 41.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1395-32-grey",
-        "priceCHF": 41.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1395-34-black",
-        "priceCHF": 41.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1395-34-grey",
-        "priceCHF": 41.7,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -8327,112 +8327,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1402-20-black",
-        "priceCHF": 39.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1402-20-grey",
-        "priceCHF": 39.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1402-22-black",
-        "priceCHF": 39.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1402-22-grey",
-        "priceCHF": 39.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1402-24-black",
-        "priceCHF": 39.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1402-24-grey",
-        "priceCHF": 39.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1402-26-black",
-        "priceCHF": 39.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1402-26-grey",
-        "priceCHF": 39.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1402-28-black",
-        "priceCHF": 39.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1402-28-grey",
-        "priceCHF": 39.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1402-30-black",
-        "priceCHF": 39.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1402-30-grey",
-        "priceCHF": 39.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1402-32-black",
-        "priceCHF": 39.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1402-32-grey",
-        "priceCHF": 39.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1402-34-black",
-        "priceCHF": 39.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1402-34-grey",
-        "priceCHF": 39.6,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -8549,112 +8549,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1404-20-black",
-        "priceCHF": 39.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1404-20-grey",
-        "priceCHF": 39.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1404-22-black",
-        "priceCHF": 39.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1404-22-grey",
-        "priceCHF": 39.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1404-24-black",
-        "priceCHF": 39.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1404-24-grey",
-        "priceCHF": 39.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1404-26-black",
-        "priceCHF": 39.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1404-26-grey",
-        "priceCHF": 39.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1404-28-black",
-        "priceCHF": 39.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1404-28-grey",
-        "priceCHF": 39.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1404-30-black",
-        "priceCHF": 39.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1404-30-grey",
-        "priceCHF": 39.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1404-32-black",
-        "priceCHF": 39.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1404-32-grey",
-        "priceCHF": 39.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1404-34-black",
-        "priceCHF": 39.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1404-34-grey",
-        "priceCHF": 39.6,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -8771,112 +8771,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1406-20-black",
-        "priceCHF": 39.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1406-20-grey",
-        "priceCHF": 39.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1406-22-black",
-        "priceCHF": 39.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1406-22-grey",
-        "priceCHF": 39.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1406-24-black",
-        "priceCHF": 39.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1406-24-grey",
-        "priceCHF": 39.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1406-26-black",
-        "priceCHF": 39.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1406-26-grey",
-        "priceCHF": 39.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1406-28-black",
-        "priceCHF": 39.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1406-28-grey",
-        "priceCHF": 39.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1406-30-black",
-        "priceCHF": 39.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1406-30-grey",
-        "priceCHF": 39.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1406-32-black",
-        "priceCHF": 39.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1406-32-grey",
-        "priceCHF": 39.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1406-34-black",
-        "priceCHF": 39.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1406-34-grey",
-        "priceCHF": 39.6,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -8993,112 +8993,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1409-20-black",
-        "priceCHF": 39.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1409-20-grey",
-        "priceCHF": 39.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1409-22-black",
-        "priceCHF": 39.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1409-22-grey",
-        "priceCHF": 39.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1409-24-black",
-        "priceCHF": 39.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1409-24-grey",
-        "priceCHF": 39.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1409-26-black",
-        "priceCHF": 39.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1409-26-grey",
-        "priceCHF": 39.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1409-28-black",
-        "priceCHF": 39.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1409-28-grey",
-        "priceCHF": 39.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1409-30-black",
-        "priceCHF": 39.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1409-30-grey",
-        "priceCHF": 39.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1409-32-black",
-        "priceCHF": 39.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1409-32-grey",
-        "priceCHF": 39.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1409-34-black",
-        "priceCHF": 39.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1409-34-grey",
-        "priceCHF": 39.6,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -9215,112 +9215,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1410-20-black",
-        "priceCHF": 39.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1410-20-grey",
-        "priceCHF": 39.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1410-22-black",
-        "priceCHF": 39.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1410-22-grey",
-        "priceCHF": 39.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1410-24-black",
-        "priceCHF": 39.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1410-24-grey",
-        "priceCHF": 39.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1410-26-black",
-        "priceCHF": 39.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1410-26-grey",
-        "priceCHF": 39.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1410-28-black",
-        "priceCHF": 39.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1410-28-grey",
-        "priceCHF": 39.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1410-30-black",
-        "priceCHF": 39.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1410-30-grey",
-        "priceCHF": 39.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1410-32-black",
-        "priceCHF": 39.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1410-32-grey",
-        "priceCHF": 39.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1410-34-black",
-        "priceCHF": 39.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1410-34-grey",
-        "priceCHF": 39.6,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -9437,112 +9437,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1412-20-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1412-20-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1412-22-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1412-22-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1412-24-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1412-24-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1412-26-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1412-26-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1412-28-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1412-28-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1412-30-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1412-30-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1412-32-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1412-32-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1412-34-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1412-34-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -9659,112 +9659,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1413-20-black",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1413-20-grey",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1413-22-black",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1413-22-grey",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1413-24-black",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1413-24-grey",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1413-26-black",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1413-26-grey",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1413-28-black",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1413-28-grey",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1413-30-black",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1413-30-grey",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1413-32-black",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1413-32-grey",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1413-34-black",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1413-34-grey",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -9881,112 +9881,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1416-20-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1416-20-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1416-22-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1416-22-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1416-24-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1416-24-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1416-26-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1416-26-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1416-28-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1416-28-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1416-30-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1416-30-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1416-32-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1416-32-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1416-34-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1416-34-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -10103,112 +10103,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1417-20-black",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1417-20-grey",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1417-22-black",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1417-22-grey",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1417-24-black",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1417-24-grey",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1417-26-black",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1417-26-grey",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1417-28-black",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1417-28-grey",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1417-30-black",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1417-30-grey",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1417-32-black",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1417-32-grey",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1417-34-black",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1417-34-grey",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -10325,112 +10325,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1418-20-black",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1418-20-grey",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1418-22-black",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1418-22-grey",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1418-24-black",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1418-24-grey",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1418-26-black",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1418-26-grey",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1418-28-black",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1418-28-grey",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1418-30-black",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1418-30-grey",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1418-32-black",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1418-32-grey",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1418-34-black",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1418-34-grey",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -10547,112 +10547,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1419-20-black",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1419-20-grey",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1419-22-black",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1419-22-grey",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1419-24-black",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1419-24-grey",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1419-26-black",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1419-26-grey",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1419-28-black",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1419-28-grey",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1419-30-black",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1419-30-grey",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1419-32-black",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1419-32-grey",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1419-34-black",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1419-34-grey",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -10769,112 +10769,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1420-20-black",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1420-20-grey",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1420-22-black",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1420-22-grey",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1420-24-black",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1420-24-grey",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1420-26-black",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1420-26-grey",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1420-28-black",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1420-28-grey",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1420-30-black",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1420-30-grey",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1420-32-black",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1420-32-grey",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1420-34-black",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1420-34-grey",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -10991,112 +10991,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1421-20-black",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1421-20-grey",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1421-22-black",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1421-22-grey",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1421-24-black",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1421-24-grey",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1421-26-black",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1421-26-grey",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1421-28-black",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1421-28-grey",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1421-30-black",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1421-30-grey",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1421-32-black",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1421-32-grey",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1421-34-black",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1421-34-grey",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -11213,112 +11213,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1422-20-black",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1422-20-grey",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1422-22-black",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1422-22-grey",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1422-24-black",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1422-24-grey",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1422-26-black",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1422-26-grey",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1422-28-black",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1422-28-grey",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1422-30-black",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1422-30-grey",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1422-32-black",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1422-32-grey",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1422-34-black",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1422-34-grey",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -11435,112 +11435,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1423-20-black",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1423-20-grey",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1423-22-black",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1423-22-grey",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1423-24-black",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1423-24-grey",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1423-26-black",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1423-26-grey",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1423-28-black",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1423-28-grey",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1423-30-black",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1423-30-grey",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1423-32-black",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1423-32-grey",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1423-34-black",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1423-34-grey",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -11657,112 +11657,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1424-20-black",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1424-20-grey",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1424-22-black",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1424-22-grey",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1424-24-black",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1424-24-grey",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1424-26-black",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1424-26-grey",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1424-28-black",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1424-28-grey",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1424-30-black",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1424-30-grey",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1424-32-black",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1424-32-grey",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1424-34-black",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1424-34-grey",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -11879,112 +11879,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1426-20-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1426-20-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1426-22-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1426-22-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1426-24-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1426-24-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1426-26-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1426-26-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1426-28-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1426-28-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1426-30-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1426-30-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1426-32-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1426-32-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1426-34-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1426-34-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -12101,112 +12101,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1430-20-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1430-20-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1430-22-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1430-22-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1430-24-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1430-24-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1430-26-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1430-26-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1430-28-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1430-28-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1430-30-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1430-30-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1430-32-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1430-32-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1430-34-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1430-34-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -12323,112 +12323,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1431-20-black",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1431-20-grey",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1431-22-black",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1431-22-grey",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1431-24-black",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1431-24-grey",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1431-26-black",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1431-26-grey",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1431-28-black",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1431-28-grey",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1431-30-black",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1431-30-grey",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1431-32-black",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1431-32-grey",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1431-34-black",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1431-34-grey",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       }
     ]
@@ -12545,112 +12545,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1432-20-black",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1432-20-grey",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1432-22-black",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1432-22-grey",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1432-24-black",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1432-24-grey",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1432-26-black",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1432-26-grey",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1432-28-black",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1432-28-grey",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1432-30-black",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1432-30-grey",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1432-32-black",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1432-32-grey",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1432-34-black",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1432-34-grey",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       }
     ]
@@ -12767,112 +12767,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1434-20-black",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1434-20-grey",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1434-22-black",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1434-22-grey",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1434-24-black",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1434-24-grey",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1434-26-black",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1434-26-grey",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1434-28-black",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1434-28-grey",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1434-30-black",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1434-30-grey",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1434-32-black",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1434-32-grey",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1434-34-black",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1434-34-grey",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       }
     ]
@@ -12989,112 +12989,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1435-20-black",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1435-20-grey",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1435-22-black",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1435-22-grey",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1435-24-black",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1435-24-grey",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1435-26-black",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1435-26-grey",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1435-28-black",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1435-28-grey",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1435-30-black",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1435-30-grey",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1435-32-black",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1435-32-grey",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1435-34-black",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1435-34-grey",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       }
     ]
@@ -13211,112 +13211,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1436-20-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1436-20-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1436-22-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1436-22-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1436-24-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1436-24-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1436-26-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1436-26-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1436-28-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1436-28-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1436-30-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1436-30-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1436-32-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1436-32-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1436-34-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1436-34-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -13433,112 +13433,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1441-20-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1441-20-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1441-22-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1441-22-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1441-24-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1441-24-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1441-26-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1441-26-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1441-28-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1441-28-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1441-30-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1441-30-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1441-32-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1441-32-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1441-34-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1441-34-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -13655,112 +13655,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1442-20-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1442-20-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1442-22-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1442-22-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1442-24-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1442-24-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1442-26-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1442-26-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1442-28-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1442-28-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1442-30-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1442-30-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1442-32-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1442-32-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1442-34-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1442-34-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -13877,112 +13877,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1443-20-black",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1443-20-grey",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1443-22-black",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1443-22-grey",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1443-24-black",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1443-24-grey",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1443-26-black",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1443-26-grey",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1443-28-black",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1443-28-grey",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1443-30-black",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1443-30-grey",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1443-32-black",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1443-32-grey",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1443-34-black",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1443-34-grey",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       }
     ]
@@ -14099,112 +14099,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1445-20-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1445-20-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1445-22-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1445-22-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1445-24-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1445-24-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1445-26-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1445-26-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1445-28-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1445-28-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1445-30-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1445-30-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1445-32-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1445-32-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1445-34-black",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1445-34-grey",
-        "priceCHF": 37.4,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -14321,112 +14321,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1446-20-black",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1446-20-grey",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1446-22-black",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1446-22-grey",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1446-24-black",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1446-24-grey",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1446-26-black",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1446-26-grey",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1446-28-black",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1446-28-grey",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1446-30-black",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1446-30-grey",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1446-32-black",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1446-32-grey",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1446-34-black",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1446-34-grey",
-        "priceCHF": 33.3,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -14543,112 +14543,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1447-20-black",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1447-20-grey",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1447-22-black",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1447-22-grey",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1447-24-black",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1447-24-grey",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1447-26-black",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1447-26-grey",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1447-28-black",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1447-28-grey",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1447-30-black",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1447-30-grey",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1447-32-black",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1447-32-grey",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1447-34-black",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1447-34-grey",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       }
     ]
@@ -14765,112 +14765,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1449-20-black",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1449-20-grey",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1449-22-black",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1449-22-grey",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1449-24-black",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1449-24-grey",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1449-26-black",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1449-26-grey",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1449-28-black",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1449-28-grey",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1449-30-black",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1449-30-grey",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1449-32-black",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1449-32-grey",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1449-34-black",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1449-34-grey",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       }
     ]
@@ -14987,112 +14987,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1450-20-black",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1450-20-grey",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1450-22-black",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1450-22-grey",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1450-24-black",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1450-24-grey",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1450-26-black",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1450-26-grey",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1450-28-black",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1450-28-grey",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1450-30-black",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1450-30-grey",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1450-32-black",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1450-32-grey",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1450-34-black",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1450-34-grey",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       }
     ]
@@ -15209,112 +15209,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1453-20-black",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1453-20-grey",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1453-22-black",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1453-22-grey",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1453-24-black",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1453-24-grey",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1453-26-black",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1453-26-grey",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1453-28-black",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1453-28-grey",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1453-30-black",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1453-30-grey",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1453-32-black",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1453-32-grey",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1453-34-black",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1453-34-grey",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       }
     ]
@@ -15431,112 +15431,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1455-20-black",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1455-20-grey",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1455-22-black",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1455-22-grey",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1455-24-black",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1455-24-grey",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1455-26-black",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1455-26-grey",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1455-28-black",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1455-28-grey",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1455-30-black",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1455-30-grey",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1455-32-black",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1455-32-grey",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1455-34-black",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1455-34-grey",
-        "priceCHF": 37.4,
+        "priceCHF": 79,
         "stock": 10
       }
     ]
@@ -15653,112 +15653,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1456-20-black",
-        "priceCHF": 16.6,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1456-20-grey",
-        "priceCHF": 16.6,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1456-22-black",
-        "priceCHF": 16.6,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1456-22-grey",
-        "priceCHF": 16.6,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1456-24-black",
-        "priceCHF": 16.6,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1456-24-grey",
-        "priceCHF": 16.6,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1456-26-black",
-        "priceCHF": 16.6,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1456-26-grey",
-        "priceCHF": 16.6,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1456-28-black",
-        "priceCHF": 16.6,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1456-28-grey",
-        "priceCHF": 16.6,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1456-30-black",
-        "priceCHF": 16.6,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1456-30-grey",
-        "priceCHF": 16.6,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1456-32-black",
-        "priceCHF": 16.6,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1456-32-grey",
-        "priceCHF": 16.6,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1456-34-black",
-        "priceCHF": 16.6,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1456-34-grey",
-        "priceCHF": 16.6,
+        "priceCHF": 49,
         "stock": 10
       }
     ]
@@ -15875,112 +15875,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1457-20-black",
-        "priceCHF": 16.6,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1457-20-grey",
-        "priceCHF": 16.6,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1457-22-black",
-        "priceCHF": 16.6,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1457-22-grey",
-        "priceCHF": 16.6,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1457-24-black",
-        "priceCHF": 16.6,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1457-24-grey",
-        "priceCHF": 16.6,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1457-26-black",
-        "priceCHF": 16.6,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1457-26-grey",
-        "priceCHF": 16.6,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1457-28-black",
-        "priceCHF": 16.6,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1457-28-grey",
-        "priceCHF": 16.6,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1457-30-black",
-        "priceCHF": 16.6,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1457-30-grey",
-        "priceCHF": 16.6,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1457-32-black",
-        "priceCHF": 16.6,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1457-32-grey",
-        "priceCHF": 16.6,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1457-34-black",
-        "priceCHF": 16.6,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1457-34-grey",
-        "priceCHF": 16.6,
+        "priceCHF": 49,
         "stock": 10
       }
     ]
@@ -16097,112 +16097,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1458-20-black",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1458-20-grey",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1458-22-black",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1458-22-grey",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1458-24-black",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1458-24-grey",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1458-26-black",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1458-26-grey",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1458-28-black",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1458-28-grey",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1458-30-black",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1458-30-grey",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1458-32-black",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1458-32-grey",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1458-34-black",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1458-34-grey",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       }
     ]
@@ -16319,112 +16319,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1459-20-black",
-        "priceCHF": 16.6,
+        "priceCHF": 47,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1459-20-grey",
-        "priceCHF": 16.6,
+        "priceCHF": 47,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1459-22-black",
-        "priceCHF": 16.6,
+        "priceCHF": 47,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1459-22-grey",
-        "priceCHF": 16.6,
+        "priceCHF": 47,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1459-24-black",
-        "priceCHF": 16.6,
+        "priceCHF": 47,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1459-24-grey",
-        "priceCHF": 16.6,
+        "priceCHF": 47,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1459-26-black",
-        "priceCHF": 16.6,
+        "priceCHF": 47,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1459-26-grey",
-        "priceCHF": 16.6,
+        "priceCHF": 47,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1459-28-black",
-        "priceCHF": 16.6,
+        "priceCHF": 47,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1459-28-grey",
-        "priceCHF": 16.6,
+        "priceCHF": 47,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1459-30-black",
-        "priceCHF": 16.6,
+        "priceCHF": 47,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1459-30-grey",
-        "priceCHF": 16.6,
+        "priceCHF": 47,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1459-32-black",
-        "priceCHF": 16.6,
+        "priceCHF": 47,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1459-32-grey",
-        "priceCHF": 16.6,
+        "priceCHF": 47,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1459-34-black",
-        "priceCHF": 16.6,
+        "priceCHF": 47,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1459-34-grey",
-        "priceCHF": 16.6,
+        "priceCHF": 47,
         "stock": 10
       }
     ]
@@ -16541,112 +16541,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1460-20-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1460-20-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1460-22-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1460-22-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1460-24-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1460-24-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1460-26-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1460-26-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1460-28-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1460-28-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1460-30-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1460-30-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1460-32-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1460-32-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1460-34-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1460-34-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -16763,112 +16763,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1461-20-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1461-20-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1461-22-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1461-22-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1461-24-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1461-24-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1461-26-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1461-26-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1461-28-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1461-28-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1461-30-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1461-30-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1461-32-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1461-32-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1461-34-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1461-34-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -16985,112 +16985,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1462-20-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1462-20-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1462-22-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1462-22-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1462-24-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1462-24-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1462-26-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1462-26-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1462-28-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1462-28-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1462-30-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1462-30-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1462-32-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1462-32-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1462-34-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1462-34-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -17207,112 +17207,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1463-20-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1463-20-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1463-22-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1463-22-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1463-24-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1463-24-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1463-26-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1463-26-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1463-28-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1463-28-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1463-30-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1463-30-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1463-32-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1463-32-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1463-34-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1463-34-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -17429,112 +17429,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1464-20-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1464-20-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1464-22-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1464-22-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1464-24-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1464-24-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1464-26-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1464-26-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1464-28-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1464-28-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1464-30-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1464-30-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1464-32-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1464-32-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1464-34-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1464-34-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -17651,112 +17651,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1465-20-black",
-        "priceCHF": 18.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1465-20-grey",
-        "priceCHF": 18.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1465-22-black",
-        "priceCHF": 18.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1465-22-grey",
-        "priceCHF": 18.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1465-24-black",
-        "priceCHF": 18.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1465-24-grey",
-        "priceCHF": 18.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1465-26-black",
-        "priceCHF": 18.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1465-26-grey",
-        "priceCHF": 18.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1465-28-black",
-        "priceCHF": 18.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1465-28-grey",
-        "priceCHF": 18.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1465-30-black",
-        "priceCHF": 18.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1465-30-grey",
-        "priceCHF": 18.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1465-32-black",
-        "priceCHF": 18.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1465-32-grey",
-        "priceCHF": 18.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1465-34-black",
-        "priceCHF": 18.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1465-34-grey",
-        "priceCHF": 18.8,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -17873,112 +17873,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1466-20-black",
-        "priceCHF": 18.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1466-20-grey",
-        "priceCHF": 18.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1466-22-black",
-        "priceCHF": 18.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1466-22-grey",
-        "priceCHF": 18.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1466-24-black",
-        "priceCHF": 18.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1466-24-grey",
-        "priceCHF": 18.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1466-26-black",
-        "priceCHF": 18.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1466-26-grey",
-        "priceCHF": 18.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1466-28-black",
-        "priceCHF": 18.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1466-28-grey",
-        "priceCHF": 18.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1466-30-black",
-        "priceCHF": 18.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1466-30-grey",
-        "priceCHF": 18.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1466-32-black",
-        "priceCHF": 18.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1466-32-grey",
-        "priceCHF": 18.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1466-34-black",
-        "priceCHF": 18.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1466-34-grey",
-        "priceCHF": 18.8,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -18095,112 +18095,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1467-20-black",
-        "priceCHF": 18.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1467-20-grey",
-        "priceCHF": 18.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1467-22-black",
-        "priceCHF": 18.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1467-22-grey",
-        "priceCHF": 18.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1467-24-black",
-        "priceCHF": 18.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1467-24-grey",
-        "priceCHF": 18.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1467-26-black",
-        "priceCHF": 18.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1467-26-grey",
-        "priceCHF": 18.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1467-28-black",
-        "priceCHF": 18.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1467-28-grey",
-        "priceCHF": 18.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1467-30-black",
-        "priceCHF": 18.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1467-30-grey",
-        "priceCHF": 18.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1467-32-black",
-        "priceCHF": 18.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1467-32-grey",
-        "priceCHF": 18.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1467-34-black",
-        "priceCHF": 18.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1467-34-grey",
-        "priceCHF": 18.8,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -18317,112 +18317,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1469-20-black",
-        "priceCHF": 18.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1469-20-grey",
-        "priceCHF": 18.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1469-22-black",
-        "priceCHF": 18.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1469-22-grey",
-        "priceCHF": 18.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1469-24-black",
-        "priceCHF": 18.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1469-24-grey",
-        "priceCHF": 18.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1469-26-black",
-        "priceCHF": 18.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1469-26-grey",
-        "priceCHF": 18.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1469-28-black",
-        "priceCHF": 18.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1469-28-grey",
-        "priceCHF": 18.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1469-30-black",
-        "priceCHF": 18.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1469-30-grey",
-        "priceCHF": 18.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1469-32-black",
-        "priceCHF": 18.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1469-32-grey",
-        "priceCHF": 18.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1469-34-black",
-        "priceCHF": 18.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1469-34-grey",
-        "priceCHF": 18.8,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -18539,112 +18539,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1470-20-black",
-        "priceCHF": 18.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1470-20-grey",
-        "priceCHF": 18.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1470-22-black",
-        "priceCHF": 18.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1470-22-grey",
-        "priceCHF": 18.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1470-24-black",
-        "priceCHF": 18.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1470-24-grey",
-        "priceCHF": 18.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1470-26-black",
-        "priceCHF": 18.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1470-26-grey",
-        "priceCHF": 18.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1470-28-black",
-        "priceCHF": 18.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1470-28-grey",
-        "priceCHF": 18.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1470-30-black",
-        "priceCHF": 18.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1470-30-grey",
-        "priceCHF": 18.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1470-32-black",
-        "priceCHF": 18.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1470-32-grey",
-        "priceCHF": 18.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1470-34-black",
-        "priceCHF": 18.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1470-34-grey",
-        "priceCHF": 18.8,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -18761,112 +18761,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1471-20-black",
-        "priceCHF": 22.9,
+        "priceCHF": 47,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1471-20-grey",
-        "priceCHF": 22.9,
+        "priceCHF": 47,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1471-22-black",
-        "priceCHF": 22.9,
+        "priceCHF": 47,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1471-22-grey",
-        "priceCHF": 22.9,
+        "priceCHF": 47,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1471-24-black",
-        "priceCHF": 22.9,
+        "priceCHF": 47,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1471-24-grey",
-        "priceCHF": 22.9,
+        "priceCHF": 47,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1471-26-black",
-        "priceCHF": 22.9,
+        "priceCHF": 47,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1471-26-grey",
-        "priceCHF": 22.9,
+        "priceCHF": 47,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1471-28-black",
-        "priceCHF": 22.9,
+        "priceCHF": 47,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1471-28-grey",
-        "priceCHF": 22.9,
+        "priceCHF": 47,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1471-30-black",
-        "priceCHF": 22.9,
+        "priceCHF": 47,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1471-30-grey",
-        "priceCHF": 22.9,
+        "priceCHF": 47,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1471-32-black",
-        "priceCHF": 22.9,
+        "priceCHF": 47,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1471-32-grey",
-        "priceCHF": 22.9,
+        "priceCHF": 47,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1471-34-black",
-        "priceCHF": 22.9,
+        "priceCHF": 47,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1471-34-grey",
-        "priceCHF": 22.9,
+        "priceCHF": 47,
         "stock": 10
       }
     ]
@@ -18983,112 +18983,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1472-20-black",
-        "priceCHF": 22.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1472-20-grey",
-        "priceCHF": 22.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1472-22-black",
-        "priceCHF": 22.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1472-22-grey",
-        "priceCHF": 22.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1472-24-black",
-        "priceCHF": 22.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1472-24-grey",
-        "priceCHF": 22.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1472-26-black",
-        "priceCHF": 22.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1472-26-grey",
-        "priceCHF": 22.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1472-28-black",
-        "priceCHF": 22.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1472-28-grey",
-        "priceCHF": 22.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1472-30-black",
-        "priceCHF": 22.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1472-30-grey",
-        "priceCHF": 22.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1472-32-black",
-        "priceCHF": 22.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1472-32-grey",
-        "priceCHF": 22.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1472-34-black",
-        "priceCHF": 22.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1472-34-grey",
-        "priceCHF": 22.9,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -19205,112 +19205,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1475-20-black",
-        "priceCHF": 22.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1475-20-grey",
-        "priceCHF": 22.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1475-22-black",
-        "priceCHF": 22.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1475-22-grey",
-        "priceCHF": 22.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1475-24-black",
-        "priceCHF": 22.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1475-24-grey",
-        "priceCHF": 22.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1475-26-black",
-        "priceCHF": 22.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1475-26-grey",
-        "priceCHF": 22.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1475-28-black",
-        "priceCHF": 22.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1475-28-grey",
-        "priceCHF": 22.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1475-30-black",
-        "priceCHF": 22.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1475-30-grey",
-        "priceCHF": 22.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1475-32-black",
-        "priceCHF": 22.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1475-32-grey",
-        "priceCHF": 22.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1475-34-black",
-        "priceCHF": 22.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1475-34-grey",
-        "priceCHF": 22.9,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -19427,112 +19427,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1481-20-black",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1481-20-grey",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1481-22-black",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1481-22-grey",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1481-24-black",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1481-24-grey",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1481-26-black",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1481-26-grey",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1481-28-black",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1481-28-grey",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1481-30-black",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1481-30-grey",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1481-32-black",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1481-32-grey",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1481-34-black",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1481-34-grey",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       }
     ]
@@ -19649,112 +19649,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1482-20-black",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1482-20-grey",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1482-22-black",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1482-22-grey",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1482-24-black",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1482-24-grey",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1482-26-black",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1482-26-grey",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1482-28-black",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1482-28-grey",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1482-30-black",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1482-30-grey",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1482-32-black",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1482-32-grey",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1482-34-black",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1482-34-grey",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       }
     ]
@@ -19871,112 +19871,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1483-20-black",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1483-20-grey",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1483-22-black",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1483-22-grey",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1483-24-black",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1483-24-grey",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1483-26-black",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1483-26-grey",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1483-28-black",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1483-28-grey",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1483-30-black",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1483-30-grey",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1483-32-black",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1483-32-grey",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1483-34-black",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1483-34-grey",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       }
     ]
@@ -20093,112 +20093,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1484-20-black",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1484-20-grey",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1484-22-black",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1484-22-grey",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1484-24-black",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1484-24-grey",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1484-26-black",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1484-26-grey",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1484-28-black",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1484-28-grey",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1484-30-black",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1484-30-grey",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1484-32-black",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1484-32-grey",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1484-34-black",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1484-34-grey",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       }
     ]
@@ -20315,112 +20315,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1485-20-black",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1485-20-grey",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1485-22-black",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1485-22-grey",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1485-24-black",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1485-24-grey",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1485-26-black",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1485-26-grey",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1485-28-black",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1485-28-grey",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1485-30-black",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1485-30-grey",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1485-32-black",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1485-32-grey",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1485-34-black",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1485-34-grey",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       }
     ]
@@ -20537,112 +20537,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1486-20-black",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1486-20-grey",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1486-22-black",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1486-22-grey",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1486-24-black",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1486-24-grey",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1486-26-black",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1486-26-grey",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1486-28-black",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1486-28-grey",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1486-30-black",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1486-30-grey",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1486-32-black",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1486-32-grey",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1486-34-black",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1486-34-grey",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       }
     ]
@@ -20759,112 +20759,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1487-20-black",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1487-20-grey",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1487-22-black",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1487-22-grey",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1487-24-black",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1487-24-grey",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1487-26-black",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1487-26-grey",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1487-28-black",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1487-28-grey",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1487-30-black",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1487-30-grey",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1487-32-black",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1487-32-grey",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1487-34-black",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1487-34-grey",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       }
     ]
@@ -20981,112 +20981,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1488-20-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1488-20-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1488-22-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1488-22-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1488-24-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1488-24-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1488-26-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1488-26-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1488-28-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1488-28-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1488-30-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1488-30-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1488-32-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1488-32-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1488-34-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1488-34-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -21203,112 +21203,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1489-20-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1489-20-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1489-22-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1489-22-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1489-24-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1489-24-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1489-26-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1489-26-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1489-28-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1489-28-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1489-30-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1489-30-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1489-32-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1489-32-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1489-34-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1489-34-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -21425,112 +21425,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1490-20-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1490-20-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1490-22-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1490-22-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1490-24-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1490-24-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1490-26-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1490-26-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1490-28-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1490-28-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1490-30-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1490-30-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1490-32-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1490-32-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1490-34-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1490-34-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -21647,112 +21647,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1491-20-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1491-20-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1491-22-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1491-22-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1491-24-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1491-24-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1491-26-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1491-26-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1491-28-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1491-28-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1491-30-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1491-30-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1491-32-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1491-32-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1491-34-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1491-34-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -21869,112 +21869,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1492-20-black",
-        "priceCHF": 16.6,
+        "priceCHF": 47,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1492-20-grey",
-        "priceCHF": 16.6,
+        "priceCHF": 47,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1492-22-black",
-        "priceCHF": 16.6,
+        "priceCHF": 47,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1492-22-grey",
-        "priceCHF": 16.6,
+        "priceCHF": 47,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1492-24-black",
-        "priceCHF": 16.6,
+        "priceCHF": 47,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1492-24-grey",
-        "priceCHF": 16.6,
+        "priceCHF": 47,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1492-26-black",
-        "priceCHF": 16.6,
+        "priceCHF": 47,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1492-26-grey",
-        "priceCHF": 16.6,
+        "priceCHF": 47,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1492-28-black",
-        "priceCHF": 16.6,
+        "priceCHF": 47,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1492-28-grey",
-        "priceCHF": 16.6,
+        "priceCHF": 47,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1492-30-black",
-        "priceCHF": 16.6,
+        "priceCHF": 47,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1492-30-grey",
-        "priceCHF": 16.6,
+        "priceCHF": 47,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1492-32-black",
-        "priceCHF": 16.6,
+        "priceCHF": 47,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1492-32-grey",
-        "priceCHF": 16.6,
+        "priceCHF": 47,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1492-34-black",
-        "priceCHF": 16.6,
+        "priceCHF": 47,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1492-34-grey",
-        "priceCHF": 16.6,
+        "priceCHF": 47,
         "stock": 10
       }
     ]
@@ -22091,112 +22091,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1493-20-black",
-        "priceCHF": 16.6,
+        "priceCHF": 47,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1493-20-grey",
-        "priceCHF": 16.6,
+        "priceCHF": 47,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1493-22-black",
-        "priceCHF": 16.6,
+        "priceCHF": 47,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1493-22-grey",
-        "priceCHF": 16.6,
+        "priceCHF": 47,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1493-24-black",
-        "priceCHF": 16.6,
+        "priceCHF": 47,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1493-24-grey",
-        "priceCHF": 16.6,
+        "priceCHF": 47,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1493-26-black",
-        "priceCHF": 16.6,
+        "priceCHF": 47,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1493-26-grey",
-        "priceCHF": 16.6,
+        "priceCHF": 47,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1493-28-black",
-        "priceCHF": 16.6,
+        "priceCHF": 47,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1493-28-grey",
-        "priceCHF": 16.6,
+        "priceCHF": 47,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1493-30-black",
-        "priceCHF": 16.6,
+        "priceCHF": 47,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1493-30-grey",
-        "priceCHF": 16.6,
+        "priceCHF": 47,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1493-32-black",
-        "priceCHF": 16.6,
+        "priceCHF": 47,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1493-32-grey",
-        "priceCHF": 16.6,
+        "priceCHF": 47,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1493-34-black",
-        "priceCHF": 16.6,
+        "priceCHF": 47,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1493-34-grey",
-        "priceCHF": 16.6,
+        "priceCHF": 47,
         "stock": 10
       }
     ]
@@ -22313,112 +22313,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1494-20-black",
-        "priceCHF": 41.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1494-20-grey",
-        "priceCHF": 41.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1494-22-black",
-        "priceCHF": 41.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1494-22-grey",
-        "priceCHF": 41.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1494-24-black",
-        "priceCHF": 41.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1494-24-grey",
-        "priceCHF": 41.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1494-26-black",
-        "priceCHF": 41.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1494-26-grey",
-        "priceCHF": 41.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1494-28-black",
-        "priceCHF": 41.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1494-28-grey",
-        "priceCHF": 41.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1494-30-black",
-        "priceCHF": 41.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1494-30-grey",
-        "priceCHF": 41.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1494-32-black",
-        "priceCHF": 41.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1494-32-grey",
-        "priceCHF": 41.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1494-34-black",
-        "priceCHF": 41.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1494-34-grey",
-        "priceCHF": 41.7,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -22535,112 +22535,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1498-20-black",
-        "priceCHF": 41.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1498-20-grey",
-        "priceCHF": 41.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1498-22-black",
-        "priceCHF": 41.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1498-22-grey",
-        "priceCHF": 41.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1498-24-black",
-        "priceCHF": 41.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1498-24-grey",
-        "priceCHF": 41.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1498-26-black",
-        "priceCHF": 41.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1498-26-grey",
-        "priceCHF": 41.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1498-28-black",
-        "priceCHF": 41.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1498-28-grey",
-        "priceCHF": 41.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1498-30-black",
-        "priceCHF": 41.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1498-30-grey",
-        "priceCHF": 41.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1498-32-black",
-        "priceCHF": 41.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1498-32-grey",
-        "priceCHF": 41.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1498-34-black",
-        "priceCHF": 41.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1498-34-grey",
-        "priceCHF": 41.7,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -22757,112 +22757,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1500-20-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1500-20-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1500-22-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1500-22-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1500-24-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1500-24-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1500-26-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1500-26-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1500-28-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1500-28-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1500-30-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1500-30-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1500-32-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1500-32-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1500-34-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1500-34-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -22979,112 +22979,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1505-20-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1505-20-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1505-22-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1505-22-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1505-24-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1505-24-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1505-26-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1505-26-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1505-28-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1505-28-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1505-30-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1505-30-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1505-32-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1505-32-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1505-34-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1505-34-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -23201,112 +23201,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1506-20-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1506-20-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1506-22-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1506-22-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1506-24-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1506-24-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1506-26-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1506-26-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1506-28-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1506-28-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1506-30-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1506-30-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1506-32-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1506-32-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1506-34-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1506-34-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -23423,112 +23423,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1507-20-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1507-20-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1507-22-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1507-22-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1507-24-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1507-24-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1507-26-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1507-26-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1507-28-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1507-28-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1507-30-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1507-30-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1507-32-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1507-32-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1507-34-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1507-34-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -23645,112 +23645,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1510-20-black",
-        "priceCHF": 20.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1510-20-grey",
-        "priceCHF": 20.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1510-22-black",
-        "priceCHF": 20.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1510-22-grey",
-        "priceCHF": 20.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1510-24-black",
-        "priceCHF": 20.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1510-24-grey",
-        "priceCHF": 20.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1510-26-black",
-        "priceCHF": 20.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1510-26-grey",
-        "priceCHF": 20.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1510-28-black",
-        "priceCHF": 20.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1510-28-grey",
-        "priceCHF": 20.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1510-30-black",
-        "priceCHF": 20.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1510-30-grey",
-        "priceCHF": 20.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1510-32-black",
-        "priceCHF": 20.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1510-32-grey",
-        "priceCHF": 20.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1510-34-black",
-        "priceCHF": 20.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1510-34-grey",
-        "priceCHF": 20.8,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -23867,112 +23867,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1511-20-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1511-20-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1511-22-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1511-22-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1511-24-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1511-24-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1511-26-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1511-26-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1511-28-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1511-28-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1511-30-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1511-30-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1511-32-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1511-32-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1511-34-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1511-34-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -24089,112 +24089,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1512-20-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1512-20-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1512-22-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1512-22-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1512-24-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1512-24-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1512-26-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1512-26-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1512-28-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1512-28-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1512-30-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1512-30-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1512-32-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1512-32-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1512-34-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1512-34-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -24311,112 +24311,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1514-20-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1514-20-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1514-22-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1514-22-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1514-24-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1514-24-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1514-26-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1514-26-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1514-28-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1514-28-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1514-30-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1514-30-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1514-32-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1514-32-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1514-34-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1514-34-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -24533,112 +24533,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1518-20-black",
-        "priceCHF": 20.8,
+        "priceCHF": 47,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1518-20-grey",
-        "priceCHF": 20.8,
+        "priceCHF": 47,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1518-22-black",
-        "priceCHF": 20.8,
+        "priceCHF": 47,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1518-22-grey",
-        "priceCHF": 20.8,
+        "priceCHF": 47,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1518-24-black",
-        "priceCHF": 20.8,
+        "priceCHF": 47,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1518-24-grey",
-        "priceCHF": 20.8,
+        "priceCHF": 47,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1518-26-black",
-        "priceCHF": 20.8,
+        "priceCHF": 47,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1518-26-grey",
-        "priceCHF": 20.8,
+        "priceCHF": 47,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1518-28-black",
-        "priceCHF": 20.8,
+        "priceCHF": 47,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1518-28-grey",
-        "priceCHF": 20.8,
+        "priceCHF": 47,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1518-30-black",
-        "priceCHF": 20.8,
+        "priceCHF": 47,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1518-30-grey",
-        "priceCHF": 20.8,
+        "priceCHF": 47,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1518-32-black",
-        "priceCHF": 20.8,
+        "priceCHF": 47,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1518-32-grey",
-        "priceCHF": 20.8,
+        "priceCHF": 47,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1518-34-black",
-        "priceCHF": 20.8,
+        "priceCHF": 47,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1518-34-grey",
-        "priceCHF": 20.8,
+        "priceCHF": 47,
         "stock": 10
       }
     ]
@@ -24755,112 +24755,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1520-20-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1520-20-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1520-22-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1520-22-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1520-24-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1520-24-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1520-26-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1520-26-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1520-28-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1520-28-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1520-30-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1520-30-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1520-32-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1520-32-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1520-34-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1520-34-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -24977,112 +24977,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1522-20-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1522-20-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1522-22-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1522-22-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1522-24-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1522-24-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1522-26-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1522-26-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1522-28-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1522-28-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1522-30-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1522-30-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1522-32-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1522-32-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1522-34-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1522-34-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -25199,112 +25199,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1526-20-black",
-        "priceCHF": 29.2,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1526-20-grey",
-        "priceCHF": 29.2,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1526-22-black",
-        "priceCHF": 29.2,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1526-22-grey",
-        "priceCHF": 29.2,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1526-24-black",
-        "priceCHF": 29.2,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1526-24-grey",
-        "priceCHF": 29.2,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1526-26-black",
-        "priceCHF": 29.2,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1526-26-grey",
-        "priceCHF": 29.2,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1526-28-black",
-        "priceCHF": 29.2,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1526-28-grey",
-        "priceCHF": 29.2,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1526-30-black",
-        "priceCHF": 29.2,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1526-30-grey",
-        "priceCHF": 29.2,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1526-32-black",
-        "priceCHF": 29.2,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1526-32-grey",
-        "priceCHF": 29.2,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1526-34-black",
-        "priceCHF": 29.2,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1526-34-grey",
-        "priceCHF": 29.2,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -25421,112 +25421,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1527-20-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1527-20-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1527-22-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1527-22-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1527-24-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1527-24-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1527-26-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1527-26-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1527-28-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1527-28-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1527-30-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1527-30-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1527-32-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1527-32-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1527-34-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1527-34-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -25643,112 +25643,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1528-20-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1528-20-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1528-22-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1528-22-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1528-24-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1528-24-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1528-26-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1528-26-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1528-28-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1528-28-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1528-30-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1528-30-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1528-32-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1528-32-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1528-34-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1528-34-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -25865,112 +25865,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1529-20-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1529-20-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1529-22-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1529-22-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1529-24-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1529-24-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1529-26-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1529-26-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1529-28-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1529-28-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1529-30-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1529-30-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1529-32-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1529-32-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1529-34-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1529-34-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -26087,112 +26087,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1530-20-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1530-20-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1530-22-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1530-22-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1530-24-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1530-24-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1530-26-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1530-26-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1530-28-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1530-28-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1530-30-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1530-30-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1530-32-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1530-32-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1530-34-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1530-34-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -26309,112 +26309,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1531-20-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1531-20-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1531-22-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1531-22-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1531-24-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1531-24-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1531-26-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1531-26-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1531-28-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1531-28-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1531-30-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1531-30-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1531-32-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1531-32-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1531-34-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1531-34-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -26531,112 +26531,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1532-20-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1532-20-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1532-22-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1532-22-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1532-24-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1532-24-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1532-26-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1532-26-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1532-28-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1532-28-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1532-30-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1532-30-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1532-32-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1532-32-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1532-34-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1532-34-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -26753,112 +26753,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1533-20-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1533-20-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1533-22-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1533-22-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1533-24-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1533-24-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1533-26-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1533-26-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1533-28-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1533-28-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1533-30-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1533-30-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1533-32-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1533-32-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1533-34-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1533-34-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -26975,112 +26975,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1534-20-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1534-20-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1534-22-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1534-22-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1534-24-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1534-24-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1534-26-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1534-26-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1534-28-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1534-28-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1534-30-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1534-30-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1534-32-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1534-32-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1534-34-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1534-34-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -27197,112 +27197,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1536-20-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1536-20-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1536-22-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1536-22-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1536-24-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1536-24-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1536-26-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1536-26-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1536-28-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1536-28-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1536-30-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1536-30-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1536-32-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1536-32-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1536-34-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1536-34-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -27419,112 +27419,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1537-20-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1537-20-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1537-22-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1537-22-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1537-24-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1537-24-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1537-26-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1537-26-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1537-28-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1537-28-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1537-30-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1537-30-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1537-32-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1537-32-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1537-34-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1537-34-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -27641,112 +27641,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1538-20-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1538-20-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1538-22-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1538-22-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1538-24-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1538-24-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1538-26-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1538-26-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1538-28-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1538-28-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1538-30-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1538-30-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1538-32-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1538-32-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1538-34-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1538-34-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -27863,112 +27863,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1539-20-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1539-20-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1539-22-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1539-22-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1539-24-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1539-24-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1539-26-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1539-26-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1539-28-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1539-28-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1539-30-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1539-30-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1539-32-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1539-32-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1539-34-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1539-34-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -28085,112 +28085,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1540-20-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1540-20-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1540-22-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1540-22-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1540-24-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1540-24-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1540-26-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1540-26-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1540-28-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1540-28-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1540-30-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1540-30-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1540-32-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1540-32-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1540-34-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1540-34-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -28307,112 +28307,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1541-20-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1541-20-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1541-22-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1541-22-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1541-24-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1541-24-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1541-26-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1541-26-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1541-28-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1541-28-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1541-30-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1541-30-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1541-32-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1541-32-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1541-34-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1541-34-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -28529,112 +28529,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1542-20-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1542-20-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1542-22-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1542-22-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1542-24-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1542-24-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1542-26-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1542-26-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1542-28-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1542-28-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1542-30-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1542-30-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1542-32-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1542-32-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1542-34-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1542-34-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -28751,112 +28751,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1543-20-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1543-20-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1543-22-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1543-22-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1543-24-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1543-24-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1543-26-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1543-26-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1543-28-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1543-28-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1543-30-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1543-30-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1543-32-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1543-32-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1543-34-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1543-34-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -28973,112 +28973,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1544-20-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1544-20-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1544-22-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1544-22-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1544-24-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1544-24-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1544-26-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1544-26-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1544-28-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1544-28-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1544-30-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1544-30-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1544-32-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1544-32-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1544-34-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1544-34-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -29195,112 +29195,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1545-20-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1545-20-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1545-22-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1545-22-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1545-24-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1545-24-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1545-26-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1545-26-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1545-28-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1545-28-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1545-30-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1545-30-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1545-32-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1545-32-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1545-34-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1545-34-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -29417,112 +29417,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1546-20-black",
-        "priceCHF": 14.9,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1546-20-grey",
-        "priceCHF": 14.9,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1546-22-black",
-        "priceCHF": 14.9,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1546-22-grey",
-        "priceCHF": 14.9,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1546-24-black",
-        "priceCHF": 14.9,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1546-24-grey",
-        "priceCHF": 14.9,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1546-26-black",
-        "priceCHF": 14.9,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1546-26-grey",
-        "priceCHF": 14.9,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1546-28-black",
-        "priceCHF": 14.9,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1546-28-grey",
-        "priceCHF": 14.9,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1546-30-black",
-        "priceCHF": 14.9,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1546-30-grey",
-        "priceCHF": 14.9,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1546-32-black",
-        "priceCHF": 14.9,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1546-32-grey",
-        "priceCHF": 14.9,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1546-34-black",
-        "priceCHF": 14.9,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1546-34-grey",
-        "priceCHF": 14.9,
+        "priceCHF": 49,
         "stock": 10
       }
     ]
@@ -29639,112 +29639,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1547-20-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1547-20-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1547-22-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1547-22-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1547-24-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1547-24-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1547-26-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1547-26-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1547-28-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1547-28-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1547-30-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1547-30-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1547-32-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1547-32-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1547-34-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1547-34-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -29861,112 +29861,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1548-20-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1548-20-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1548-22-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1548-22-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1548-24-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1548-24-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1548-26-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1548-26-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1548-28-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1548-28-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1548-30-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1548-30-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1548-32-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1548-32-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1548-34-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1548-34-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -30083,112 +30083,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1549-20-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1549-20-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1549-22-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1549-22-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1549-24-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1549-24-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1549-26-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1549-26-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1549-28-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1549-28-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1549-30-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1549-30-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1549-32-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1549-32-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1549-34-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1549-34-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -30305,112 +30305,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1550-20-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1550-20-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1550-22-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1550-22-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1550-24-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1550-24-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1550-26-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1550-26-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1550-28-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1550-28-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1550-30-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1550-30-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1550-32-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1550-32-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1550-34-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1550-34-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -30527,112 +30527,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1551-20-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1551-20-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1551-22-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1551-22-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1551-24-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1551-24-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1551-26-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1551-26-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1551-28-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1551-28-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1551-30-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1551-30-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1551-32-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1551-32-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1551-34-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1551-34-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -30749,112 +30749,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1552-20-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1552-20-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1552-22-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1552-22-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1552-24-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1552-24-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1552-26-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1552-26-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1552-28-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1552-28-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1552-30-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1552-30-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1552-32-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1552-32-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1552-34-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1552-34-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -30971,112 +30971,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1553-20-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1553-20-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1553-22-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1553-22-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1553-24-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1553-24-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1553-26-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1553-26-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1553-28-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1553-28-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1553-30-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1553-30-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1553-32-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1553-32-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1553-34-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1553-34-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -31193,112 +31193,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1554-20-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1554-20-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1554-22-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1554-22-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1554-24-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1554-24-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1554-26-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1554-26-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1554-28-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1554-28-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1554-30-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1554-30-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1554-32-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1554-32-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1554-34-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1554-34-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -31415,112 +31415,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1555-20-black",
-        "priceCHF": 14.9,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1555-20-grey",
-        "priceCHF": 14.9,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1555-22-black",
-        "priceCHF": 14.9,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1555-22-grey",
-        "priceCHF": 14.9,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1555-24-black",
-        "priceCHF": 14.9,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1555-24-grey",
-        "priceCHF": 14.9,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1555-26-black",
-        "priceCHF": 14.9,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1555-26-grey",
-        "priceCHF": 14.9,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1555-28-black",
-        "priceCHF": 14.9,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1555-28-grey",
-        "priceCHF": 14.9,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1555-30-black",
-        "priceCHF": 14.9,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1555-30-grey",
-        "priceCHF": 14.9,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1555-32-black",
-        "priceCHF": 14.9,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1555-32-grey",
-        "priceCHF": 14.9,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1555-34-black",
-        "priceCHF": 14.9,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1555-34-grey",
-        "priceCHF": 14.9,
+        "priceCHF": 49,
         "stock": 10
       }
     ]
@@ -31637,112 +31637,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1556-20-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1556-20-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1556-22-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1556-22-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1556-24-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1556-24-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1556-26-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1556-26-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1556-28-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1556-28-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1556-30-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1556-30-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1556-32-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1556-32-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1556-34-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1556-34-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -31859,112 +31859,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1557-20-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1557-20-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1557-22-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1557-22-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1557-24-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1557-24-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1557-26-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1557-26-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1557-28-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1557-28-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1557-30-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1557-30-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1557-32-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1557-32-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1557-34-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1557-34-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -32081,112 +32081,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1558-20-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1558-20-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1558-22-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1558-22-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1558-24-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1558-24-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1558-26-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1558-26-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1558-28-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1558-28-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1558-30-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1558-30-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1558-32-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1558-32-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1558-34-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1558-34-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -32303,112 +32303,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1559-20-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1559-20-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1559-22-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1559-22-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1559-24-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1559-24-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1559-26-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1559-26-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1559-28-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1559-28-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1559-30-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1559-30-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1559-32-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1559-32-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1559-34-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1559-34-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -32525,112 +32525,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1560-20-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1560-20-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1560-22-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1560-22-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1560-24-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1560-24-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1560-26-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1560-26-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1560-28-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1560-28-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1560-30-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1560-30-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1560-32-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1560-32-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1560-34-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1560-34-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -32747,112 +32747,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1561-20-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1561-20-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1561-22-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1561-22-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1561-24-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1561-24-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1561-26-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1561-26-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1561-28-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1561-28-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1561-30-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1561-30-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1561-32-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1561-32-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1561-34-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1561-34-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -32969,112 +32969,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1562-20-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1562-20-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1562-22-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1562-22-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1562-24-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1562-24-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1562-26-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1562-26-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1562-28-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1562-28-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1562-30-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1562-30-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1562-32-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1562-32-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1562-34-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1562-34-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -33191,112 +33191,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1563-20-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1563-20-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1563-22-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1563-22-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1563-24-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1563-24-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1563-26-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1563-26-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1563-28-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1563-28-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1563-30-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1563-30-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1563-32-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1563-32-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1563-34-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1563-34-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -33413,112 +33413,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1564-20-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1564-20-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1564-22-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1564-22-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1564-24-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1564-24-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1564-26-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1564-26-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1564-28-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1564-28-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1564-30-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1564-30-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1564-32-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1564-32-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1564-34-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1564-34-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -33635,112 +33635,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1565-20-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1565-20-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1565-22-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1565-22-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1565-24-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1565-24-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1565-26-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1565-26-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1565-28-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1565-28-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1565-30-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1565-30-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1565-32-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1565-32-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1565-34-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1565-34-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -33857,112 +33857,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1567-20-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1567-20-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1567-22-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1567-22-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1567-24-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1567-24-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1567-26-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1567-26-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1567-28-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1567-28-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1567-30-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1567-30-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1567-32-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1567-32-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1567-34-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1567-34-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -34079,112 +34079,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1568-20-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1568-20-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1568-22-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1568-22-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1568-24-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1568-24-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1568-26-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1568-26-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1568-28-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1568-28-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1568-30-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1568-30-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1568-32-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1568-32-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1568-34-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1568-34-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -34301,112 +34301,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1570-20-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1570-20-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1570-22-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1570-22-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1570-24-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1570-24-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1570-26-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1570-26-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1570-28-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1570-28-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1570-30-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1570-30-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1570-32-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1570-32-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1570-34-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1570-34-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -34523,112 +34523,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1571-20-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1571-20-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1571-22-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1571-22-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1571-24-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1571-24-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1571-26-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1571-26-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1571-28-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1571-28-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1571-30-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1571-30-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1571-32-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1571-32-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1571-34-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1571-34-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -34745,112 +34745,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1572-20-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1572-20-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1572-22-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1572-22-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1572-24-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1572-24-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1572-26-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1572-26-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1572-28-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1572-28-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1572-30-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1572-30-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1572-32-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1572-32-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1572-34-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1572-34-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -34967,112 +34967,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1573-20-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1573-20-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1573-22-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1573-22-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1573-24-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1573-24-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1573-26-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1573-26-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1573-28-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1573-28-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1573-30-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1573-30-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1573-32-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1573-32-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1573-34-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1573-34-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -35189,112 +35189,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1574-20-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1574-20-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1574-22-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1574-22-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1574-24-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1574-24-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1574-26-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1574-26-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1574-28-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1574-28-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1574-30-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1574-30-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1574-32-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1574-32-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1574-34-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1574-34-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -35411,112 +35411,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1575-20-black",
-        "priceCHF": 15.4,
+        "priceCHF": 87,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1575-20-grey",
-        "priceCHF": 15.4,
+        "priceCHF": 87,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1575-22-black",
-        "priceCHF": 15.4,
+        "priceCHF": 87,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1575-22-grey",
-        "priceCHF": 15.4,
+        "priceCHF": 87,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1575-24-black",
-        "priceCHF": 15.4,
+        "priceCHF": 87,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1575-24-grey",
-        "priceCHF": 15.4,
+        "priceCHF": 87,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1575-26-black",
-        "priceCHF": 15.4,
+        "priceCHF": 87,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1575-26-grey",
-        "priceCHF": 15.4,
+        "priceCHF": 87,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1575-28-black",
-        "priceCHF": 15.4,
+        "priceCHF": 87,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1575-28-grey",
-        "priceCHF": 15.4,
+        "priceCHF": 87,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1575-30-black",
-        "priceCHF": 15.4,
+        "priceCHF": 87,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1575-30-grey",
-        "priceCHF": 15.4,
+        "priceCHF": 87,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1575-32-black",
-        "priceCHF": 15.4,
+        "priceCHF": 87,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1575-32-grey",
-        "priceCHF": 15.4,
+        "priceCHF": 87,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1575-34-black",
-        "priceCHF": 15.4,
+        "priceCHF": 87,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1575-34-grey",
-        "priceCHF": 15.4,
+        "priceCHF": 87,
         "stock": 10
       }
     ]
@@ -35633,112 +35633,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1576-20-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1576-20-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1576-22-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1576-22-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1576-24-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1576-24-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1576-26-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1576-26-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1576-28-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1576-28-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1576-30-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1576-30-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1576-32-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1576-32-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1576-34-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1576-34-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -35855,112 +35855,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1577-20-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1577-20-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1577-22-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1577-22-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1577-24-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1577-24-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1577-26-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1577-26-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1577-28-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1577-28-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1577-30-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1577-30-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1577-32-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1577-32-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1577-34-black",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1577-34-grey",
-        "priceCHF": 15.4,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -36077,112 +36077,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1582-20-black",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1582-20-grey",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1582-22-black",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1582-22-grey",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1582-24-black",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1582-24-grey",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1582-26-black",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1582-26-grey",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1582-28-black",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1582-28-grey",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1582-30-black",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1582-30-grey",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1582-32-black",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1582-32-grey",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1582-34-black",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1582-34-grey",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -36299,112 +36299,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1584-20-black",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1584-20-grey",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1584-22-black",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1584-22-grey",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1584-24-black",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1584-24-grey",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1584-26-black",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1584-26-grey",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1584-28-black",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1584-28-grey",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1584-30-black",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1584-30-grey",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1584-32-black",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1584-32-grey",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1584-34-black",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1584-34-grey",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -36521,112 +36521,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1585-20-black",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1585-20-grey",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1585-22-black",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1585-22-grey",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1585-24-black",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1585-24-grey",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1585-26-black",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1585-26-grey",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1585-28-black",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1585-28-grey",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1585-30-black",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1585-30-grey",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1585-32-black",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1585-32-grey",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1585-34-black",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1585-34-grey",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -36743,112 +36743,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1589-20-black",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1589-20-grey",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1589-22-black",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1589-22-grey",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1589-24-black",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1589-24-grey",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1589-26-black",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1589-26-grey",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1589-28-black",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1589-28-grey",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1589-30-black",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1589-30-grey",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1589-32-black",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1589-32-grey",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1589-34-black",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1589-34-grey",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -36965,112 +36965,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1593-20-black",
-        "priceCHF": 37.5,
+        "priceCHF": 59,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1593-20-grey",
-        "priceCHF": 37.5,
+        "priceCHF": 59,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1593-22-black",
-        "priceCHF": 37.5,
+        "priceCHF": 59,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1593-22-grey",
-        "priceCHF": 37.5,
+        "priceCHF": 59,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1593-24-black",
-        "priceCHF": 37.5,
+        "priceCHF": 59,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1593-24-grey",
-        "priceCHF": 37.5,
+        "priceCHF": 59,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1593-26-black",
-        "priceCHF": 37.5,
+        "priceCHF": 59,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1593-26-grey",
-        "priceCHF": 37.5,
+        "priceCHF": 59,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1593-28-black",
-        "priceCHF": 37.5,
+        "priceCHF": 59,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1593-28-grey",
-        "priceCHF": 37.5,
+        "priceCHF": 59,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1593-30-black",
-        "priceCHF": 37.5,
+        "priceCHF": 59,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1593-30-grey",
-        "priceCHF": 37.5,
+        "priceCHF": 59,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1593-32-black",
-        "priceCHF": 37.5,
+        "priceCHF": 59,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1593-32-grey",
-        "priceCHF": 37.5,
+        "priceCHF": 59,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1593-34-black",
-        "priceCHF": 37.5,
+        "priceCHF": 59,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1593-34-grey",
-        "priceCHF": 37.5,
+        "priceCHF": 59,
         "stock": 10
       }
     ]
@@ -37187,112 +37187,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1596-20-black",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1596-20-grey",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1596-22-black",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1596-22-grey",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1596-24-black",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1596-24-grey",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1596-26-black",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1596-26-grey",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1596-28-black",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1596-28-grey",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1596-30-black",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1596-30-grey",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1596-32-black",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1596-32-grey",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1596-34-black",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1596-34-grey",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -37409,112 +37409,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1597-20-black",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1597-20-grey",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1597-22-black",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1597-22-grey",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1597-24-black",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1597-24-grey",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1597-26-black",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1597-26-grey",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1597-28-black",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1597-28-grey",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1597-30-black",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1597-30-grey",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1597-32-black",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1597-32-grey",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1597-34-black",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1597-34-grey",
-        "priceCHF": 37.5,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -37631,112 +37631,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1602-20-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1602-20-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1602-22-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1602-22-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1602-24-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1602-24-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1602-26-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1602-26-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1602-28-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1602-28-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1602-30-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1602-30-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1602-32-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1602-32-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1602-34-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1602-34-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -37853,112 +37853,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1603-20-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1603-20-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1603-22-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1603-22-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1603-24-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1603-24-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1603-26-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1603-26-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1603-28-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1603-28-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1603-30-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1603-30-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1603-32-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1603-32-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1603-34-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1603-34-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -38075,112 +38075,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1604-20-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1604-20-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1604-22-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1604-22-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1604-24-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1604-24-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1604-26-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1604-26-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1604-28-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1604-28-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1604-30-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1604-30-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1604-32-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1604-32-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1604-34-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1604-34-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -38297,112 +38297,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1605-20-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1605-20-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1605-22-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1605-22-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1605-24-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1605-24-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1605-26-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1605-26-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1605-28-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1605-28-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1605-30-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1605-30-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1605-32-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1605-32-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1605-34-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1605-34-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -38519,112 +38519,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1606-20-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1606-20-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1606-22-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1606-22-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1606-24-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1606-24-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1606-26-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1606-26-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1606-28-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1606-28-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1606-30-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1606-30-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1606-32-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1606-32-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1606-34-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1606-34-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -38741,112 +38741,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1607-20-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1607-20-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1607-22-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1607-22-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1607-24-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1607-24-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1607-26-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1607-26-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1607-28-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1607-28-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1607-30-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1607-30-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1607-32-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1607-32-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1607-34-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1607-34-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -38963,112 +38963,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1608-20-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1608-20-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1608-22-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1608-22-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1608-24-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1608-24-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1608-26-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1608-26-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1608-28-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1608-28-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1608-30-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1608-30-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1608-32-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1608-32-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1608-34-black",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1608-34-grey",
-        "priceCHF": 16.6,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -39185,112 +39185,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1609-20-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1609-20-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1609-22-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1609-22-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1609-24-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1609-24-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1609-26-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1609-26-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1609-28-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1609-28-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1609-30-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1609-30-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1609-32-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1609-32-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1609-34-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1609-34-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -39407,112 +39407,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1610-20-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1610-20-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1610-22-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1610-22-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1610-24-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1610-24-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1610-26-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1610-26-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1610-28-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1610-28-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1610-30-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1610-30-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1610-32-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1610-32-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1610-34-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1610-34-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -39629,112 +39629,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1611-20-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1611-20-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1611-22-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1611-22-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1611-24-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1611-24-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1611-26-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1611-26-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1611-28-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1611-28-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1611-30-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1611-30-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1611-32-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1611-32-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1611-34-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1611-34-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -39851,112 +39851,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1612-20-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1612-20-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1612-22-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1612-22-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1612-24-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1612-24-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1612-26-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1612-26-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1612-28-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1612-28-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1612-30-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1612-30-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1612-32-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1612-32-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1612-34-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1612-34-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -40073,112 +40073,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1613-20-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1613-20-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1613-22-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1613-22-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1613-24-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1613-24-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1613-26-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1613-26-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1613-28-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1613-28-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1613-30-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1613-30-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1613-32-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1613-32-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1613-34-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1613-34-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -40295,112 +40295,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1614-20-black",
-        "priceCHF": 32.1,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1614-20-grey",
-        "priceCHF": 32.1,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1614-22-black",
-        "priceCHF": 32.1,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1614-22-grey",
-        "priceCHF": 32.1,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1614-24-black",
-        "priceCHF": 32.1,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1614-24-grey",
-        "priceCHF": 32.1,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1614-26-black",
-        "priceCHF": 32.1,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1614-26-grey",
-        "priceCHF": 32.1,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1614-28-black",
-        "priceCHF": 32.1,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1614-28-grey",
-        "priceCHF": 32.1,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1614-30-black",
-        "priceCHF": 32.1,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1614-30-grey",
-        "priceCHF": 32.1,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1614-32-black",
-        "priceCHF": 32.1,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1614-32-grey",
-        "priceCHF": 32.1,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1614-34-black",
-        "priceCHF": 32.1,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1614-34-grey",
-        "priceCHF": 32.1,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -40517,112 +40517,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1615-20-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1615-20-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1615-22-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1615-22-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1615-24-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1615-24-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1615-26-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1615-26-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1615-28-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1615-28-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1615-30-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1615-30-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1615-32-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1615-32-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1615-34-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1615-34-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -40739,112 +40739,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1616-20-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1616-20-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1616-22-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1616-22-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1616-24-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1616-24-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1616-26-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1616-26-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1616-28-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1616-28-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1616-30-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1616-30-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1616-32-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1616-32-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1616-34-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1616-34-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -40961,112 +40961,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1617-20-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1617-20-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1617-22-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1617-22-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1617-24-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1617-24-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1617-26-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1617-26-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1617-28-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1617-28-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1617-30-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1617-30-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1617-32-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1617-32-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1617-34-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1617-34-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -41183,112 +41183,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1618-20-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1618-20-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1618-22-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1618-22-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1618-24-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1618-24-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1618-26-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1618-26-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1618-28-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1618-28-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1618-30-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1618-30-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1618-32-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1618-32-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1618-34-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1618-34-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -41405,112 +41405,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1619-20-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1619-20-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1619-22-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1619-22-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1619-24-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1619-24-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1619-26-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1619-26-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1619-28-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1619-28-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1619-30-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1619-30-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1619-32-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1619-32-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1619-34-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1619-34-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -41627,112 +41627,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1620-20-black",
-        "priceCHF": 27.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1620-20-grey",
-        "priceCHF": 27.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1620-22-black",
-        "priceCHF": 27.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1620-22-grey",
-        "priceCHF": 27.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1620-24-black",
-        "priceCHF": 27.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1620-24-grey",
-        "priceCHF": 27.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1620-26-black",
-        "priceCHF": 27.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1620-26-grey",
-        "priceCHF": 27.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1620-28-black",
-        "priceCHF": 27.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1620-28-grey",
-        "priceCHF": 27.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1620-30-black",
-        "priceCHF": 27.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1620-30-grey",
-        "priceCHF": 27.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1620-32-black",
-        "priceCHF": 27.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1620-32-grey",
-        "priceCHF": 27.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1620-34-black",
-        "priceCHF": 27.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1620-34-grey",
-        "priceCHF": 27.9,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -41849,112 +41849,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1621-20-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1621-20-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1621-22-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1621-22-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1621-24-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1621-24-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1621-26-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1621-26-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1621-28-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1621-28-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1621-30-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1621-30-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1621-32-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1621-32-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1621-34-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1621-34-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -42071,112 +42071,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1622-20-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1622-20-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1622-22-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1622-22-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1622-24-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1622-24-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1622-26-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1622-26-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1622-28-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1622-28-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1622-30-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1622-30-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1622-32-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1622-32-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1622-34-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1622-34-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -42293,112 +42293,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1623-20-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1623-20-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1623-22-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1623-22-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1623-24-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1623-24-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1623-26-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1623-26-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1623-28-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1623-28-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1623-30-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1623-30-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1623-32-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1623-32-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1623-34-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1623-34-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -42515,112 +42515,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1624-20-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1624-20-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1624-22-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1624-22-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1624-24-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1624-24-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1624-26-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1624-26-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1624-28-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1624-28-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1624-30-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1624-30-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1624-32-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1624-32-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1624-34-black",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1624-34-grey",
-        "priceCHF": 16.7,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -42737,112 +42737,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1625-20-black",
-        "priceCHF": 15.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1625-20-grey",
-        "priceCHF": 15.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1625-22-black",
-        "priceCHF": 15.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1625-22-grey",
-        "priceCHF": 15.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1625-24-black",
-        "priceCHF": 15.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1625-24-grey",
-        "priceCHF": 15.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1625-26-black",
-        "priceCHF": 15.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1625-26-grey",
-        "priceCHF": 15.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1625-28-black",
-        "priceCHF": 15.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1625-28-grey",
-        "priceCHF": 15.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1625-30-black",
-        "priceCHF": 15.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1625-30-grey",
-        "priceCHF": 15.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1625-32-black",
-        "priceCHF": 15.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1625-32-grey",
-        "priceCHF": 15.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1625-34-black",
-        "priceCHF": 15.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1625-34-grey",
-        "priceCHF": 15.8,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -42959,112 +42959,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1626-20-black",
-        "priceCHF": 15.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1626-20-grey",
-        "priceCHF": 15.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1626-22-black",
-        "priceCHF": 15.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1626-22-grey",
-        "priceCHF": 15.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1626-24-black",
-        "priceCHF": 15.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1626-24-grey",
-        "priceCHF": 15.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1626-26-black",
-        "priceCHF": 15.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1626-26-grey",
-        "priceCHF": 15.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1626-28-black",
-        "priceCHF": 15.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1626-28-grey",
-        "priceCHF": 15.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1626-30-black",
-        "priceCHF": 15.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1626-30-grey",
-        "priceCHF": 15.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1626-32-black",
-        "priceCHF": 15.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1626-32-grey",
-        "priceCHF": 15.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1626-34-black",
-        "priceCHF": 15.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1626-34-grey",
-        "priceCHF": 15.8,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -43181,112 +43181,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1627-20-black",
-        "priceCHF": 15.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1627-20-grey",
-        "priceCHF": 15.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1627-22-black",
-        "priceCHF": 15.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1627-22-grey",
-        "priceCHF": 15.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1627-24-black",
-        "priceCHF": 15.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1627-24-grey",
-        "priceCHF": 15.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1627-26-black",
-        "priceCHF": 15.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1627-26-grey",
-        "priceCHF": 15.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1627-28-black",
-        "priceCHF": 15.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1627-28-grey",
-        "priceCHF": 15.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1627-30-black",
-        "priceCHF": 15.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1627-30-grey",
-        "priceCHF": 15.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1627-32-black",
-        "priceCHF": 15.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1627-32-grey",
-        "priceCHF": 15.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1627-34-black",
-        "priceCHF": 15.8,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1627-34-grey",
-        "priceCHF": 15.8,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -43403,112 +43403,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1658-20-black",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1658-20-grey",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1658-22-black",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1658-22-grey",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1658-24-black",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1658-24-grey",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1658-26-black",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1658-26-grey",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1658-28-black",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1658-28-grey",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1658-30-black",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1658-30-grey",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1658-32-black",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1658-32-grey",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1658-34-black",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1658-34-grey",
-        "priceCHF": 15.4,
+        "priceCHF": 49,
         "stock": 10
       }
     ]
@@ -43625,112 +43625,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1673-20-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1673-20-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1673-22-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1673-22-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1673-24-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1673-24-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1673-26-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1673-26-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1673-28-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1673-28-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1673-30-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1673-30-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1673-32-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1673-32-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1673-34-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1673-34-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -43847,112 +43847,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1676-20-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1676-20-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1676-22-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1676-22-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1676-24-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1676-24-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1676-26-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1676-26-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1676-28-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1676-28-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1676-30-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1676-30-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1676-32-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1676-32-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1676-34-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1676-34-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -44069,112 +44069,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1677-20-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1677-20-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1677-22-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1677-22-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1677-24-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1677-24-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1677-26-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1677-26-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1677-28-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1677-28-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1677-30-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1677-30-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1677-32-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1677-32-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1677-34-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1677-34-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -44291,112 +44291,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1678-20-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1678-20-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1678-22-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1678-22-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1678-24-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1678-24-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1678-26-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1678-26-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1678-28-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1678-28-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1678-30-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1678-30-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1678-32-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1678-32-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1678-34-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1678-34-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -44513,112 +44513,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1691-20-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1691-20-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1691-22-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1691-22-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1691-24-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1691-24-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1691-26-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1691-26-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1691-28-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1691-28-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1691-30-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1691-30-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1691-32-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1691-32-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1691-34-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1691-34-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -44735,112 +44735,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1693-20-black",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1693-20-grey",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1693-22-black",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1693-22-grey",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1693-24-black",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1693-24-grey",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1693-26-black",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1693-26-grey",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1693-28-black",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1693-28-grey",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1693-30-black",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1693-30-grey",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1693-32-black",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1693-32-grey",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1693-34-black",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1693-34-grey",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -44957,112 +44957,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1694-20-black",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1694-20-grey",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1694-22-black",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1694-22-grey",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1694-24-black",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1694-24-grey",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1694-26-black",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1694-26-grey",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1694-28-black",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1694-28-grey",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1694-30-black",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1694-30-grey",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1694-32-black",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1694-32-grey",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1694-34-black",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1694-34-grey",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -45179,112 +45179,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1695-20-black",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1695-20-grey",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1695-22-black",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1695-22-grey",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1695-24-black",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1695-24-grey",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1695-26-black",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1695-26-grey",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1695-28-black",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1695-28-grey",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1695-30-black",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1695-30-grey",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1695-32-black",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1695-32-grey",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1695-34-black",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1695-34-grey",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -45401,112 +45401,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1696-20-black",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1696-20-grey",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1696-22-black",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1696-22-grey",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1696-24-black",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1696-24-grey",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1696-26-black",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1696-26-grey",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1696-28-black",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1696-28-grey",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1696-30-black",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1696-30-grey",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1696-32-black",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1696-32-grey",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1696-34-black",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1696-34-grey",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -45623,112 +45623,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1697-20-black",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1697-20-grey",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1697-22-black",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1697-22-grey",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1697-24-black",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1697-24-grey",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1697-26-black",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1697-26-grey",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1697-28-black",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1697-28-grey",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1697-30-black",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1697-30-grey",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1697-32-black",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1697-32-grey",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1697-34-black",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1697-34-grey",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -45845,112 +45845,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1698-20-black",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1698-20-grey",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1698-22-black",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1698-22-grey",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1698-24-black",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1698-24-grey",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1698-26-black",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1698-26-grey",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1698-28-black",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1698-28-grey",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1698-30-black",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1698-30-grey",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1698-32-black",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1698-32-grey",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1698-34-black",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1698-34-grey",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -46067,112 +46067,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1699-20-black",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1699-20-grey",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1699-22-black",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1699-22-grey",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1699-24-black",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1699-24-grey",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1699-26-black",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1699-26-grey",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1699-28-black",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1699-28-grey",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1699-30-black",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1699-30-grey",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1699-32-black",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1699-32-grey",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1699-34-black",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1699-34-grey",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -46289,112 +46289,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1700-20-black",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1700-20-grey",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1700-22-black",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1700-22-grey",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1700-24-black",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1700-24-grey",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1700-26-black",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1700-26-grey",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1700-28-black",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1700-28-grey",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1700-30-black",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1700-30-grey",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1700-32-black",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1700-32-grey",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1700-34-black",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1700-34-grey",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -46511,112 +46511,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1702-20-black",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1702-20-grey",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1702-22-black",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1702-22-grey",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1702-24-black",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1702-24-grey",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1702-26-black",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1702-26-grey",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1702-28-black",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1702-28-grey",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1702-30-black",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1702-30-grey",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1702-32-black",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1702-32-grey",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1702-34-black",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1702-34-grey",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -46733,112 +46733,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1718-20-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1718-20-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1718-22-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1718-22-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1718-24-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1718-24-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1718-26-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1718-26-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1718-28-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1718-28-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1718-30-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1718-30-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1718-32-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1718-32-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1718-34-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1718-34-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -46959,112 +46959,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1719-20-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1719-20-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1719-22-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1719-22-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1719-24-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1719-24-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1719-26-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1719-26-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1719-28-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1719-28-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1719-30-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1719-30-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1719-32-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1719-32-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1719-34-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1719-34-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -47181,112 +47181,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1720-20-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1720-20-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1720-22-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1720-22-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1720-24-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1720-24-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1720-26-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1720-26-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1720-28-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1720-28-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1720-30-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1720-30-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1720-32-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1720-32-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1720-34-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1720-34-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -47403,112 +47403,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1721-20-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1721-20-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1721-22-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1721-22-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1721-24-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1721-24-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1721-26-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1721-26-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1721-28-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1721-28-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1721-30-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1721-30-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1721-32-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1721-32-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1721-34-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1721-34-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -47625,112 +47625,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1722-20-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1722-20-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1722-22-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1722-22-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1722-24-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1722-24-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1722-26-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1722-26-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1722-28-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1722-28-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1722-30-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1722-30-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1722-32-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1722-32-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1722-34-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1722-34-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -47847,112 +47847,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1723-20-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1723-20-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1723-22-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1723-22-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1723-24-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1723-24-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1723-26-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1723-26-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1723-28-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1723-28-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1723-30-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1723-30-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1723-32-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1723-32-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1723-34-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1723-34-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -48069,112 +48069,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1724-20-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1724-20-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1724-22-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1724-22-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1724-24-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1724-24-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1724-26-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1724-26-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1724-28-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1724-28-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1724-30-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1724-30-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1724-32-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1724-32-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1724-34-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1724-34-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -48291,112 +48291,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1725-20-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1725-20-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1725-22-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1725-22-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1725-24-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1725-24-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1725-26-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1725-26-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1725-28-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1725-28-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1725-30-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1725-30-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1725-32-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1725-32-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1725-34-black",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1725-34-grey",
-        "priceCHF": 24.9,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -48513,112 +48513,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1727-20-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1727-20-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1727-22-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1727-22-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1727-24-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1727-24-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1727-26-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1727-26-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1727-28-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1727-28-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1727-30-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1727-30-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1727-32-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1727-32-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1727-34-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1727-34-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -48735,112 +48735,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1728-20-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1728-20-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1728-22-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1728-22-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1728-24-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1728-24-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1728-26-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1728-26-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1728-28-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1728-28-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1728-30-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1728-30-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1728-32-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1728-32-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1728-34-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1728-34-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -48957,112 +48957,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1729-20-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1729-20-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1729-22-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1729-22-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1729-24-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1729-24-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1729-26-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1729-26-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1729-28-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1729-28-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1729-30-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1729-30-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1729-32-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1729-32-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1729-34-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1729-34-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -49179,112 +49179,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1730-20-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1730-20-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1730-22-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1730-22-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1730-24-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1730-24-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1730-26-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1730-26-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1730-28-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1730-28-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1730-30-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1730-30-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1730-32-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1730-32-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1730-34-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1730-34-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -49401,112 +49401,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1731-20-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1731-20-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1731-22-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1731-22-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1731-24-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1731-24-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1731-26-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1731-26-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1731-28-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1731-28-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1731-30-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1731-30-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1731-32-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1731-32-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1731-34-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1731-34-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -49623,112 +49623,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1732-20-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1732-20-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1732-22-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1732-22-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1732-24-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1732-24-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1732-26-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1732-26-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1732-28-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1732-28-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1732-30-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1732-30-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1732-32-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1732-32-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1732-34-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1732-34-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -49845,112 +49845,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1733-20-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1733-20-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1733-22-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1733-22-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1733-24-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1733-24-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1733-26-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1733-26-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1733-28-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1733-28-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1733-30-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1733-30-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1733-32-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1733-32-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1733-34-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1733-34-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -50067,112 +50067,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1735-20-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1735-20-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1735-22-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1735-22-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1735-24-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1735-24-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1735-26-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1735-26-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1735-28-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1735-28-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1735-30-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1735-30-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1735-32-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1735-32-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1735-34-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1735-34-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -50289,112 +50289,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1736-20-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1736-20-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1736-22-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1736-22-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1736-24-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1736-24-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1736-26-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1736-26-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1736-28-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1736-28-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1736-30-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1736-30-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1736-32-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1736-32-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1736-34-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1736-34-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -50511,112 +50511,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1737-20-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1737-20-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1737-22-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1737-22-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1737-24-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1737-24-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1737-26-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1737-26-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1737-28-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1737-28-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1737-30-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1737-30-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1737-32-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1737-32-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1737-34-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1737-34-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -50733,112 +50733,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1738-20-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1738-20-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1738-22-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1738-22-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1738-24-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1738-24-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1738-26-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1738-26-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1738-28-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1738-28-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1738-30-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1738-30-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1738-32-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1738-32-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1738-34-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1738-34-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -50955,112 +50955,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1740-20-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1740-20-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1740-22-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1740-22-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1740-24-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1740-24-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1740-26-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1740-26-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1740-28-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1740-28-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1740-30-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1740-30-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1740-32-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1740-32-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1740-34-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1740-34-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -51177,112 +51177,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1741-20-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1741-20-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1741-22-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1741-22-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1741-24-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1741-24-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1741-26-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1741-26-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1741-28-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1741-28-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1741-30-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1741-30-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1741-32-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1741-32-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1741-34-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1741-34-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -51399,112 +51399,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1742-20-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1742-20-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1742-22-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1742-22-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1742-24-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1742-24-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1742-26-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1742-26-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1742-28-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1742-28-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1742-30-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1742-30-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1742-32-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1742-32-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1742-34-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1742-34-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -51621,112 +51621,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1744-20-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1744-20-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1744-22-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1744-22-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1744-24-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1744-24-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1744-26-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1744-26-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1744-28-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1744-28-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1744-30-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1744-30-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1744-32-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1744-32-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1744-34-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1744-34-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -51843,112 +51843,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1748-20-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1748-20-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1748-22-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1748-22-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1748-24-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1748-24-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1748-26-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1748-26-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1748-28-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1748-28-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1748-30-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1748-30-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1748-32-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1748-32-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1748-34-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1748-34-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -52065,112 +52065,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1750-20-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1750-20-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1750-22-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1750-22-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1750-24-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1750-24-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1750-26-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1750-26-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1750-28-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1750-28-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1750-30-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1750-30-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1750-32-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1750-32-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1750-34-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1750-34-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -52287,112 +52287,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1752-20-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1752-20-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1752-22-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1752-22-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1752-24-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1752-24-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1752-26-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1752-26-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1752-28-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1752-28-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1752-30-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1752-30-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1752-32-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1752-32-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1752-34-black",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1752-34-grey",
-        "priceCHF": 14.9,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -52509,112 +52509,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1754-20-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1754-20-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1754-22-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1754-22-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1754-24-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1754-24-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1754-26-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1754-26-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1754-28-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1754-28-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1754-30-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1754-30-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1754-32-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1754-32-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1754-34-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1754-34-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -52731,112 +52731,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1755-20-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1755-20-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1755-22-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1755-22-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1755-24-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1755-24-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1755-26-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1755-26-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1755-28-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1755-28-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1755-30-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1755-30-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1755-32-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1755-32-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1755-34-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1755-34-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -52953,112 +52953,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1756-20-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1756-20-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1756-22-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1756-22-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1756-24-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1756-24-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1756-26-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1756-26-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1756-28-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1756-28-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1756-30-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1756-30-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1756-32-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1756-32-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1756-34-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1756-34-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -53175,112 +53175,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1757-20-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1757-20-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1757-22-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1757-22-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1757-24-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1757-24-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1757-26-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1757-26-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1757-28-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1757-28-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1757-30-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1757-30-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1757-32-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1757-32-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1757-34-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1757-34-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -53397,112 +53397,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1758-20-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1758-20-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1758-22-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1758-22-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1758-24-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1758-24-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1758-26-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1758-26-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1758-28-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1758-28-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1758-30-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1758-30-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1758-32-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1758-32-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1758-34-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1758-34-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -53619,112 +53619,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1759-20-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1759-20-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1759-22-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1759-22-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1759-24-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1759-24-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1759-26-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1759-26-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1759-28-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1759-28-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1759-30-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1759-30-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1759-32-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1759-32-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1759-34-black",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1759-34-grey",
-        "priceCHF": 23.3,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -53841,112 +53841,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1760-20-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1760-20-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1760-22-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1760-22-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1760-24-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1760-24-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1760-26-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1760-26-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1760-28-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1760-28-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1760-30-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1760-30-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1760-32-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1760-32-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1760-34-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1760-34-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -54063,112 +54063,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1761-20-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1761-20-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1761-22-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1761-22-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1761-24-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1761-24-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1761-26-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1761-26-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1761-28-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1761-28-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1761-30-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1761-30-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1761-32-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1761-32-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1761-34-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1761-34-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -54285,112 +54285,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1762-20-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1762-20-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1762-22-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1762-22-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1762-24-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1762-24-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1762-26-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1762-26-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1762-28-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1762-28-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1762-30-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1762-30-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1762-32-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1762-32-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1762-34-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1762-34-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -54507,112 +54507,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1763-20-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1763-20-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1763-22-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1763-22-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1763-24-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1763-24-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1763-26-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1763-26-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1763-28-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1763-28-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1763-30-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1763-30-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1763-32-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1763-32-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1763-34-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1763-34-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -54729,112 +54729,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1764-20-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1764-20-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1764-22-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1764-22-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1764-24-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1764-24-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1764-26-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1764-26-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1764-28-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1764-28-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1764-30-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1764-30-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1764-32-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1764-32-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1764-34-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1764-34-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -54951,112 +54951,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1765-20-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1765-20-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1765-22-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1765-22-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1765-24-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1765-24-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1765-26-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1765-26-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1765-28-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1765-28-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1765-30-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1765-30-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1765-32-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1765-32-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1765-34-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1765-34-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -55173,112 +55173,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1766-20-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1766-20-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1766-22-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1766-22-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1766-24-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1766-24-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1766-26-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1766-26-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1766-28-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1766-28-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1766-30-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1766-30-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1766-32-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1766-32-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1766-34-black",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1766-34-grey",
-        "priceCHF": 18.3,
+        "priceCHF": null,
         "stock": 10
       }
     ]
@@ -55395,112 +55395,112 @@ export const milamiProducts = [
         "size": "20",
         "color": "black",
         "sku": "MILAMI-1767-20-black",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "20",
         "color": "grey",
         "sku": "MILAMI-1767-20-grey",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "black",
         "sku": "MILAMI-1767-22-black",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "22",
         "color": "grey",
         "sku": "MILAMI-1767-22-grey",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "black",
         "sku": "MILAMI-1767-24-black",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "24",
         "color": "grey",
         "sku": "MILAMI-1767-24-grey",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "black",
         "sku": "MILAMI-1767-26-black",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "26",
         "color": "grey",
         "sku": "MILAMI-1767-26-grey",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "black",
         "sku": "MILAMI-1767-28-black",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "28",
         "color": "grey",
         "sku": "MILAMI-1767-28-grey",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "black",
         "sku": "MILAMI-1767-30-black",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "30",
         "color": "grey",
         "sku": "MILAMI-1767-30-grey",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "black",
         "sku": "MILAMI-1767-32-black",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "32",
         "color": "grey",
         "sku": "MILAMI-1767-32-grey",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "black",
         "sku": "MILAMI-1767-34-black",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       },
       {
         "size": "34",
         "color": "grey",
         "sku": "MILAMI-1767-34-grey",
-        "priceCHF": 20.4,
+        "priceCHF": null,
         "stock": 10
       }
     ]

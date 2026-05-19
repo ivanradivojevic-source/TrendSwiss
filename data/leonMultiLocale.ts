@@ -44,6 +44,7 @@ export const LEON_COLOR_TO_LOCALE: Record<string, Record<Loc, string>> = {
   plava: { de: 'Blau', fr: 'Bleu', en: 'Blue', it: 'Blu' },
   crvena: { de: 'Rot', fr: 'Rouge', en: 'Red', it: 'Rosso' },
   sampanj: { de: 'Champagner', fr: 'Champagne', en: 'Champagne', it: 'Champagne' },
+  mink: { de: 'Mink', fr: 'Mink', en: 'Mink', it: 'Mink' },
   mint: { de: 'Mint', fr: 'Menthe', en: 'Mint', it: 'Menta' },
   dark: { de: 'Dark', fr: 'Dark', en: 'Dark', it: 'Dark' },
   white: { de: 'Weiß', fr: 'Blanc', en: 'White', it: 'Bianco' },
@@ -58,6 +59,7 @@ export const LEON_COLOR_TO_LOCALE: Record<string, Record<Loc, string>> = {
   bakkar: { de: 'Lack', fr: 'Verni', en: 'Patent', it: 'Vernice' },
   velur: { de: 'Velours', fr: 'Velours', en: 'Suede', it: 'Velluto' },
   lak: { de: 'Lack', fr: 'Verni', en: 'Patent', it: 'Vernice' },
+  led: { de: 'LED', fr: 'LED', en: 'LED', it: 'LED' },
   sjaj: { de: 'Glanz', fr: 'Brillant', en: 'Gloss', it: 'Lucido' },
   orlando: { de: 'Orlando', fr: 'Orlando', en: 'Orlando', it: 'Orlando' },
   zmija: { de: 'Schlangenprägung', fr: 'Relief serpent', en: 'Snake emboss', it: 'Stampa serpente' },
@@ -79,11 +81,37 @@ export const LEON_COLOR_TO_LOCALE: Record<string, Record<Loc, string>> = {
   'teget-bakkar': { de: 'Anthrazit Lack', fr: 'Anthracite verni', en: 'Charcoal patent', it: 'Antracite verniciato' },
   'zuta-velur': { de: 'Gelb Velours', fr: 'Jaune velours', en: 'Yellow suede', it: 'Giallo velluto' },
   'roze-velur': { de: 'Rosa Velours', fr: 'Rose velours', en: 'Pink suede', it: 'Rosa velluto' },
+  'tamno-siva': { de: 'Dunkelgrau', fr: 'Gris foncé', en: 'Dark Grey', it: 'Grigio scuro' },
+  'tamno-braon': { de: 'Dunkelbraun', fr: 'Marron foncé', en: 'Dark Brown', it: 'Marrone scuro' },
 };
 
 export function pathSlugFromLeonUrl(url: string): string {
   const m = String(url).match(/\/p\/([^/]+)\/?$/i);
   return m ? m[1].toLowerCase() : '';
+}
+
+/** Model lines where „bakkar“ is part of the name, not a colour token (LEONA BAKKAR ≠ LEONA). */
+const LEON_MODEL_LINE_PREFIXES = [
+  'leona-bakkar',
+  'bakkar-ii',
+  'bakkar-iii',
+  'bakkar-iv',
+  'bakkar-v',
+] as const;
+
+/** LEON typo slugs → canonical model line (orbira-mink → orbita). */
+const LEON_LINE_SLUG_ALIASES: Record<string, string> = {
+  orbira: 'orbita',
+  liena: 'linea',
+};
+
+export function leonProductLineSlugFromPath(fullSlug: string): string {
+  const s = fullSlug.toLowerCase().trim();
+  for (const prefix of LEON_MODEL_LINE_PREFIXES) {
+    if (s === prefix || s.startsWith(`${prefix}-`)) return prefix;
+  }
+  const line = stripColorsFromPathSlug(s) || s;
+  return LEON_LINE_SLUG_ALIASES[line] ?? line;
 }
 
 export function stripColorsFromPathSlug(fullSlug: string): string {
@@ -108,8 +136,7 @@ export function leonModelGroupBaseFromLeonUrl(url: string | undefined): string |
   if (!url) return null;
   const full = pathSlugFromLeonUrl(url);
   if (!full) return null;
-  const stripped = stripColorsFromPathSlug(full);
-  const out = (stripped || full).trim();
+  const out = leonProductLineSlugFromPath(full).trim();
   return out.length ? out : null;
 }
 
@@ -117,6 +144,16 @@ function stripTrailingVariantIndexParts(parts: string[]): string[] {
   const out = [...parts];
   while (out.length > 1 && /^\d{1,2}$/.test(out[out.length - 1] ?? '')) out.pop();
   return out;
+}
+
+/** LEON colour token (BEZ, ROZE BAKKAR, …) → shop language for swatches / UI. */
+export function leonColorLabelForLocale(
+  rawLabel: string | undefined,
+  loc: Loc
+): string | null {
+  if (!rawLabel?.trim()) return null;
+  const slug = normalizeLeonColorSlugKey(rawLabel).replace(/\s+/g, '-').replace(/-+/g, '-');
+  return colorSlugToLocales(slug)[loc];
 }
 
 function colorSlugToLocales(colorSlug: string): Record<Loc, string> {
@@ -347,7 +384,7 @@ export function buildLeonLocalizedProductName(args: {
   rawTitle?: string;
 }): Product['name'] {
   const fullSlug = pathSlugFromLeonUrl(args.rawUrl);
-  const strippedSelf = stripColorsFromPathSlug(fullSlug);
+  const strippedSelf = leonProductLineSlugFromPath(fullSlug);
   const colorSlug = colorTailFromPathSlug(fullSlug, args.modelSlugBase) ?? colorTailFromPathSlug(fullSlug, strippedSelf);
 
   let colorLocales: Record<Loc, string> | null = null;

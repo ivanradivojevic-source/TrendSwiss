@@ -1,0 +1,1901 @@
+{
+  "startedAt": "2026-05-18T21:50:07.648Z",
+  "excelRows": 109,
+  "excelLeonProducts": 317,
+  "processed": 317,
+  "apply": true,
+  "ok": [
+    {
+      "slug": "anchor-crna",
+      "url": "https://leon.rs/p/anchor-crna/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "anchor-braon",
+      "url": "https://leon.rs/p/anchor-braon/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "anchor-zelena",
+      "url": "https://leon.rs/p/anchor-zelena/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "anchor-mink",
+      "url": "https://leon.rs/p/anchor-mink/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "strata-crna",
+      "url": "https://leon.rs/p/strata-crna/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "strata-bez",
+      "url": "https://leon.rs/p/strata-bez/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "axis-zlatna",
+      "url": "https://leon.rs/p/axis-zlatna/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "axis-led",
+      "url": "https://leon.rs/p/axis-led/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "axis-bez",
+      "url": "https://leon.rs/p/axis-bez/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "axis-crna",
+      "url": "https://leon.rs/p/axis-crna/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "halo-zlatna",
+      "url": "https://leon.rs/p/halo-zlatna/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "halo-zelena",
+      "url": "https://leon.rs/p/halo-zelena/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "halo-braon",
+      "url": "https://leon.rs/p/halo-braon/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "avera-crna",
+      "url": "https://leon.rs/p/avera-crna/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "avera-bez",
+      "url": "https://leon.rs/p/avera-bez/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "plain-bez",
+      "url": "https://leon.rs/p/plain-bez/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "plain-crna",
+      "url": "https://leon.rs/p/plain-crna/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "edge-braon",
+      "url": "https://leon.rs/p/edge-braon/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "edge-siva",
+      "url": "https://leon.rs/p/edge-siva/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "edge-crna",
+      "url": "https://leon.rs/p/edge-crna/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "edge-bordo",
+      "url": "https://leon.rs/p/edge-bordo/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "orbita-siva",
+      "url": "https://leon.rs/p/orbita-siva/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "orbita-bordo",
+      "url": "https://leon.rs/p/orbita-bordo/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "orbita-braon",
+      "url": "https://leon.rs/p/orbita-braon/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "orbita-zelena",
+      "url": "https://leon.rs/p/orbita-zelena/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "orbita-tamno-braon",
+      "url": "https://leon.rs/p/orbita-tamno-braon/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "orbita-crna",
+      "url": "https://leon.rs/p/orbita-crna/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "orbira-mink",
+      "url": "https://leon.rs/p/orbira-mink/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "laura-perla",
+      "url": "https://leon.rs/p/laura-perla/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "laura-crna",
+      "url": "https://leon.rs/p/laura-crna/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "laura-zlato-sjaj",
+      "url": "https://leon.rs/p/laura-zlato-sjaj/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "laura-bela",
+      "url": "https://leon.rs/p/laura-bela/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "aura-roze",
+      "url": "https://leon.rs/p/aura-roze/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "aura-zelena",
+      "url": "https://leon.rs/p/aura-zelena/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "linea-bez",
+      "url": "https://leon.rs/p/linea-bez/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "linea-zlatna",
+      "url": "https://leon.rs/p/linea-zlatna/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "line-zelena",
+      "url": "https://leon.rs/p/line-zelena/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "line-braon",
+      "url": "https://leon.rs/p/line-braon/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "line-siva",
+      "url": "https://leon.rs/p/line-siva/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "liena-braon",
+      "url": "https://leon.rs/p/liena-braon/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "line-crna",
+      "url": "https://leon.rs/p/line-crna/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "motio-zelena",
+      "url": "https://leon.rs/p/motio-zelena/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "motio-led",
+      "url": "https://leon.rs/p/motio-led/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "motio-crna",
+      "url": "https://leon.rs/p/motio-crna/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "motio-bez",
+      "url": "https://leon.rs/p/motio-bez/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "moveo-led",
+      "url": "https://leon.rs/p/moveo-led/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "moveo-crna",
+      "url": "https://leon.rs/p/moveo-crna/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "moveo-bez",
+      "url": "https://leon.rs/p/moveo-bez/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "moss-siva",
+      "url": "https://leon.rs/p/moss-siva/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "moss-zelena",
+      "url": "https://leon.rs/p/moss-zelena/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "moss-braon",
+      "url": "https://leon.rs/p/moss-braon/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "moss-crna",
+      "url": "https://leon.rs/p/moss-crna/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "felx-crna",
+      "url": "https://leon.rs/p/felx-crna/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "felx-bez",
+      "url": "https://leon.rs/p/felx-bez/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "calm-bez",
+      "url": "https://leon.rs/p/calm-bez/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "calm-crna",
+      "url": "https://leon.rs/p/calm-crna/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "melt-led",
+      "url": "https://leon.rs/p/melt-led/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "melt-crna",
+      "url": "https://leon.rs/p/melt-crna/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "melt-bez",
+      "url": "https://leon.rs/p/melt-bez/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "zenska-klompa-5002-perla",
+      "url": "https://leon.rs/p/zenska-klompa-5002-perla/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "zenska-klompa-5002-crna",
+      "url": "https://leon.rs/p/zenska-klompa-5002-crna/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "zenska-klompa-5002-bela",
+      "url": "https://leon.rs/p/zenska-klompa-5002-bela/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "flow-zelena-perlato",
+      "url": "https://leon.rs/p/flow-zelena-perlato/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "flow-crna",
+      "url": "https://leon.rs/p/flow-crna/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "flow-bela",
+      "url": "https://leon.rs/p/flow-bela/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "flow-perla",
+      "url": "https://leon.rs/p/flow-perla/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "pure-zelena",
+      "url": "https://leon.rs/p/pure-zelena/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "pure-bez",
+      "url": "https://leon.rs/p/pure-bez/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "pure-bela",
+      "url": "https://leon.rs/p/pure-bela/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "forge-crne",
+      "url": "https://leon.rs/p/forge-crne/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "forge-braon",
+      "url": "https://leon.rs/p/forge-braon/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "here-zlatna",
+      "url": "https://leon.rs/p/here-zlatna/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "here-crna",
+      "url": "https://leon.rs/p/here-crna/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "here-braon",
+      "url": "https://leon.rs/p/here-braon/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "virea-bordo",
+      "url": "https://leon.rs/p/virea-bordo/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "virea-crna",
+      "url": "https://leon.rs/p/virea-crna/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "virea-braon",
+      "url": "https://leon.rs/p/virea-braon/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "serene-braon",
+      "url": "https://leon.rs/p/serene-braon/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "serene-zlatna",
+      "url": "https://leon.rs/p/serene-zlatna/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "serene-siva",
+      "url": "https://leon.rs/p/serene-siva/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "grace-bez",
+      "url": "https://leon.rs/p/grace-bez/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "grace-zlatna",
+      "url": "https://leon.rs/p/grace-zlatna/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "grace-braon",
+      "url": "https://leon.rs/p/grace-braon/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "rise-zlatna",
+      "url": "https://leon.rs/p/rise-zlatna/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "rise-braon",
+      "url": "https://leon.rs/p/rise-braon/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "rise-bez",
+      "url": "https://leon.rs/p/rise-bez/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "eleve-braon",
+      "url": "https://leon.rs/p/eleve-braon/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "eleve-zlatna",
+      "url": "https://leon.rs/p/eleve-zlatna/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "root-braon",
+      "url": "https://leon.rs/p/root-braon/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "root-bez",
+      "url": "https://leon.rs/p/root-bez/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "root-crna",
+      "url": "https://leon.rs/p/root-crna/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "even-braon",
+      "url": "https://leon.rs/p/even-braon/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "even-siva",
+      "url": "https://leon.rs/p/even-siva/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "stella-ii-zlatna",
+      "url": "https://leon.rs/p/stella-ii-zlatna/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "stella-ii-roze",
+      "url": "https://leon.rs/p/stella-ii-roze/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "stella-i-zlatna",
+      "url": "https://leon.rs/p/stella-i-zlatna/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "stella-i-roze",
+      "url": "https://leon.rs/p/stella-i-roze/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "elio-zlatna",
+      "url": "https://leon.rs/p/elio-zlatna/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "elio-teget",
+      "url": "https://leon.rs/p/elio-teget/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "elio-zelena",
+      "url": "https://leon.rs/p/elio-zelena/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "elio-siva",
+      "url": "https://leon.rs/p/elio-siva/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "elio-roze",
+      "url": "https://leon.rs/p/elio-roze/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "nino-siva",
+      "url": "https://leon.rs/p/nino-siva/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "nino-braon",
+      "url": "https://leon.rs/p/nino-braon/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "nino-roze",
+      "url": "https://leon.rs/p/nino-roze/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "olaf-teget",
+      "url": "https://leon.rs/p/olaf-teget/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "olaf-perla",
+      "url": "https://leon.rs/p/olaf-perla/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "ridge-siva",
+      "url": "https://leon.rs/p/ridge-siva/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "ridge-tamno-siva",
+      "url": "https://leon.rs/p/ridge-tamno-siva/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "ridge-braon",
+      "url": "https://leon.rs/p/ridge-braon/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "kratos-siva-velur",
+      "url": "https://leon.rs/p/kratos-siva-velur/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "kratos-crna",
+      "url": "https://leon.rs/p/kratos-crna/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "kratos-braon-velur",
+      "url": "https://leon.rs/p/kratos-braon-velur/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "mateo-zelena",
+      "url": "https://leon.rs/p/mateo-zelena/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "mateo-siva",
+      "url": "https://leon.rs/p/mateo-siva/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "mateo-braon",
+      "url": "https://leon.rs/p/mateo-braon/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "north-siva",
+      "url": "https://leon.rs/p/north-siva/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "north-braon",
+      "url": "https://leon.rs/p/north-braon/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "north-tamno-siva",
+      "url": "https://leon.rs/p/north-tamno-siva/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "bjorn-crazy-maslinasto-zelena",
+      "url": "https://leon.rs/p/bjorn-crazy-maslinasto-zelena/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "bjorn-crazy-siva",
+      "url": "https://leon.rs/p/bjorn-crazy-siva/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "bjorn-teget",
+      "url": "https://leon.rs/p/bjorn-teget/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "bjorn-crna",
+      "url": "https://leon.rs/p/bjorn-crna/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "bjorn-bela",
+      "url": "https://leon.rs/p/bjorn-bela/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "kasper-crna",
+      "url": "https://leon.rs/p/kasper-crna/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "kasper-bela",
+      "url": "https://leon.rs/p/kasper-bela/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "thomas-crna",
+      "url": "https://leon.rs/p/thomas-crna/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "thomas-bela",
+      "url": "https://leon.rs/p/thomas-bela/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "ground-bela",
+      "url": "https://leon.rs/p/ground-bela/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "ground-crna",
+      "url": "https://leon.rs/p/ground-crna/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "oskar-teget",
+      "url": "https://leon.rs/p/oskar-teget/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "oskar-crna",
+      "url": "https://leon.rs/p/oskar-crna/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "oskar-braon",
+      "url": "https://leon.rs/p/oskar-braon/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "arthur-i-crna",
+      "url": "https://leon.rs/p/arthur-i-crna/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "arthur-i-bela",
+      "url": "https://leon.rs/p/arthur-i-bela/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "vigo-crna",
+      "url": "https://leon.rs/p/vigo-crna/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "vigo-bela",
+      "url": "https://leon.rs/p/vigo-bela/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "muska-klompa-klasik-i-crna",
+      "url": "https://leon.rs/p/muska-klompa-klasik-i-crna/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "muska-klompa-klasik-i-bela",
+      "url": "https://leon.rs/p/muska-klompa-klasik-i-bela/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "zenska-klompa-klasik-i-bela",
+      "url": "https://leon.rs/p/zenska-klompa-klasik-i-bela/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "zenska-klompa-klasik-i-perla",
+      "url": "https://leon.rs/p/zenska-klompa-klasik-i-perla/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "zenska-klompa-klasik-i-crna",
+      "url": "https://leon.rs/p/zenska-klompa-klasik-i-crna/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "zenska-klompa-3300-perla",
+      "url": "https://leon.rs/p/zenska-klompa-3300-perla/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "zenska-klompa-3300-bela",
+      "url": "https://leon.rs/p/zenska-klompa-3300-bela/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "zenska-klompa-2023-crna",
+      "url": "https://leon.rs/p/zenska-klompa-2023-crna/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "zenska-klompa-2023-perla",
+      "url": "https://leon.rs/p/zenska-klompa-2023-perla/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "zenska-klompa-2023-bela",
+      "url": "https://leon.rs/p/zenska-klompa-2023-bela/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "zenska-klompa-3300-crna",
+      "url": "https://leon.rs/p/zenska-klompa-3300-crna/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "rubicon-teget-bakkar",
+      "url": "https://leon.rs/p/rubicon-teget-bakkar/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "rubicon-crna-bakkar",
+      "url": "https://leon.rs/p/rubicon-crna-bakkar/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "rubicon-bela-bakkar",
+      "url": "https://leon.rs/p/rubicon-bela-bakkar/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "emili-i-perla",
+      "url": "https://leon.rs/p/emili-i-perla/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "emili-i-crna",
+      "url": "https://leon.rs/p/emili-i-crna/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "emili-i-bela",
+      "url": "https://leon.rs/p/emili-i-bela/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "elena-ii-crna",
+      "url": "https://leon.rs/p/elena-ii-crna/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "elena-ii-bela",
+      "url": "https://leon.rs/p/elena-ii-bela/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "elena-i-crna",
+      "url": "https://leon.rs/p/elena-i-crna/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "elena-i-bela",
+      "url": "https://leon.rs/p/elena-i-bela/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "aurora-v-bordo-bakkar",
+      "url": "https://leon.rs/p/aurora-v-bordo-bakkar/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "aurora-v-led-orladno",
+      "url": "https://leon.rs/p/aurora-v-led-orladno/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "aurora-iv-sampanj",
+      "url": "https://leon.rs/p/aurora-iv-sampanj/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "aurora-iv-perla",
+      "url": "https://leon.rs/p/aurora-iv-perla/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "aurora-i-crna",
+      "url": "https://leon.rs/p/aurora-i-crna/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "aurora-i-braon",
+      "url": "https://leon.rs/p/aurora-i-braon/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "aurora-i-bela",
+      "url": "https://leon.rs/p/aurora-i-bela/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "lara-teget",
+      "url": "https://leon.rs/p/lara-teget/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "lara-crna",
+      "url": "https://leon.rs/p/lara-crna/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "lara-braon",
+      "url": "https://leon.rs/p/lara-braon/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "lara-bela",
+      "url": "https://leon.rs/p/lara-bela/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "nora-iv-sampanj",
+      "url": "https://leon.rs/p/nora-iv-sampanj/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "nora-ii-braon",
+      "url": "https://leon.rs/p/nora-ii-braon/",
+      "hasDescription": true,
+      "specCount": 2
+    },
+    {
+      "slug": "nora-iv-perla",
+      "url": "https://leon.rs/p/nora-iv-perla/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "nora-iv-crna",
+      "url": "https://leon.rs/p/nora-iv-crna/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "nora-iv-bela",
+      "url": "https://leon.rs/p/nora-iv-bela/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "nora-ii-crna",
+      "url": "https://leon.rs/p/nora-ii-crna/",
+      "hasDescription": true,
+      "specCount": 2
+    },
+    {
+      "slug": "nora-i-crna",
+      "url": "https://leon.rs/p/nora-i-crna/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "nora-i-braon",
+      "url": "https://leon.rs/p/nora-i-braon/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "aria-i-crna",
+      "url": "https://leon.rs/p/aria-i-crna/",
+      "hasDescription": true,
+      "specCount": 2
+    },
+    {
+      "slug": "aria-i-bela",
+      "url": "https://leon.rs/p/aria-i-bela/",
+      "hasDescription": true,
+      "specCount": 2
+    },
+    {
+      "slug": "aria-i-braon",
+      "url": "https://leon.rs/p/aria-i-braon/",
+      "hasDescription": true,
+      "specCount": 2
+    },
+    {
+      "slug": "ruby-crna",
+      "url": "https://leon.rs/p/ruby-crna/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "ruby-bela",
+      "url": "https://leon.rs/p/ruby-bela/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "nana-crna",
+      "url": "https://leon.rs/p/nana-crna/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "nana-bordo",
+      "url": "https://leon.rs/p/nana-bordo/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "nana-ii-teget",
+      "url": "https://leon.rs/p/nana-ii-teget/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "nana-ii-crna",
+      "url": "https://leon.rs/p/nana-ii-crna/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "nana-ii-bordo",
+      "url": "https://leon.rs/p/nana-ii-bordo/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "leona-perla",
+      "url": "https://leon.rs/p/leona-perla/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "leona-sampanj",
+      "url": "https://leon.rs/p/leona-sampanj/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "leona-bakkar-teget-bakkar",
+      "url": "https://leon.rs/p/leona-bakkar-teget-bakkar/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "leona-bakkar-roze-bakkar",
+      "url": "https://leon.rs/p/leona-bakkar-roze-bakkar/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "leona-bakkar-bela-bakkar",
+      "url": "https://leon.rs/p/leona-bakkar-bela-bakkar/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "leona-zelena-perlato",
+      "url": "https://leon.rs/p/leona-zelena-perlato/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "leona-teget",
+      "url": "https://leon.rs/p/leona-teget/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "leona-crna",
+      "url": "https://leon.rs/p/leona-crna/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "leona-bela",
+      "url": "https://leon.rs/p/leona-bela/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "leona-crvena",
+      "url": "https://leon.rs/p/leona-crvena/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "lana-crvena",
+      "url": "https://leon.rs/p/lana-crvena/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "lana-teget",
+      "url": "https://leon.rs/p/lana-teget/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "lana-perla",
+      "url": "https://leon.rs/p/lana-perla/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "lana-crna",
+      "url": "https://leon.rs/p/lana-crna/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "lana-bela",
+      "url": "https://leon.rs/p/lana-bela/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "bakkar-iii-roze-bakkar",
+      "url": "https://leon.rs/p/bakkar-iii-roze-bakkar/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "bakkar-iii-bela-bakkar",
+      "url": "https://leon.rs/p/bakkar-iii-bela-bakkar/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "lucia-crna",
+      "url": "https://leon.rs/p/lucia-crna/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "lucia-bela",
+      "url": "https://leon.rs/p/lucia-bela/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "lucia-perla",
+      "url": "https://leon.rs/p/lucia-perla/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "settle-perla",
+      "url": "https://leon.rs/p/settle-perla/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "settle-crna",
+      "url": "https://leon.rs/p/settle-crna/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "settle-bela",
+      "url": "https://leon.rs/p/settle-bela/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "edita-orlando-roza",
+      "url": "https://leon.rs/p/edita-orlando-roza/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "edita-orlando-braon",
+      "url": "https://leon.rs/p/edita-orlando-braon/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "edita-orlando-bez",
+      "url": "https://leon.rs/p/edita-orlando-bez/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "edita-ii-zelena-perlato",
+      "url": "https://leon.rs/p/edita-ii-zelena-perlato/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "edita-ii-sampanj",
+      "url": "https://leon.rs/p/edita-ii-sampanj/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "edita-ii-perla",
+      "url": "https://leon.rs/p/edita-ii-perla/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "edita-crazy-siva",
+      "url": "https://leon.rs/p/edita-crazy-siva/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "edita-crazy-roze",
+      "url": "https://leon.rs/p/edita-crazy-roze/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "edita-crazy-maslinasto-zelena",
+      "url": "https://leon.rs/p/edita-crazy-maslinasto-zelena/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "edita-crazy-crna",
+      "url": "https://leon.rs/p/edita-crazy-crna/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "edita-crazy-braon-dark",
+      "url": "https://leon.rs/p/edita-crazy-braon-dark/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "edita-crazy-bez",
+      "url": "https://leon.rs/p/edita-crazy-bez/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "edita-zelena-perlato",
+      "url": "https://leon.rs/p/edita-zelena-perlato/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "edita-teget",
+      "url": "https://leon.rs/p/edita-teget/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "edita-sampanj",
+      "url": "https://leon.rs/p/edita-sampanj/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "edita-perla",
+      "url": "https://leon.rs/p/edita-perla/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "edita-mint",
+      "url": "https://leon.rs/p/edita-mint/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "edita-crna",
+      "url": "https://leon.rs/p/edita-crna/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "edita-bela",
+      "url": "https://leon.rs/p/edita-bela/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "andora-ii-zelena",
+      "url": "https://leon.rs/p/andora-ii-zelena/",
+      "hasDescription": true,
+      "specCount": 2
+    },
+    {
+      "slug": "andora-ii-braon",
+      "url": "https://leon.rs/p/andora-ii-braon/",
+      "hasDescription": true,
+      "specCount": 2
+    },
+    {
+      "slug": "andora-ii-bez",
+      "url": "https://leon.rs/p/andora-ii-bez/",
+      "hasDescription": true,
+      "specCount": 2
+    },
+    {
+      "slug": "andora-roze-bakkar",
+      "url": "https://leon.rs/p/andora-roze-bakkar/",
+      "hasDescription": true,
+      "specCount": 2
+    },
+    {
+      "slug": "andora-crna-bakkar",
+      "url": "https://leon.rs/p/andora-crna-bakkar/",
+      "hasDescription": true,
+      "specCount": 2
+    },
+    {
+      "slug": "andora-bela-bakkar",
+      "url": "https://leon.rs/p/andora-bela-bakkar/",
+      "hasDescription": true,
+      "specCount": 2
+    },
+    {
+      "slug": "zoe-braon",
+      "url": "https://leon.rs/p/zoe-braon/",
+      "hasDescription": true,
+      "specCount": 2
+    },
+    {
+      "slug": "portofino-ii-braon",
+      "url": "https://leon.rs/p/portofino-ii-braon/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "portofino-ii-bez",
+      "url": "https://leon.rs/p/portofino-ii-bez/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "portofino-i-zlatna",
+      "url": "https://leon.rs/p/portofino-i-zlatna/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "portofino-roze-bakkar",
+      "url": "https://leon.rs/p/portofino-roze-bakkar/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "portofino-crna-bakkar",
+      "url": "https://leon.rs/p/portofino-crna-bakkar/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "portofino-bela-bakkar",
+      "url": "https://leon.rs/p/portofino-bela-bakkar/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "terra-braon",
+      "url": "https://leon.rs/p/terra-braon/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "roma-zlatna",
+      "url": "https://leon.rs/p/roma-zlatna/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "roma-crna",
+      "url": "https://leon.rs/p/roma-crna/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "roma-braon",
+      "url": "https://leon.rs/p/roma-braon/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "tessa-bez",
+      "url": "https://leon.rs/p/tessa-bez/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "siena-ii-zlatna",
+      "url": "https://leon.rs/p/siena-ii-zlatna/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "siena-ii-crna",
+      "url": "https://leon.rs/p/siena-ii-crna/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "siena-i-zelena",
+      "url": "https://leon.rs/p/siena-i-zelena/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "siena-i-siva",
+      "url": "https://leon.rs/p/siena-i-siva/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "siena-i-roze",
+      "url": "https://leon.rs/p/siena-i-roze/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "siena-i-braon",
+      "url": "https://leon.rs/p/siena-i-braon/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "siena-i-bez",
+      "url": "https://leon.rs/p/siena-i-bez/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "doris-zlatna",
+      "url": "https://leon.rs/p/doris-zlatna/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "doris-crna",
+      "url": "https://leon.rs/p/doris-crna/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "hemera-braon",
+      "url": "https://leon.rs/p/hemera-braon/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "gaia-zelena",
+      "url": "https://leon.rs/p/gaia-zelena/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "gaia-braon",
+      "url": "https://leon.rs/p/gaia-braon/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "liora-zelena",
+      "url": "https://leon.rs/p/liora-zelena/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "liora-i-crna",
+      "url": "https://leon.rs/p/liora-i-crna/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "liora-i-bela",
+      "url": "https://leon.rs/p/liora-i-bela/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "atalanta-zlato-zmija",
+      "url": "https://leon.rs/p/atalanta-zlato-zmija/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "atalanta-bela-zmija",
+      "url": "https://leon.rs/p/atalanta-bela-zmija/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "atalanta-zlato-rust",
+      "url": "https://leon.rs/p/atalanta-zlato-rust/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "anastasia-zlato-zmija",
+      "url": "https://leon.rs/p/anastasia-zlato-zmija/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "adriana-roze-zmija",
+      "url": "https://leon.rs/p/adriana-roze-zmija/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "adriana-zlato-zmija-2",
+      "url": "https://leon.rs/p/adriana-zlato-zmija-2/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "mia-roze-bakkar",
+      "url": "https://leon.rs/p/mia-roze-bakkar/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "mia-crna-bakkar",
+      "url": "https://leon.rs/p/mia-crna-bakkar/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "mia-bela-bakkar",
+      "url": "https://leon.rs/p/mia-bela-bakkar/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "vivian-crna",
+      "url": "https://leon.rs/p/vivian-crna/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "vivian-braon",
+      "url": "https://leon.rs/p/vivian-braon/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "helen-zlato-zmija",
+      "url": "https://leon.rs/p/helen-zlato-zmija/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "anna-velur-siva",
+      "url": "https://leon.rs/p/anna-velur-siva/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "anna-velur-braon",
+      "url": "https://leon.rs/p/anna-velur-braon/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "anna-velur-bez",
+      "url": "https://leon.rs/p/anna-velur-bez/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "anna-roze-velur",
+      "url": "https://leon.rs/p/anna-roze-velur/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "anna-crna-bakkar",
+      "url": "https://leon.rs/p/anna-crna-bakkar/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "anna-braon",
+      "url": "https://leon.rs/p/anna-braon/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "sofia-ii-crna",
+      "url": "https://leon.rs/p/sofia-ii-crna/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "sofia-ii-braon",
+      "url": "https://leon.rs/p/sofia-ii-braon/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "sofia-ii-bela",
+      "url": "https://leon.rs/p/sofia-ii-bela/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "sofia-i-crna",
+      "url": "https://leon.rs/p/sofia-i-crna/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "sofia-i-braon",
+      "url": "https://leon.rs/p/sofia-i-braon/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "kiara-zlatna",
+      "url": "https://leon.rs/p/kiara-zlatna/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "kiara-braon",
+      "url": "https://leon.rs/p/kiara-braon/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "bakkar-ii-crna",
+      "url": "https://leon.rs/p/bakkar-ii-crna/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "bakkar-ii-bela",
+      "url": "https://leon.rs/p/bakkar-ii-bela/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "violet-crna",
+      "url": "https://leon.rs/p/violet-crna/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "violet-braon",
+      "url": "https://leon.rs/p/violet-braon/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "beti-bez",
+      "url": "https://leon.rs/p/beti-bez/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "bella-led-orlando",
+      "url": "https://leon.rs/p/bella-led-orlando/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "bella-crna-orlando",
+      "url": "https://leon.rs/p/bella-crna-orlando/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "xenia-iii-teget-orlando",
+      "url": "https://leon.rs/p/xenia-iii-teget-orlando/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "xenia-iii-braon-orlando",
+      "url": "https://leon.rs/p/xenia-iii-braon-orlando/",
+      "hasDescription": true,
+      "specCount": 3
+    },
+    {
+      "slug": "xenia-ii-zlato-sjaj",
+      "url": "https://leon.rs/p/xenia-ii-zlato-sjaj/",
+      "hasDescription": true,
+      "specCount": 2
+    },
+    {
+      "slug": "xenia-ii-crna-sjaj",
+      "url": "https://leon.rs/p/xenia-ii-crna-sjaj/",
+      "hasDescription": true,
+      "specCount": 2
+    }
+  ],
+  "skipped": [],
+  "failed": [
+    {
+      "slug": "rubicon-roze-bakkar",
+      "url": "https://leon.rs/p/rubicon-roze-bakkar/",
+      "error": "HTTP 404"
+    },
+    {
+      "slug": "emili-iii-teget",
+      "url": "https://leon.rs/p/emili-iii-teget/",
+      "error": "HTTP 404"
+    },
+    {
+      "slug": "emili-iii-roze",
+      "url": "https://leon.rs/p/emili-iii-roze/",
+      "error": "HTTP 404"
+    },
+    {
+      "slug": "emili-iii-bela",
+      "url": "https://leon.rs/p/emili-iii-bela/",
+      "error": "HTTP 404"
+    },
+    {
+      "slug": "edita-ii-mint",
+      "url": "https://leon.rs/p/edita-ii-mint/",
+      "error": "HTTP 404"
+    },
+    {
+      "slug": "zoe-bela",
+      "url": "https://leon.rs/p/zoe-bela/",
+      "error": "HTTP 404"
+    },
+    {
+      "slug": "terra-bela",
+      "url": "https://leon.rs/p/terra-bela/",
+      "error": "HTTP 404"
+    },
+    {
+      "slug": "tessa-crna",
+      "url": "https://leon.rs/p/tessa-crna/",
+      "error": "HTTP 404"
+    },
+    {
+      "slug": "siena-ii-bela",
+      "url": "https://leon.rs/p/siena-ii-bela/",
+      "error": "HTTP 404"
+    },
+    {
+      "slug": "hemera-bela",
+      "url": "https://leon.rs/p/hemera-bela/",
+      "error": "HTTP 404"
+    },
+    {
+      "slug": "liora-ii-zlatna",
+      "url": "https://leon.rs/p/liora-ii-zlatna/",
+      "error": "HTTP 404"
+    },
+    {
+      "slug": "liora-ii-crna",
+      "url": "https://leon.rs/p/liora-ii-crna/",
+      "error": "HTTP 404"
+    },
+    {
+      "slug": "liora-ii-bela",
+      "url": "https://leon.rs/p/liora-ii-bela/",
+      "error": "HTTP 404"
+    },
+    {
+      "slug": "atalanta-roze-zmija",
+      "url": "https://leon.rs/p/atalanta-roze-zmija/",
+      "error": "HTTP 404"
+    },
+    {
+      "slug": "mia-ii-orlando-braon",
+      "url": "https://leon.rs/p/mia-ii-orlando-braon/",
+      "error": "HTTP 404"
+    },
+    {
+      "slug": "mia-ii-orlando-crvena",
+      "url": "https://leon.rs/p/mia-ii-orlando-crvena/",
+      "error": "HTTP 404"
+    },
+    {
+      "slug": "helen-roze-zmija",
+      "url": "https://leon.rs/p/helen-roze-zmija/",
+      "error": "HTTP 404"
+    },
+    {
+      "slug": "anna-zuta-velur",
+      "url": "https://leon.rs/p/anna-zuta-velur/",
+      "error": "HTTP 404"
+    },
+    {
+      "slug": "bakkar-ii-roze",
+      "url": "https://leon.rs/p/bakkar-ii-roze/",
+      "error": "HTTP 404"
+    }
+  ],
+  "finishedAt": "2026-05-18T21:55:45.277Z",
+  "summary": {
+    "ok": 298,
+    "skipped": 0,
+    "failed": 19
+  }
+}

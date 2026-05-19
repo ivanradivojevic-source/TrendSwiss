@@ -1,0 +1,1287 @@
+{
+  "patched": [
+    {
+      "slug": "andora-ii-zelena",
+      "broj": "6006",
+      "count": 5,
+      "files": [
+        "Andora-II-ZELENA.jpg",
+        "Andora-II-ZELENA-1.jpg",
+        "Andora-II-ZELENA-2.jpg",
+        "Andora-II-ZELENA-3.jpg",
+        "Andora-II-ZELENA-4.jpg"
+      ]
+    },
+    {
+      "slug": "andora-ii-braon",
+      "broj": "6006",
+      "count": 5,
+      "files": [
+        "Andora-II-BRAON.jpg",
+        "Andora-II-BRAON-1.jpg",
+        "Andora-II-BRAON-2.jpg",
+        "Andora-II-BRAON-3.jpg",
+        "Andora-II-BRAON-4.jpg"
+      ]
+    },
+    {
+      "slug": "zoe-braon",
+      "broj": "6003",
+      "count": 5,
+      "files": [
+        "Zoe-BRAON.jpg",
+        "Zoe-BRAON-1.jpg",
+        "Zoe-BRAON-2.jpg",
+        "Zoe-BRAON-3.jpg",
+        "Zoe-BRAON-4.jpg"
+      ]
+    },
+    {
+      "slug": "andora-ii-bez",
+      "broj": "6006",
+      "count": 5,
+      "files": [
+        "Andora-II-BEZ.jpg",
+        "Andora-II-BEZ-1.jpg",
+        "Andora-II-BEZ-2.jpg",
+        "Andora-II-BEZ-3.jpg",
+        "Andora-II-BEZ-4.jpg"
+      ]
+    },
+    {
+      "slug": "andora-crna-bakkar",
+      "broj": "6000",
+      "count": 5,
+      "files": [
+        "Andora-CRNA-BAKKAR.jpg",
+        "Andora-CRNA-BAKKAR-1.jpg",
+        "Andora-CRNA-BAKKAR-2.jpg",
+        "Andora-CRNA-BAKKAR-3.jpg",
+        "Andora-CRNA-BAKKAR-4.jpg"
+      ]
+    },
+    {
+      "slug": "andora-roze-bakkar",
+      "broj": "6000",
+      "count": 5,
+      "files": [
+        "Andora-ROZE-BAKKAR.jpg",
+        "Andora-ROZE-BAKKAR-1.jpg",
+        "Andora-ROZE-BAKKAR-2.jpg",
+        "Andora-ROZE-BAKKAR-3.jpg",
+        "Andora-ROZE-BAKKAR-4.jpg"
+      ]
+    },
+    {
+      "slug": "andora-bela-bakkar",
+      "broj": "6000",
+      "count": 5,
+      "files": [
+        "Andora-BELA-BAKKAR.jpg",
+        "Andora-BELA-BAKKAR-1.jpg",
+        "Andora-BELA-BAKKAR-2.jpg",
+        "Andora-BELA-BAKKAR-3.jpg",
+        "Andora-BELA-BAKKAR-4.jpg"
+      ]
+    },
+    {
+      "slug": "roma-zlatna",
+      "broj": "6300",
+      "count": 2,
+      "files": [
+        "Roma-ZLATNA.jpg",
+        "Roma-ZLATNA-4.jpg"
+      ]
+    },
+    {
+      "slug": "roma-crna",
+      "broj": "6300",
+      "count": 5,
+      "files": [
+        "Roma-CRNA.jpg",
+        "Roma-CRNA-1.jpg",
+        "Roma-CRNA-2.jpg",
+        "Roma-CRNA-3.jpg",
+        "Roma-CRNA-4.jpg"
+      ]
+    },
+    {
+      "slug": "roma-braon",
+      "broj": "6300",
+      "count": 5,
+      "files": [
+        "Roma-BRAON.jpg",
+        "Roma-BRAON-1.jpg",
+        "Roma-BRAON-2.jpg",
+        "Roma-BRAON-3.jpg",
+        "Roma-BRAON-4.jpg"
+      ]
+    },
+    {
+      "slug": "vivian-crna",
+      "broj": "4305",
+      "count": 4,
+      "files": [
+        "Vivian-CRNA.jpg",
+        "Vivian-CRNA-1.jpg",
+        "Vivian-CRNA-2.jpg",
+        "Vivian-CRNA-3.jpg"
+      ]
+    },
+    {
+      "slug": "vivian-braon",
+      "broj": "4305",
+      "count": 4,
+      "files": [
+        "Vivian-BRAON.jpg",
+        "Vivian-BRAON-1.jpg",
+        "Vivian-BRAON-2.jpg",
+        "Vivian-BRAON-3.jpg"
+      ]
+    },
+    {
+      "slug": "kiara-zlatna",
+      "broj": "1120",
+      "count": 4,
+      "files": [
+        "Kiara-ZLATNA.jpg",
+        "Kiara-ZLATNA-1.jpg",
+        "Kiara-ZLATNA-2.jpg",
+        "Kiara-ZLATNA-3.jpg"
+      ]
+    },
+    {
+      "slug": "kiara-braon",
+      "broj": "1120",
+      "count": 4,
+      "files": [
+        "Kiara-BRAON.jpg",
+        "Kiara-BRAON-1.jpg",
+        "Kiara-BRAON-2.jpg",
+        "Kiara-BRAON-3.jpg"
+      ]
+    },
+    {
+      "slug": "xenia-iii-teget-orlando",
+      "broj": "963",
+      "count": 5,
+      "files": [
+        "XENIA-III-TEGET-ORLANDO.jpg",
+        "XENIA-III-TEGET-ORLANDO-1.jpg",
+        "XENIA-III-TEGET-ORLANDO-2.jpg",
+        "XENIA-III-TEGET-ORLANDO-3.jpg",
+        "XENIA-III-TEGET-ORLANDO-4.jpg"
+      ]
+    },
+    {
+      "slug": "xenia-iii-braon-orlando",
+      "broj": "963",
+      "count": 5,
+      "files": [
+        "XENIA-III-BRAON-ORLANDO.jpg",
+        "XENIA-III-BRAON-ORLANDO-1.jpg",
+        "XENIA-III-BRAON-ORLANDO-2.jpg",
+        "XENIA-III-BRAON-ORLANDO-3.jpg",
+        "XENIA-III-BRAON-ORLANDO-4.jpg"
+      ]
+    },
+    {
+      "slug": "xenia-ii-zlato-sjaj",
+      "broj": "965",
+      "count": 5,
+      "files": [
+        "XENIA-II-ZLATO-SJAJ.jpg",
+        "XENIA-II-ZLATO-SJAJ-1.jpg",
+        "XENIA-II-ZLATO-SJAJ-2.jpg",
+        "XENIA-II-ZLATO-SJAJ-3.jpg",
+        "XENIA-II-ZLATO-SJAJ-4.jpg"
+      ]
+    },
+    {
+      "slug": "xenia-ii-crna-sjaj",
+      "broj": "965",
+      "count": 5,
+      "files": [
+        "XENIA-II-CRNA-SJAJ.jpg",
+        "XENIA-II-CRNA-SJAJ-1.jpg",
+        "XENIA-II-CRNA-SJAJ-2.jpg",
+        "XENIA-II-CRNA-SJAJ-3.jpg",
+        "XENIA-II-CRNA-SJAJ-4.jpg"
+      ]
+    },
+    {
+      "slug": "violet-crna",
+      "broj": "924",
+      "count": 5,
+      "files": [
+        "VIOLET-CRNA.jpg",
+        "VIOLET-CRNA-1.jpg",
+        "VIOLET-CRNA-2.jpg",
+        "VIOLET-CRNA-3.jpg",
+        "VIOLET-CRNA-4.jpg"
+      ]
+    },
+    {
+      "slug": "violet-braon",
+      "broj": "924",
+      "count": 5,
+      "files": [
+        "VIOLET-BRAON.jpg",
+        "VIOLET-BRAON-1.jpg",
+        "VIOLET-BRAON-2.jpg",
+        "VIOLET-BRAON-3.jpg",
+        "VIOLET-BRAON-4.jpg"
+      ]
+    },
+    {
+      "slug": "tessa-bez",
+      "broj": "6022",
+      "count": 5,
+      "files": [
+        "Tessa-BEZ.jpg",
+        "Tessa-BEZ-1.jpg",
+        "Tessa-BEZ-2.jpg",
+        "Tessa-BEZ-3.jpg",
+        "Tessa-BEZ-4.jpg"
+      ]
+    },
+    {
+      "slug": "terra-braon",
+      "broj": "6013",
+      "count": 5,
+      "files": [
+        "Terra-BRAON.jpg",
+        "Terra-BRAON-1.jpg",
+        "Terra-BRAON-2.jpg",
+        "Terra-BRAON-3.jpg",
+        "Terra-BRAON-4.jpg"
+      ]
+    },
+    {
+      "slug": "sofia-ii-crna",
+      "broj": "1041",
+      "count": 5,
+      "files": [
+        "Sofia-II-CRNA.jpg",
+        "Sofia-II-CRNA-1.jpg",
+        "Sofia-II-CRNA-2.jpg",
+        "Sofia-II-CRNA-3.jpg",
+        "Sofia-II-CRNA-4.jpg"
+      ]
+    },
+    {
+      "slug": "sofia-ii-braon",
+      "broj": "1041",
+      "count": 5,
+      "files": [
+        "Sofia-II-BRAON.jpg",
+        "Sofia-II-BRAON-1.jpg",
+        "Sofia-II-BRAON-2.jpg",
+        "Sofia-II-BRAON-3.jpg",
+        "Sofia-II-BRAON-4.jpg"
+      ]
+    },
+    {
+      "slug": "sofia-ii-bela",
+      "broj": "1041",
+      "count": 5,
+      "files": [
+        "Sofia-II-BELA.jpg",
+        "Sofia-II-BELA-1.jpg",
+        "Sofia-II-BELA-2.jpg",
+        "Sofia-II-BELA-3.jpg",
+        "Sofia-II-BELA-4.jpg"
+      ]
+    },
+    {
+      "slug": "siena-ii-zlatna",
+      "broj": "7011",
+      "count": 5,
+      "files": [
+        "Siena-II-ZLATNA.jpg",
+        "Siena-II-ZLATNA-1.jpg",
+        "Siena-II-ZLATNA-2.jpg",
+        "Siena-II-ZLATNA-3.jpg",
+        "Siena-II-ZLATNA-4.jpg"
+      ]
+    },
+    {
+      "slug": "siena-ii-crna",
+      "broj": "7011",
+      "count": 4,
+      "files": [
+        "Siena-II-CRNA.jpg",
+        "Siena-II-CRNA-1.jpg",
+        "Siena-II-CRNA-2.jpg",
+        "Siena-II-CRNA-3.jpg"
+      ]
+    },
+    {
+      "slug": "siena-i-zelena",
+      "broj": "7010",
+      "count": 4,
+      "files": [
+        "Siena-I-ZELENA.jpg",
+        "Siena-I-ZELENA-1.jpg",
+        "Siena-I-ZELENA-2.jpg",
+        "Siena-I-ZELENA-3.jpg"
+      ]
+    },
+    {
+      "slug": "siena-i-siva",
+      "broj": "7010",
+      "count": 4,
+      "files": [
+        "Siena-I-SIVA.jpg",
+        "Siena-I-SIVA-1.jpg",
+        "Siena-I-SIVA-2.jpg",
+        "Siena-I-SIVA-3.jpg"
+      ]
+    },
+    {
+      "slug": "siena-i-roze",
+      "broj": "7010",
+      "count": 4,
+      "files": [
+        "Siena-I-ROZE.jpg",
+        "Siena-I-ROZE-1.jpg",
+        "Siena-I-ROZE-2.jpg",
+        "Siena-I-ROZE-3.jpg"
+      ]
+    },
+    {
+      "slug": "siena-i-braon",
+      "broj": "7010",
+      "count": 4,
+      "files": [
+        "Siena-I-BRAON.jpg",
+        "Siena-I-BRAON-1.jpg",
+        "Siena-I-BRAON-2.jpg",
+        "Siena-I-BRAON-3.jpg"
+      ]
+    },
+    {
+      "slug": "siena-i-bez",
+      "broj": "7010",
+      "count": 4,
+      "files": [
+        "Siena-I-BEZ.jpg",
+        "Siena-I-BEZ-1.jpg",
+        "Siena-I-BEZ-2.jpg",
+        "Siena-I-BEZ-3.jpg"
+      ]
+    },
+    {
+      "slug": "sofia-i-crna",
+      "broj": "1020",
+      "count": 5,
+      "files": [
+        "Sofia-I-CRNA.jpg",
+        "Sofia-I-CRNA-1.jpg",
+        "Sofia-I-CRNA-2.jpg",
+        "Sofia-I-CRNA-3.jpg",
+        "Sofia-I-CRNA-4.jpg"
+      ]
+    },
+    {
+      "slug": "sofia-i-braon",
+      "broj": "1020",
+      "count": 5,
+      "files": [
+        "Sofia-I-BRAON.jpg",
+        "Sofia-I-BRAON-1.jpg",
+        "Sofia-I-BRAON-2.jpg",
+        "Sofia-I-BRAON-3.jpg",
+        "Sofia-I-BRAON-4.jpg"
+      ]
+    },
+    {
+      "slug": "portofino-ii-braon",
+      "broj": "6011",
+      "count": 5,
+      "files": [
+        "Portofino-II-BRAON.jpg",
+        "Portofino-II-BRAON-1.jpg",
+        "Portofino-II-BRAON-2.jpg",
+        "Portofino-II-BRAON-3.jpg",
+        "Portofino-II-BRAON-4.jpg"
+      ]
+    },
+    {
+      "slug": "portofino-ii-bez",
+      "broj": "6011",
+      "count": 5,
+      "files": [
+        "Portofino-II-BEZ.jpg",
+        "Portofino-II-BEZ-1.jpg",
+        "Portofino-II-BEZ-2.jpg",
+        "Portofino-II-BEZ-3.jpg",
+        "Portofino-II-BEZ-4.jpg"
+      ]
+    },
+    {
+      "slug": "portofino-i-zlatna",
+      "broj": "6010",
+      "count": 5,
+      "files": [
+        "Portofino-I-ZLATNA.jpg",
+        "Portofino-I-ZLATNA-1.jpg",
+        "Portofino-I-ZLATNA-2.jpg",
+        "Portofino-I-ZLATNA-3.jpg",
+        "Portofino-I-ZLATNA-4.jpg"
+      ]
+    },
+    {
+      "slug": "mia-roze-bakkar",
+      "broj": "4019",
+      "count": 4,
+      "files": [
+        "MIA-ROZE-BAKKAR.jpg",
+        "MIA-ROZE-BAKKAR-1.jpg",
+        "MIA-ROZE-BAKKAR-2.jpg",
+        "MIA-ROZE-BAKKAR-3.jpg"
+      ]
+    },
+    {
+      "slug": "mia-crna-bakkar",
+      "broj": "4019",
+      "count": 4,
+      "files": [
+        "MIA-CRNA-BAKKAR.jpg",
+        "MIA-CRNA-BAKKAR-1.jpg",
+        "MIA-CRNA-BAKKAR-2.jpg",
+        "MIA-CRNA-BAKKAR-3.jpg"
+      ]
+    },
+    {
+      "slug": "mia-bela-bakkar",
+      "broj": "4019",
+      "count": 4,
+      "files": [
+        "MIA-BELA-BAKKAR.jpg",
+        "MIA-BELA-BAKKAR-1.jpg",
+        "MIA-BELA-BAKKAR-2.jpg",
+        "MIA-BELA-BAKKAR-3.jpg"
+      ]
+    },
+    {
+      "slug": "lucia-crna",
+      "broj": "904",
+      "count": 4,
+      "files": [
+        "LUCIA-CRNA.jpg",
+        "LUCIA-CRNA-1.jpg",
+        "LUCIA-CRNA-2.jpg",
+        "LUCIA-CRNA-3.jpg"
+      ]
+    },
+    {
+      "slug": "lucia-bela",
+      "broj": "904",
+      "count": 5,
+      "files": [
+        "LUCIA-BELA.jpg",
+        "LUCIA-BELA-1.jpg",
+        "LUCIA-BELA-2.jpg",
+        "LUCIA-BELA-3.jpg",
+        "LUCIA-BELA-4.jpg"
+      ]
+    },
+    {
+      "slug": "lucia-perla",
+      "broj": "904",
+      "count": 4,
+      "files": [
+        "LUCIA-PERLA.jpg",
+        "LUCIA-PERLA-1.jpg",
+        "LUCIA-PERLA-2.jpg",
+        "LUCIA-PERLA-3.jpg"
+      ]
+    },
+    {
+      "slug": "liora-zelena",
+      "broj": "4054",
+      "count": 4,
+      "files": [
+        "Liora-ZELENA.jpg",
+        "Liora-ZELENA-1.jpg",
+        "Liora-ZELENA-2.jpg",
+        "Liora-ZELENA-3.jpg"
+      ]
+    },
+    {
+      "slug": "liora-i-crna",
+      "broj": "4054",
+      "count": 4,
+      "files": [
+        "Liora-I-CRNA.jpg",
+        "Liora-I-CRNA-1.jpg",
+        "Liora-I-CRNA-2.jpg",
+        "Liora-I-CRNA-3.jpg"
+      ]
+    },
+    {
+      "slug": "liora-i-bela",
+      "broj": "4054",
+      "count": 4,
+      "files": [
+        "Liora-I-BELA.jpg",
+        "Liora-I-BELA-1.jpg",
+        "Liora-I-BELA-2.jpg",
+        "Liora-I-BELA-3.jpg"
+      ]
+    },
+    {
+      "slug": "laura-perla",
+      "broj": "906",
+      "count": 4,
+      "files": [
+        "LAURA-PERLA.jpg",
+        "LAURA-PERLA-1.jpg",
+        "LAURA-PERLA-2.jpg",
+        "LAURA-PERLA-3.jpg"
+      ]
+    },
+    {
+      "slug": "laura-crna",
+      "broj": "906",
+      "count": 5,
+      "files": [
+        "LAURA-CRNA.jpg",
+        "LAURA-CRNA-1.jpg",
+        "LAURA-CRNA-2.jpg",
+        "LAURA-CRNA-3.jpg",
+        "LAURA-CRNA-4.jpg"
+      ]
+    },
+    {
+      "slug": "laura-zlato-sjaj",
+      "broj": "906",
+      "count": 5,
+      "files": [
+        "LAURA-ZLATO-SJAJ.jpg",
+        "LAURA-ZLATO-SJAJ-1.jpg",
+        "LAURA-ZLATO-SJAJ-2.jpg",
+        "LAURA-ZLATO-SJAJ-3.jpg",
+        "LAURA-ZLATO-SJAJ-4.jpg"
+      ]
+    },
+    {
+      "slug": "laura-bela",
+      "broj": "906",
+      "count": 5,
+      "files": [
+        "LAURA-BELA.jpg",
+        "LAURA-BELA-1.jpg",
+        "LAURA-BELA-2.jpg",
+        "LAURA-BELA-3.jpg",
+        "LAURA-BELA-4.jpg"
+      ]
+    },
+    {
+      "slug": "lana-teget",
+      "broj": "900",
+      "count": 5,
+      "files": [
+        "Lana-TEGET.jpg",
+        "Lana-TEGET-1.jpg",
+        "Lana-TEGET-2.jpg",
+        "Lana-TEGET-3.jpg",
+        "Lana-TEGET-4.jpg"
+      ]
+    },
+    {
+      "slug": "lana-perla",
+      "broj": "900",
+      "count": 5,
+      "files": [
+        "Lana-PERLA.jpg",
+        "Lana-PERLA-1.jpg",
+        "Lana-PERLA-2.jpg",
+        "Lana-PERLA-3.jpg",
+        "Lana-PERLA-4.jpg"
+      ]
+    },
+    {
+      "slug": "lana-crna",
+      "broj": "900",
+      "count": 5,
+      "files": [
+        "Lana-CRNA.jpg",
+        "Lana-CRNA-1.jpg",
+        "Lana-CRNA-2.jpg",
+        "Lana-CRNA-3.jpg",
+        "Lana-CRNA-4.jpg"
+      ]
+    },
+    {
+      "slug": "lana-bela",
+      "broj": "900",
+      "count": 5,
+      "files": [
+        "Lana-BELA.jpg",
+        "Lana-BELA-1.jpg",
+        "Lana-BELA-2.jpg",
+        "Lana-BELA-3.jpg",
+        "Lana-BELA-4.jpg"
+      ]
+    },
+    {
+      "slug": "hemera-braon",
+      "broj": "7021",
+      "count": 5,
+      "files": [
+        "Hemera-BRAON.jpg",
+        "Hemera-BRAON-1.jpg",
+        "Hemera-BRAON-2.jpg",
+        "Hemera-BRAON-3.jpg",
+        "Hemera-BRAON-4.jpg"
+      ]
+    },
+    {
+      "slug": "helen-zlato-zmija",
+      "broj": "4300",
+      "count": 5,
+      "files": [
+        "HELEN-ZLATO-ZMIJA.jpg",
+        "HELEN-ZLATO-ZMIJA-1.jpg",
+        "HELEN-ZLATO-ZMIJA-2.jpg",
+        "HELEN-ZLATO-ZMIJA-3.jpg",
+        "HELEN-ZLATO-ZMIJA-4.jpg"
+      ]
+    },
+    {
+      "slug": "gaia-zelena",
+      "broj": "7020",
+      "count": 4,
+      "files": [
+        "Gaia-ZELENA.jpg",
+        "Gaia-ZELENA-1.jpg",
+        "Gaia-ZELENA-2.jpg",
+        "Gaia-ZELENA-3.jpg"
+      ]
+    },
+    {
+      "slug": "gaia-braon",
+      "broj": "7020",
+      "count": 4,
+      "files": [
+        "Gaia-BRAON.jpg",
+        "Gaia-BRAON-1.jpg",
+        "Gaia-BRAON-2.jpg",
+        "Gaia-BRAON-3.jpg"
+      ]
+    },
+    {
+      "slug": "edita-ii-zelena-perlato",
+      "broj": "4251",
+      "count": 5,
+      "files": [
+        "EDITA-II-ZELENA-PERLATO.jpg",
+        "EDITA-II-ZELENA-PERLATO-1.jpg",
+        "EDITA-II-ZELENA-PERLATO-2.jpg",
+        "EDITA-II-ZELENA-PERLATO-3.jpg",
+        "EDITA-II-ZELENA-PERLATO-4.jpg"
+      ]
+    },
+    {
+      "slug": "edita-ii-sampanj",
+      "broj": "4251",
+      "count": 5,
+      "files": [
+        "EDITA-II-SAMPANJ.jpg",
+        "EDITA-II-SAMPANJ-1.jpg",
+        "EDITA-II-SAMPANJ-2.jpg",
+        "EDITA-II-SAMPANJ-3.jpg",
+        "EDITA-II-SAMPANJ-4.jpg"
+      ]
+    },
+    {
+      "slug": "edita-ii-perla",
+      "broj": "4251",
+      "count": 5,
+      "files": [
+        "EDITA-II-PERLA.jpg",
+        "EDITA-II-PERLA-1.jpg",
+        "EDITA-II-PERLA-2.jpg",
+        "EDITA-II-PERLA-3.jpg",
+        "EDITA-II-PERLA-4.jpg"
+      ]
+    },
+    {
+      "slug": "edita-crazy-siva",
+      "broj": "4250",
+      "count": 3,
+      "files": [
+        "EDITA-CRAZY-SIVA.jpg",
+        "EDITA-CRAZY-SIVA-1.jpg",
+        "EDITA-CRAZY-SIVA-2.jpg"
+      ]
+    },
+    {
+      "slug": "edita-crazy-roze",
+      "broj": "4250",
+      "count": 3,
+      "files": [
+        "EDITA-CRAZY-ROZE.jpg",
+        "EDITA-CRAZY-ROZE-1.jpg",
+        "EDITA-CRAZY-ROZE-2.jpg"
+      ]
+    },
+    {
+      "slug": "edita-crazy-maslinasto-zelena",
+      "broj": "4250",
+      "count": 3,
+      "files": [
+        "EDITA-CRAZY-MASLINASTO-ZELENA.jpg",
+        "EDITA-CRAZY-MASLINASTO-ZELENA-1.jpg",
+        "EDITA-CRAZY-MASLINASTO-ZELENA-2.jpg"
+      ]
+    },
+    {
+      "slug": "edita-crazy-crna",
+      "broj": "4250",
+      "count": 3,
+      "files": [
+        "EDITA-CRAZY-CRNA.jpg",
+        "EDITA-CRAZY-CRNA-1.jpg",
+        "EDITA-CRAZY-CRNA-2.jpg"
+      ]
+    },
+    {
+      "slug": "edita-crazy-braon-dark",
+      "broj": "4250",
+      "count": 3,
+      "files": [
+        "EDITA-CRAZY-BRAON-DARK.jpg",
+        "EDITA-CRAZY-BRAON-DARK-1.jpg",
+        "EDITA-CRAZY-BRAON-DARK-2.jpg"
+      ]
+    },
+    {
+      "slug": "edita-crazy-bez",
+      "broj": "4250",
+      "count": 3,
+      "files": [
+        "EDITA-CRAZY-BEZ.jpg",
+        "EDITA-CRAZY-BEZ-1.jpg",
+        "EDITA-CRAZY-BEZ-2.jpg"
+      ]
+    },
+    {
+      "slug": "edita-zelena-perlato",
+      "broj": "4250",
+      "count": 5,
+      "files": [
+        "Edita-ZELENA-PERLATO.jpg",
+        "Edita-ZELENA-PERLATO-1.jpg",
+        "Edita-ZELENA-PERLATO-2.jpg",
+        "Edita-ZELENA-PERLATO-3.jpg",
+        "Edita-ZELENA-PERLATO-4.jpg"
+      ]
+    },
+    {
+      "slug": "edita-teget",
+      "broj": "4250",
+      "count": 4,
+      "files": [
+        "Edita-TEGET.jpg",
+        "Edita-TEGET-1.jpg",
+        "Edita-TEGET-2.jpg",
+        "Edita-TEGET-3.jpg"
+      ]
+    },
+    {
+      "slug": "edita-sampanj",
+      "broj": "4250",
+      "count": 5,
+      "files": [
+        "Edita-SAMPANJ.jpg",
+        "Edita-SAMPANJ-1.jpg",
+        "Edita-SAMPANJ-2.jpg",
+        "Edita-SAMPANJ-3.jpg",
+        "Edita-SAMPANJ-4.jpg"
+      ]
+    },
+    {
+      "slug": "edita-perla",
+      "broj": "4250",
+      "count": 5,
+      "files": [
+        "Edita-PERLA.jpg",
+        "Edita-PERLA-1.jpg",
+        "Edita-PERLA-2.jpg",
+        "Edita-PERLA-3.jpg",
+        "Edita-PERLA-4.jpg"
+      ]
+    },
+    {
+      "slug": "edita-mint",
+      "broj": "4250",
+      "count": 5,
+      "files": [
+        "Edita-MINT.jpg",
+        "Edita-MINT-1.jpg",
+        "Edita-MINT-2.jpg",
+        "Edita-MINT-3.jpg",
+        "Edita-MINT-4.jpg"
+      ]
+    },
+    {
+      "slug": "edita-crna",
+      "broj": "4250",
+      "count": 5,
+      "files": [
+        "Edita-CRNA.jpg",
+        "Edita-CRNA-1.jpg",
+        "Edita-CRNA-2.jpg",
+        "Edita-CRNA-3.jpg",
+        "Edita-CRNA-4.jpg"
+      ]
+    },
+    {
+      "slug": "edita-bela",
+      "broj": "4250",
+      "count": 5,
+      "files": [
+        "Edita-BELA.jpg",
+        "Edita-BELA-1.jpg",
+        "Edita-BELA-2.jpg",
+        "Edita-BELA-3.jpg",
+        "Edita-BELA-4.jpg"
+      ]
+    },
+    {
+      "slug": "beti-bez",
+      "broj": "935",
+      "count": 5,
+      "files": [
+        "BETI-BEZ.jpg",
+        "BETI-BEZ-1.jpg",
+        "BETI-BEZ-2.jpg",
+        "BETI-BEZ-3.jpg",
+        "BETI-BEZ-4.jpg"
+      ]
+    },
+    {
+      "slug": "bella-led-orlando",
+      "broj": "966",
+      "count": 4,
+      "files": [
+        "BELLA-LED-ORLANDO.jpg",
+        "BELLA-LED-ORLANDO-1.jpg",
+        "BELLA-LED-ORLANDO-2.jpg",
+        "BELLA-LED-ORLANDO-3.jpg"
+      ]
+    },
+    {
+      "slug": "bella-crna-orlando",
+      "broj": "966",
+      "count": 4,
+      "files": [
+        "BELLA-CRNA-ORLANDO.jpg",
+        "BELLA-CRNA-ORLANDO-1.jpg",
+        "BELLA-CRNA-ORLANDO-2.jpg",
+        "BELLA-CRNA-ORLANDO-3.jpg"
+      ]
+    },
+    {
+      "slug": "bakkar-ii-crna",
+      "broj": "1024",
+      "count": 4,
+      "files": [
+        "BAKKAR-II-CRNA.jpg",
+        "BAKKAR-II-CRNA-1.jpg",
+        "BAKKAR-II-CRNA-2.jpg",
+        "BAKKAR-II-CRNA-3.jpg"
+      ]
+    },
+    {
+      "slug": "bakkar-ii-bela",
+      "broj": "1024",
+      "count": 4,
+      "files": [
+        "BAKKAR-II-BELA.jpg",
+        "BAKKAR-II-BELA-1.jpg",
+        "BAKKAR-II-BELA-2.jpg",
+        "BAKKAR-II-BELA-3.jpg"
+      ]
+    },
+    {
+      "slug": "aurora-v-bordo-bakkar",
+      "broj": "2024",
+      "count": 4,
+      "files": [
+        "AURORA-V-BORDO-BAKKAR.jpg",
+        "AURORA-V-BORDO-BAKKAR-1.jpg",
+        "AURORA-V-BORDO-BAKKAR-2.jpg",
+        "AURORA-V-BORDO-BAKKAR-3.jpg"
+      ]
+    },
+    {
+      "slug": "aurora-v-led-orladno",
+      "broj": "2024",
+      "count": 4,
+      "files": [
+        "AURORA-V-LED-ORLADNO.jpg",
+        "AURORA-V-LED-ORLADNO-1.jpg",
+        "AURORA-V-LED-ORLADNO-2.jpg",
+        "AURORA-V-LED-ORLADNO-3.jpg"
+      ]
+    },
+    {
+      "slug": "atalanta-zlato-zmija",
+      "broj": "4000",
+      "count": 5,
+      "files": [
+        "ATALANTA-ZLATO-ZMIJA.jpg",
+        "ATALANTA-ZLATO-ZMIJA-1.jpg",
+        "ATALANTA-ZLATO-ZMIJA-2.jpg",
+        "ATALANTA-ZLATO-ZMIJA-3.jpg",
+        "ATALANTA-ZLATO-ZMIJA-4.jpg"
+      ]
+    },
+    {
+      "slug": "atalanta-bela-zmija",
+      "broj": "4000",
+      "count": 5,
+      "files": [
+        "ATALANTA-BELA-ZMIJA.jpg",
+        "ATALANTA-BELA-ZMIJA-1.jpg",
+        "ATALANTA-BELA-ZMIJA-2.jpg",
+        "ATALANTA-BELA-ZMIJA-3.jpg",
+        "ATALANTA-BELA-ZMIJA-4.jpg"
+      ]
+    },
+    {
+      "slug": "atalanta-zlato-rust",
+      "broj": "4000",
+      "count": 4,
+      "files": [
+        "ATALANTA-ZLATO-RUST.jpg",
+        "ATALANTA-ZLATO-RUST-1.jpg",
+        "ATALANTA-ZLATO-RUST-2.jpg",
+        "ATALANTA-ZLATO-RUST-3.jpg"
+      ]
+    },
+    {
+      "slug": "aria-i-crna",
+      "broj": "912",
+      "count": 5,
+      "files": [
+        "Aria-I-CRNA.jpg",
+        "Aria-I-CRNA-1.jpg",
+        "Aria-I-CRNA-2.jpg",
+        "Aria-I-CRNA-3.jpg",
+        "Aria-I-CRNA-4.jpg"
+      ]
+    },
+    {
+      "slug": "aria-i-bela",
+      "broj": "912",
+      "count": 5,
+      "files": [
+        "Aria-I-BELA.jpg",
+        "Aria-I-BELA-1.jpg",
+        "Aria-I-BELA-2.jpg",
+        "Aria-I-BELA-3.jpg",
+        "Aria-I-BELA-4.jpg"
+      ]
+    },
+    {
+      "slug": "aria-i-braon",
+      "broj": "912",
+      "count": 4,
+      "files": [
+        "aria-i-892-Copy.jpg",
+        "912-3581-1.jpg",
+        "912-4389-1.jpg",
+        "912-5988-Copy-Copy.jpg"
+      ]
+    },
+    {
+      "slug": "anastasia-zlato-zmija",
+      "broj": "4011",
+      "count": 5,
+      "files": [
+        "ANASTASIA-ZLATO-ZMIJA.jpg",
+        "ANASTASIA-ZLATO-ZMIJA-1.jpg",
+        "ANASTASIA-ZLATO-ZMIJA-2.jpg",
+        "ANASTASIA-ZLATO-ZMIJA-3.jpg",
+        "ANASTASIA-ZLATO-ZMIJA-4.jpg"
+      ]
+    },
+    {
+      "slug": "adriana-roze-zmija",
+      "broj": "4201",
+      "count": 5,
+      "files": [
+        "ADRIANA-ZLATO-ZMIJA.jpg",
+        "ADRIANA-ZLATO-ZMIJA-1.jpg",
+        "ADRIANA-ZLATO-ZMIJA-2.jpg",
+        "ADRIANA-ZLATO-ZMIJA-3.jpg",
+        "ADRIANA-ZLATO-ZMIJA-4.jpg"
+      ]
+    },
+    {
+      "slug": "adriana-zlato-zmija-2",
+      "broj": "4201",
+      "count": 5,
+      "files": [
+        "ADRIANA-ROZE-ZMIJA.jpg",
+        "ADRIANA-ROZE-ZMIJA-1.jpg",
+        "ADRIANA-ROZE-ZMIJA-2.jpg",
+        "ADRIANA-ROZE-ZMIJA-3.jpg",
+        "ADRIANA-ROZE-ZMIJA-4.jpg"
+      ]
+    },
+    {
+      "slug": "nora-ii-braon",
+      "broj": "5010",
+      "count": 5,
+      "files": [
+        "NORA-II-BRAON.jpg",
+        "NORA-II-BRAON-1.jpg",
+        "NORA-II-BRAON-2.jpg",
+        "NORA-II-BRAON-3.jpg",
+        "NORA-II-BRAON-4.jpg"
+      ]
+    },
+    {
+      "slug": "nora-ii-crna",
+      "broj": "5010",
+      "count": 5,
+      "files": [
+        "NORA-II-CRNA.jpg",
+        "NORA-II-CRNA-1.jpg",
+        "NORA-II-CRNA-2.jpg",
+        "NORA-II-CRNA-3.jpg",
+        "NORA-II-CRNA-4.jpg"
+      ]
+    },
+    {
+      "slug": "leona-perla",
+      "broj": "950",
+      "count": 5,
+      "files": [
+        "Leona-PERLA.jpg",
+        "Leona-PERLA-1.jpg",
+        "Leona-PERLA-2.jpg",
+        "Leona-PERLA-3.jpg",
+        "Leona-PERLA-4.jpg"
+      ]
+    },
+    {
+      "slug": "leona-bakkar-teget-bakkar",
+      "broj": "970",
+      "count": 4,
+      "files": [
+        "LEONA-BAKKAR-TEGET-BAKKAR.jpg",
+        "LEONA-BAKKAR-TEGET-BAKKAR-1.jpg",
+        "LEONA-BAKKAR-TEGET-BAKKAR-2.jpg",
+        "LEONA-BAKKAR-TEGET-BAKKAR-3.jpg"
+      ]
+    },
+    {
+      "slug": "leona-bakkar-roze-bakkar",
+      "broj": "970",
+      "count": 4,
+      "files": [
+        "LEONA-BAKKAR-ROZE-BAKKAR.jpg",
+        "LEONA-BAKKAR-ROZE-BAKKAR-1.jpg",
+        "LEONA-BAKKAR-ROZE-BAKKAR-2.jpg",
+        "LEONA-BAKKAR-ROZE-BAKKAR-3.jpg"
+      ]
+    },
+    {
+      "slug": "leona-bakkar-bela-bakkar",
+      "broj": "970",
+      "count": 4,
+      "files": [
+        "LEONA-BAKKAR-BELA-BAKKAR.jpg",
+        "LEONA-BAKKAR-BELA-BAKKAR-1.jpg",
+        "LEONA-BAKKAR-BELA-BAKKAR-2.jpg",
+        "LEONA-BAKKAR-BELA-BAKKAR-3.jpg"
+      ]
+    },
+    {
+      "slug": "leona-zelena-perlato",
+      "broj": "950",
+      "count": 4,
+      "files": [
+        "Leona-ZELENA-PERLATO.jpg",
+        "Leona-ZELENA-PERLATO-1.jpg",
+        "Leona-ZELENA-PERLATO-2.jpg",
+        "Leona-ZELENA-PERLATO-3.jpg"
+      ]
+    },
+    {
+      "slug": "leona-teget",
+      "broj": "950",
+      "count": 5,
+      "files": [
+        "Leona-TEGET.jpg",
+        "Leona-TEGET-1.jpg",
+        "Leona-TEGET-2.jpg",
+        "Leona-TEGET-3.jpg",
+        "Leona-TEGET-4.jpg"
+      ]
+    },
+    {
+      "slug": "leona-crna",
+      "broj": "950",
+      "count": 5,
+      "files": [
+        "Leona-CRNA.jpg",
+        "Leona-CRNA-1.jpg",
+        "Leona-CRNA-2.jpg",
+        "Leona-CRNA-3.jpg",
+        "Leona-CRNA-4.jpg"
+      ]
+    },
+    {
+      "slug": "leona-bela",
+      "broj": "950",
+      "count": 5,
+      "files": [
+        "Leona-BELA.jpg",
+        "Leona-BELA-1.jpg",
+        "Leona-BELA-2.jpg",
+        "Leona-BELA-3.jpg",
+        "Leona-BELA-4.jpg"
+      ]
+    },
+    {
+      "slug": "anna-velur-siva",
+      "broj": "4010",
+      "count": 3,
+      "files": [
+        "Anna-Velur-SIVA.jpg",
+        "Anna-Velur-SIVA-1.jpg",
+        "Anna-Velur-SIVA-2.jpg"
+      ]
+    },
+    {
+      "slug": "anna-velur-braon",
+      "broj": "4010",
+      "count": 5,
+      "files": [
+        "Anna-Velur-BRAON.jpg",
+        "Anna-Velur-BRAON-1.jpg",
+        "Anna-Velur-BRAON-2.jpg",
+        "Anna-Velur-BRAON-3.jpg",
+        "Anna-Velur-BRAON-4.jpg"
+      ]
+    },
+    {
+      "slug": "anna-velur-bez",
+      "broj": "4010",
+      "count": 5,
+      "files": [
+        "Anna-Velur-BEZ.jpg",
+        "Anna-Velur-BEZ-1.jpg",
+        "Anna-Velur-BEZ-2.jpg",
+        "Anna-Velur-BEZ-3.jpg",
+        "Anna-Velur-BEZ-4.jpg"
+      ]
+    },
+    {
+      "slug": "anna-roze-velur",
+      "broj": "4010",
+      "count": 5,
+      "files": [
+        "Anna-ROZE-VELUR.jpg",
+        "Anna-ROZE-VELUR-1.jpg",
+        "Anna-ROZE-VELUR-2.jpg",
+        "Anna-ROZE-VELUR-3.jpg",
+        "Anna-ROZE-VELUR-4.jpg"
+      ]
+    },
+    {
+      "slug": "anna-crna-bakkar",
+      "broj": "4010",
+      "count": 4,
+      "files": [
+        "Anna-CRNA-BAKKAR.jpg",
+        "Anna-CRNA-BAKKAR-1.jpg",
+        "Anna-CRNA-BAKKAR-2.jpg",
+        "Anna-CRNA-BAKKAR-3.jpg"
+      ]
+    }
+  ],
+  "skipped": [],
+  "failed": [
+    {
+      "slug": "zoe-bela",
+      "broj": "6003",
+      "url": "https://leon.rs/p/zoe-bela/",
+      "error": "HTTP 404"
+    },
+    {
+      "slug": "tessa-crna",
+      "broj": "6022",
+      "url": "https://leon.rs/p/tessa-crna/",
+      "error": "HTTP 404"
+    },
+    {
+      "slug": "terra-bela",
+      "broj": "6013",
+      "url": "https://leon.rs/p/terra-bela/",
+      "error": "HTTP 404"
+    },
+    {
+      "slug": "siena-ii-bela",
+      "broj": "7011",
+      "url": "https://leon.rs/p/siena-ii-bela/",
+      "error": "HTTP 404"
+    },
+    {
+      "slug": "mia-ii-orlando-braon",
+      "broj": "4019",
+      "url": "https://leon.rs/p/mia-ii-orlando-braon/",
+      "error": "HTTP 404"
+    },
+    {
+      "slug": "mia-ii-orlando-crvena",
+      "broj": "4019",
+      "url": "https://leon.rs/p/mia-ii-orlando-crvena/",
+      "error": "HTTP 404"
+    },
+    {
+      "slug": "hemera-bela",
+      "broj": "7021",
+      "url": "https://leon.rs/p/hemera-bela/",
+      "error": "HTTP 404"
+    },
+    {
+      "slug": "helen-roze-zmija",
+      "broj": "4300",
+      "url": "https://leon.rs/p/helen-roze-zmija/",
+      "error": "HTTP 404"
+    },
+    {
+      "slug": "edita-ii-mint",
+      "broj": "4251",
+      "url": "https://leon.rs/p/edita-ii-mint/",
+      "error": "HTTP 404"
+    },
+    {
+      "slug": "bakkar-ii-roze",
+      "broj": "1024",
+      "url": "https://leon.rs/p/bakkar-ii-roze/",
+      "error": "HTTP 404"
+    },
+    {
+      "slug": "atalanta-roze-zmija",
+      "broj": "4000",
+      "url": "https://leon.rs/p/atalanta-roze-zmija/",
+      "error": "HTTP 404"
+    },
+    {
+      "slug": "anna-zuta-velur",
+      "broj": "4010",
+      "url": "https://leon.rs/p/anna-zuta-velur/",
+      "error": "HTTP 404"
+    }
+  ]
+}

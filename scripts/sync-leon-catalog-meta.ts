@@ -1,0 +1,164 @@
+/**
+ * 1) Leon proizvodi izvan Excel-a → priceCHF = null
+ * 2) Svima dodeli articleNumber (+ colorLabel) iz Excel-a ili LEON slike
+ *
+ * npx tsx scripts/sync-leon-catalog-meta.ts
+ */
+import { execSync } from 'node:child_process';
+import { readFileSync, writeFileSync } from 'node:fs';
+import { join } from 'node:path';
+
+import type { Product } from '../data/products';
+import { leonProducts } from '../data/leon-products.generated';
+import {
+  leonModelBaseKeyFromImageUrl,
+} from '../data/leonCatalogNormalize';
+import {
+  normalizeLeonColorSlugKey,
+  pathSlugFromLeonUrl,
+  stripColorsFromPathSlug,
+} from '../data/leonMultiLocale';
+import leonRaw from '../data/leon-products.raw.json';
+
+const EXCEL_PATH = String.raw`D:\Cursor_AI\Sima sajt dokumenti\Tabela Cene.xlsx`;
+const OUT_TS = join(__dirname, '../data/leon-products.generated.ts');
+
+type ExcelRow = { broj: string; naziv: string; maloprodajna: number };
+type LeonRawRow = { url?: string; images?: string[]; ok?: boolean; relevant?: boolean };
+
+const byImage = new Map<string, LeonRawRow>();
+for (const r of (leonRaw.raw as LeonRawRow[]) ?? []) {
+  if (r?.ok && r?.relevant && r.images?.[0]) byImage.set(r.images[0], r);
+}
+
+function loadExcel(): ExcelRow[] {
+  const py = join(__dirname, 'read-excel-prices.py');
+  const raw = execSync(`python "${py}" "${EXCEL_PATH}"`, { encoding: 'utf8' });
+  return (JSON.parse(raw) as ExcelRow[]).filter((r) => r.naziv && r.maloprodajna);
+}
+
+function normKey(s: string): string {
+  return normalizeLeonColorSlugKey(s.replace(/\*/g, ''))
+    .replace(/\s+/g, '-')
+    .replace(/-+/g, '-');
+}
+
+const ROMAN: Record<string, string> = { '1': 'i', '2': 'ii', '3': 'iii', '4': 'iv', '5': 'v' };
+
+function excelKeys(naziv: string): string[] {
+  const keys = new Set<string>([normKey(naziv)]);
+  const m = naziv.trim().match(/^(.+?)\s+(\d+)\s*$/);
+  if (m) {
+    keys.add(`${normKey(m[1])}-${m[2]}`);
+    const rw = ROMAN[m[2]];
+    if (rw) keys.add(`${normKey(m[1])}-${rw}`);
+  }
+  return [...keys];
+}
+
+const ALIASES: Record<string, string[]> = {
+  siena2: ['siena-ii'],
+  'nora-5': ['nora-iv', 'nora-v'],
+  rubikon: ['rubicon'],
+};
+
+/** Broj mora biti prvi segment CDN fajla (950-Crvena) — ne podniz u drugom modelu. */
+function brojInProduct(broj: string, p: Product): boolean {
+  const b = broj.toLowerCase();
+  const img = p.image.match(/\/([^/]+?)\.(?:jpg|jpeg|png|webp)/i)?.[1]?.toLowerCase() ?? '';
+  const first = img.split(/[-_]/)[0]?.replace(/\d+$/i, '') ?? '';
+  if (first === b) return true;
+  if (img.startsWith(`${b}-`) || img.startsWith(`${b}_`)) return true;
+  return false;
+}
+
+function nameMatch(naziv: string, stem: string | null, slug: string): boolean {
+  const keys = excelKeys(naziv);
+  for (const ek of keys) {
+    const aliases = [ek, ...(ALIASES[ek] ?? [])];
+    for (const k of aliases) {
+      if (slug.includes(k) || stem === k || (stem?.startsWith(`${k}-`) ?? false)) return true;
+    }
+  }
+  return false;
+}
+
+function extractBrojFromImage(image: string): string | null {
+  const file = image.match(/\/([^/]+?)\.(?:jpg|jpeg|png|webp)/i)?.[1];
+  if (!file) return null;
+  const first = file.split(/[-_]/)[0]?.trim();
+  if (!first) return null;
+  if (/^\d{2,4}[a-z]?$/i.test(first) || /^\d+[a-z]$/i.test(first) || /^[a-z]?\d+[a-z]?$/i.test(first)) {
+    return first.toUpperCase() === first ? first : first;
+  }
+  if (/^PU\d+/i.test(first) || /^\d{3,4}M?$/i.test(first) || /^V\d+/i.test(first)) return first;
+  return null;
+}
+
+function colorFromName(name: string): string | null {
+  const parts = name.split(/\s*[–—-]\s*/);
+  if (parts.length < 2) return null;
+  const tail = parts[parts.length - 1].trim();
+  return tail.length ? tail : null;
+}
+
+function productKeys(p: Product) {
+  const stem = leonModelBaseKeyFromImageUrl(p.image);
+  const raw = byImage.get(p.image);
+  const urlSlug = raw?.url ? pathSlugFromLeonUrl(raw.url) : null;
+  return { stem, urlSlug, slug: p.slug.toLowerCase() };
+}
+
+function main() {
+  const excel = loadExcel();
+  const list = leonProducts as unknown as Product[];
+
+  let priced = 0;
+  let cleared = 0;
+  let numbered = 0;
+
+  for (const p of list) {
+    let matchedRow: ExcelRow | null = null;
+    const { stem, urlSlug, slug } = productKeys(p);
+
+    for (const row of excel) {
+      if (brojInProduct(row.broj, p) || nameMatch(row.naziv, stem, slug)) {
+        matchedRow = row;
+        break;
+      }
+    }
+
+    const imgBroj = extractBrojFromImage(p.image);
+    const color = colorFromName(p.name.en) ?? colorFromName(p.name.de) ?? null;
+
+    if (matchedRow) {
+      p.articleNumber = matchedRow.broj;
+      for (const v of p.variants) v.priceCHF = matchedRow.maloprodajna;
+      priced++;
+    } else {
+      for (const v of p.variants) v.priceCHF = null;
+      cleared++;
+      if (imgBroj) p.articleNumber = imgBroj;
+      else delete p.articleNumber;
+    }
+
+    if (color) p.colorLabel = color;
+    else delete p.colorLabel;
+
+    if (p.articleNumber) numbered++;
+  }
+
+  writeFileSync(
+    OUT_TS,
+    `/* AUTO-GENERATED by scripts/leon-scrape-explore.mjs + catalog sync */\n` +
+      `export const leonProducts = ${JSON.stringify(list, null, 2)};\n`,
+    'utf8'
+  );
+
+  console.log('Leon rows:', list.length);
+  console.log('Excel cena (ostaje):', priced);
+  console.log('Cena uklonjena (null):', cleared);
+  console.log('Sa brojem artikla:', numbered);
+}
+
+main();

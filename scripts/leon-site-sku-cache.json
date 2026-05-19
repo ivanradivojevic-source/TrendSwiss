@@ -1,0 +1,6414 @@
+{
+  "kucna-papuca-050-roze": {
+    "url": "https://leon.rs/p/kucna-papuca-050-roze/",
+    "sifra": "050",
+    "title": "KUĆNA PAPUČA 050 – ROZE",
+    "colorLabel": "ROZE",
+    "fetchedAt": "2026-05-16T21:24:46.133Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "settle-perla": {
+    "url": "https://leon.rs/p/settle-perla/",
+    "sifra": "300",
+    "title": "Settle – PERLA",
+    "colorLabel": "PERLA",
+    "fetchedAt": "2026-05-16T21:24:46.134Z"
+  },
+  "settle-crna": {
+    "url": "https://leon.rs/p/settle-crna/",
+    "sifra": "300",
+    "title": "Settle – CRNA",
+    "colorLabel": "CRNA",
+    "fetchedAt": "2026-05-16T21:24:46.134Z"
+  },
+  "leona-perla": {
+    "url": "https://leon.rs/p/leona-perla/",
+    "sifra": "950",
+    "title": "Leona – PERLA",
+    "colorLabel": "PERLA",
+    "fetchedAt": "2026-05-18T13:02:24.039Z"
+  },
+  "zoe-bela": {
+    "url": "https://leon.rs/p/zoe-bela/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-17T09:19:48.235Z"
+  },
+  "settle-bela": {
+    "url": "https://leon.rs/p/settle-bela/",
+    "sifra": "300",
+    "title": "Settle – BELA",
+    "colorLabel": "BELA",
+    "fetchedAt": "2026-05-16T21:24:46.134Z"
+  },
+  "ground-bela": {
+    "url": "https://leon.rs/p/ground-bela/",
+    "sifra": "300M",
+    "title": "Ground – White",
+    "colorLabel": "BELA",
+    "sizes": [
+      "41",
+      "42",
+      "43",
+      "44",
+      "45",
+      "46",
+      "47",
+      "48"
+    ],
+    "fetchedAt": "2026-05-17T11:20:49.421Z"
+  },
+  "ground-crna": {
+    "url": "https://leon.rs/p/ground-crna/",
+    "sifra": "300M",
+    "title": "Ground – Black",
+    "colorLabel": "CRNA",
+    "sizes": [
+      "41",
+      "42",
+      "43",
+      "44",
+      "45",
+      "46",
+      "47",
+      "48"
+    ],
+    "fetchedAt": "2026-05-17T11:20:49.559Z"
+  },
+  "zimska-klompa-4270-braon": {
+    "url": "https://leon.rs/p/zimska-klompa-4270-braon/",
+    "sifra": "4270",
+    "title": "ZIMSKA KLOMPA 4270 – BRAON",
+    "colorLabel": "BRAON",
+    "fetchedAt": "2026-05-16T21:24:46.135Z"
+  },
+  "zimska-papuca-4271-siva": {
+    "url": "https://leon.rs/p/zimska-papuca-4271-siva/",
+    "sifra": "4271",
+    "title": "ZIMSKA PAPUČA 4271 – SIVA",
+    "colorLabel": "SIVA",
+    "fetchedAt": "2026-05-16T21:24:46.135Z"
+  },
+  "zimska-papuca-4271-braon": {
+    "url": "https://leon.rs/p/zimska-papuca-4271-braon/",
+    "sifra": "4271",
+    "title": "ZIMSKA PAPUČA 4271 – BRAON",
+    "colorLabel": "BRAON",
+    "fetchedAt": "2026-05-16T21:24:46.135Z"
+  },
+  "kucna-papuca-050-ciklama": {
+    "url": "https://leon.rs/p/kucna-papuca-050-ciklama/",
+    "sifra": "050",
+    "title": "KUĆNA PAPUČA 050 – CIKLAMA",
+    "colorLabel": "CIKLAMA",
+    "fetchedAt": "2026-05-16T21:24:46.135Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "zimska-klompa-4270-siva": {
+    "url": "https://leon.rs/p/zimska-klompa-4270-siva/",
+    "sifra": "4270",
+    "title": "ZIMSKA KLOMPA 4270 – SIVA",
+    "colorLabel": "SIVA",
+    "fetchedAt": "2026-05-16T21:24:46.135Z"
+  },
+  "kucna-papuca-050-bez": {
+    "url": "https://leon.rs/p/kucna-papuca-050-bez/",
+    "sifra": "050",
+    "title": "KUĆNA PAPUČA 050 – BEŽ",
+    "colorLabel": "BEŽ",
+    "fetchedAt": "2026-05-16T21:24:46.135Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "kucna-papuca-050-teget": {
+    "url": "https://leon.rs/p/kucna-papuca-050-teget/",
+    "sifra": "050",
+    "title": "KUĆNA PAPUČA 050 – TEGET",
+    "colorLabel": "TEGET",
+    "fetchedAt": "2026-05-16T21:24:46.135Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "kucna-papuca-050-ljubicasta": {
+    "url": "https://leon.rs/p/kucna-papuca-050-ljubicasta/",
+    "sifra": "050",
+    "title": "KUĆNA PAPUČA 050 -LJUBIČASTA",
+    "colorLabel": null,
+    "fetchedAt": "2026-05-16T21:24:46.135Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "andora-ii-zelena": {
+    "url": "https://leon.rs/p/andora-ii-zelena/",
+    "sifra": "6006",
+    "title": "Andora II – ZELENA",
+    "colorLabel": "ZELENA",
+    "fetchedAt": "2026-05-18T13:02:14.153Z"
+  },
+  "zoe-braon": {
+    "url": "https://leon.rs/p/zoe-braon/",
+    "sifra": "6003",
+    "title": "Zoe – BRAON",
+    "colorLabel": "BRAON",
+    "fetchedAt": "2026-05-18T13:02:14.178Z"
+  },
+  "andora-ii-braon": {
+    "url": "https://leon.rs/p/andora-ii-braon/",
+    "sifra": "6006",
+    "title": "Andora II – BRAON",
+    "colorLabel": "BRAON",
+    "fetchedAt": "2026-05-18T13:02:14.171Z"
+  },
+  "andora-ii-bez": {
+    "url": "https://leon.rs/p/andora-ii-bez/",
+    "sifra": "6006",
+    "title": "Andora II – BEZ",
+    "colorLabel": "BEZ",
+    "fetchedAt": "2026-05-18T13:02:14.560Z"
+  },
+  "andora-roze-bakkar": {
+    "url": "https://leon.rs/p/andora-roze-bakkar/",
+    "sifra": "6000",
+    "title": "Andora – ROZE BAKKAR",
+    "colorLabel": "ROZE BAKKAR",
+    "fetchedAt": "2026-05-18T13:02:14.588Z"
+  },
+  "andora-crna-bakkar": {
+    "url": "https://leon.rs/p/andora-crna-bakkar/",
+    "sifra": "6000",
+    "title": "Andora – CRNA BAKKAR",
+    "colorLabel": "CRNA BAKKAR",
+    "fetchedAt": "2026-05-18T13:02:14.583Z"
+  },
+  "andora-bela-bakkar": {
+    "url": "https://leon.rs/p/andora-bela-bakkar/",
+    "sifra": "6000",
+    "title": "Andora – BELA BAKKAR",
+    "colorLabel": "BELA BAKKAR",
+    "fetchedAt": "2026-05-18T13:02:14.624Z"
+  },
+  "decija-zimska-papuca-4870-ciklama": {
+    "url": "https://leon.rs/p/decija-zimska-papuca-4870-ciklama/",
+    "sifra": "4870",
+    "title": "DEČIJA ZIMSKA PAPUČA 4870-CIKLAMA",
+    "colorLabel": null,
+    "fetchedAt": "2026-05-16T21:24:46.135Z"
+  },
+  "decija-zimska-papuca-4870-siva": {
+    "url": "https://leon.rs/p/decija-zimska-papuca-4870-siva/",
+    "sifra": "4870",
+    "title": "DEČIJA ZIMSKA PAPUČA 4870- SIVA",
+    "colorLabel": null,
+    "fetchedAt": "2026-05-16T21:24:46.135Z"
+  },
+  "decija-zimska-papuca-n-siva": {
+    "url": "https://leon.rs/p/decija-zimska-papuca-n-siva/",
+    "sifra": "4871",
+    "title": "DEČIJA ZIMSKA PAPUČA 4871- SIVA",
+    "colorLabel": null,
+    "fetchedAt": "2026-05-16T21:24:46.135Z"
+  },
+  "nana-crna": {
+    "url": "https://leon.rs/p/nana-crna/",
+    "sifra": "967",
+    "title": "NANA – CRNA",
+    "colorLabel": "CRNA",
+    "fetchedAt": "2026-05-16T21:24:46.135Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "nana-bordo": {
+    "url": "https://leon.rs/p/nana-bordo/",
+    "sifra": "967",
+    "title": "NANA – BORDO",
+    "colorLabel": "BORDO",
+    "fetchedAt": "2026-05-16T21:24:46.135Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "rea-crna": {
+    "url": "https://leon.rs/p/rea-crna/",
+    "sifra": "6302",
+    "title": "Rea – CRNA",
+    "colorLabel": "CRNA",
+    "fetchedAt": "2026-05-16T21:24:46.135Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "rea-bela": {
+    "url": "https://leon.rs/p/rea-bela/",
+    "sifra": "6302",
+    "title": "Rea – BELA",
+    "colorLabel": "BELA",
+    "fetchedAt": "2026-05-16T21:24:46.135Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "nana-ii-teget": {
+    "url": "https://leon.rs/p/nana-ii-teget/",
+    "sifra": "967-1",
+    "title": "NANA II – TEGET",
+    "colorLabel": "TEGET",
+    "fetchedAt": "2026-05-16T21:24:46.135Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "nana-ii-crna": {
+    "url": "https://leon.rs/p/nana-ii-crna/",
+    "sifra": "967-2",
+    "title": "NANA II – CRNA",
+    "colorLabel": "CRNA",
+    "fetchedAt": "2026-05-16T21:24:46.135Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "nana-ii-bordo": {
+    "url": "https://leon.rs/p/nana-ii-bordo/",
+    "sifra": "967-3",
+    "title": "NANA II – BORDO",
+    "colorLabel": "BORDO",
+    "fetchedAt": "2026-05-16T21:24:46.135Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "noa-crna": {
+    "url": "https://leon.rs/p/noa-crna/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-17T09:19:48.705Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "noa-braon": {
+    "url": "https://leon.rs/p/noa-braon/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-17T09:19:49.169Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "roma-zlatna": {
+    "url": "https://leon.rs/p/roma-zlatna/",
+    "sifra": "6300",
+    "title": "Roma – ZLATNA",
+    "colorLabel": "ZLATNA",
+    "fetchedAt": "2026-05-18T13:02:14.939Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "roma-crna": {
+    "url": "https://leon.rs/p/roma-crna/",
+    "sifra": "6300",
+    "title": "Roma – CRNA",
+    "colorLabel": "CRNA",
+    "fetchedAt": "2026-05-18T13:02:14.960Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "roma-braon": {
+    "url": "https://leon.rs/p/roma-braon/",
+    "sifra": "6300",
+    "title": "Roma – BRAON",
+    "colorLabel": "BRAON",
+    "fetchedAt": "2026-05-18T13:02:14.965Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "freya-crna": {
+    "url": "https://leon.rs/p/freya-crna/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-17T09:19:50.102Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "freya-zlatna": {
+    "url": "https://leon.rs/p/freya-zlatna/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-17T09:19:49.635Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "decija-zimska-papuca-4871-braon": {
+    "url": "https://leon.rs/p/decija-zimska-papuca-4871-braon/",
+    "sifra": "4871",
+    "title": "DEČIJA ZIMSKA PAPUČA 4871- BRAON",
+    "colorLabel": null,
+    "fetchedAt": "2026-05-16T21:24:46.135Z"
+  },
+  "vivian-crna": {
+    "url": "https://leon.rs/p/vivian-crna/",
+    "sifra": "4305",
+    "title": "Vivian – CRNA",
+    "colorLabel": "CRNA",
+    "fetchedAt": "2026-05-18T13:02:14.993Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "freya-braon": {
+    "url": "https://leon.rs/p/freya-braon/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-17T09:19:50.566Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "kiara-zlatna": {
+    "url": "https://leon.rs/p/kiara-zlatna/",
+    "sifra": "1120",
+    "title": "Kiara – ZLATNA",
+    "colorLabel": "ZLATNA",
+    "fetchedAt": "2026-05-18T13:02:15.322Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "vivian-braon": {
+    "url": "https://leon.rs/p/vivian-braon/",
+    "sifra": "4305",
+    "title": "Vivian – BRAON",
+    "colorLabel": "BRAON",
+    "fetchedAt": "2026-05-18T13:02:15.293Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "kiara-braon": {
+    "url": "https://leon.rs/p/kiara-braon/",
+    "sifra": "1120",
+    "title": "Kiara – BRAON",
+    "colorLabel": "BRAON",
+    "fetchedAt": "2026-05-18T13:02:15.325Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "florence-roze": {
+    "url": "https://leon.rs/p/florence-roze/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-17T09:19:51.022Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "zimska-papuca-4771m-braon": {
+    "url": "https://leon.rs/p/zimska-papuca-4771m-braon/",
+    "sifra": "4771M",
+    "title": "ZIMSKA PAPUČA 4771M- BRAON",
+    "colorLabel": null,
+    "fetchedAt": "2026-05-16T21:24:46.135Z"
+  },
+  "zimska-papuca-4771m-siva": {
+    "url": "https://leon.rs/p/zimska-papuca-4771m-siva/",
+    "sifra": "4771M",
+    "title": "ZIMSKA PAPUČA 4771M- SIVA",
+    "colorLabel": null,
+    "fetchedAt": "2026-05-16T21:24:46.135Z"
+  },
+  "florence-crna": {
+    "url": "https://leon.rs/p/florence-crna/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-17T09:19:51.488Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "zimska-klompa-4770m-siva": {
+    "url": "https://leon.rs/p/zimska-klompa-4770m-siva/",
+    "sifra": "4770M",
+    "title": "ZIMSKA KLOMPA 4770M – SIVA",
+    "colorLabel": "SIVA",
+    "fetchedAt": "2026-05-16T21:24:46.135Z"
+  },
+  "zimska-klompa-4770m-braon": {
+    "url": "https://leon.rs/p/zimska-klompa-4770m-braon/",
+    "sifra": "4770M",
+    "title": "ZIMSKA KLOMPA 4770M – BRAON",
+    "colorLabel": "BRAON",
+    "fetchedAt": "2026-05-16T21:24:46.135Z"
+  },
+  "leona-sampanj": {
+    "url": "https://leon.rs/p/leona-sampanj/",
+    "sifra": "950",
+    "title": "Leona – Šampanj",
+    "colorLabel": "Šampanj",
+    "fetchedAt": "2026-05-16T21:24:46.135Z"
+  },
+  "rina-siva": {
+    "url": "https://leon.rs/p/rina-siva/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-17T09:19:51.957Z"
+  },
+  "rina-braon": {
+    "url": "https://leon.rs/p/rina-braon/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-17T09:19:52.440Z"
+  },
+  "olea-zelena": {
+    "url": "https://leon.rs/p/olea-zelena/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-17T09:19:52.903Z"
+  },
+  "xenia-iii-teget-orlando": {
+    "url": "https://leon.rs/p/xenia-iii-teget-orlando/",
+    "sifra": "963",
+    "title": "XENIA III- TEGET ORLANDO",
+    "colorLabel": null,
+    "fetchedAt": "2026-05-18T13:02:15.343Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "olea-bez": {
+    "url": "https://leon.rs/p/olea-bez/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-17T09:19:53.366Z"
+  },
+  "xenia-iii-braon-orlando": {
+    "url": "https://leon.rs/p/xenia-iii-braon-orlando/",
+    "sifra": "963",
+    "title": "XENIA III- BRAON ORLANDO",
+    "colorLabel": null,
+    "fetchedAt": "2026-05-18T13:02:15.668Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "xenia-ii-zlato-sjaj": {
+    "url": "https://leon.rs/p/xenia-ii-zlato-sjaj/",
+    "sifra": "965",
+    "title": "XENIA II- ZLATO SJAJ",
+    "colorLabel": null,
+    "fetchedAt": "2026-05-18T13:02:15.700Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "xenia-ii-crna-sjaj": {
+    "url": "https://leon.rs/p/xenia-ii-crna-sjaj/",
+    "sifra": "965",
+    "title": "XENIA II – CRNA SJAJ",
+    "colorLabel": "CRNA SJAJ",
+    "fetchedAt": "2026-05-18T13:02:15.704Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "violet-crna": {
+    "url": "https://leon.rs/p/violet-crna/",
+    "sifra": "924",
+    "title": "VIOLET- CRNA",
+    "colorLabel": null,
+    "fetchedAt": "2026-05-18T13:02:15.717Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "violet-braon": {
+    "url": "https://leon.rs/p/violet-braon/",
+    "sifra": "924",
+    "title": "VIOLET- BRAON",
+    "colorLabel": null,
+    "fetchedAt": "2026-05-18T13:02:16.047Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "tessa-bez": {
+    "url": "https://leon.rs/p/tessa-bez/",
+    "sifra": "6022",
+    "title": "Tessa – BEZ",
+    "colorLabel": "BEZ",
+    "fetchedAt": "2026-05-18T13:02:16.063Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "terra-braon": {
+    "url": "https://leon.rs/p/terra-braon/",
+    "sifra": "6013",
+    "title": "Terra – BRAON",
+    "colorLabel": "BRAON",
+    "fetchedAt": "2026-05-18T13:02:16.081Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "tessa-crna": {
+    "url": "https://leon.rs/p/tessa-crna/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-17T09:19:53.825Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "sofia-ii-crna": {
+    "url": "https://leon.rs/p/sofia-ii-crna/",
+    "sifra": "1041",
+    "title": "Sofia II – CRNA",
+    "colorLabel": "CRNA",
+    "fetchedAt": "2026-05-18T13:02:16.443Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "terra-bela": {
+    "url": "https://leon.rs/p/terra-bela/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-17T09:19:54.326Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "sofia-ii-braon": {
+    "url": "https://leon.rs/p/sofia-ii-braon/",
+    "sifra": "1041",
+    "title": "Sofia II – BRAON",
+    "colorLabel": "BRAON",
+    "fetchedAt": "2026-05-18T13:02:16.450Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "sofia-ii-bela": {
+    "url": "https://leon.rs/p/sofia-ii-bela/",
+    "sifra": "1041",
+    "title": "Sofia II – BELA",
+    "colorLabel": "BELA",
+    "fetchedAt": "2026-05-18T13:02:16.576Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "sky-roze": {
+    "url": "https://leon.rs/p/sky-roze/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-17T09:19:54.790Z"
+  },
+  "sky-teget-bakkar": {
+    "url": "https://leon.rs/p/sky-teget-bakkar/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-17T09:19:55.256Z"
+  },
+  "siena-ii-zlatna": {
+    "url": "https://leon.rs/p/siena-ii-zlatna/",
+    "sifra": "7011",
+    "title": "Siena II – ZLATNA",
+    "colorLabel": "ZLATNA",
+    "fetchedAt": "2026-05-18T13:02:16.828Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "siena-ii-crna": {
+    "url": "https://leon.rs/p/siena-ii-crna/",
+    "sifra": "7011",
+    "title": "Siena II – CRNA",
+    "colorLabel": "CRNA",
+    "fetchedAt": "2026-05-18T13:02:16.836Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "sky-bela-bakkar": {
+    "url": "https://leon.rs/p/sky-bela-bakkar/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-17T09:19:55.730Z"
+  },
+  "siena-i-zelena": {
+    "url": "https://leon.rs/p/siena-i-zelena/",
+    "sifra": "7010",
+    "title": "Siena I – ZELENA",
+    "colorLabel": "ZELENA",
+    "fetchedAt": "2026-05-18T13:02:16.934Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "siena-i-siva": {
+    "url": "https://leon.rs/p/siena-i-siva/",
+    "sifra": "7010",
+    "title": "Siena I – SIVA",
+    "colorLabel": "SIVA",
+    "fetchedAt": "2026-05-18T13:02:17.186Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "siena-i-roze": {
+    "url": "https://leon.rs/p/siena-i-roze/",
+    "sifra": "7010",
+    "title": "Siena I – ROZE",
+    "colorLabel": "ROZE",
+    "fetchedAt": "2026-05-18T13:02:17.195Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "siena-ii-bela": {
+    "url": "https://leon.rs/p/siena-ii-bela/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-17T09:19:56.196Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "siena-i-braon": {
+    "url": "https://leon.rs/p/siena-i-braon/",
+    "sifra": "7010",
+    "title": "Siena I – BRAON",
+    "colorLabel": "BRAON",
+    "fetchedAt": "2026-05-18T13:02:17.292Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "siena-i-bez": {
+    "url": "https://leon.rs/p/siena-i-bez/",
+    "sifra": "7010",
+    "title": "Siena I – BEZ",
+    "colorLabel": "BEZ",
+    "fetchedAt": "2026-05-18T13:02:17.436Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "rubicon-teget-bakkar": {
+    "url": "https://leon.rs/p/rubicon-teget-bakkar/",
+    "sifra": "3500",
+    "title": "Rubicon – Charcoal patent",
+    "colorLabel": "TEGET BAKKAR",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ],
+    "fetchedAt": "2026-05-17T11:43:17.869Z"
+  },
+  "sofia-i-crna": {
+    "url": "https://leon.rs/p/sofia-i-crna/",
+    "sifra": "1020",
+    "title": "Sofia I – CRNA",
+    "colorLabel": "CRNA",
+    "fetchedAt": "2026-05-18T13:02:17.543Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "sofija-crvena": {
+    "url": "https://leon.rs/p/sofija-crvena/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-17T09:19:56.659Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "rubicon-roze-bakkar": {
+    "url": "https://leon.rs/p/rubicon-roze-bakkar/",
+    "sifra": "3500",
+    "title": "Rubicon – Pink patent",
+    "colorLabel": "ROZE BAKKAR",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ],
+    "fetchedAt": "2026-05-17T11:43:18.118Z"
+  },
+  "sofia-i-braon": {
+    "url": "https://leon.rs/p/sofia-i-braon/",
+    "sifra": "1020",
+    "title": "Sofia I – BRAON",
+    "colorLabel": "BRAON",
+    "fetchedAt": "2026-05-18T13:02:17.561Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "rubicon-crna-bakkar": {
+    "url": "https://leon.rs/p/rubicon-crna-bakkar/",
+    "sifra": "3500",
+    "title": "Rubicon – Black patent",
+    "colorLabel": "CRNA BAKKAR",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ],
+    "fetchedAt": "2026-05-17T11:43:18.308Z"
+  },
+  "rubicon-bela-bakkar": {
+    "url": "https://leon.rs/p/rubicon-bela-bakkar/",
+    "sifra": "3500",
+    "title": "Rubicon – White patent",
+    "colorLabel": "BELA BAKKAR",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ],
+    "fetchedAt": "2026-05-17T11:43:18.467Z"
+  },
+  "portofino-ii-braon": {
+    "url": "https://leon.rs/p/portofino-ii-braon/",
+    "sifra": "6011",
+    "title": "Portofino II – BRAON",
+    "colorLabel": "BRAON",
+    "fetchedAt": "2026-05-18T13:02:17.648Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "portofino-ii-bez": {
+    "url": "https://leon.rs/p/portofino-ii-bez/",
+    "sifra": "6011",
+    "title": "Portofino II – BEZ",
+    "colorLabel": "BEZ",
+    "fetchedAt": "2026-05-18T13:02:17.791Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "portofino-i-zlatna": {
+    "url": "https://leon.rs/p/portofino-i-zlatna/",
+    "sifra": "6010",
+    "title": "Portofino I – ZLATNA",
+    "colorLabel": "ZLATNA",
+    "fetchedAt": "2026-05-18T13:02:17.896Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "portofino-roze-bakkar": {
+    "url": "https://leon.rs/p/portofino-roze-bakkar/",
+    "sifra": "6010",
+    "title": "Portofino – ROZE BAKKAR",
+    "colorLabel": "ROZE BAKKAR",
+    "fetchedAt": "2026-05-16T21:24:46.135Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "portofino-crna-bakkar": {
+    "url": "https://leon.rs/p/portofino-crna-bakkar/",
+    "sifra": "6010",
+    "title": "Portofino – CRNA BAKKAR",
+    "colorLabel": "CRNA BAKKAR",
+    "fetchedAt": "2026-05-16T21:24:46.135Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "portofino-bela-bakkar": {
+    "url": "https://leon.rs/p/portofino-bela-bakkar/",
+    "sifra": "6010",
+    "title": "Portofino – BELA BAKKAR",
+    "colorLabel": "BELA BAKKAR",
+    "fetchedAt": "2026-05-16T21:24:46.135Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "olaf-teget": {
+    "url": "https://leon.rs/p/olaf-teget/",
+    "sifra": "4800",
+    "title": "Olaf – TEGET",
+    "colorLabel": "TEGET",
+    "sizes": [
+      "26",
+      "27",
+      "28",
+      "29",
+      "30",
+      "31",
+      "32",
+      "33",
+      "34"
+    ],
+    "fetchedAt": "2026-05-17T10:01:35.344Z"
+  },
+  "olaf-perla": {
+    "url": "https://leon.rs/p/olaf-perla/",
+    "sifra": "4800",
+    "title": "Olaf – PERLA",
+    "colorLabel": "PERLA",
+    "sizes": [
+      "26",
+      "27",
+      "28",
+      "29",
+      "30",
+      "31",
+      "32",
+      "33",
+      "34"
+    ],
+    "fetchedAt": "2026-05-17T10:01:35.736Z"
+  },
+  "nova-i-teget": {
+    "url": "https://leon.rs/p/nova-i-teget/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-17T09:19:57.602Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "nora-iv-sampanj": {
+    "url": "https://leon.rs/p/nora-iv-sampanj/",
+    "sifra": "5001",
+    "title": "Nora IV – Champagne",
+    "colorLabel": "SAMPANJ",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ],
+    "fetchedAt": "2026-05-18T12:56:48.518Z"
+  },
+  "nova-i-crna": {
+    "url": "https://leon.rs/p/nova-i-crna/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-17T09:19:58.068Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "nova-i-bez": {
+    "url": "https://leon.rs/p/nova-i-bez/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-17T09:19:58.540Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "nora-iv-perla": {
+    "url": "https://leon.rs/p/nora-iv-perla/",
+    "sifra": "5001",
+    "title": "Nora IV – Pearl",
+    "colorLabel": "PERLA",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ],
+    "fetchedAt": "2026-05-18T12:56:48.573Z"
+  },
+  "nora-iv-crna": {
+    "url": "https://leon.rs/p/nora-iv-crna/",
+    "sifra": "5001",
+    "title": "Nora IV – Black",
+    "colorLabel": "CRNA",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ],
+    "fetchedAt": "2026-05-18T12:56:48.663Z"
+  },
+  "nora-iv-bela": {
+    "url": "https://leon.rs/p/nora-iv-bela/",
+    "sifra": "5001",
+    "title": "Nora IV – White",
+    "colorLabel": "BELA",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ],
+    "fetchedAt": "2026-05-18T12:56:48.746Z"
+  },
+  "nora-ii-crna": {
+    "url": "https://leon.rs/p/nora-ii-crna/",
+    "sifra": "5010",
+    "title": "NORA II- CRNA",
+    "colorLabel": null,
+    "fetchedAt": "2026-05-18T13:02:23.949Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "nora-i-crna": {
+    "url": "https://leon.rs/p/nora-i-crna/",
+    "sifra": "5000",
+    "title": "Nora I – Black",
+    "colorLabel": "CRNA",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ],
+    "fetchedAt": "2026-05-18T12:49:56.510Z"
+  },
+  "nora-i-braon": {
+    "url": "https://leon.rs/p/nora-i-braon/",
+    "sifra": "5000",
+    "title": "Nora I – Brown",
+    "colorLabel": "BRAON",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ],
+    "fetchedAt": "2026-05-18T12:49:56.629Z"
+  },
+  "muska-klompa-klasik-i-crna": {
+    "url": "https://leon.rs/p/muska-klompa-klasik-i-crna/",
+    "sifra": "PU100M",
+    "title": "Men's clog Klasik I – Black",
+    "colorLabel": "CRNA",
+    "sizes": [
+      "41",
+      "42",
+      "43",
+      "44",
+      "45",
+      "46",
+      "47"
+    ],
+    "fetchedAt": "2026-05-17T11:30:52.794Z"
+  },
+  "muska-klompa-klasik-i-bela": {
+    "url": "https://leon.rs/p/muska-klompa-klasik-i-bela/",
+    "sifra": "PU100M",
+    "title": "Men's clog Klasik I – White",
+    "colorLabel": "BELA",
+    "sizes": [
+      "41",
+      "42",
+      "43",
+      "44",
+      "45",
+      "46",
+      "47"
+    ],
+    "fetchedAt": "2026-05-17T11:30:52.931Z"
+  },
+  "model-6-crna": {
+    "url": "https://leon.rs/p/model-6-crna/",
+    "sifra": "936",
+    "title": "Model 6 – CRNA",
+    "colorLabel": "CRNA",
+    "fetchedAt": "2026-05-16T21:24:46.135Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "nia-siva": {
+    "url": "https://leon.rs/p/nia-siva/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-17T09:19:59.000Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "nia-braon": {
+    "url": "https://leon.rs/p/nia-braon/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-17T09:19:59.461Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "mia-roze-bakkar": {
+    "url": "https://leon.rs/p/mia-roze-bakkar/",
+    "sifra": "4019",
+    "title": "Mia – Pink patent",
+    "colorLabel": "ROZE BAKKAR",
+    "fetchedAt": "2026-05-18T22:02:30.583Z",
+    "sizes": [
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42"
+    ]
+  },
+  "mia-crna-bakkar": {
+    "url": "https://leon.rs/p/mia-crna-bakkar/",
+    "sifra": "4019",
+    "title": "Mia – Black patent",
+    "colorLabel": "CRNA BAKKAR",
+    "fetchedAt": "2026-05-18T22:02:30.660Z",
+    "sizes": [
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42"
+    ]
+  },
+  "mia-bela-bakkar": {
+    "url": "https://leon.rs/p/mia-bela-bakkar/",
+    "sifra": "4019",
+    "title": "Mia – White patent",
+    "colorLabel": "BELA BAKKAR",
+    "fetchedAt": "2026-05-18T22:02:30.737Z",
+    "sizes": [
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42"
+    ]
+  },
+  "mia-ii-orlando-braon": {
+    "url": "https://leon.rs/p/mia-ii-orlando-braon/",
+    "title": "Mia II – Orlando brown",
+    "colorLabel": "ORLANDO BRAON",
+    "fetchedAt": "2026-05-18T22:02:30.737Z",
+    "sizes": [
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42"
+    ],
+    "note": "leon.rs page may be offline; CDN images kept"
+  },
+  "mia-ii-orlando-crvena": {
+    "url": "https://leon.rs/p/mia-ii-orlando-crvena/",
+    "title": "Mia II – Orlando red",
+    "colorLabel": "ORLANDO CRVENA",
+    "fetchedAt": "2026-05-18T22:02:30.737Z",
+    "sizes": [
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42"
+    ],
+    "note": "leon.rs page may be offline; CDN images kept"
+  },
+  "mateo-zelena": {
+    "url": "https://leon.rs/p/mateo-zelena/",
+    "sifra": "4704M",
+    "title": "Mateo – ZELENA",
+    "colorLabel": "ZELENA",
+    "fetchedAt": "2026-05-16T21:24:46.135Z"
+  },
+  "mateo-siva": {
+    "url": "https://leon.rs/p/mateo-siva/",
+    "sifra": "4704M",
+    "title": "Mateo – SIVA",
+    "colorLabel": "SIVA",
+    "fetchedAt": "2026-05-16T21:24:46.135Z"
+  },
+  "mateo-braon": {
+    "url": "https://leon.rs/p/mateo-braon/",
+    "sifra": "4704M",
+    "title": "Mateo – BRAON",
+    "colorLabel": "BRAON",
+    "fetchedAt": "2026-05-16T21:24:46.135Z"
+  },
+  "lucia-crna": {
+    "url": "https://leon.rs/p/lucia-crna/",
+    "sifra": "904",
+    "title": "LUCIA- CRNA",
+    "colorLabel": null,
+    "fetchedAt": "2026-05-18T13:02:18.520Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "lucia-bela": {
+    "url": "https://leon.rs/p/lucia-bela/",
+    "sifra": "904",
+    "title": "LUCIA- BELA",
+    "colorLabel": null,
+    "fetchedAt": "2026-05-18T13:02:18.530Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "lucia-perla": {
+    "url": "https://leon.rs/p/lucia-perla/",
+    "sifra": "904",
+    "title": "LUCIA – PERLA",
+    "colorLabel": "PERLA",
+    "fetchedAt": "2026-05-18T13:02:18.631Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "liora-zelena": {
+    "url": "https://leon.rs/p/liora-zelena/",
+    "sifra": "4054",
+    "title": "Liora I – Green",
+    "colorLabel": "ZELENA",
+    "sizes": [
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42"
+    ],
+    "fetchedAt": "2026-05-18T21:15:43.983Z"
+  },
+  "liora-ii-zlatna": {
+    "url": "https://leon.rs/p/liora-ii-zlatna/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-17T09:20:00.873Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "liora-ii-crna": {
+    "url": "https://leon.rs/p/liora-ii-crna/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-17T09:20:01.433Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "liora-ii-bela": {
+    "url": "https://leon.rs/p/liora-ii-bela/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-17T09:20:01.906Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "liora-i-crna": {
+    "url": "https://leon.rs/p/liora-i-crna/",
+    "sifra": "4054",
+    "title": "Liora I – CRNA",
+    "colorLabel": "CRNA",
+    "fetchedAt": "2026-05-18T13:02:18.881Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "liora-i-bela": {
+    "url": "https://leon.rs/p/liora-i-bela/",
+    "sifra": "4054",
+    "title": "Liora I – BELA",
+    "colorLabel": "BELA",
+    "fetchedAt": "2026-05-18T13:02:18.901Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "leona-bakkar-teget-bakkar": {
+    "url": "https://leon.rs/p/leona-bakkar-teget-bakkar/",
+    "sifra": "970",
+    "title": "LEONA BAKKAR – TEGET BAKKAR",
+    "colorLabel": "TEGET BAKKAR",
+    "fetchedAt": "2026-05-18T13:02:24.096Z"
+  },
+  "leona-bakkar-roze-bakkar": {
+    "url": "https://leon.rs/p/leona-bakkar-roze-bakkar/",
+    "sifra": "970",
+    "title": "LEONA BAKKAR – ROZE BAKKAR",
+    "colorLabel": "ROZE BAKKAR",
+    "fetchedAt": "2026-05-18T13:02:24.167Z"
+  },
+  "leona-bakkar-bela-bakkar": {
+    "url": "https://leon.rs/p/leona-bakkar-bela-bakkar/",
+    "sifra": "970",
+    "title": "LEONA BAKKAR – BELA BAKKAR",
+    "colorLabel": "BELA BAKKAR",
+    "fetchedAt": "2026-05-18T13:02:24.313Z"
+  },
+  "leona-zelena-perlato": {
+    "url": "https://leon.rs/p/leona-zelena-perlato/",
+    "sifra": "950",
+    "title": "Leona – ZELENA PERLATO",
+    "colorLabel": "ZELENA PERLATO",
+    "fetchedAt": "2026-05-18T13:02:24.411Z"
+  },
+  "leona-teget": {
+    "url": "https://leon.rs/p/leona-teget/",
+    "sifra": "950",
+    "title": "Leona – TEGET",
+    "colorLabel": "TEGET",
+    "fetchedAt": "2026-05-18T13:02:24.461Z"
+  },
+  "leona-crna": {
+    "url": "https://leon.rs/p/leona-crna/",
+    "sifra": "950",
+    "title": "Leona – CRNA",
+    "colorLabel": "CRNA",
+    "fetchedAt": "2026-05-18T13:02:24.531Z"
+  },
+  "leona-bela": {
+    "url": "https://leon.rs/p/leona-bela/",
+    "sifra": "950",
+    "title": "Leona – BELA",
+    "colorLabel": "BELA",
+    "fetchedAt": "2026-05-18T13:02:24.699Z"
+  },
+  "laura-perla": {
+    "url": "https://leon.rs/p/laura-perla/",
+    "sifra": "906",
+    "title": "LAURA-PERLA",
+    "colorLabel": null,
+    "fetchedAt": "2026-05-18T13:02:18.990Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "laura-crna": {
+    "url": "https://leon.rs/p/laura-crna/",
+    "sifra": "906",
+    "title": "LAURA-CRNA",
+    "colorLabel": null,
+    "fetchedAt": "2026-05-18T13:02:19.155Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "laura-zlato-sjaj": {
+    "url": "https://leon.rs/p/laura-zlato-sjaj/",
+    "sifra": "906",
+    "title": "LAURA- ZLATO SJAJ",
+    "colorLabel": null,
+    "fetchedAt": "2026-05-18T13:02:19.247Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "laura-bela": {
+    "url": "https://leon.rs/p/laura-bela/",
+    "sifra": "906",
+    "title": "LAURA- BELA",
+    "colorLabel": null,
+    "fetchedAt": "2026-05-18T13:02:19.267Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "lara-teget": {
+    "url": "https://leon.rs/p/lara-teget/",
+    "sifra": "902",
+    "title": "LARA-TEGET",
+    "colorLabel": null,
+    "fetchedAt": "2026-05-16T21:24:46.135Z"
+  },
+  "lara-crna": {
+    "url": "https://leon.rs/p/lara-crna/",
+    "sifra": "902",
+    "title": "LARA- CRNA",
+    "colorLabel": null,
+    "fetchedAt": "2026-05-16T21:24:46.135Z"
+  },
+  "lara-braon": {
+    "url": "https://leon.rs/p/lara-braon/",
+    "sifra": "902",
+    "title": "LARA- BRAON",
+    "colorLabel": null,
+    "fetchedAt": "2026-05-16T21:24:46.135Z"
+  },
+  "lara-bela": {
+    "url": "https://leon.rs/p/lara-bela/",
+    "sifra": "902",
+    "title": "LARA- BELA",
+    "colorLabel": null,
+    "fetchedAt": "2026-05-16T21:24:46.135Z"
+  },
+  "lana-crvena": {
+    "url": "https://leon.rs/p/lana-crvena/",
+    "sifra": "900",
+    "title": "Lana- CRVENA",
+    "colorLabel": null,
+    "fetchedAt": "2026-05-16T21:24:46.135Z"
+  },
+  "lana-teget": {
+    "url": "https://leon.rs/p/lana-teget/",
+    "sifra": "900",
+    "title": "Lana – TEGET",
+    "colorLabel": "TEGET",
+    "fetchedAt": "2026-05-18T13:02:19.359Z"
+  },
+  "lana-perla": {
+    "url": "https://leon.rs/p/lana-perla/",
+    "sifra": "900",
+    "title": "Lana – PERLA",
+    "colorLabel": "PERLA",
+    "fetchedAt": "2026-05-18T13:02:19.508Z"
+  },
+  "lana-crna": {
+    "url": "https://leon.rs/p/lana-crna/",
+    "sifra": "900",
+    "title": "Lana – CRNA",
+    "colorLabel": "CRNA",
+    "fetchedAt": "2026-05-18T13:02:19.602Z"
+  },
+  "lana-bela": {
+    "url": "https://leon.rs/p/lana-bela/",
+    "sifra": "900",
+    "title": "Lana – BELA",
+    "colorLabel": "BELA",
+    "fetchedAt": "2026-05-18T13:02:19.618Z"
+  },
+  "kratos-siva-velur": {
+    "url": "https://leon.rs/p/kratos-siva-velur/",
+    "sifra": "4703M",
+    "title": "Kratos – SIVA VELUR",
+    "colorLabel": "SIVA VELUR",
+    "fetchedAt": "2026-05-16T21:24:46.135Z",
+    "sizes": [
+      "42",
+      "43",
+      "44",
+      "45",
+      "46",
+      "47",
+      "48",
+      "49"
+    ]
+  },
+  "kratos-crna": {
+    "url": "https://leon.rs/p/kratos-crna/",
+    "sifra": "4703M",
+    "title": "Kratos – CRNA",
+    "colorLabel": "CRNA",
+    "fetchedAt": "2026-05-16T21:24:46.135Z",
+    "sizes": [
+      "42",
+      "43",
+      "44",
+      "45",
+      "46",
+      "47",
+      "48",
+      "49"
+    ]
+  },
+  "kratos-braon-velur": {
+    "url": "https://leon.rs/p/kratos-braon-velur/",
+    "sifra": "4703M",
+    "title": "Kratos – BRAON VELUR",
+    "colorLabel": "BRAON VELUR",
+    "fetchedAt": "2026-05-16T21:24:46.135Z",
+    "sizes": [
+      "42",
+      "43",
+      "44",
+      "45",
+      "46",
+      "47",
+      "48",
+      "49"
+    ]
+  },
+  "lala-tbc": {
+    "url": "https://leon.rs/p/lala-tbc/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-17T09:20:02.373Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "lala-bela": {
+    "url": "https://leon.rs/p/lala-bela/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-17T09:20:02.841Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "kasper-crna": {
+    "url": "https://leon.rs/p/kasper-crna/",
+    "sifra": "700M",
+    "title": "Kasper – Black",
+    "colorLabel": "CRNA",
+    "sizes": [
+      "42",
+      "43",
+      "44",
+      "45",
+      "46",
+      "47",
+      "48"
+    ],
+    "fetchedAt": "2026-05-17T11:13:16.956Z"
+  },
+  "kasper-bela": {
+    "url": "https://leon.rs/p/kasper-bela/",
+    "sifra": "700M",
+    "title": "Kasper – White",
+    "colorLabel": "BELA",
+    "sizes": [
+      "42",
+      "43",
+      "44",
+      "45",
+      "46",
+      "47",
+      "48"
+    ],
+    "fetchedAt": "2026-05-17T11:13:17.131Z"
+  },
+  "hemera-braon": {
+    "url": "https://leon.rs/p/hemera-braon/",
+    "sifra": "7021",
+    "title": "Hemera – BRAON",
+    "colorLabel": "BRAON",
+    "fetchedAt": "2026-05-18T13:02:19.713Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "hemera-bela": {
+    "url": "https://leon.rs/p/hemera-bela/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-17T09:20:03.330Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "helga-puder-lak": {
+    "url": "https://leon.rs/p/helga-puder-lak/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-17T09:20:03.794Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "helen-zlato-zmija": {
+    "url": "https://leon.rs/p/helen-zlato-zmija/",
+    "sifra": "4300",
+    "title": "Helen – Gold snake",
+    "colorLabel": "ZLATO ZMIJA",
+    "fetchedAt": "2026-05-18T22:11:46.095Z",
+    "sizes": [
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42"
+    ]
+  },
+  "helga-crna-lak": {
+    "url": "https://leon.rs/p/helga-crna-lak/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-17T09:20:04.259Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "gaia-zelena": {
+    "url": "https://leon.rs/p/gaia-zelena/",
+    "sifra": "7020",
+    "title": "Gaia – ZELENA",
+    "colorLabel": "ZELENA",
+    "fetchedAt": "2026-05-18T13:02:20.072Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "helen-roze-zmija": {
+    "url": "https://leon.rs/p/helen-roze-zmija/",
+    "sifra": "4300",
+    "title": "Helen – Pink snake",
+    "colorLabel": "ROZE ZMIJA",
+    "fetchedAt": "2026-05-18T22:11:46.339Z",
+    "sizes": [
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42"
+    ],
+    "note": "leon.rs 404 — CDN galerija"
+  },
+  "gaia-braon": {
+    "url": "https://leon.rs/p/gaia-braon/",
+    "sifra": "7020",
+    "title": "Gaia – BRAON",
+    "colorLabel": "BRAON",
+    "fetchedAt": "2026-05-18T13:02:20.326Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "emili-iii-teget": {
+    "url": "https://leon.rs/p/emili-iii-teget/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-17T09:20:05.223Z"
+  },
+  "emili-i-perla": {
+    "url": "https://leon.rs/p/emili-i-perla/",
+    "sifra": "V260",
+    "title": "Emili I – Pearl",
+    "colorLabel": "PERLA",
+    "fetchedAt": "2026-05-17T11:45:32.397Z"
+  },
+  "emili-i-crna": {
+    "url": "https://leon.rs/p/emili-i-crna/",
+    "sifra": "V260",
+    "title": "Emili I – Black",
+    "colorLabel": "CRNA",
+    "fetchedAt": "2026-05-17T11:45:32.527Z"
+  },
+  "emili-iii-roze": {
+    "url": "https://leon.rs/p/emili-iii-roze/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-17T09:20:05.695Z"
+  },
+  "emili-iii-bela": {
+    "url": "https://leon.rs/p/emili-iii-bela/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-17T09:20:06.174Z"
+  },
+  "emili-i-bela": {
+    "url": "https://leon.rs/p/emili-i-bela/",
+    "sifra": "V260",
+    "title": "Emili I – White",
+    "colorLabel": "BELA",
+    "fetchedAt": "2026-05-17T11:45:32.652Z"
+  },
+  "elena-ii-crna": {
+    "url": "https://leon.rs/p/elena-ii-crna/",
+    "sifra": "V200",
+    "title": "Elena II – Black",
+    "colorLabel": "CRNA",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ],
+    "fetchedAt": "2026-05-17T11:52:31.921Z"
+  },
+  "elena-ii-bela": {
+    "url": "https://leon.rs/p/elena-ii-bela/",
+    "sifra": "V200",
+    "title": "Elena II – White",
+    "colorLabel": "BELA",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ],
+    "fetchedAt": "2026-05-17T11:52:32.117Z"
+  },
+  "edita-orlando-roza": {
+    "url": "https://leon.rs/p/edita-orlando-roza/",
+    "sifra": "4250",
+    "title": "Edita – Roze bakkar",
+    "colorLabel": "Roze bakkar",
+    "fetchedAt": "2026-05-16T21:24:46.135Z"
+  },
+  "edita-orlando-braon": {
+    "url": "https://leon.rs/p/edita-orlando-braon/",
+    "sifra": "4250",
+    "title": "Edita – Braon bakkar",
+    "colorLabel": "Braon bakkar",
+    "fetchedAt": "2026-05-16T21:24:46.135Z"
+  },
+  "edita-orlando-bez": {
+    "url": "https://leon.rs/p/edita-orlando-bez/",
+    "sifra": "4250",
+    "title": "Edita – Bež bakkar",
+    "colorLabel": "Bež bakkar",
+    "fetchedAt": "2026-05-16T21:24:46.135Z"
+  },
+  "edita-ii-zelena-perlato": {
+    "url": "https://leon.rs/p/edita-ii-zelena-perlato/",
+    "sifra": "4251",
+    "title": "EDITA II- ZELENA PERLATO",
+    "colorLabel": null,
+    "fetchedAt": "2026-05-18T13:02:20.402Z"
+  },
+  "edita-ii-sampanj": {
+    "url": "https://leon.rs/p/edita-ii-sampanj/",
+    "sifra": "4251",
+    "title": "EDITA II- SAMPANJ",
+    "colorLabel": null,
+    "fetchedAt": "2026-05-18T13:02:20.433Z"
+  },
+  "edita-ii-perla": {
+    "url": "https://leon.rs/p/edita-ii-perla/",
+    "sifra": "4251",
+    "title": "EDITA II- PERLA",
+    "colorLabel": null,
+    "fetchedAt": "2026-05-18T13:02:20.510Z"
+  },
+  "edita-crazy-siva": {
+    "url": "https://leon.rs/p/edita-crazy-siva/",
+    "sifra": "4250",
+    "title": "EDITA CRAZY – SIVA",
+    "colorLabel": "SIVA",
+    "fetchedAt": "2026-05-18T13:02:20.760Z"
+  },
+  "edita-ii-mint": {
+    "url": "https://leon.rs/p/edita-ii-mint/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-17T09:20:06.647Z"
+  },
+  "edita-crazy-roze": {
+    "url": "https://leon.rs/p/edita-crazy-roze/",
+    "sifra": "4250",
+    "title": "EDITA CRAZY – ROZE",
+    "colorLabel": "ROZE",
+    "fetchedAt": "2026-05-18T13:02:20.791Z"
+  },
+  "edita-crazy-maslinasto-zelena": {
+    "url": "https://leon.rs/p/edita-crazy-maslinasto-zelena/",
+    "sifra": "4250",
+    "title": "EDITA CRAZY – MASLINASTO ZELENA",
+    "colorLabel": "MASLINASTO ZELENA",
+    "fetchedAt": "2026-05-18T13:02:20.869Z"
+  },
+  "edita-crazy-crna": {
+    "url": "https://leon.rs/p/edita-crazy-crna/",
+    "sifra": "4250",
+    "title": "EDITA CRAZY – CRNA",
+    "colorLabel": "CRNA",
+    "fetchedAt": "2026-05-18T13:02:21.126Z"
+  },
+  "edita-crazy-braon-dark": {
+    "url": "https://leon.rs/p/edita-crazy-braon-dark/",
+    "sifra": "4250",
+    "title": "EDITA CRAZY – BRAON DARK",
+    "colorLabel": "BRAON DARK",
+    "fetchedAt": "2026-05-18T13:02:21.155Z"
+  },
+  "edita-crazy-bez": {
+    "url": "https://leon.rs/p/edita-crazy-bez/",
+    "sifra": "4250",
+    "title": "EDITA CRAZY – BEZ",
+    "colorLabel": "BEZ",
+    "fetchedAt": "2026-05-18T13:02:21.202Z"
+  },
+  "edita-zelena-perlato": {
+    "url": "https://leon.rs/p/edita-zelena-perlato/",
+    "sifra": "4250",
+    "title": "Edita – ZELENA PERLATO",
+    "colorLabel": "ZELENA PERLATO",
+    "fetchedAt": "2026-05-18T13:02:21.237Z"
+  },
+  "edita-teget": {
+    "url": "https://leon.rs/p/edita-teget/",
+    "sifra": "4250",
+    "title": "Edita – TEGET",
+    "colorLabel": "TEGET",
+    "fetchedAt": "2026-05-18T13:02:21.484Z"
+  },
+  "edita-sampanj": {
+    "url": "https://leon.rs/p/edita-sampanj/",
+    "sifra": "4250",
+    "title": "Edita – SAMPANJ",
+    "colorLabel": "SAMPANJ",
+    "fetchedAt": "2026-05-18T13:02:21.517Z"
+  },
+  "edita-perla": {
+    "url": "https://leon.rs/p/edita-perla/",
+    "sifra": "4250",
+    "title": "Edita – PERLA",
+    "colorLabel": "PERLA",
+    "fetchedAt": "2026-05-18T13:02:21.611Z"
+  },
+  "edita-mint": {
+    "url": "https://leon.rs/p/edita-mint/",
+    "sifra": "4250",
+    "title": "Edita – MINT",
+    "colorLabel": "MINT",
+    "fetchedAt": "2026-05-18T13:02:21.630Z"
+  },
+  "edita-crna": {
+    "url": "https://leon.rs/p/edita-crna/",
+    "sifra": "4250",
+    "title": "Edita – CRNA",
+    "colorLabel": "CRNA",
+    "fetchedAt": "2026-05-18T13:02:21.849Z"
+  },
+  "edita-bela": {
+    "url": "https://leon.rs/p/edita-bela/",
+    "sifra": "4250",
+    "title": "Edita – BELA",
+    "colorLabel": "BELA",
+    "fetchedAt": "2026-05-18T13:02:21.880Z"
+  },
+  "dubai-i-plava-orlando": {
+    "url": "https://leon.rs/p/dubai-i-plava-orlando/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-17T09:20:07.123Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "decija-patofna-ii-puprle": {
+    "url": "https://leon.rs/p/decija-patofna-ii-puprle/",
+    "sifra": "112",
+    "title": "DECIJA PATOFNA II – PUPRLE",
+    "colorLabel": "PUPRLE",
+    "fetchedAt": "2026-05-16T21:24:46.135Z"
+  },
+  "dubai-i-crna-orlando": {
+    "url": "https://leon.rs/p/dubai-i-crna-orlando/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-17T09:20:07.585Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "decija-patofna-i-pink": {
+    "url": "https://leon.rs/p/decija-patofna-i-pink/",
+    "sifra": "112",
+    "title": "DECIJA PATOFNA I – PINK",
+    "colorLabel": "PINK",
+    "fetchedAt": "2026-05-16T21:24:46.135Z"
+  },
+  "dubai-i-bordo-bakkar": {
+    "url": "https://leon.rs/p/dubai-i-bordo-bakkar/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-17T09:20:08.053Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "decija-patofna-i-fuxia-3": {
+    "url": "https://leon.rs/p/decija-patofna-i-fuxia-3/",
+    "sifra": "132",
+    "title": "DECIJA PATOFNA I – FUXIA 3",
+    "colorLabel": "FUXIA 3",
+    "fetchedAt": "2026-05-16T21:24:46.135Z"
+  },
+  "crazy-siva": {
+    "url": "https://leon.rs/p/crazy-siva/",
+    "sifra": "4724M",
+    "title": "CRAZY-SIVA",
+    "colorLabel": null,
+    "fetchedAt": "2026-05-16T21:24:46.135Z"
+  },
+  "crazy-braon-dark": {
+    "url": "https://leon.rs/p/crazy-braon-dark/",
+    "sifra": "4724M",
+    "title": "CRAZY-BRAON DARK",
+    "colorLabel": null,
+    "fetchedAt": "2026-05-16T21:24:46.135Z"
+  },
+  "crazy-crna": {
+    "url": "https://leon.rs/p/crazy-crna/",
+    "sifra": "4724M",
+    "title": "CRAZY- CRNA",
+    "colorLabel": null,
+    "fetchedAt": "2026-05-16T21:24:46.135Z"
+  },
+  "crazy-bez": {
+    "url": "https://leon.rs/p/crazy-bez/",
+    "sifra": "4724M",
+    "title": "CRAZY- BEZ",
+    "colorLabel": null,
+    "fetchedAt": "2026-05-16T21:24:46.135Z"
+  },
+  "cloud-white": {
+    "url": "https://leon.rs/p/cloud-white/",
+    "sifra": "01SEA",
+    "title": "CLOUD-WHITE",
+    "colorLabel": null,
+    "fetchedAt": "2026-05-16T21:24:46.135Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "cloud-oily": {
+    "url": "https://leon.rs/p/cloud-oily/",
+    "sifra": "04SEA",
+    "title": "CLOUD-OILY",
+    "colorLabel": null,
+    "fetchedAt": "2026-05-16T21:24:46.135Z"
+  },
+  "cloud-fuxia": {
+    "url": "https://leon.rs/p/cloud-fuxia/",
+    "sifra": "01SEA",
+    "title": "CLOUD-FUXIA",
+    "colorLabel": null,
+    "fetchedAt": "2026-05-16T21:24:46.135Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "cloud-blue-navy": {
+    "url": "https://leon.rs/p/cloud-blue-navy/",
+    "sifra": "04SEA",
+    "title": "CLOUD-BLUE NAVY",
+    "colorLabel": null,
+    "fetchedAt": "2026-05-16T21:24:46.135Z"
+  },
+  "cloud-black-2": {
+    "url": "https://leon.rs/p/cloud-black-2/",
+    "sifra": "04SEA",
+    "title": "CLOUD-BLACK",
+    "colorLabel": null,
+    "fetchedAt": "2026-05-16T21:24:46.135Z"
+  },
+  "cloud-salmon": {
+    "url": "https://leon.rs/p/cloud-salmon/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-17T09:20:08.516Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "cloud-baby-blue": {
+    "url": "https://leon.rs/p/cloud-baby-blue/",
+    "sifra": "01SEA",
+    "title": "CLOUD-BABY BLUE",
+    "colorLabel": null,
+    "fetchedAt": "2026-05-16T21:24:46.135Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "cloud-yellow": {
+    "url": "https://leon.rs/p/cloud-yellow/",
+    "sifra": "01SEA",
+    "title": "CLOUD- YELLOW",
+    "colorLabel": null,
+    "fetchedAt": "2026-05-16T21:24:46.135Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "cloud-black": {
+    "url": "https://leon.rs/p/cloud-black/",
+    "sifra": "01SEA",
+    "title": "CLOUD- BLACK",
+    "colorLabel": null,
+    "fetchedAt": "2026-05-16T21:24:46.135Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "beti-bez": {
+    "url": "https://leon.rs/p/beti-bez/",
+    "sifra": "935",
+    "title": "BETI- BEZ",
+    "colorLabel": null,
+    "fetchedAt": "2026-05-18T13:02:21.978Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "bella-led-orlando": {
+    "url": "https://leon.rs/p/bella-led-orlando/",
+    "sifra": "966",
+    "title": "BELLA – LED ORLANDO",
+    "colorLabel": "LED ORLANDO",
+    "fetchedAt": "2026-05-18T13:02:22.000Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "bella-crna-orlando": {
+    "url": "https://leon.rs/p/bella-crna-orlando/",
+    "sifra": "966",
+    "title": "BELLA – CRNA ORLANDO",
+    "colorLabel": "CRNA ORLANDO",
+    "fetchedAt": "2026-05-18T13:02:22.222Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "bakkar-ii-crna": {
+    "url": "https://leon.rs/p/bakkar-ii-crna/",
+    "sifra": "1024",
+    "title": "BAKKAR II – CRNA",
+    "colorLabel": "CRNA",
+    "fetchedAt": "2026-05-18T13:02:22.343Z"
+  },
+  "bakkar-ii-roze": {
+    "url": "https://leon.rs/p/bakkar-ii-roze/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-17T09:20:08.980Z"
+  },
+  "bakkar-ii-bela": {
+    "url": "https://leon.rs/p/bakkar-ii-bela/",
+    "sifra": "1024",
+    "title": "BAKKAR II – BELA",
+    "colorLabel": "BELA",
+    "fetchedAt": "2026-05-18T13:02:22.356Z"
+  },
+  "aurora-v-bordo-bakkar": {
+    "url": "https://leon.rs/p/aurora-v-bordo-bakkar/",
+    "sifra": "2024",
+    "title": "AURORA V- BORDO BAKKAR",
+    "colorLabel": null,
+    "fetchedAt": "2026-05-18T13:02:22.607Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "aurora-v-led-orladno": {
+    "url": "https://leon.rs/p/aurora-v-led-orladno/",
+    "sifra": "2024",
+    "title": "AURORA V – LED ORLADNO",
+    "colorLabel": "LED ORLADNO",
+    "fetchedAt": "2026-05-18T13:02:22.704Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "aurora-iv-sampanj": {
+    "url": "https://leon.rs/p/aurora-iv-sampanj/",
+    "sifra": "2022",
+    "title": "Aurora IV – Champagne",
+    "colorLabel": "SAMPANJ",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ],
+    "fetchedAt": "2026-05-17T12:02:56.937Z"
+  },
+  "aurora-iv-perla": {
+    "url": "https://leon.rs/p/aurora-iv-perla/",
+    "sifra": "2022",
+    "title": "Aurora IV – Pearl",
+    "colorLabel": "PERLA",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ],
+    "fetchedAt": "2026-05-17T12:02:57.309Z"
+  },
+  "aurora-i-crna": {
+    "url": "https://leon.rs/p/aurora-i-crna/",
+    "sifra": "2019",
+    "title": "Aurora I – CRNA",
+    "colorLabel": "CRNA",
+    "fetchedAt": "2026-05-18T09:45:58.936Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "aurora-i-braon": {
+    "url": "https://leon.rs/p/aurora-i-braon/",
+    "sifra": "2019",
+    "title": "Aurora I – BRAON",
+    "colorLabel": "BRAON",
+    "fetchedAt": "2026-05-18T09:45:58.941Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "aurora-i-bela": {
+    "url": "https://leon.rs/p/aurora-i-bela/",
+    "sifra": "2019",
+    "title": "Aurora I – BELA",
+    "colorLabel": "BELA",
+    "fetchedAt": "2026-05-18T09:45:58.941Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "atalanta-zlato-zmija": {
+    "url": "https://leon.rs/p/atalanta-zlato-zmija/",
+    "sifra": "4000",
+    "title": "ATALANTA- ZLATO ZMIJA",
+    "colorLabel": null,
+    "fetchedAt": "2026-05-18T13:02:22.722Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "atalanta-bela-zmija": {
+    "url": "https://leon.rs/p/atalanta-bela-zmija/",
+    "sifra": "4000",
+    "title": "ATALANTA- BELA ZMIJA",
+    "colorLabel": null,
+    "fetchedAt": "2026-05-18T13:02:22.981Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "atalanta-roze-zmija": {
+    "url": "https://leon.rs/p/atalanta-roze-zmija/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-17T09:20:09.641Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "atalanta-zlato-rust": {
+    "url": "https://leon.rs/p/atalanta-zlato-rust/",
+    "sifra": "4000",
+    "title": "ATALANTA – ZLATO RUST",
+    "colorLabel": "ZLATO RUST",
+    "fetchedAt": "2026-05-18T13:02:23.062Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "arthur-i-crna": {
+    "url": "https://leon.rs/p/arthur-i-crna/",
+    "sifra": "V200M",
+    "title": "Arthur I – Black",
+    "colorLabel": "CRNA",
+    "sizes": [
+      "41",
+      "42",
+      "43",
+      "44",
+      "45",
+      "46"
+    ],
+    "fetchedAt": "2026-05-17T11:24:28.984Z"
+  },
+  "arthur-i-bela": {
+    "url": "https://leon.rs/p/arthur-i-bela/",
+    "sifra": "V200M",
+    "title": "Arthur I – White",
+    "colorLabel": "BELA",
+    "sizes": [
+      "41",
+      "42",
+      "43",
+      "44",
+      "45",
+      "46"
+    ],
+    "fetchedAt": "2026-05-17T11:24:29.126Z"
+  },
+  "aria-i-crna": {
+    "url": "https://leon.rs/p/aria-i-crna/",
+    "sifra": "912",
+    "title": "Aria I – CRNA",
+    "colorLabel": "CRNA",
+    "fetchedAt": "2026-05-18T13:02:23.077Z"
+  },
+  "aria-i-bela": {
+    "url": "https://leon.rs/p/aria-i-bela/",
+    "sifra": "912",
+    "title": "Aria I – BELA",
+    "colorLabel": "BELA",
+    "fetchedAt": "2026-05-18T13:02:23.295Z"
+  },
+  "anna-velur-siva": {
+    "url": "https://leon.rs/p/anna-velur-siva/",
+    "sifra": "4010",
+    "title": "Anna Velur – SIVA",
+    "colorLabel": "SIVA",
+    "fetchedAt": "2026-05-18T13:02:24.781Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "aria-i-braon": {
+    "url": "https://leon.rs/p/aria-i-braon/",
+    "sifra": "912",
+    "title": "Aria I – BRAON",
+    "colorLabel": "BRAON",
+    "fetchedAt": "2026-05-18T13:02:23.346Z"
+  },
+  "anna-velur-braon": {
+    "url": "https://leon.rs/p/anna-velur-braon/",
+    "sifra": "4010",
+    "title": "Anna Velur – BRAON",
+    "colorLabel": "BRAON",
+    "fetchedAt": "2026-05-18T13:02:24.829Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "anna-velur-bez": {
+    "url": "https://leon.rs/p/anna-velur-bez/",
+    "sifra": "4010",
+    "title": "Anna Velur – BEZ",
+    "colorLabel": "BEZ",
+    "fetchedAt": "2026-05-18T13:02:24.890Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "anna-roze-velur": {
+    "url": "https://leon.rs/p/anna-roze-velur/",
+    "sifra": "4010",
+    "title": "Anna – ROZE VELUR",
+    "colorLabel": "ROZE VELUR",
+    "fetchedAt": "2026-05-18T13:02:25.062Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "anna-crna-bakkar": {
+    "url": "https://leon.rs/p/anna-crna-bakkar/",
+    "sifra": "4010",
+    "title": "Anna – CRNA BAKKAR",
+    "colorLabel": "CRNA BAKKAR",
+    "fetchedAt": "2026-05-18T13:02:25.164Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "anastasia-zlato-zmija": {
+    "url": "https://leon.rs/p/anastasia-zlato-zmija/",
+    "sifra": "4011",
+    "fetchedAt": "2026-05-18T21:33:27.422Z"
+  },
+  "anna-zuta-velur": {
+    "url": "https://leon.rs/p/anna-zuta-velur/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-17T09:20:10.114Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "amara-zlatna": {
+    "url": "https://leon.rs/p/amara-zlatna/",
+    "sifra": "1110",
+    "title": "Amara – ZLATNA",
+    "colorLabel": "ZLATNA",
+    "fetchedAt": "2026-05-16T21:24:46.136Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "amara-braon": {
+    "url": "https://leon.rs/p/amara-braon/",
+    "sifra": "1110",
+    "title": "Amara – BRAON",
+    "colorLabel": "BRAON",
+    "fetchedAt": "2026-05-16T21:24:46.136Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "africa-braon-orlando": {
+    "url": "https://leon.rs/p/africa-braon-orlando/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-17T09:20:10.586Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "adriana-roze-zmija": {
+    "url": "https://leon.rs/p/adriana-roze-zmija/",
+    "sifra": "4201",
+    "title": "ADRIANA – ROZE ZMIJA",
+    "colorLabel": "ROZE ZMIJA",
+    "fetchedAt": "2026-05-18T13:02:23.660Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "adriana-zlato-zmija-2": {
+    "url": "https://leon.rs/p/adriana-zlato-zmija-2/",
+    "sifra": "4201",
+    "title": "ADRIANA – ZLATO ZMIJA",
+    "colorLabel": "ZLATO ZMIJA",
+    "fetchedAt": "2026-05-18T13:02:23.725Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "africa-bordo-bakkar": {
+    "url": "https://leon.rs/p/africa-bordo-bakkar/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-17T09:20:11.049Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "elena-i-crna": {
+    "url": "https://leon.rs/p/elena-i-crna/",
+    "sifra": "V202",
+    "title": "Elena I – Black",
+    "colorLabel": "CRNA",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ],
+    "fetchedAt": "2026-05-17T11:49:12.005Z"
+  },
+  "elena-i-bela": {
+    "url": "https://leon.rs/p/elena-i-bela/",
+    "sifra": "V202",
+    "title": "Elena I – White",
+    "colorLabel": "BELA",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ],
+    "fetchedAt": "2026-05-17T11:49:12.146Z"
+  },
+  "leona-crvena": {
+    "url": "https://leon.rs/p/leona-crvena/",
+    "sifra": "950",
+    "title": "Leona – CRVENA",
+    "colorLabel": "CRVENA",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "zenska-klompa-klasik-i-bela": {
+    "url": "https://leon.rs/p/zenska-klompa-klasik-i-bela/",
+    "sifra": "PU100",
+    "title": "Women's clog Klasik I – White",
+    "colorLabel": "BELA",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42"
+    ],
+    "fetchedAt": "2026-05-17T11:34:31.196Z"
+  },
+  "zenska-klompa-klasik-i-perla": {
+    "url": "https://leon.rs/p/zenska-klompa-klasik-i-perla/",
+    "sifra": "PU100",
+    "title": "Women's clog Klasik I – Pearl",
+    "colorLabel": "PERLA",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42"
+    ],
+    "fetchedAt": "2026-05-17T11:34:31.352Z"
+  },
+  "zenska-klompa-klasik-i-crna": {
+    "url": "https://leon.rs/p/zenska-klompa-klasik-i-crna/",
+    "sifra": "PU100",
+    "title": "Women's clog Klasik I – Black",
+    "colorLabel": "CRNA",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42"
+    ],
+    "fetchedAt": "2026-05-17T11:34:31.496Z"
+  },
+  "anna-braon": {
+    "url": "https://leon.rs/p/anna-braon/",
+    "sifra": "4010",
+    "title": "Anna -BRAON",
+    "colorLabel": null,
+    "fetchedAt": "2026-05-16T21:24:46.136Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "zenska-klompa-3300-crna": {
+    "url": "https://leon.rs/p/zenska-klompa-3300-crna/",
+    "sifra": "3300",
+    "title": "Women's clog 3300 – Black",
+    "colorLabel": "CRNA",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ],
+    "fetchedAt": "2026-05-17T11:39:28.145Z"
+  },
+  "zenska-klompa-3300-perla": {
+    "url": "https://leon.rs/p/zenska-klompa-3300-perla/",
+    "sifra": "3300",
+    "title": "Women's clog 3300 – Pearl",
+    "colorLabel": "PERLA",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ],
+    "fetchedAt": "2026-05-17T11:39:28.313Z"
+  },
+  "zenska-klompa-3300-bela": {
+    "url": "https://leon.rs/p/zenska-klompa-3300-bela/",
+    "sifra": "3300",
+    "title": "Women's clog 3300 – White",
+    "colorLabel": "BELA",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ],
+    "fetchedAt": "2026-05-17T11:39:28.452Z"
+  },
+  "zenska-klompa-5002-bela": {
+    "url": "https://leon.rs/p/zenska-klompa-5002-bela/",
+    "sifra": "5002",
+    "title": "ŽENSKA KLOMPA 5002-BELA",
+    "colorLabel": null,
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "ruby-crna": {
+    "url": "https://leon.rs/p/ruby-crna/",
+    "sifra": "953",
+    "title": "Ruby – Black",
+    "colorLabel": "CRNA",
+    "sizes": [
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42"
+    ],
+    "fetchedAt": "2026-05-18T13:59:48.847Z"
+  },
+  "zenska-klompa-5002-perla": {
+    "url": "https://leon.rs/p/zenska-klompa-5002-perla/",
+    "sifra": "5002",
+    "title": "ŽENSKA KLOMPA 5002- PERLA",
+    "colorLabel": null,
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "zenska-klompa-5002-crna": {
+    "url": "https://leon.rs/p/zenska-klompa-5002-crna/",
+    "sifra": "5002",
+    "title": "ŽENSKA KLOMPA 5002- CRNA",
+    "colorLabel": null,
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "ruby-bela": {
+    "url": "https://leon.rs/p/ruby-bela/",
+    "sifra": "953",
+    "title": "Ruby – White",
+    "colorLabel": "BELA",
+    "sizes": [
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42"
+    ],
+    "fetchedAt": "2026-05-18T13:59:48.923Z"
+  },
+  "zenska-klompa-2023-crna": {
+    "url": "https://leon.rs/p/zenska-klompa-2023-crna/",
+    "sifra": "2023",
+    "title": "ŽENSKA KLOMPA 2023-CRNA",
+    "colorLabel": null,
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "zenska-klompa-2023-perla": {
+    "url": "https://leon.rs/p/zenska-klompa-2023-perla/",
+    "sifra": "2023",
+    "title": "ŽENSKA KLOMPA 2023-PERLA",
+    "colorLabel": null,
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "zenska-klompa-2023-bela": {
+    "url": "https://leon.rs/p/zenska-klompa-2023-bela/",
+    "sifra": "2023",
+    "title": "ŽENSKA KLOMPA 2023- BELA",
+    "colorLabel": null,
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "vigo-crna": {
+    "url": "https://leon.rs/p/vigo-crna/",
+    "sifra": "V202M",
+    "title": "Vigo – Black",
+    "colorLabel": "CRNA",
+    "sizes": [
+      "41",
+      "42",
+      "43",
+      "44",
+      "45",
+      "46"
+    ],
+    "fetchedAt": "2026-05-17T11:26:53.487Z"
+  },
+  "vigo-bela": {
+    "url": "https://leon.rs/p/vigo-bela/",
+    "sifra": "V202M",
+    "title": "Vigo – White",
+    "colorLabel": "BELA",
+    "sizes": [
+      "41",
+      "42",
+      "43",
+      "44",
+      "45",
+      "46"
+    ],
+    "fetchedAt": "2026-05-17T11:26:53.637Z"
+  },
+  "thomas-crna": {
+    "url": "https://leon.rs/p/thomas-crna/",
+    "sifra": "V230M",
+    "title": "Thomas – Black",
+    "colorLabel": "CRNA",
+    "sizes": [
+      "41",
+      "42",
+      "43",
+      "44",
+      "45",
+      "46"
+    ],
+    "fetchedAt": "2026-05-17T11:15:54.063Z"
+  },
+  "thomas-bela": {
+    "url": "https://leon.rs/p/thomas-bela/",
+    "sifra": "V230M",
+    "title": "Thomas – White",
+    "colorLabel": "BELA",
+    "sizes": [
+      "41",
+      "42",
+      "43",
+      "44",
+      "45",
+      "46"
+    ],
+    "fetchedAt": "2026-05-17T11:15:54.209Z"
+  },
+  "oskar-teget": {
+    "url": "https://leon.rs/p/oskar-teget/",
+    "sifra": "707M",
+    "title": "Oskar – Charcoal",
+    "colorLabel": "TEGET",
+    "sizes": [
+      "41",
+      "42",
+      "43",
+      "44",
+      "45",
+      "46",
+      "47",
+      "48"
+    ],
+    "fetchedAt": "2026-05-17T11:22:07.180Z"
+  },
+  "oskar-crna": {
+    "url": "https://leon.rs/p/oskar-crna/",
+    "sifra": "707M",
+    "title": "Oskar – Black",
+    "colorLabel": "CRNA",
+    "sizes": [
+      "41",
+      "42",
+      "43",
+      "44",
+      "45",
+      "46",
+      "47",
+      "48"
+    ],
+    "fetchedAt": "2026-05-17T11:22:07.344Z"
+  },
+  "oskar-braon": {
+    "url": "https://leon.rs/p/oskar-braon/",
+    "sifra": "707M",
+    "title": "Oskar – Brown",
+    "colorLabel": "BRAON",
+    "sizes": [
+      "41",
+      "42",
+      "43",
+      "44",
+      "45",
+      "46",
+      "47",
+      "48"
+    ],
+    "fetchedAt": "2026-05-17T11:22:07.515Z"
+  },
+  "bjorn-crazy-maslinasto-zelena": {
+    "url": "https://leon.rs/p/bjorn-crazy-maslinasto-zelena/",
+    "sifra": "4700",
+    "title": "Bjorn Crazy – Olive Green",
+    "colorLabel": "Maslinasto zelena",
+    "sizes": [
+      "42",
+      "43",
+      "44",
+      "45",
+      "46",
+      "47",
+      "48",
+      "49"
+    ],
+    "fetchedAt": "2026-05-17T11:00:25.175Z"
+  },
+  "bjorn-crazy-siva": {
+    "url": "https://leon.rs/p/bjorn-crazy-siva/",
+    "sifra": "4700",
+    "title": "Bjorn Crazy – Grey",
+    "colorLabel": "Siva",
+    "sizes": [
+      "42",
+      "43",
+      "44",
+      "45",
+      "46",
+      "47",
+      "48",
+      "49"
+    ],
+    "fetchedAt": "2026-05-17T11:00:25.382Z"
+  },
+  "bjorn-teget": {
+    "url": "https://leon.rs/p/bjorn-teget/",
+    "sifra": "4700M",
+    "title": "Bjorn – TEGET",
+    "colorLabel": "TEGET",
+    "fetchedAt": "2026-05-16T21:24:46.136Z",
+    "sizes": [
+      "42",
+      "43",
+      "44",
+      "45",
+      "46",
+      "47",
+      "48",
+      "49"
+    ]
+  },
+  "bjorn-crna": {
+    "url": "https://leon.rs/p/bjorn-crna/",
+    "sifra": "4700M",
+    "title": "Bjorn – CRNA",
+    "colorLabel": "CRNA",
+    "fetchedAt": "2026-05-16T21:24:46.136Z",
+    "sizes": [
+      "42",
+      "43",
+      "44",
+      "45",
+      "46",
+      "47",
+      "48",
+      "49"
+    ]
+  },
+  "bjorn-bela": {
+    "url": "https://leon.rs/p/bjorn-bela/",
+    "sifra": "4700M",
+    "title": "Bjorn – BELA",
+    "colorLabel": "BELA",
+    "fetchedAt": "2026-05-16T21:24:46.136Z",
+    "sizes": [
+      "42",
+      "43",
+      "44",
+      "45",
+      "46",
+      "47",
+      "48",
+      "49"
+    ]
+  },
+  "kucna-papuca-051-crna": {
+    "url": "https://leon.rs/p/kucna-papuca-051-crna/",
+    "sifra": "051",
+    "title": "KUĆNA PAPUČA 051- CRNA",
+    "colorLabel": null,
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "kucna-papuca-051-teget": {
+    "url": "https://leon.rs/p/kucna-papuca-051-teget/",
+    "sifra": "051",
+    "title": "KUĆNA PAPUČA 051- TEGET",
+    "colorLabel": null,
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "kucna-papuca-051-siva": {
+    "url": "https://leon.rs/p/kucna-papuca-051-siva/",
+    "sifra": "051",
+    "title": "KUĆNA PAPUČA 051- SIVA",
+    "colorLabel": null,
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "kucna-papuca-051-braon": {
+    "url": "https://leon.rs/p/kucna-papuca-051-braon/",
+    "sifra": "051",
+    "title": "KUĆNA PAPUČA 051- BRAON",
+    "colorLabel": null,
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "nira-bela": {
+    "url": "https://leon.rs/p/nira-bela/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-17T09:20:11.517Z"
+  },
+  "anchor-crna": {
+    "url": "https://leon.rs/p/anchor-crna/",
+    "sifra": "6016",
+    "title": "Anchor – Crna",
+    "colorLabel": "Crna",
+    "fetchedAt": "2026-05-16T21:24:46.136Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "nira-crna": {
+    "url": "https://leon.rs/p/nira-crna/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-17T09:20:11.979Z"
+  },
+  "anchor-braon": {
+    "url": "https://leon.rs/p/anchor-braon/",
+    "sifra": "6016",
+    "title": "Anchor – Braon",
+    "colorLabel": "Braon",
+    "fetchedAt": "2026-05-16T21:24:46.136Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "anchor-zelena": {
+    "url": "https://leon.rs/p/anchor-zelena/",
+    "sifra": "6016",
+    "title": "Anchor – Zelena",
+    "colorLabel": "Zelena",
+    "fetchedAt": "2026-05-16T21:24:46.136Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "anchor-mink": {
+    "url": "https://leon.rs/p/anchor-mink/",
+    "sifra": "6016",
+    "title": "Anchor – Mink",
+    "colorLabel": "Mink",
+    "fetchedAt": "2026-05-16T21:24:46.136Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "strata-crna": {
+    "url": "https://leon.rs/p/strata-crna/",
+    "sifra": "6017",
+    "title": "Strata – Crna",
+    "colorLabel": "Crna",
+    "fetchedAt": "2026-05-16T21:24:46.136Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "strata-bez": {
+    "url": "https://leon.rs/p/strata-bez/",
+    "sifra": "6017",
+    "title": "Strata – Bež",
+    "colorLabel": "Bež",
+    "fetchedAt": "2026-05-16T21:24:46.136Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "axis-zlatna": {
+    "url": "https://leon.rs/p/axis-zlatna/",
+    "sifra": "7032",
+    "title": "Axis – Zlatna",
+    "colorLabel": "Zlatna",
+    "fetchedAt": "2026-05-16T21:24:46.136Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "axis-led": {
+    "url": "https://leon.rs/p/axis-led/",
+    "sifra": "7032",
+    "title": "Axis – Led",
+    "colorLabel": "Led",
+    "fetchedAt": "2026-05-16T21:24:46.136Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "axis-bez": {
+    "url": "https://leon.rs/p/axis-bez/",
+    "sifra": "7032",
+    "title": "Axis – Bež",
+    "colorLabel": "Bež",
+    "fetchedAt": "2026-05-16T21:24:46.136Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "axis-crna": {
+    "url": "https://leon.rs/p/axis-crna/",
+    "sifra": "7032",
+    "title": "Axis – Crna",
+    "colorLabel": "Crna",
+    "fetchedAt": "2026-05-16T21:24:46.136Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "halo-zelena": {
+    "url": "https://leon.rs/p/halo-zelena/",
+    "sifra": "7012",
+    "title": "Halo – Zelena",
+    "colorLabel": "Zelena",
+    "fetchedAt": "2026-05-16T21:24:46.136Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "halo-zlatna": {
+    "url": "https://leon.rs/p/halo-zlatna/",
+    "sifra": "7012",
+    "title": "Halo – Zlatna",
+    "colorLabel": "Zlatna",
+    "fetchedAt": "2026-05-16T21:24:46.136Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "halo-braon": {
+    "url": "https://leon.rs/p/halo-braon/",
+    "sifra": "7012",
+    "title": "Halo – Braon",
+    "colorLabel": "Braon",
+    "fetchedAt": "2026-05-16T21:24:46.136Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "avera-crna": {
+    "url": "https://leon.rs/p/avera-crna/",
+    "sifra": "7022",
+    "title": "Avera – Crna",
+    "colorLabel": "Crna",
+    "fetchedAt": "2026-05-16T21:24:46.136Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "avera-bez": {
+    "url": "https://leon.rs/p/avera-bez/",
+    "sifra": "7022",
+    "title": "Avera – Bež",
+    "colorLabel": "Bež",
+    "fetchedAt": "2026-05-16T21:24:46.136Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "plain-bez": {
+    "url": "https://leon.rs/p/plain-bez/",
+    "sifra": "7031",
+    "title": "Plain – Bež",
+    "colorLabel": "Bež",
+    "fetchedAt": "2026-05-16T21:24:46.136Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "plain-crna": {
+    "url": "https://leon.rs/p/plain-crna/",
+    "sifra": "7031",
+    "title": "Plain – Crna",
+    "colorLabel": "Crna",
+    "fetchedAt": "2026-05-16T21:24:46.136Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "edge-braon": {
+    "url": "https://leon.rs/p/edge-braon/",
+    "sifra": "4016",
+    "title": "Edge – Braon",
+    "colorLabel": "Braon",
+    "fetchedAt": "2026-05-16T21:24:46.136Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "edge-siva": {
+    "url": "https://leon.rs/p/edge-siva/",
+    "sifra": "4016",
+    "title": "Edge – Siva",
+    "colorLabel": "Siva",
+    "fetchedAt": "2026-05-16T21:24:46.136Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "edge-crna": {
+    "url": "https://leon.rs/p/edge-crna/",
+    "sifra": "4016",
+    "title": "Edge – Crna",
+    "colorLabel": "Crna",
+    "fetchedAt": "2026-05-16T21:24:46.136Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "edge-bordo": {
+    "url": "https://leon.rs/p/edge-bordo/",
+    "sifra": "4016",
+    "title": "Edge – Bordo",
+    "colorLabel": "Bordo",
+    "fetchedAt": "2026-05-16T21:24:46.136Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "orbita-siva": {
+    "url": "https://leon.rs/p/orbita-siva/",
+    "sifra": "4015",
+    "title": "Orbita – Siva",
+    "colorLabel": "Siva",
+    "fetchedAt": "2026-05-16T21:24:46.136Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "orbita-bordo": {
+    "url": "https://leon.rs/p/orbita-bordo/",
+    "sifra": "4015",
+    "title": "Orbita – Bordo",
+    "colorLabel": "Bordo",
+    "fetchedAt": "2026-05-16T21:24:46.136Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "orbita-braon": {
+    "url": "https://leon.rs/p/orbita-braon/",
+    "sifra": "4015",
+    "title": "Orbita – Braon",
+    "colorLabel": "Braon",
+    "fetchedAt": "2026-05-16T21:24:46.136Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "orbita-zelena": {
+    "url": "https://leon.rs/p/orbita-zelena/",
+    "sifra": "4015",
+    "title": "Orbita – Zelena",
+    "colorLabel": "Zelena",
+    "fetchedAt": "2026-05-16T21:24:46.136Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "orbita-tamno-braon": {
+    "url": "https://leon.rs/p/orbita-tamno-braon/",
+    "sifra": "4015",
+    "title": "Orbita – Tamno braon",
+    "colorLabel": "Tamno braon",
+    "fetchedAt": "2026-05-16T21:24:46.136Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "aura-roze": {
+    "url": "https://leon.rs/p/aura-roze/",
+    "sifra": "4014",
+    "title": "Aura – Roze",
+    "colorLabel": "Roze",
+    "fetchedAt": "2026-05-16T21:24:46.136Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "orbita-crna": {
+    "url": "https://leon.rs/p/orbita-crna/",
+    "sifra": "4015",
+    "title": "Orbita – Crna",
+    "colorLabel": "Crna",
+    "fetchedAt": "2026-05-16T21:24:46.136Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "aura-zelena": {
+    "url": "https://leon.rs/p/aura-zelena/",
+    "sifra": "4014",
+    "title": "Aura – Zelena",
+    "colorLabel": "Zelena",
+    "fetchedAt": "2026-05-16T21:24:46.136Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "linea-bez": {
+    "url": "https://leon.rs/p/linea-bez/",
+    "sifra": "8001",
+    "title": "Linea – Bež",
+    "colorLabel": "Bež",
+    "fetchedAt": "2026-05-16T21:24:46.136Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "linea-zlatna": {
+    "url": "https://leon.rs/p/linea-zlatna/",
+    "sifra": "8001",
+    "title": "Linea – Zlatna",
+    "colorLabel": "Zlatna",
+    "fetchedAt": "2026-05-16T21:24:46.136Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "motio-led": {
+    "url": "https://leon.rs/p/motio-led/",
+    "sifra": "511",
+    "title": "Motio – Led",
+    "colorLabel": "Led",
+    "fetchedAt": "2026-05-16T21:24:46.136Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "motio-zelena": {
+    "url": "https://leon.rs/p/motio-zelena/",
+    "sifra": "511",
+    "title": "Motio – Zelena",
+    "colorLabel": "Zelena",
+    "fetchedAt": "2026-05-16T21:24:46.136Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "motio-crna": {
+    "url": "https://leon.rs/p/motio-crna/",
+    "sifra": "511",
+    "title": "Motio – Crna",
+    "colorLabel": "Crna",
+    "fetchedAt": "2026-05-16T21:24:46.136Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "motio-bez": {
+    "url": "https://leon.rs/p/motio-bez/",
+    "sifra": "511",
+    "title": "Motio – Bež",
+    "colorLabel": "Bež",
+    "fetchedAt": "2026-05-16T21:24:46.136Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "moveo-led": {
+    "url": "https://leon.rs/p/moveo-led/",
+    "sifra": "520",
+    "title": "Moveo – Led",
+    "colorLabel": "Led",
+    "fetchedAt": "2026-05-16T21:24:46.136Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "moveo-crna": {
+    "url": "https://leon.rs/p/moveo-crna/",
+    "sifra": "520",
+    "title": "Moveo – Crna",
+    "colorLabel": "Crna",
+    "fetchedAt": "2026-05-16T21:24:46.136Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "moveo-bez": {
+    "url": "https://leon.rs/p/moveo-bez/",
+    "sifra": "520",
+    "title": "Moveo – Bež",
+    "colorLabel": "Bež",
+    "fetchedAt": "2026-05-16T21:24:46.136Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "moss-siva": {
+    "url": "https://leon.rs/p/moss-siva/",
+    "sifra": "917",
+    "title": "Moss – Siva",
+    "colorLabel": "Siva",
+    "fetchedAt": "2026-05-16T21:24:46.136Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "moss-zelena": {
+    "url": "https://leon.rs/p/moss-zelena/",
+    "sifra": "917",
+    "title": "Moss – Zelena",
+    "colorLabel": "Zelena",
+    "fetchedAt": "2026-05-16T21:24:46.136Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "moss-braon": {
+    "url": "https://leon.rs/p/moss-braon/",
+    "sifra": "917",
+    "title": "Moss – Braon",
+    "colorLabel": "Braon",
+    "fetchedAt": "2026-05-16T21:24:46.136Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "moss-crna": {
+    "url": "https://leon.rs/p/moss-crna/",
+    "sifra": "917",
+    "title": "Moss – Crna",
+    "colorLabel": "Crna",
+    "fetchedAt": "2026-05-16T21:24:46.136Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "felx-crna": {
+    "url": "https://leon.rs/p/felx-crna/",
+    "sifra": "310",
+    "title": "Felx – Crna",
+    "colorLabel": "Crna",
+    "fetchedAt": "2026-05-16T21:24:46.136Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "felx-bez": {
+    "url": "https://leon.rs/p/felx-bez/",
+    "sifra": "310",
+    "title": "Felx – Bež",
+    "colorLabel": "Bež",
+    "fetchedAt": "2026-05-16T21:24:46.136Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "calm-bez": {
+    "url": "https://leon.rs/p/calm-bez/",
+    "sifra": "320",
+    "title": "Calm – Bež",
+    "colorLabel": "Bež",
+    "fetchedAt": "2026-05-16T21:24:46.136Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "calm-crna": {
+    "url": "https://leon.rs/p/calm-crna/",
+    "sifra": "320",
+    "title": "Calm – Crna",
+    "colorLabel": "Crna",
+    "fetchedAt": "2026-05-16T21:24:46.136Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "melt-led": {
+    "url": "https://leon.rs/p/melt-led/",
+    "sifra": "302",
+    "title": "Melt – Led",
+    "colorLabel": "Led",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "melt-crna": {
+    "url": "https://leon.rs/p/melt-crna/",
+    "sifra": "302",
+    "title": "Melt – Crna",
+    "colorLabel": "Crna",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "melt-bez": {
+    "url": "https://leon.rs/p/melt-bez/",
+    "sifra": "302",
+    "title": "Melt – Bež",
+    "colorLabel": "Bež",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "pure-zelena": {
+    "url": "https://leon.rs/p/pure-zelena/",
+    "sifra": "940",
+    "title": "Pure – Zelena",
+    "colorLabel": "Zelena",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "pure-bez": {
+    "url": "https://leon.rs/p/pure-bez/",
+    "sifra": "940",
+    "title": "Pure – Bež",
+    "colorLabel": "Bež",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "pure-bela": {
+    "url": "https://leon.rs/p/pure-bela/",
+    "sifra": "940",
+    "title": "Pure – Bela",
+    "colorLabel": "Bela",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "forge-crne": {
+    "url": "https://leon.rs/p/forge-crne/",
+    "sifra": "7002",
+    "title": "Forge – Crne",
+    "colorLabel": "Crne",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "forge-braon": {
+    "url": "https://leon.rs/p/forge-braon/",
+    "sifra": "7002",
+    "title": "Forge – Braon",
+    "colorLabel": "Braon",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "here-zlatna": {
+    "url": "https://leon.rs/p/here-zlatna/",
+    "sifra": "8003",
+    "title": "Here – Zlatna",
+    "colorLabel": "Zlatna",
+    "fetchedAt": "2026-05-16T21:24:46.136Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "here-crna": {
+    "url": "https://leon.rs/p/here-crna/",
+    "sifra": "8003",
+    "title": "Here – Crna",
+    "colorLabel": "Crna",
+    "fetchedAt": "2026-05-16T21:24:46.136Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "virea-bordo": {
+    "url": "https://leon.rs/p/virea-bordo/",
+    "sifra": "8004",
+    "title": "Virea – Bordo",
+    "colorLabel": "Bordo",
+    "fetchedAt": "2026-05-16T21:24:46.136Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "here-braon": {
+    "url": "https://leon.rs/p/here-braon/",
+    "sifra": "8003",
+    "title": "Here – Braon",
+    "colorLabel": "Braon",
+    "fetchedAt": "2026-05-16T21:24:46.136Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "virea-crna": {
+    "url": "https://leon.rs/p/virea-crna/",
+    "sifra": "8004",
+    "title": "Virea – Crna",
+    "colorLabel": "Crna",
+    "fetchedAt": "2026-05-16T21:24:46.136Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "virea-braon": {
+    "url": "https://leon.rs/p/virea-braon/",
+    "sifra": "8004",
+    "title": "Virea – Braon",
+    "colorLabel": "Braon",
+    "fetchedAt": "2026-05-16T21:24:46.136Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "serene-braon": {
+    "url": "https://leon.rs/p/serene-braon/",
+    "sifra": "1132",
+    "title": "Serene – Braon",
+    "colorLabel": "Braon",
+    "fetchedAt": "2026-05-16T21:24:46.136Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "serene-zlatna": {
+    "url": "https://leon.rs/p/serene-zlatna/",
+    "sifra": "1132",
+    "title": "Serene – Zlatna",
+    "colorLabel": "Zlatna",
+    "fetchedAt": "2026-05-16T21:24:46.136Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "serene-siva": {
+    "url": "https://leon.rs/p/serene-siva/",
+    "sifra": "1132",
+    "title": "Serene – Siva",
+    "colorLabel": "Siva",
+    "fetchedAt": "2026-05-16T21:24:46.136Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "grace-bez": {
+    "url": "https://leon.rs/p/grace-bez/",
+    "sifra": "1131",
+    "title": "Grace – Bež",
+    "colorLabel": "Bež",
+    "fetchedAt": "2026-05-16T21:24:46.136Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "grace-zlatna": {
+    "url": "https://leon.rs/p/grace-zlatna/",
+    "sifra": "1131",
+    "title": "Grace – Zlatna",
+    "colorLabel": "Zlatna",
+    "fetchedAt": "2026-05-16T21:24:46.136Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "grace-braon": {
+    "url": "https://leon.rs/p/grace-braon/",
+    "sifra": "1131",
+    "title": "Grace – Braon",
+    "colorLabel": "Braon",
+    "fetchedAt": "2026-05-16T21:24:46.136Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "rise-braon": {
+    "url": "https://leon.rs/p/rise-braon/",
+    "sifra": "1112",
+    "title": "Rise – Braon",
+    "colorLabel": "Braon",
+    "fetchedAt": "2026-05-16T21:24:46.136Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "rise-zlatna": {
+    "url": "https://leon.rs/p/rise-zlatna/",
+    "sifra": "1112",
+    "title": "Rise – Zlatna",
+    "colorLabel": "Zlatna",
+    "fetchedAt": "2026-05-16T21:24:46.136Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "rise-bez": {
+    "url": "https://leon.rs/p/rise-bez/",
+    "sifra": "1112",
+    "title": "Rise – Bež",
+    "colorLabel": "Bež",
+    "fetchedAt": "2026-05-16T21:24:46.136Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "eleve-braon": {
+    "url": "https://leon.rs/p/eleve-braon/",
+    "sifra": "1111",
+    "title": "Eleve – Braon",
+    "colorLabel": "Braon",
+    "fetchedAt": "2026-05-16T21:24:46.136Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "eleve-zlatna": {
+    "url": "https://leon.rs/p/eleve-zlatna/",
+    "sifra": "1111",
+    "title": "Eleve – Zlatna",
+    "colorLabel": "Zlatna",
+    "fetchedAt": "2026-05-16T21:24:46.136Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "root-braon": {
+    "url": "https://leon.rs/p/root-braon/",
+    "sifra": "4307",
+    "title": "Root – Braon",
+    "colorLabel": "Braon",
+    "fetchedAt": "2026-05-16T21:24:46.136Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42"
+    ]
+  },
+  "root-bez": {
+    "url": "https://leon.rs/p/root-bez/",
+    "sifra": "4307",
+    "title": "Root – Bež",
+    "colorLabel": "Bež",
+    "fetchedAt": "2026-05-16T21:24:46.136Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42"
+    ]
+  },
+  "root-crna": {
+    "url": "https://leon.rs/p/root-crna/",
+    "sifra": "4307",
+    "title": "Root – Crna",
+    "colorLabel": "Crna",
+    "fetchedAt": "2026-05-16T21:24:46.136Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42"
+    ]
+  },
+  "even-braon": {
+    "url": "https://leon.rs/p/even-braon/",
+    "sifra": "937",
+    "title": "Even – Braon",
+    "colorLabel": "Braon",
+    "fetchedAt": "2026-05-16T21:24:46.136Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42"
+    ]
+  },
+  "even-siva": {
+    "url": "https://leon.rs/p/even-siva/",
+    "sifra": "937",
+    "title": "Even – Siva",
+    "colorLabel": "Siva",
+    "fetchedAt": "2026-05-16T21:24:46.136Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42"
+    ]
+  },
+  "stella-ii-zlatna": {
+    "url": "https://leon.rs/p/stella-ii-zlatna/",
+    "sifra": "4812",
+    "title": "Stella II – Zlatna",
+    "colorLabel": "Zlatna",
+    "sizes": [
+      "22",
+      "23",
+      "24",
+      "25",
+      "26",
+      "27",
+      "28",
+      "29",
+      "30",
+      "31",
+      "32",
+      "33",
+      "34"
+    ],
+    "fetchedAt": "2026-05-17T10:01:47.883Z"
+  },
+  "stella-i-zlatna": {
+    "url": "https://leon.rs/p/stella-i-zlatna/",
+    "sifra": "4811",
+    "title": "Stella I – Zlatna",
+    "colorLabel": "Zlatna",
+    "sizes": [
+      "22",
+      "23",
+      "24",
+      "25",
+      "26",
+      "27",
+      "28",
+      "29",
+      "30",
+      "31",
+      "32",
+      "33",
+      "34"
+    ],
+    "fetchedAt": "2026-05-17T10:01:44.400Z"
+  },
+  "stella-i-roze": {
+    "url": "https://leon.rs/p/stella-i-roze/",
+    "sifra": "4811",
+    "title": "Stella I – Roze",
+    "colorLabel": "Roze",
+    "sizes": [
+      "22",
+      "23",
+      "24",
+      "25",
+      "26",
+      "27",
+      "28",
+      "29",
+      "30",
+      "31",
+      "32",
+      "33",
+      "34"
+    ],
+    "fetchedAt": "2026-05-17T10:01:44.802Z"
+  },
+  "stella-ii-roze": {
+    "url": "https://leon.rs/p/stella-ii-roze/",
+    "sifra": "4812",
+    "title": "Stella II – Roze",
+    "colorLabel": "Roze",
+    "sizes": [
+      "22",
+      "23",
+      "24",
+      "25",
+      "26",
+      "27",
+      "28",
+      "29",
+      "30",
+      "31",
+      "32",
+      "33",
+      "34"
+    ],
+    "fetchedAt": "2026-05-17T10:01:48.300Z"
+  },
+  "elio-zlatna": {
+    "url": "https://leon.rs/p/elio-zlatna/",
+    "sifra": "4813",
+    "title": "Elio – Zlatna",
+    "colorLabel": "Zlatna",
+    "sizes": [
+      "22",
+      "23",
+      "24",
+      "25",
+      "26",
+      "27",
+      "28",
+      "29",
+      "30",
+      "31",
+      "32",
+      "33",
+      "34"
+    ],
+    "fetchedAt": "2026-05-17T10:01:53.098Z"
+  },
+  "elio-teget": {
+    "url": "https://leon.rs/p/elio-teget/",
+    "sifra": "4813",
+    "title": "Elio – Teget",
+    "colorLabel": "Teget",
+    "sizes": [
+      "22",
+      "23",
+      "24",
+      "25",
+      "26",
+      "27",
+      "28",
+      "29",
+      "30",
+      "31",
+      "32",
+      "33",
+      "34"
+    ],
+    "fetchedAt": "2026-05-17T10:01:53.471Z"
+  },
+  "elio-zelena": {
+    "url": "https://leon.rs/p/elio-zelena/",
+    "sifra": "4813",
+    "title": "Elio – Zelena",
+    "colorLabel": "Zelena",
+    "sizes": [
+      "22",
+      "23",
+      "24",
+      "25",
+      "26",
+      "27",
+      "28",
+      "29",
+      "30",
+      "31",
+      "32",
+      "33",
+      "34"
+    ],
+    "fetchedAt": "2026-05-17T10:01:53.872Z"
+  },
+  "elio-siva": {
+    "url": "https://leon.rs/p/elio-siva/",
+    "sifra": "4813",
+    "title": "Elio – Siva",
+    "colorLabel": "Siva",
+    "sizes": [
+      "22",
+      "23",
+      "24",
+      "25",
+      "26",
+      "27",
+      "28",
+      "29",
+      "30",
+      "31",
+      "32",
+      "33",
+      "34"
+    ],
+    "fetchedAt": "2026-05-17T10:01:54.229Z"
+  },
+  "elio-roze": {
+    "url": "https://leon.rs/p/elio-roze/",
+    "sifra": "4813",
+    "title": "Elio – Roze",
+    "colorLabel": "Roze",
+    "sizes": [
+      "22",
+      "23",
+      "24",
+      "25",
+      "26",
+      "27",
+      "28",
+      "29",
+      "30",
+      "31",
+      "32",
+      "33",
+      "34"
+    ],
+    "fetchedAt": "2026-05-17T10:01:54.617Z"
+  },
+  "nino-siva": {
+    "url": "https://leon.rs/p/nino-siva/",
+    "sifra": "4810",
+    "title": "Nino – Siva",
+    "colorLabel": "Siva",
+    "sizes": [
+      "22",
+      "23",
+      "24",
+      "25",
+      "26",
+      "27",
+      "28",
+      "29",
+      "30",
+      "31",
+      "32",
+      "33",
+      "34"
+    ],
+    "fetchedAt": "2026-05-17T10:01:39.468Z"
+  },
+  "nino-braon": {
+    "url": "https://leon.rs/p/nino-braon/",
+    "sifra": "4810",
+    "title": "Nino – Braon",
+    "colorLabel": "Braon",
+    "sizes": [
+      "22",
+      "23",
+      "24",
+      "25",
+      "26",
+      "27",
+      "28",
+      "29",
+      "30",
+      "31",
+      "32",
+      "33",
+      "34"
+    ],
+    "fetchedAt": "2026-05-17T10:01:39.873Z"
+  },
+  "nino-roze": {
+    "url": "https://leon.rs/p/nino-roze/",
+    "sifra": "4810",
+    "title": "Nino – Roze",
+    "colorLabel": "Roze",
+    "sizes": [
+      "22",
+      "23",
+      "24",
+      "25",
+      "26",
+      "27",
+      "28",
+      "29",
+      "30",
+      "31",
+      "32",
+      "33",
+      "34"
+    ],
+    "fetchedAt": "2026-05-17T10:01:40.309Z"
+  },
+  "ridge-siva": {
+    "url": "https://leon.rs/p/ridge-siva/",
+    "sifra": "4705M",
+    "title": "Ridge – Grey",
+    "colorLabel": "Siva",
+    "sizes": [
+      "42",
+      "43",
+      "44",
+      "45",
+      "46",
+      "47",
+      "48",
+      "49"
+    ],
+    "fetchedAt": "2026-05-17T10:45:50.341Z"
+  },
+  "ridge-tamno-siva": {
+    "url": "https://leon.rs/p/ridge-tamno-siva/",
+    "sifra": "4705M",
+    "title": "Ridge – Dark grey",
+    "colorLabel": "Tamno siva",
+    "sizes": [
+      "42",
+      "43",
+      "44",
+      "45",
+      "46",
+      "47",
+      "48",
+      "49"
+    ],
+    "fetchedAt": "2026-05-17T10:45:50.531Z"
+  },
+  "ridge-braon": {
+    "url": "https://leon.rs/p/ridge-braon/",
+    "sifra": "4705M",
+    "title": "Ridge – Brown",
+    "colorLabel": "Braon",
+    "sizes": [
+      "42",
+      "43",
+      "44",
+      "45",
+      "46",
+      "47",
+      "48",
+      "49"
+    ],
+    "fetchedAt": "2026-05-17T10:45:50.698Z"
+  },
+  "north-siva": {
+    "url": "https://leon.rs/p/north-siva/",
+    "sifra": "4701M",
+    "title": "North – Siva",
+    "colorLabel": "Siva",
+    "fetchedAt": "2026-05-16T21:24:46.136Z",
+    "sizes": [
+      "42",
+      "43",
+      "44",
+      "45",
+      "46",
+      "47",
+      "48",
+      "49"
+    ]
+  },
+  "north-braon": {
+    "url": "https://leon.rs/p/north-braon/",
+    "sifra": "4701M",
+    "title": "North – Braon",
+    "colorLabel": "Braon",
+    "fetchedAt": "2026-05-16T21:24:46.136Z",
+    "sizes": [
+      "42",
+      "43",
+      "44",
+      "45",
+      "46",
+      "47",
+      "48",
+      "49"
+    ]
+  },
+  "north-tamno-siva": {
+    "url": "https://leon.rs/p/north-tamno-siva/",
+    "sifra": "4701M",
+    "title": "North – Tamno siva",
+    "colorLabel": "Tamno siva",
+    "fetchedAt": "2026-05-16T21:24:46.136Z",
+    "sizes": [
+      "42",
+      "43",
+      "44",
+      "45",
+      "46",
+      "47",
+      "48",
+      "49"
+    ]
+  },
+  "nora-ii-braon": {
+    "url": "https://leon.rs/p/nora-ii-braon/",
+    "sifra": "5010",
+    "title": "NORA II – BRAON",
+    "colorLabel": "BRAON",
+    "fetchedAt": "2026-05-18T13:02:23.804Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "doris-zlatna": {
+    "url": "https://leon.rs/p/doris-zlatna/",
+    "sifra": "7080",
+    "title": "Doris – ZLATNA",
+    "colorLabel": "ZLATNA",
+    "fetchedAt": "2026-05-16T21:24:46.136Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "doris-crna": {
+    "url": "https://leon.rs/p/doris-crna/",
+    "sifra": "7080",
+    "title": "Doris – CRNA",
+    "colorLabel": "CRNA",
+    "fetchedAt": "2026-05-16T21:24:46.136Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "geneve-comfort": {
+    "url": "https://leon.rs/p/geneve-comfort/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "matterhorn-soft": {
+    "url": "https://leon.rs/p/matterhorn-soft/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "zurich-everyday": {
+    "url": "https://leon.rs/p/zurich-everyday/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort": {
+    "url": "https://leon.rs/p/alpen-komfort/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "lugano-warm": {
+    "url": "https://leon.rs/p/lugano-warm/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "basel-relax": {
+    "url": "https://leon.rs/p/basel-relax/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "bern-classic": {
+    "url": "https://leon.rs/p/bern-classic/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "sion-cozy": {
+    "url": "https://leon.rs/p/sion-cozy/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "lausanne-air": {
+    "url": "https://leon.rs/p/lausanne-air/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "st-moritz-premium": {
+    "url": "https://leon.rs/p/st-moritz-premium/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "locarno-breeze": {
+    "url": "https://leon.rs/p/locarno-breeze/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "zermatt-winter": {
+    "url": "https://leon.rs/p/zermatt-winter/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-2": {
+    "url": "https://leon.rs/p/alpen-komfort-2/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-3": {
+    "url": "https://leon.rs/p/alpen-komfort-3/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-4": {
+    "url": "https://leon.rs/p/alpen-komfort-4/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-5": {
+    "url": "https://leon.rs/p/alpen-komfort-5/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-7": {
+    "url": "https://leon.rs/p/alpen-komfort-7/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-6": {
+    "url": "https://leon.rs/p/alpen-komfort-6/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-8": {
+    "url": "https://leon.rs/p/alpen-komfort-8/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-10": {
+    "url": "https://leon.rs/p/alpen-komfort-10/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-9": {
+    "url": "https://leon.rs/p/alpen-komfort-9/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-11": {
+    "url": "https://leon.rs/p/alpen-komfort-11/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-12": {
+    "url": "https://leon.rs/p/alpen-komfort-12/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-13": {
+    "url": "https://leon.rs/p/alpen-komfort-13/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-14": {
+    "url": "https://leon.rs/p/alpen-komfort-14/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-15": {
+    "url": "https://leon.rs/p/alpen-komfort-15/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-16": {
+    "url": "https://leon.rs/p/alpen-komfort-16/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-17": {
+    "url": "https://leon.rs/p/alpen-komfort-17/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-18": {
+    "url": "https://leon.rs/p/alpen-komfort-18/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-19": {
+    "url": "https://leon.rs/p/alpen-komfort-19/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-20": {
+    "url": "https://leon.rs/p/alpen-komfort-20/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-21": {
+    "url": "https://leon.rs/p/alpen-komfort-21/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-22": {
+    "url": "https://leon.rs/p/alpen-komfort-22/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-23": {
+    "url": "https://leon.rs/p/alpen-komfort-23/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-24": {
+    "url": "https://leon.rs/p/alpen-komfort-24/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-25": {
+    "url": "https://leon.rs/p/alpen-komfort-25/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-26": {
+    "url": "https://leon.rs/p/alpen-komfort-26/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-29": {
+    "url": "https://leon.rs/p/alpen-komfort-29/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-27": {
+    "url": "https://leon.rs/p/alpen-komfort-27/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-28": {
+    "url": "https://leon.rs/p/alpen-komfort-28/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-30": {
+    "url": "https://leon.rs/p/alpen-komfort-30/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-32": {
+    "url": "https://leon.rs/p/alpen-komfort-32/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-31": {
+    "url": "https://leon.rs/p/alpen-komfort-31/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-35": {
+    "url": "https://leon.rs/p/alpen-komfort-35/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-34": {
+    "url": "https://leon.rs/p/alpen-komfort-34/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-33": {
+    "url": "https://leon.rs/p/alpen-komfort-33/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-37": {
+    "url": "https://leon.rs/p/alpen-komfort-37/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-36": {
+    "url": "https://leon.rs/p/alpen-komfort-36/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-39": {
+    "url": "https://leon.rs/p/alpen-komfort-39/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-38": {
+    "url": "https://leon.rs/p/alpen-komfort-38/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-40": {
+    "url": "https://leon.rs/p/alpen-komfort-40/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-41": {
+    "url": "https://leon.rs/p/alpen-komfort-41/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-42": {
+    "url": "https://leon.rs/p/alpen-komfort-42/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-43": {
+    "url": "https://leon.rs/p/alpen-komfort-43/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-44": {
+    "url": "https://leon.rs/p/alpen-komfort-44/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-45": {
+    "url": "https://leon.rs/p/alpen-komfort-45/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-46": {
+    "url": "https://leon.rs/p/alpen-komfort-46/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-47": {
+    "url": "https://leon.rs/p/alpen-komfort-47/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-49": {
+    "url": "https://leon.rs/p/alpen-komfort-49/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-48": {
+    "url": "https://leon.rs/p/alpen-komfort-48/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-50": {
+    "url": "https://leon.rs/p/alpen-komfort-50/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-51": {
+    "url": "https://leon.rs/p/alpen-komfort-51/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-52": {
+    "url": "https://leon.rs/p/alpen-komfort-52/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-53": {
+    "url": "https://leon.rs/p/alpen-komfort-53/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-54": {
+    "url": "https://leon.rs/p/alpen-komfort-54/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-55": {
+    "url": "https://leon.rs/p/alpen-komfort-55/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-56": {
+    "url": "https://leon.rs/p/alpen-komfort-56/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-57": {
+    "url": "https://leon.rs/p/alpen-komfort-57/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-58": {
+    "url": "https://leon.rs/p/alpen-komfort-58/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-59": {
+    "url": "https://leon.rs/p/alpen-komfort-59/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-61": {
+    "url": "https://leon.rs/p/alpen-komfort-61/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-60": {
+    "url": "https://leon.rs/p/alpen-komfort-60/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-62": {
+    "url": "https://leon.rs/p/alpen-komfort-62/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-63": {
+    "url": "https://leon.rs/p/alpen-komfort-63/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-64": {
+    "url": "https://leon.rs/p/alpen-komfort-64/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-65": {
+    "url": "https://leon.rs/p/alpen-komfort-65/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-67": {
+    "url": "https://leon.rs/p/alpen-komfort-67/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-66": {
+    "url": "https://leon.rs/p/alpen-komfort-66/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-68": {
+    "url": "https://leon.rs/p/alpen-komfort-68/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-69": {
+    "url": "https://leon.rs/p/alpen-komfort-69/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-70": {
+    "url": "https://leon.rs/p/alpen-komfort-70/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-71": {
+    "url": "https://leon.rs/p/alpen-komfort-71/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-72": {
+    "url": "https://leon.rs/p/alpen-komfort-72/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-73": {
+    "url": "https://leon.rs/p/alpen-komfort-73/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-75": {
+    "url": "https://leon.rs/p/alpen-komfort-75/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-74": {
+    "url": "https://leon.rs/p/alpen-komfort-74/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-76": {
+    "url": "https://leon.rs/p/alpen-komfort-76/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-77": {
+    "url": "https://leon.rs/p/alpen-komfort-77/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-78": {
+    "url": "https://leon.rs/p/alpen-komfort-78/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-79": {
+    "url": "https://leon.rs/p/alpen-komfort-79/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-80": {
+    "url": "https://leon.rs/p/alpen-komfort-80/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-81": {
+    "url": "https://leon.rs/p/alpen-komfort-81/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-82": {
+    "url": "https://leon.rs/p/alpen-komfort-82/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-83": {
+    "url": "https://leon.rs/p/alpen-komfort-83/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-84": {
+    "url": "https://leon.rs/p/alpen-komfort-84/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-85": {
+    "url": "https://leon.rs/p/alpen-komfort-85/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-86": {
+    "url": "https://leon.rs/p/alpen-komfort-86/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-87": {
+    "url": "https://leon.rs/p/alpen-komfort-87/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-88": {
+    "url": "https://leon.rs/p/alpen-komfort-88/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-89": {
+    "url": "https://leon.rs/p/alpen-komfort-89/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-90": {
+    "url": "https://leon.rs/p/alpen-komfort-90/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-91": {
+    "url": "https://leon.rs/p/alpen-komfort-91/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-92": {
+    "url": "https://leon.rs/p/alpen-komfort-92/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-93": {
+    "url": "https://leon.rs/p/alpen-komfort-93/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-95": {
+    "url": "https://leon.rs/p/alpen-komfort-95/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-94": {
+    "url": "https://leon.rs/p/alpen-komfort-94/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-96": {
+    "url": "https://leon.rs/p/alpen-komfort-96/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-97": {
+    "url": "https://leon.rs/p/alpen-komfort-97/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-98": {
+    "url": "https://leon.rs/p/alpen-komfort-98/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-99": {
+    "url": "https://leon.rs/p/alpen-komfort-99/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-101": {
+    "url": "https://leon.rs/p/alpen-komfort-101/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-100": {
+    "url": "https://leon.rs/p/alpen-komfort-100/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-102": {
+    "url": "https://leon.rs/p/alpen-komfort-102/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-103": {
+    "url": "https://leon.rs/p/alpen-komfort-103/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-104": {
+    "url": "https://leon.rs/p/alpen-komfort-104/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-105": {
+    "url": "https://leon.rs/p/alpen-komfort-105/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-106": {
+    "url": "https://leon.rs/p/alpen-komfort-106/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-107": {
+    "url": "https://leon.rs/p/alpen-komfort-107/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-108": {
+    "url": "https://leon.rs/p/alpen-komfort-108/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-109": {
+    "url": "https://leon.rs/p/alpen-komfort-109/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-110": {
+    "url": "https://leon.rs/p/alpen-komfort-110/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-111": {
+    "url": "https://leon.rs/p/alpen-komfort-111/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-113": {
+    "url": "https://leon.rs/p/alpen-komfort-113/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-112": {
+    "url": "https://leon.rs/p/alpen-komfort-112/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-114": {
+    "url": "https://leon.rs/p/alpen-komfort-114/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-115": {
+    "url": "https://leon.rs/p/alpen-komfort-115/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-116": {
+    "url": "https://leon.rs/p/alpen-komfort-116/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-117": {
+    "url": "https://leon.rs/p/alpen-komfort-117/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-118": {
+    "url": "https://leon.rs/p/alpen-komfort-118/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-120": {
+    "url": "https://leon.rs/p/alpen-komfort-120/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-119": {
+    "url": "https://leon.rs/p/alpen-komfort-119/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-121": {
+    "url": "https://leon.rs/p/alpen-komfort-121/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-122": {
+    "url": "https://leon.rs/p/alpen-komfort-122/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-123": {
+    "url": "https://leon.rs/p/alpen-komfort-123/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-124": {
+    "url": "https://leon.rs/p/alpen-komfort-124/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-125": {
+    "url": "https://leon.rs/p/alpen-komfort-125/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-126": {
+    "url": "https://leon.rs/p/alpen-komfort-126/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-127": {
+    "url": "https://leon.rs/p/alpen-komfort-127/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-128": {
+    "url": "https://leon.rs/p/alpen-komfort-128/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-129": {
+    "url": "https://leon.rs/p/alpen-komfort-129/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-130": {
+    "url": "https://leon.rs/p/alpen-komfort-130/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-131": {
+    "url": "https://leon.rs/p/alpen-komfort-131/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-132": {
+    "url": "https://leon.rs/p/alpen-komfort-132/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-133": {
+    "url": "https://leon.rs/p/alpen-komfort-133/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-134": {
+    "url": "https://leon.rs/p/alpen-komfort-134/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-135": {
+    "url": "https://leon.rs/p/alpen-komfort-135/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-136": {
+    "url": "https://leon.rs/p/alpen-komfort-136/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-138": {
+    "url": "https://leon.rs/p/alpen-komfort-138/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-137": {
+    "url": "https://leon.rs/p/alpen-komfort-137/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-139": {
+    "url": "https://leon.rs/p/alpen-komfort-139/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-140": {
+    "url": "https://leon.rs/p/alpen-komfort-140/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-142": {
+    "url": "https://leon.rs/p/alpen-komfort-142/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-141": {
+    "url": "https://leon.rs/p/alpen-komfort-141/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-144": {
+    "url": "https://leon.rs/p/alpen-komfort-144/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-143": {
+    "url": "https://leon.rs/p/alpen-komfort-143/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-145": {
+    "url": "https://leon.rs/p/alpen-komfort-145/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-146": {
+    "url": "https://leon.rs/p/alpen-komfort-146/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-147": {
+    "url": "https://leon.rs/p/alpen-komfort-147/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-148": {
+    "url": "https://leon.rs/p/alpen-komfort-148/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-149": {
+    "url": "https://leon.rs/p/alpen-komfort-149/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-150": {
+    "url": "https://leon.rs/p/alpen-komfort-150/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-153": {
+    "url": "https://leon.rs/p/alpen-komfort-153/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-151": {
+    "url": "https://leon.rs/p/alpen-komfort-151/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-152": {
+    "url": "https://leon.rs/p/alpen-komfort-152/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-154": {
+    "url": "https://leon.rs/p/alpen-komfort-154/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-155": {
+    "url": "https://leon.rs/p/alpen-komfort-155/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-156": {
+    "url": "https://leon.rs/p/alpen-komfort-156/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-157": {
+    "url": "https://leon.rs/p/alpen-komfort-157/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-158": {
+    "url": "https://leon.rs/p/alpen-komfort-158/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-159": {
+    "url": "https://leon.rs/p/alpen-komfort-159/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-160": {
+    "url": "https://leon.rs/p/alpen-komfort-160/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-161": {
+    "url": "https://leon.rs/p/alpen-komfort-161/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-162": {
+    "url": "https://leon.rs/p/alpen-komfort-162/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-164": {
+    "url": "https://leon.rs/p/alpen-komfort-164/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-163": {
+    "url": "https://leon.rs/p/alpen-komfort-163/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-165": {
+    "url": "https://leon.rs/p/alpen-komfort-165/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-166": {
+    "url": "https://leon.rs/p/alpen-komfort-166/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-167": {
+    "url": "https://leon.rs/p/alpen-komfort-167/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-168": {
+    "url": "https://leon.rs/p/alpen-komfort-168/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-169": {
+    "url": "https://leon.rs/p/alpen-komfort-169/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-172": {
+    "url": "https://leon.rs/p/alpen-komfort-172/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-174": {
+    "url": "https://leon.rs/p/alpen-komfort-174/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-170": {
+    "url": "https://leon.rs/p/alpen-komfort-170/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-171": {
+    "url": "https://leon.rs/p/alpen-komfort-171/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-173": {
+    "url": "https://leon.rs/p/alpen-komfort-173/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-175": {
+    "url": "https://leon.rs/p/alpen-komfort-175/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-176": {
+    "url": "https://leon.rs/p/alpen-komfort-176/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-177": {
+    "url": "https://leon.rs/p/alpen-komfort-177/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-180": {
+    "url": "https://leon.rs/p/alpen-komfort-180/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-178": {
+    "url": "https://leon.rs/p/alpen-komfort-178/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-179": {
+    "url": "https://leon.rs/p/alpen-komfort-179/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-181": {
+    "url": "https://leon.rs/p/alpen-komfort-181/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-182": {
+    "url": "https://leon.rs/p/alpen-komfort-182/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-183": {
+    "url": "https://leon.rs/p/alpen-komfort-183/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.136Z"
+  },
+  "alpen-komfort-184": {
+    "url": "https://leon.rs/p/alpen-komfort-184/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-186": {
+    "url": "https://leon.rs/p/alpen-komfort-186/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-185": {
+    "url": "https://leon.rs/p/alpen-komfort-185/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-187": {
+    "url": "https://leon.rs/p/alpen-komfort-187/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-189": {
+    "url": "https://leon.rs/p/alpen-komfort-189/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-188": {
+    "url": "https://leon.rs/p/alpen-komfort-188/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-191": {
+    "url": "https://leon.rs/p/alpen-komfort-191/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-190": {
+    "url": "https://leon.rs/p/alpen-komfort-190/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-192": {
+    "url": "https://leon.rs/p/alpen-komfort-192/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-193": {
+    "url": "https://leon.rs/p/alpen-komfort-193/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-198": {
+    "url": "https://leon.rs/p/alpen-komfort-198/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-196": {
+    "url": "https://leon.rs/p/alpen-komfort-196/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-194": {
+    "url": "https://leon.rs/p/alpen-komfort-194/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-197": {
+    "url": "https://leon.rs/p/alpen-komfort-197/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-195": {
+    "url": "https://leon.rs/p/alpen-komfort-195/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-199": {
+    "url": "https://leon.rs/p/alpen-komfort-199/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-202": {
+    "url": "https://leon.rs/p/alpen-komfort-202/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-200": {
+    "url": "https://leon.rs/p/alpen-komfort-200/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-201": {
+    "url": "https://leon.rs/p/alpen-komfort-201/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-203": {
+    "url": "https://leon.rs/p/alpen-komfort-203/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-205": {
+    "url": "https://leon.rs/p/alpen-komfort-205/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-204": {
+    "url": "https://leon.rs/p/alpen-komfort-204/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-206": {
+    "url": "https://leon.rs/p/alpen-komfort-206/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-208": {
+    "url": "https://leon.rs/p/alpen-komfort-208/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-207": {
+    "url": "https://leon.rs/p/alpen-komfort-207/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-209": {
+    "url": "https://leon.rs/p/alpen-komfort-209/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-211": {
+    "url": "https://leon.rs/p/alpen-komfort-211/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-210": {
+    "url": "https://leon.rs/p/alpen-komfort-210/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-212": {
+    "url": "https://leon.rs/p/alpen-komfort-212/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-215": {
+    "url": "https://leon.rs/p/alpen-komfort-215/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-213": {
+    "url": "https://leon.rs/p/alpen-komfort-213/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-214": {
+    "url": "https://leon.rs/p/alpen-komfort-214/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-217": {
+    "url": "https://leon.rs/p/alpen-komfort-217/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-216": {
+    "url": "https://leon.rs/p/alpen-komfort-216/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-219": {
+    "url": "https://leon.rs/p/alpen-komfort-219/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-218": {
+    "url": "https://leon.rs/p/alpen-komfort-218/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-220": {
+    "url": "https://leon.rs/p/alpen-komfort-220/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-221": {
+    "url": "https://leon.rs/p/alpen-komfort-221/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-222": {
+    "url": "https://leon.rs/p/alpen-komfort-222/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-223": {
+    "url": "https://leon.rs/p/alpen-komfort-223/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-225": {
+    "url": "https://leon.rs/p/alpen-komfort-225/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-224": {
+    "url": "https://leon.rs/p/alpen-komfort-224/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-226": {
+    "url": "https://leon.rs/p/alpen-komfort-226/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-227": {
+    "url": "https://leon.rs/p/alpen-komfort-227/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-228": {
+    "url": "https://leon.rs/p/alpen-komfort-228/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-229": {
+    "url": "https://leon.rs/p/alpen-komfort-229/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-231": {
+    "url": "https://leon.rs/p/alpen-komfort-231/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-230": {
+    "url": "https://leon.rs/p/alpen-komfort-230/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-232": {
+    "url": "https://leon.rs/p/alpen-komfort-232/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-233": {
+    "url": "https://leon.rs/p/alpen-komfort-233/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-234": {
+    "url": "https://leon.rs/p/alpen-komfort-234/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-235": {
+    "url": "https://leon.rs/p/alpen-komfort-235/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-237": {
+    "url": "https://leon.rs/p/alpen-komfort-237/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-236": {
+    "url": "https://leon.rs/p/alpen-komfort-236/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-238": {
+    "url": "https://leon.rs/p/alpen-komfort-238/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-239": {
+    "url": "https://leon.rs/p/alpen-komfort-239/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-241": {
+    "url": "https://leon.rs/p/alpen-komfort-241/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-242": {
+    "url": "https://leon.rs/p/alpen-komfort-242/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-240": {
+    "url": "https://leon.rs/p/alpen-komfort-240/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-243": {
+    "url": "https://leon.rs/p/alpen-komfort-243/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-245": {
+    "url": "https://leon.rs/p/alpen-komfort-245/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-244": {
+    "url": "https://leon.rs/p/alpen-komfort-244/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-246": {
+    "url": "https://leon.rs/p/alpen-komfort-246/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-247": {
+    "url": "https://leon.rs/p/alpen-komfort-247/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-248": {
+    "url": "https://leon.rs/p/alpen-komfort-248/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-250": {
+    "url": "https://leon.rs/p/alpen-komfort-250/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-249": {
+    "url": "https://leon.rs/p/alpen-komfort-249/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-251": {
+    "url": "https://leon.rs/p/alpen-komfort-251/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-253": {
+    "url": "https://leon.rs/p/alpen-komfort-253/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-252": {
+    "url": "https://leon.rs/p/alpen-komfort-252/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-254": {
+    "url": "https://leon.rs/p/alpen-komfort-254/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-255": {
+    "url": "https://leon.rs/p/alpen-komfort-255/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-256": {
+    "url": "https://leon.rs/p/alpen-komfort-256/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-257": {
+    "url": "https://leon.rs/p/alpen-komfort-257/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-258": {
+    "url": "https://leon.rs/p/alpen-komfort-258/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-259": {
+    "url": "https://leon.rs/p/alpen-komfort-259/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-260": {
+    "url": "https://leon.rs/p/alpen-komfort-260/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-262": {
+    "url": "https://leon.rs/p/alpen-komfort-262/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-261": {
+    "url": "https://leon.rs/p/alpen-komfort-261/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-264": {
+    "url": "https://leon.rs/p/alpen-komfort-264/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-263": {
+    "url": "https://leon.rs/p/alpen-komfort-263/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-265": {
+    "url": "https://leon.rs/p/alpen-komfort-265/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-266": {
+    "url": "https://leon.rs/p/alpen-komfort-266/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-267": {
+    "url": "https://leon.rs/p/alpen-komfort-267/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-268": {
+    "url": "https://leon.rs/p/alpen-komfort-268/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-270": {
+    "url": "https://leon.rs/p/alpen-komfort-270/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "alpen-komfort-269": {
+    "url": "https://leon.rs/p/alpen-komfort-269/",
+    "error": "HTTP 404",
+    "fetchedAt": "2026-05-16T21:24:46.137Z"
+  },
+  "flow-zelena-perlato": {
+    "url": "https://leon.rs/p/flow-zelena-perlato/",
+    "sifra": "500",
+    "title": "Flow – Zelena perlato",
+    "colorLabel": "Zelena perlato",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42"
+    ],
+    "fetchedAt": "2026-05-17T10:01:24.321Z"
+  },
+  "flow-crna": {
+    "url": "https://leon.rs/p/flow-crna/",
+    "sifra": "500",
+    "title": "Flow – Crna",
+    "colorLabel": "Crna",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42"
+    ],
+    "fetchedAt": "2026-05-17T10:01:24.726Z"
+  },
+  "flow-bela": {
+    "url": "https://leon.rs/p/flow-bela/",
+    "sifra": "500",
+    "title": "Flow – Bela",
+    "colorLabel": "Bela",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42"
+    ],
+    "fetchedAt": "2026-05-17T10:01:25.127Z"
+  },
+  "flow-perla": {
+    "url": "https://leon.rs/p/flow-perla/",
+    "sifra": "500",
+    "title": "Flow – Perla",
+    "colorLabel": "Perla",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42"
+    ],
+    "fetchedAt": "2026-05-17T10:01:25.516Z"
+  },
+  "line-zelena": {
+    "url": "https://leon.rs/p/line-zelena/",
+    "sifra": "510",
+    "title": "Line – Zelena",
+    "colorLabel": "Zelena",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42"
+    ],
+    "fetchedAt": "2026-05-17T10:01:31.022Z"
+  },
+  "line-braon": {
+    "url": "https://leon.rs/p/line-braon/",
+    "sifra": "510",
+    "title": "Line – Braon",
+    "colorLabel": "Braon",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42"
+    ],
+    "fetchedAt": "2026-05-17T10:01:31.409Z"
+  },
+  "line-siva": {
+    "url": "https://leon.rs/p/line-siva/",
+    "sifra": "510",
+    "title": "Line – Siva",
+    "colorLabel": "Siva",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42"
+    ],
+    "fetchedAt": "2026-05-17T10:01:31.814Z"
+  },
+  "liena-braon": {
+    "url": "https://leon.rs/p/liena-braon/",
+    "sifra": "8001",
+    "title": "Linea – Braon",
+    "colorLabel": "Braon",
+    "fetchedAt": "2026-05-16T21:24:46.137Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "orbira-mink": {
+    "url": "https://leon.rs/p/orbira-mink/",
+    "sifra": "4015",
+    "title": "Orbita – Mink",
+    "colorLabel": "Mink",
+    "fetchedAt": "2026-05-17T08:38:32.561Z",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "line-crna": {
+    "url": "https://leon.rs/p/line-crna/",
+    "sifra": "510",
+    "title": "Line – Crna",
+    "colorLabel": "Crna",
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42"
+    ],
+    "fetchedAt": "2026-05-17T10:01:32.201Z"
+  },
+  "bakkar-iii-roze-bakkar": {
+    "url": "https://leon.rs/p/bakkar-iii-roze-bakkar/",
+    "sifra": "933",
+    "title": "Bakkar III – Pink Bakkar",
+    "colorLabel": "ROZE BAKKAR",
+    "sizes": [
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42"
+    ],
+    "fetchedAt": "2026-05-18T13:57:54.061Z"
+  },
+  "bakkar-iii-bela-bakkar": {
+    "url": "https://leon.rs/p/bakkar-iii-bela-bakkar/",
+    "sifra": "933",
+    "title": "Bakkar III – White Bakkar",
+    "colorLabel": "BELA BAKKAR",
+    "sizes": [
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42"
+    ],
+    "fetchedAt": "2026-05-18T13:57:54.159Z"
+  }
+}

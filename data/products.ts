@@ -8,16 +8,25 @@ import { applyLeonMenStandardSizesIfApplicable } from './leonMenSizeStandard';
 import { normalizeLeonImportedProducts } from './leonCatalogNormalize';
 import { leonProducts } from './leon-products.generated';
 import { milamiProducts } from './milami-products.generated';
+import leonSlugRedirects from './leon-slug-redirects.json';
 
 export type ProductId = string;
 export type SizeId = string;
 export type ColorId = string;
+export type Locale = 'de' | 'fr' | 'en' | 'it';
+export type LocalizedString = Record<Locale, string>;
+
+export interface ProductSpecificationRow {
+  label: LocalizedString;
+  value: LocalizedString;
+}
 
 export interface ProductVariant {
   size: SizeId;
   color: ColorId;
   sku: string;
-  priceCHF: number; // in CHF
+  /** Maloprodajna cena (CHF); null = nema cene u Excel katalogu */
+  priceCHF: number | null;
   stock: number;
 }
 
@@ -26,10 +35,16 @@ export interface Product {
   slug: string;
   category: CategoryId; // 'women' | 'men' | 'children'
   brand?: 'leon' | 'milami' | 'other';
+  /** LEON / Excel broj artikla (npr. 6016, 4710M, PU100M) — isti za sve boje modela. */
+  articleNumber?: string;
+  /** Boja linije (npr. „Crna“) — kao na leon.rs uz SKU. */
+  colorLabel?: string;
   /** Same id = one physical model in several shop rows / slugs; used on PDP to switch colours. */
   modelGroupId?: string;
-  name: Record<'de' | 'fr' | 'en' | 'it', string>;
-  description: Record<'de' | 'fr' | 'en' | 'it', string>;
+  name: LocalizedString;
+  description: LocalizedString;
+  /** Leon.rs Sastav lica / Podnožje / Đon — shown together in Specifications tab. */
+  specifications?: ProductSpecificationRow[];
   image: string; // path in /public or URL
   images?: string[];
   sizes: { id: SizeId; label: Record<'de' | 'fr' | 'en' | 'it', string> }[];
@@ -79,7 +94,7 @@ const productsRaw: Product[] = [
           size,
           color,
           sku: `SLIP-${size}-${color}`,
-          priceCHF: 49.9,
+          priceCHF: null,
           stock: 10,
         }))
       ),
@@ -121,7 +136,7 @@ const productsRaw: Product[] = [
           size,
           color,
           sku: `SLIP-SPORT-${size}-${color}`,
-          priceCHF: 39.9,
+          priceCHF: null,
           stock: 8,
         }))
       ),
@@ -162,7 +177,7 @@ const productsRaw: Product[] = [
           size,
           color,
           sku: `KIDS-${size}-${color}`,
-          priceCHF: 29.9,
+          priceCHF: null,
           stock: 12,
         }))
       ),
@@ -175,8 +190,16 @@ const productsRaw: Product[] = [
 
 export const products: Product[] = productsRaw.map(applyLeonMenStandardSizesIfApplicable);
 
+const slugRedirectMap = leonSlugRedirects as Record<string, string>;
+
+/** Stari švajcarski slug → trenutni leon.rs slug (npr. bern-classic → ground-bela). */
+export function resolveProductSlug(slug: string): string {
+  return slugRedirectMap[slug] ?? slug;
+}
+
 export function getProductBySlug(slug: string): Product | undefined {
-  return products.find((p) => p.slug === slug);
+  const resolved = resolveProductSlug(slug);
+  return products.find((p) => p.slug === resolved);
 }
 
 export function getProductsByModelGroup(modelGroupId: string): Product[] {

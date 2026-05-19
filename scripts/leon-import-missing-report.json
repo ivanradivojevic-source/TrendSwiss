@@ -1,0 +1,1496 @@
+[
+  {
+    "excel": {
+      "broj": "6016",
+      "naziv": "Anchor",
+      "maloprodajnaCHF": 87,
+      "status": "unmatched",
+      "matchMethod": [],
+      "shopProducts": []
+    },
+    "searchByBroj": [],
+    "searchByNaziv": [
+      "https://leon.rs/p/anchor-crna/",
+      "https://leon.rs/p/anchor-braon/",
+      "https://leon.rs/p/anchor-zelena/",
+      "https://leon.rs/p/anchor-mink/"
+    ],
+    "verified": {
+      "url": "https://leon.rs/p/anchor-crna/",
+      "title": "Anchor &#8211; Crna &#8211; LEON",
+      "images": [
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/6016-Crna-velur1.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/favicon-100x100.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/favicon.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/logo.png",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/6016-Crna-velur2.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/6016-Crna-velur3.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/6016-Braon-velur1.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/6016-Mink1.jpg"
+      ],
+      "priceRsd": 6999.0,
+      "gender": "men",
+      "sifra": null
+    },
+    "error": null
+  },
+  {
+    "excel": {
+      "broj": "6017",
+      "naziv": "Strata",
+      "maloprodajnaCHF": 87,
+      "status": "unmatched",
+      "matchMethod": [],
+      "shopProducts": []
+    },
+    "searchByBroj": [],
+    "searchByNaziv": [
+      "https://leon.rs/p/strata-crna/",
+      "https://leon.rs/p/strata-bez/"
+    ],
+    "verified": {
+      "url": "https://leon.rs/p/strata-crna/",
+      "title": "Strata &#8211; Crna &#8211; LEON",
+      "images": [
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/6017-Crna-rafija1.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/favicon-100x100.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/favicon.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/logo.png",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/6017-Crna-rafija2.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/6017-Crna-rafija3.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/6017-Bez-rafija1.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/Anna-Velur-BEZ.jpg"
+      ],
+      "priceRsd": 6999.0,
+      "gender": "men",
+      "sifra": null
+    },
+    "error": null
+  },
+  {
+    "excel": {
+      "broj": "7032",
+      "naziv": "Axis",
+      "maloprodajnaCHF": 59,
+      "status": "unmatched",
+      "matchMethod": [],
+      "shopProducts": []
+    },
+    "searchByBroj": [],
+    "searchByNaziv": [
+      "https://leon.rs/p/axis-zlatna/",
+      "https://leon.rs/p/axis-led/",
+      "https://leon.rs/p/axis-bez/",
+      "https://leon.rs/p/axis-crna/"
+    ],
+    "verified": {
+      "url": "https://leon.rs/p/axis-zlatna/",
+      "title": "Axis &#8211; Zlatna &#8211; LEON",
+      "images": [
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/7032-Zlato1.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/favicon-100x100.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/favicon.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/logo.png",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/7032-Zlato2.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/7032-Zlato3.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/7032-Bez1.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/7032-Crna-riza1.jpg"
+      ],
+      "priceRsd": 4999.0,
+      "gender": "men",
+      "sifra": null
+    },
+    "error": null
+  },
+  {
+    "excel": {
+      "broj": "7012",
+      "naziv": "Halo",
+      "maloprodajnaCHF": 69,
+      "status": "unmatched",
+      "matchMethod": [],
+      "shopProducts": []
+    },
+    "searchByBroj": [],
+    "searchByNaziv": [
+      "https://leon.rs/p/halo-zlatna/",
+      "https://leon.rs/p/halo-zelena/",
+      "https://leon.rs/p/halo-braon/"
+    ],
+    "verified": {
+      "url": "https://leon.rs/p/halo-zlatna/",
+      "title": "Halo &#8211; Zlatna &#8211; LEON",
+      "images": [
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/7012-Zlatna1.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/favicon-100x100.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/favicon.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/logo.png",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/7012-Zlatna2.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/7012-Zlatna3.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/7012-Braon-velur1.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/7012-Zelena1.jpg"
+      ],
+      "priceRsd": 5999.0,
+      "gender": "men",
+      "sifra": null
+    },
+    "error": null
+  },
+  {
+    "excel": {
+      "broj": "7022",
+      "naziv": "Avera",
+      "maloprodajnaCHF": 59,
+      "status": "unmatched",
+      "matchMethod": [],
+      "shopProducts": []
+    },
+    "searchByBroj": [],
+    "searchByNaziv": [
+      "https://leon.rs/p/avera-crna/",
+      "https://leon.rs/p/avera-bez/"
+    ],
+    "verified": {
+      "url": "https://leon.rs/p/avera-crna/",
+      "title": "Avera &#8211; Crna &#8211; LEON",
+      "images": [
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/7022-Crna-rafija1.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/favicon-100x100.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/favicon.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/logo.png",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/7022-Crna-rafija2.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/7022-Crna-rafija3.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/7022-Bez-rafija1.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/Anna-CRNA-BAKKAR.jpg"
+      ],
+      "priceRsd": 4999.0,
+      "gender": "men",
+      "sifra": null
+    },
+    "error": null
+  },
+  {
+    "excel": {
+      "broj": "7031",
+      "naziv": "Plain",
+      "maloprodajnaCHF": 59,
+      "status": "unmatched",
+      "matchMethod": [],
+      "shopProducts": []
+    },
+    "searchByBroj": [],
+    "searchByNaziv": [
+      "https://leon.rs/p/plain-bez/",
+      "https://leon.rs/p/plain-crna/"
+    ],
+    "verified": {
+      "url": "https://leon.rs/p/plain-bez/",
+      "title": "Plain &#8211; Bež &#8211; LEON",
+      "images": [
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/7031-Bez-rafija1.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/favicon-100x100.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/favicon.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/logo.png",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/7031-Bez-rafija2.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/7031-Bez-rafija3.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/7031-Crna-rafija.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/Anna-ROZE-VELUR.jpg"
+      ],
+      "priceRsd": 4999.0,
+      "gender": "men",
+      "sifra": null
+    },
+    "error": null
+  },
+  {
+    "excel": {
+      "broj": "4016",
+      "naziv": "Edge",
+      "maloprodajnaCHF": 79,
+      "status": "unmatched",
+      "matchMethod": [],
+      "shopProducts": []
+    },
+    "searchByBroj": [],
+    "searchByNaziv": [
+      "https://leon.rs/p/edge-braon/",
+      "https://leon.rs/p/egde-mink/",
+      "https://leon.rs/p/edge-siva/",
+      "https://leon.rs/p/edge-crna/",
+      "https://leon.rs/p/edge-bordo/"
+    ],
+    "verified": {
+      "url": "https://leon.rs/p/edge-braon/",
+      "title": "Edge &#8211; Braon &#8211; LEON",
+      "images": [
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/4016-Braon1.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/favicon-100x100.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/favicon.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/logo.png",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/4016-Braon2.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/4016-Braon3.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/4016-Bordo-velur1.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/4016-Crni-velur1.jpg"
+      ],
+      "priceRsd": 5999.0,
+      "gender": "men",
+      "sifra": null
+    },
+    "error": null
+  },
+  {
+    "excel": {
+      "broj": "4015",
+      "naziv": "Orbita",
+      "maloprodajnaCHF": 79,
+      "status": "unmatched",
+      "matchMethod": [],
+      "shopProducts": []
+    },
+    "searchByBroj": [],
+    "searchByNaziv": [
+      "https://leon.rs/p/orbita-siva/",
+      "https://leon.rs/p/orbita-bordo/",
+      "https://leon.rs/p/orbita-braon/",
+      "https://leon.rs/p/orbita-zelena/",
+      "https://leon.rs/p/orbita-tamno-braon/"
+    ],
+    "verified": {
+      "url": "https://leon.rs/p/orbita-siva/",
+      "title": "Orbita &#8211; Siva &#8211; LEON",
+      "images": [
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/4015-Sivi-velur1.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/favicon-100x100.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/favicon.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/logo.png",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/4015-Sivi-velur2.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/4015-Sivi-velur3.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/4015-Bordo-velur1.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/4015-Braon1.jpg"
+      ],
+      "priceRsd": 5999.0,
+      "gender": "men",
+      "sifra": null
+    },
+    "error": null
+  },
+  {
+    "excel": {
+      "broj": "4014",
+      "naziv": "Aura",
+      "maloprodajnaCHF": 69,
+      "status": "unmatched",
+      "matchMethod": [],
+      "shopProducts": []
+    },
+    "searchByBroj": [],
+    "searchByNaziv": [
+      "https://leon.rs/p/aura-roze/",
+      "https://leon.rs/p/aura-zelena/",
+      "https://leon.rs/p/laura-perla/",
+      "https://leon.rs/p/laura-crna/",
+      "https://leon.rs/p/laura-zlato-sjaj/"
+    ],
+    "verified": {
+      "url": "https://leon.rs/p/aura-roze/",
+      "title": "Aura &#8211; Roze &#8211; LEON",
+      "images": [
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/4014-Roze-riza1.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/favicon-100x100.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/favicon.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/logo.png",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/4014-Roze-riza2.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/4014-Roze-riza3.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/4014-Zelena-riza1.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/ADRIANA-ROZE-ZMIJA.jpg"
+      ],
+      "priceRsd": 4999.0,
+      "gender": "men",
+      "sifra": null
+    },
+    "error": null
+  },
+  {
+    "excel": {
+      "broj": "510",
+      "naziv": "Line",
+      "maloprodajnaCHF": 49,
+      "status": "unmatched",
+      "matchMethod": [],
+      "shopProducts": []
+    },
+    "searchByBroj": [],
+    "searchByNaziv": [
+      "https://leon.rs/p/linea-bez/",
+      "https://leon.rs/p/linea-zlatna/",
+      "https://leon.rs/p/liena-braon/",
+      "https://leon.rs/p/line-zelena/",
+      "https://leon.rs/p/line-braon/"
+    ],
+    "verified": {
+      "url": "https://leon.rs/p/linea-bez/",
+      "title": "Linea &#8211; Bež &#8211; LEON",
+      "images": [
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/8001-Bez-velur1.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/favicon-100x100.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/favicon.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/logo.png",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/8001-Bez-velur2.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/8001-Bez-velur3.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/8001-Zlato1.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/8001-Braon-velur1.jpg"
+      ],
+      "priceRsd": 4999.0,
+      "gender": "men",
+      "sifra": null
+    },
+    "error": null
+  },
+  {
+    "excel": {
+      "broj": "511",
+      "naziv": "Motio",
+      "maloprodajnaCHF": 49,
+      "status": "unmatched",
+      "matchMethod": [],
+      "shopProducts": []
+    },
+    "searchByBroj": [],
+    "searchByNaziv": [
+      "https://leon.rs/p/motio-zelena/",
+      "https://leon.rs/p/motio-led/",
+      "https://leon.rs/p/motio-crna/",
+      "https://leon.rs/p/motio-bez/"
+    ],
+    "verified": {
+      "url": "https://leon.rs/p/motio-zelena/",
+      "title": "Motio &#8211; Zelena &#8211; LEON",
+      "images": [
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/511-Zelena-riza1.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/favicon-100x100.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/favicon.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/logo.png",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/511-Zelena-riza2.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/511-Zelena-riza3.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/511-Bez-riza.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/511-Crna-riza1.jpg"
+      ],
+      "priceRsd": 3599.0,
+      "gender": "men",
+      "sifra": null
+    },
+    "error": null
+  },
+  {
+    "excel": {
+      "broj": "520",
+      "naziv": "Moveo",
+      "maloprodajnaCHF": 53,
+      "status": "unmatched",
+      "matchMethod": [],
+      "shopProducts": []
+    },
+    "searchByBroj": [],
+    "searchByNaziv": [
+      "https://leon.rs/p/moveo-led/",
+      "https://leon.rs/p/moveo-crna/",
+      "https://leon.rs/p/moveo-bez/"
+    ],
+    "verified": {
+      "url": "https://leon.rs/p/moveo-led/",
+      "title": "Moveo &#8211; Led &#8211; LEON",
+      "images": [
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/520-Led1.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/favicon-100x100.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/favicon.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/logo.png",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/520-Led2.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/520-Led3.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/520-Bez1.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/520-Crna1.jpg"
+      ],
+      "priceRsd": 3599.0,
+      "gender": "men",
+      "sifra": null
+    },
+    "error": null
+  },
+  {
+    "excel": {
+      "broj": "917",
+      "naziv": "Moss",
+      "maloprodajnaCHF": 49,
+      "status": "unmatched",
+      "matchMethod": [],
+      "shopProducts": []
+    },
+    "searchByBroj": [],
+    "searchByNaziv": [
+      "https://leon.rs/p/moss-siva/",
+      "https://leon.rs/p/moss-zelena/",
+      "https://leon.rs/p/moss-braon/",
+      "https://leon.rs/p/moss-crna/"
+    ],
+    "verified": {
+      "url": "https://leon.rs/p/moss-siva/",
+      "title": "Moss &#8211; Siva &#8211; LEON",
+      "images": [
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/917-Siva-velur1.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/favicon-100x100.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/favicon.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/logo.png",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/917-Siva-velur2.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/917-Siva-velur3.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/917-Tamno-braon1.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/917-Crni-velur1.jpg"
+      ],
+      "priceRsd": 3599.0,
+      "gender": "men",
+      "sifra": null
+    },
+    "error": null
+  },
+  {
+    "excel": {
+      "broj": "310",
+      "naziv": "Felx",
+      "maloprodajnaCHF": 59,
+      "status": "unmatched",
+      "matchMethod": [],
+      "shopProducts": []
+    },
+    "searchByBroj": [],
+    "searchByNaziv": [
+      "https://leon.rs/p/felx-crna/",
+      "https://leon.rs/p/felx-bez/"
+    ],
+    "verified": {
+      "url": "https://leon.rs/p/felx-crna/",
+      "title": "Felx &#8211; Crna &#8211; LEON",
+      "images": [
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/310-Crna-napa1.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/favicon-100x100.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/favicon.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/logo.png",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/310-Crna-napa2.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/310-Crna-napa3.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/310-Bez1.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/Anna-Velur-SIVA.jpg"
+      ],
+      "priceRsd": 3999.0,
+      "gender": "men",
+      "sifra": null
+    },
+    "error": null
+  },
+  {
+    "excel": {
+      "broj": "320",
+      "naziv": "Calm",
+      "maloprodajnaCHF": 59,
+      "status": "unmatched",
+      "matchMethod": [],
+      "shopProducts": []
+    },
+    "searchByBroj": [],
+    "searchByNaziv": [
+      "https://leon.rs/p/calm-bez/",
+      "https://leon.rs/p/calm-crna/"
+    ],
+    "verified": {
+      "url": "https://leon.rs/p/calm-bez/",
+      "title": "Calm &#8211; Bež &#8211; LEON",
+      "images": [
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/320-Bez1.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/favicon-100x100.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/favicon.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/logo.png",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/320-Bez2.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/320-Bez3.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/320-Crna-napa1.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/AURORA-V-LED-ORLADNO.jpg"
+      ],
+      "priceRsd": 4399.0,
+      "gender": "men",
+      "sifra": null
+    },
+    "error": null
+  },
+  {
+    "excel": {
+      "broj": "302",
+      "naziv": "Melt",
+      "maloprodajnaCHF": 60,
+      "status": "unmatched",
+      "matchMethod": [],
+      "shopProducts": []
+    },
+    "searchByBroj": [],
+    "searchByNaziv": [
+      "https://leon.rs/p/melt-led/",
+      "https://leon.rs/p/melt-crna/",
+      "https://leon.rs/p/melt-bez/"
+    ],
+    "verified": {
+      "url": "https://leon.rs/p/melt-led/",
+      "title": "Melt &#8211; Led &#8211; LEON",
+      "images": [
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/302-Led1.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/favicon-100x100.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/favicon.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/logo.png",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/302-Led2.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/302-Led3.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/302-Bez1.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/302-Crna-napa1.jpg"
+      ],
+      "priceRsd": 4599.0,
+      "gender": "men",
+      "sifra": null
+    },
+    "error": null
+  },
+  {
+    "excel": {
+      "broj": "500",
+      "naziv": "Flow",
+      "maloprodajnaCHF": 47,
+      "status": "unmatched",
+      "matchMethod": [],
+      "shopProducts": []
+    },
+    "searchByBroj": [
+      "https://leon.rs/p/zenska-klompa-5002-bela/",
+      "https://leon.rs/p/zenska-klompa-5002-perla/",
+      "https://leon.rs/p/zenska-klompa-5002-crna/"
+    ],
+    "searchByNaziv": [
+      "https://leon.rs/p/flow-zelena-perlato/",
+      "https://leon.rs/p/flow-crna/",
+      "https://leon.rs/p/flow-bela/",
+      "https://leon.rs/p/flow-perla/"
+    ],
+    "verified": {
+      "url": "https://leon.rs/p/zenska-klompa-5002-bela/",
+      "title": "ŽENSKA KLOMPA 5002-BELA &#8211; LEON",
+      "images": [
+        "https://cdn.leon.rs/wp-content/uploads/2025/11/5002-Bela1.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/favicon-100x100.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/favicon.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/logo.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/11/5002-Bela3.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2025/11/5002-Bela2.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2025/11/5002-Crna1.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2025/11/5002-Perla1.jpg"
+      ],
+      "priceRsd": 4199.0,
+      "gender": "men",
+      "sifra": null
+    },
+    "error": null
+  },
+  {
+    "excel": {
+      "broj": "940",
+      "naziv": "Pure",
+      "maloprodajnaCHF": 49,
+      "status": "unmatched",
+      "matchMethod": [],
+      "shopProducts": []
+    },
+    "searchByBroj": [],
+    "searchByNaziv": [
+      "https://leon.rs/p/pure-zelena/",
+      "https://leon.rs/p/pure-bez/",
+      "https://leon.rs/p/pure-bela/"
+    ],
+    "verified": {
+      "url": "https://leon.rs/p/pure-zelena/",
+      "title": "Pure &#8211; Zelena &#8211; LEON",
+      "images": [
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/940-Zeleni-bakkar1.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/favicon-100x100.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/favicon.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/logo.png",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/940-Zeleni-bakkar2.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/940-Zeleni-bakkar3.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/940-Belai-bakkar1.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/940-Bez-bakkar1.jpg"
+      ],
+      "priceRsd": 3799.0,
+      "gender": "men",
+      "sifra": null
+    },
+    "error": null
+  },
+  {
+    "excel": {
+      "broj": "7002",
+      "naziv": "Forge",
+      "maloprodajnaCHF": 59,
+      "status": "unmatched",
+      "matchMethod": [],
+      "shopProducts": []
+    },
+    "searchByBroj": [],
+    "searchByNaziv": [
+      "https://leon.rs/p/forge-crne/",
+      "https://leon.rs/p/forge-braon/"
+    ],
+    "verified": {
+      "url": "https://leon.rs/p/forge-crne/",
+      "title": "Forge &#8211; Crne &#8211; LEON",
+      "images": [
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/7002-Crna-bakkar1.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/favicon-100x100.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/favicon.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/logo.png",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/7002-Crna-bakkar2.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/7002-Crna-bakkar3.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/7002-Braon-bakkar1.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/Andora-II-BEZ.jpg"
+      ],
+      "priceRsd": 4999.0,
+      "gender": "men",
+      "sifra": null
+    },
+    "error": null
+  },
+  {
+    "excel": {
+      "broj": "8001",
+      "naziv": "Linea",
+      "maloprodajnaCHF": 59,
+      "status": "unmatched",
+      "matchMethod": [],
+      "shopProducts": []
+    },
+    "searchByBroj": [],
+    "searchByNaziv": [
+      "https://leon.rs/p/linea-bez/",
+      "https://leon.rs/p/linea-zlatna/",
+      "https://leon.rs/p/liena-braon/"
+    ],
+    "verified": {
+      "url": "https://leon.rs/p/linea-bez/",
+      "title": "Linea &#8211; Bež &#8211; LEON",
+      "images": [
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/8001-Bez-velur1.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/favicon-100x100.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/favicon.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/logo.png",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/8001-Bez-velur2.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/8001-Bez-velur3.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/8001-Zlato1.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/8001-Braon-velur1.jpg"
+      ],
+      "priceRsd": 4999.0,
+      "gender": "men",
+      "sifra": null
+    },
+    "error": null
+  },
+  {
+    "excel": {
+      "broj": "8003",
+      "naziv": "Here",
+      "maloprodajnaCHF": 49,
+      "status": "unmatched",
+      "matchMethod": [],
+      "shopProducts": []
+    },
+    "searchByBroj": [],
+    "searchByNaziv": [
+      "https://leon.rs/p/here-zlatna/",
+      "https://leon.rs/p/here-crna/",
+      "https://leon.rs/p/here-braon/"
+    ],
+    "verified": {
+      "url": "https://leon.rs/p/here-zlatna/",
+      "title": "Here &#8211; Zlatna &#8211; LEON",
+      "images": [
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/8003-Zlato1.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/favicon-100x100.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/favicon.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/logo.png",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/8003-Zlato2.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/8003-Zlato3.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/8003-Braon-bakkar1.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/8003-Crni-bakkar1.jpg"
+      ],
+      "priceRsd": 3999.0,
+      "gender": "men",
+      "sifra": null
+    },
+    "error": null
+  },
+  {
+    "excel": {
+      "broj": "8004",
+      "naziv": "Virea",
+      "maloprodajnaCHF": 59,
+      "status": "unmatched",
+      "matchMethod": [],
+      "shopProducts": []
+    },
+    "searchByBroj": [],
+    "searchByNaziv": [
+      "https://leon.rs/p/virea-bordo/",
+      "https://leon.rs/p/virea-crna/",
+      "https://leon.rs/p/virea-braon/"
+    ],
+    "verified": {
+      "url": "https://leon.rs/p/virea-bordo/",
+      "title": "Virea &#8211; Bordo &#8211; LEON",
+      "images": [
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/8004-Bordo-velur.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/favicon-100x100.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/favicon.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/logo.png",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/8004-Bordo-velur2.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/8004-Bordo-velur3.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/8004-Braon-velur1.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/8004-Crni-velur1.jpg"
+      ],
+      "priceRsd": 4999.0,
+      "gender": "men",
+      "sifra": null
+    },
+    "error": null
+  },
+  {
+    "excel": {
+      "broj": "1132",
+      "naziv": "Serene",
+      "maloprodajnaCHF": 59,
+      "status": "unmatched",
+      "matchMethod": [],
+      "shopProducts": []
+    },
+    "searchByBroj": [],
+    "searchByNaziv": [
+      "https://leon.rs/p/serene-braon/",
+      "https://leon.rs/p/serene-zlatna/",
+      "https://leon.rs/p/serene-siva/"
+    ],
+    "verified": {
+      "url": "https://leon.rs/p/serene-braon/",
+      "title": "Serene &#8211; Braon &#8211; LEON",
+      "images": [
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/1132-Braon-velur1.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/favicon-100x100.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/favicon.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/logo.png",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/1132-Braon-velur2.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/1132-Braon-velur3.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/1132-Zlato1.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/1132-Siva-velur1.jpg"
+      ],
+      "priceRsd": 4399.0,
+      "gender": "men",
+      "sifra": null
+    },
+    "error": null
+  },
+  {
+    "excel": {
+      "broj": "1131",
+      "naziv": "Grace",
+      "maloprodajnaCHF": 59,
+      "status": "unmatched",
+      "matchMethod": [],
+      "shopProducts": []
+    },
+    "searchByBroj": [],
+    "searchByNaziv": [
+      "https://leon.rs/p/grace-bez/",
+      "https://leon.rs/p/grace-zlatna/",
+      "https://leon.rs/p/grace-braon/"
+    ],
+    "verified": {
+      "url": "https://leon.rs/p/grace-bez/",
+      "title": "Grace &#8211; Bež &#8211; LEON",
+      "images": [
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/1131-Bez1.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/favicon-100x100.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/favicon.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/logo.png",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/1131-Bez2.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/1131-Bez3.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/1131-Braon-velur1.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/1131-Zlato1.jpg"
+      ],
+      "priceRsd": 4399.0,
+      "gender": "men",
+      "sifra": null
+    },
+    "error": null
+  },
+  {
+    "excel": {
+      "broj": "1112",
+      "naziv": "Rise",
+      "maloprodajnaCHF": 59,
+      "status": "unmatched",
+      "matchMethod": [],
+      "shopProducts": []
+    },
+    "searchByBroj": [],
+    "searchByNaziv": [
+      "https://leon.rs/p/rise-zlatna/",
+      "https://leon.rs/p/rise-braon/",
+      "https://leon.rs/p/rise-bez/"
+    ],
+    "verified": {
+      "url": "https://leon.rs/p/rise-zlatna/",
+      "title": "Rise &#8211; Zlatna &#8211; LEON",
+      "images": [
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/1112-Zlato1.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/favicon-100x100.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/favicon.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/logo.png",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/1112-Zlato2.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/1112-Zlato3.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/1112-Bez1.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/1112-Braon-velur1.jpg"
+      ],
+      "priceRsd": 4399.0,
+      "gender": "men",
+      "sifra": null
+    },
+    "error": null
+  },
+  {
+    "excel": {
+      "broj": "1111",
+      "naziv": "Eleve",
+      "maloprodajnaCHF": 59,
+      "status": "unmatched",
+      "matchMethod": [],
+      "shopProducts": []
+    },
+    "searchByBroj": [],
+    "searchByNaziv": [
+      "https://leon.rs/p/eleve-braon/",
+      "https://leon.rs/p/eleve-zlatna/"
+    ],
+    "verified": {
+      "url": "https://leon.rs/p/eleve-braon/",
+      "title": "Eleve &#8211; Braon &#8211; LEON",
+      "images": [
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/1111-Braon-velur1.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/favicon-100x100.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/favicon.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/logo.png",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/1111-Braon-velur2.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/1111-Braon-velur3.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/1111-Zlato1.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/ADRIANA-ROZE-ZMIJA.jpg"
+      ],
+      "priceRsd": 4299.0,
+      "gender": "men",
+      "sifra": null
+    },
+    "error": null
+  },
+  {
+    "excel": {
+      "broj": "4307",
+      "naziv": "Root",
+      "maloprodajnaCHF": 59,
+      "status": "unmatched",
+      "matchMethod": [],
+      "shopProducts": []
+    },
+    "searchByBroj": [],
+    "searchByNaziv": [
+      "https://leon.rs/p/root-braon/",
+      "https://leon.rs/p/root-bez/",
+      "https://leon.rs/p/root-crna/"
+    ],
+    "verified": {
+      "url": "https://leon.rs/p/root-braon/",
+      "title": "Root &#8211; Braon &#8211; LEON",
+      "images": [
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/4307-Braon-nubuk1.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/favicon-100x100.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/favicon.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/logo.png",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/4307-Braon-nubuk2.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/4307-Braon-nubuk3.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/4307-Bez-nubuk1.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/4307-Crni-nubuk1.jpg"
+      ],
+      "priceRsd": 4999.0,
+      "gender": "men",
+      "sifra": null
+    },
+    "error": null
+  },
+  {
+    "excel": {
+      "broj": "937",
+      "naziv": "Even",
+      "maloprodajnaCHF": 59,
+      "status": "unmatched",
+      "matchMethod": [],
+      "shopProducts": []
+    },
+    "searchByBroj": [],
+    "searchByNaziv": [
+      "https://leon.rs/p/even-braon/",
+      "https://leon.rs/p/even-siva/"
+    ],
+    "verified": {
+      "url": "https://leon.rs/p/even-braon/",
+      "title": "Even &#8211; Braon &#8211; LEON",
+      "images": [
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/937-Braon-velur1.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/favicon-100x100.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/favicon.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/logo.png",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/937-Braon-velur2.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/937-Braon-velur3.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/937-Siva-velur1.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/AURORA-V-BORDO-BAKKAR.jpg"
+      ],
+      "priceRsd": 3999.0,
+      "gender": "men",
+      "sifra": null
+    },
+    "error": null
+  },
+  {
+    "excel": {
+      "broj": "4812",
+      "naziv": "Stella 2 *",
+      "maloprodajnaCHF": 49,
+      "status": "unmatched",
+      "matchMethod": [],
+      "shopProducts": []
+    },
+    "searchByBroj": [],
+    "searchByNaziv": [
+      "https://leon.rs/p/stella-i-zlatna/",
+      "https://leon.rs/p/stella-i-roze/",
+      "https://leon.rs/p/stella-ii-zlatna/",
+      "https://leon.rs/p/stella-ii-roze/"
+    ],
+    "verified": {
+      "url": "https://leon.rs/p/stella-ii-zlatna/",
+      "title": "Stella II &#8211; Zlatna &#8211; LEON",
+      "images": [
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/4812-Zlato1-1.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/favicon-100x100.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/favicon.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/logo.png",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/4812-Zlato3-1.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/4812-Zlato2-1.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/4812-Roze-velur1.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/4813-Zelena-bakkar.jpg"
+      ],
+      "priceRsd": 3499.0,
+      "gender": "men",
+      "sifra": null
+    },
+    "error": null
+  },
+  {
+    "excel": {
+      "broj": "4811",
+      "naziv": "Stella 1*",
+      "maloprodajnaCHF": 49,
+      "status": "unmatched",
+      "matchMethod": [],
+      "shopProducts": []
+    },
+    "searchByBroj": [],
+    "searchByNaziv": [
+      "https://leon.rs/p/stella-i-zlatna/",
+      "https://leon.rs/p/stella-i-roze/",
+      "https://leon.rs/p/stella-ii-zlatna/",
+      "https://leon.rs/p/stella-ii-roze/"
+    ],
+    "verified": {
+      "url": "https://leon.rs/p/stella-i-zlatna/",
+      "title": "Stella I &#8211; Zlatna &#8211; LEON",
+      "images": [
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/4811-Zlato1.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/favicon-100x100.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/favicon.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/logo.png",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/4811-Zlato2.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/4811-Zlato3.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/4811-Roze1.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/4810-Roze-velur1.jpg"
+      ],
+      "priceRsd": 3499.0,
+      "gender": "men",
+      "sifra": null
+    },
+    "error": null
+  },
+  {
+    "excel": {
+      "broj": "4813",
+      "naziv": "Elio*",
+      "maloprodajnaCHF": 49,
+      "status": "unmatched",
+      "matchMethod": [],
+      "shopProducts": []
+    },
+    "searchByBroj": [],
+    "searchByNaziv": [
+      "https://leon.rs/p/elio-zlatna/",
+      "https://leon.rs/p/elio-teget/",
+      "https://leon.rs/p/elio-zelena/",
+      "https://leon.rs/p/elio-siva/",
+      "https://leon.rs/p/elio-roze/"
+    ],
+    "verified": {
+      "url": "https://leon.rs/p/elio-zlatna/",
+      "title": "Elio &#8211; Zlatna &#8211; LEON",
+      "images": [
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/4813-Zlato1.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/favicon-100x100.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/favicon.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/logo.png",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/4813-Zlato2.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/4813-Zlato3.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/4813-Roze1.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/4813-Siva-bakkar1.jpg"
+      ],
+      "priceRsd": 3199.0,
+      "gender": "men",
+      "sifra": null
+    },
+    "error": null
+  },
+  {
+    "excel": {
+      "broj": "4810",
+      "naziv": "Nino*",
+      "maloprodajnaCHF": 49,
+      "status": "unmatched",
+      "matchMethod": [],
+      "shopProducts": []
+    },
+    "searchByBroj": [],
+    "searchByNaziv": [
+      "https://leon.rs/p/nino-siva/",
+      "https://leon.rs/p/nino-braon/",
+      "https://leon.rs/p/nino-roze/"
+    ],
+    "verified": {
+      "url": "https://leon.rs/p/nino-siva/",
+      "title": "Nino &#8211; Siva &#8211; LEON",
+      "images": [
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/4810-Siva-velur1.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/favicon-100x100.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/favicon.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/logo.png",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/4810-Siva-velur2.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/4810-Siva-velur3.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/4810-Braon-velur1.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/4810-Roze-velur1.jpg"
+      ],
+      "priceRsd": 3499.0,
+      "gender": "men",
+      "sifra": null
+    },
+    "error": null
+  },
+  {
+    "excel": {
+      "broj": "4705M",
+      "naziv": "Ridge",
+      "maloprodajnaCHF": 89,
+      "status": "unmatched",
+      "matchMethod": [],
+      "shopProducts": []
+    },
+    "searchByBroj": [],
+    "searchByNaziv": [
+      "https://leon.rs/p/ridge-siva/",
+      "https://leon.rs/p/ridge-tamno-siva/",
+      "https://leon.rs/p/ridge-braon/"
+    ],
+    "verified": {
+      "url": "https://leon.rs/p/ridge-siva/",
+      "title": "Ridge &#8211; Siva &#8211; LEON",
+      "images": [
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/4705M-Siva-velur1.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/favicon-100x100.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/favicon.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/logo.png",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/4705M-Siva-velur2.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/4705M-Siva-velur3.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/4705M-Braon1.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/4705M-Siva1.jpg"
+      ],
+      "priceRsd": 5999.0,
+      "gender": "men",
+      "sifra": null
+    },
+    "error": null
+  },
+  {
+    "excel": {
+      "broj": "4701M",
+      "naziv": "North",
+      "maloprodajnaCHF": 109,
+      "status": "unmatched",
+      "matchMethod": [],
+      "shopProducts": []
+    },
+    "searchByBroj": [],
+    "searchByNaziv": [
+      "https://leon.rs/p/north-siva/",
+      "https://leon.rs/p/north-braon/",
+      "https://leon.rs/p/north-tamno-siva/"
+    ],
+    "verified": {
+      "url": "https://leon.rs/p/north-siva/",
+      "title": "North &#8211; Siva &#8211; LEON",
+      "images": [
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/4701M-Siva-velur1.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/favicon-100x100.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/favicon.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/logo.png",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/4701M-Siva-velur2.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/4701M-Siva-velur3.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/4701M-Braon1.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/04/4701-Siva1-1.jpg"
+      ],
+      "priceRsd": 7999.0,
+      "gender": "men",
+      "sifra": null
+    },
+    "error": null
+  },
+  {
+    "excel": {
+      "broj": "PU101M",
+      "naziv": "Muska Klompa",
+      "maloprodajnaCHF": 49,
+      "status": "unmatched",
+      "matchMethod": [],
+      "shopProducts": []
+    },
+    "searchByBroj": [],
+    "searchByNaziv": [
+      "https://leon.rs/p/north-siva/",
+      "https://leon.rs/p/ridge-siva/",
+      "https://leon.rs/p/ridge-tamno-siva/",
+      "https://leon.rs/p/ridge-braon/",
+      "https://leon.rs/p/north-braon/"
+    ],
+    "verified": null,
+    "error": null
+  },
+  {
+    "excel": {
+      "broj": "PU115",
+      "naziv": "Zenska Klompa",
+      "maloprodajnaCHF": 39,
+      "status": "unmatched",
+      "matchMethod": [],
+      "shopProducts": []
+    },
+    "searchByBroj": [],
+    "searchByNaziv": [
+      "https://leon.rs/p/axis-zlatna/",
+      "https://leon.rs/p/orbita-siva/",
+      "https://leon.rs/p/root-braon/",
+      "https://leon.rs/p/root-bez/",
+      "https://leon.rs/p/root-crna/"
+    ],
+    "verified": null,
+    "error": null
+  },
+  {
+    "excel": {
+      "broj": "3400",
+      "naziv": "Zenska Klompa",
+      "maloprodajnaCHF": 39,
+      "status": "unmatched",
+      "matchMethod": [],
+      "shopProducts": []
+    },
+    "searchByBroj": [],
+    "searchByNaziv": [
+      "https://leon.rs/p/axis-zlatna/",
+      "https://leon.rs/p/orbita-siva/",
+      "https://leon.rs/p/root-braon/",
+      "https://leon.rs/p/root-bez/",
+      "https://leon.rs/p/root-crna/"
+    ],
+    "verified": null,
+    "error": null
+  },
+  {
+    "excel": {
+      "broj": "3500",
+      "naziv": "Rubikon",
+      "maloprodajnaCHF": 49,
+      "status": "unmatched",
+      "matchMethod": [],
+      "shopProducts": []
+    },
+    "searchByBroj": [],
+    "searchByNaziv": [],
+    "verified": null,
+    "error": null
+  },
+  {
+    "excel": {
+      "broj": "5001",
+      "naziv": "Nora 5",
+      "maloprodajnaCHF": 69,
+      "status": "unmatched",
+      "matchMethod": [],
+      "shopProducts": []
+    },
+    "searchByBroj": [],
+    "searchByNaziv": [
+      "https://leon.rs/p/nora-ii-braon/",
+      "https://leon.rs/p/nora-iv-sampanj/",
+      "https://leon.rs/p/nora-iv-perla/",
+      "https://leon.rs/p/nora-iv-crna/",
+      "https://leon.rs/p/nora-iv-bela/"
+    ],
+    "verified": {
+      "url": "https://leon.rs/p/nora-iv-sampanj/",
+      "title": "Nora IV &#8211; SAMPANJ &#8211; LEON",
+      "images": [
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/nora-iv-538.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/favicon-100x100.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/favicon.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/logo.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/Nora-IV-SAMPANJ-5.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/Nora-IV-SAMPANJ-6.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/Nora-IV-SAMPANJ-3.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/Nora-IV-SAMPANJ-4.jpg"
+      ],
+      "priceRsd": 4399.0,
+      "gender": "men",
+      "sifra": null
+    },
+    "error": null
+  },
+  {
+    "excel": {
+      "broj": "933",
+      "naziv": "Bakkar",
+      "maloprodajnaCHF": 49,
+      "status": "unmatched",
+      "matchMethod": [],
+      "shopProducts": []
+    },
+    "searchByBroj": [],
+    "searchByNaziv": [
+      "https://leon.rs/p/andora-roze-bakkar/",
+      "https://leon.rs/p/andora-crna-bakkar/",
+      "https://leon.rs/p/andora-bela-bakkar/",
+      "https://leon.rs/p/rubicon-teget-bakkar/",
+      "https://leon.rs/p/rubicon-crna-bakkar/"
+    ],
+    "verified": {
+      "url": "https://leon.rs/p/andora-roze-bakkar/",
+      "title": "Andora &#8211; ROZE BAKKAR &#8211; LEON",
+      "images": [
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/Andora-ROZE-BAKKAR.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/favicon-100x100.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/favicon.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/logo.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/Andora-ROZE-BAKKAR-1.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/Andora-ROZE-BAKKAR-2.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/Andora-ROZE-BAKKAR-3.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/Andora-ROZE-BAKKAR-4.jpg"
+      ],
+      "priceRsd": 6499.0,
+      "gender": "men",
+      "sifra": null
+    },
+    "error": null
+  },
+  {
+    "excel": {
+      "broj": "970",
+      "naziv": "Leona Bakkar",
+      "maloprodajnaCHF": 49,
+      "status": "unmatched",
+      "matchMethod": [],
+      "shopProducts": []
+    },
+    "searchByBroj": [],
+    "searchByNaziv": [
+      "https://leon.rs/p/leona-perla/",
+      "https://leon.rs/p/leona-sampanj/",
+      "https://leon.rs/p/leona-bakkar-teget-bakkar/",
+      "https://leon.rs/p/leona-bakkar-roze-bakkar/",
+      "https://leon.rs/p/leona-bakkar-bela-bakkar/"
+    ],
+    "verified": {
+      "url": "https://leon.rs/p/leona-perla/",
+      "title": "Leona &#8211; PERLA &#8211; LEON",
+      "images": [
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/Leona-PERLA.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/favicon-100x100.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/favicon.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/logo.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/Leona-PERLA-1.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/Leona-PERLA-2.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/Leona-PERLA-3.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/Leona-PERLA-4.jpg"
+      ],
+      "priceRsd": 3299.0,
+      "gender": "men",
+      "sifra": null
+    },
+    "error": null
+  },
+  {
+    "excel": {
+      "broj": "991",
+      "naziv": "Zenska Klompa",
+      "maloprodajnaCHF": 49,
+      "status": "unmatched",
+      "matchMethod": [],
+      "shopProducts": []
+    },
+    "searchByBroj": [],
+    "searchByNaziv": [
+      "https://leon.rs/p/axis-zlatna/",
+      "https://leon.rs/p/orbita-siva/",
+      "https://leon.rs/p/root-braon/",
+      "https://leon.rs/p/root-bez/",
+      "https://leon.rs/p/root-crna/"
+    ],
+    "verified": null,
+    "error": null
+  },
+  {
+    "excel": {
+      "broj": "300",
+      "naziv": "Zenska Klompa",
+      "maloprodajnaCHF": 49,
+      "status": "unmatched",
+      "matchMethod": [],
+      "shopProducts": []
+    },
+    "searchByBroj": [
+      "https://leon.rs/p/zenska-klompa-3300-crna/",
+      "https://leon.rs/p/zenska-klompa-3300-perla/",
+      "https://leon.rs/p/zenska-klompa-3300-bela/"
+    ],
+    "searchByNaziv": [
+      "https://leon.rs/p/axis-zlatna/",
+      "https://leon.rs/p/orbita-siva/",
+      "https://leon.rs/p/root-braon/",
+      "https://leon.rs/p/root-bez/",
+      "https://leon.rs/p/root-crna/"
+    ],
+    "verified": {
+      "url": "https://leon.rs/p/zenska-klompa-3300-crna/",
+      "title": "ŽENSKA KLOMPA 3300- CRNA &#8211; LEON",
+      "images": [
+        "https://cdn.leon.rs/wp-content/uploads/2025/11/DSC07235.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/favicon-100x100.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/favicon.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/logo.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/11/DSC07236.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2025/11/DSC07237.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2025/11/DSC07238.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2025/11/DSC07193.jpg"
+      ],
+      "priceRsd": 2999.0,
+      "gender": "men",
+      "sifra": null
+    },
+    "error": null
+  },
+  {
+    "excel": {
+      "broj": "7011",
+      "naziv": "Siena2",
+      "maloprodajnaCHF": 69,
+      "status": "unmatched",
+      "matchMethod": [],
+      "shopProducts": []
+    },
+    "searchByBroj": [],
+    "searchByNaziv": [],
+    "verified": null,
+    "error": null
+  },
+  {
+    "excel": {
+      "broj": "7080",
+      "naziv": "Doris",
+      "maloprodajnaCHF": 59,
+      "status": "unmatched",
+      "matchMethod": [],
+      "shopProducts": []
+    },
+    "searchByBroj": [],
+    "searchByNaziv": [
+      "https://leon.rs/p/doris-zlatna/",
+      "https://leon.rs/p/doris-crna/"
+    ],
+    "verified": {
+      "url": "https://leon.rs/p/doris-zlatna/",
+      "title": "Doris &#8211; ZLATNA &#8211; LEON",
+      "images": [
+        "https://cdn.leon.rs/wp-content/uploads/2026/02/7080-Zlato1.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/favicon-100x100.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/favicon.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/logo.png",
+        "https://cdn.leon.rs/wp-content/uploads/2026/02/7080-Zlato2.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/02/7080-Zlato3.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/02/7080-Zlato4.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2026/02/7080-Crna1.jpg"
+      ],
+      "priceRsd": 4999.0,
+      "gender": "men",
+      "sifra": null
+    },
+    "error": null
+  },
+  {
+    "excel": {
+      "broj": "4010",
+      "naziv": "Anna Velur",
+      "maloprodajnaCHF": 49,
+      "status": "unmatched",
+      "matchMethod": [],
+      "shopProducts": []
+    },
+    "searchByBroj": [],
+    "searchByNaziv": [
+      "https://leon.rs/p/anna-velur-siva/",
+      "https://leon.rs/p/anna-velur-braon/",
+      "https://leon.rs/p/anna-velur-bez/",
+      "https://leon.rs/p/anna-roze-velur/",
+      "https://leon.rs/p/anna-crna-bakkar/"
+    ],
+    "verified": {
+      "url": "https://leon.rs/p/anna-velur-siva/",
+      "title": "Anna Velur &#8211; SIVA &#8211; LEON",
+      "images": [
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/Anna-Velur-SIVA.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/favicon-100x100.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/favicon.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/logo.png",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/Anna-Velur-SIVA-1.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/Anna-Velur-SIVA-2.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/Anna-Velur-BEZ.jpg",
+        "https://cdn.leon.rs/wp-content/uploads/2025/09/Anna-Velur-BRAON.jpg"
+      ],
+      "priceRsd": 3999.0,
+      "gender": "men",
+      "sifra": null
+    },
+    "error": null
+  }
+]

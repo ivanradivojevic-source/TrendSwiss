@@ -239,7 +239,8 @@ function makeDefaultSizes(category) {
   if (category === 'men') {
     return ['40', '41', '42', '43', '44'];
   }
-  return ['36', '37', '38', '39', '40', '41', '42'];
+  // Women's papuče on leon.rs: 36–41 (no 42)
+  return ['36', '37', '38', '39', '40', '41'];
 }
 
 function makeDefaultColors() {

@@ -1,0 +1,423 @@
+{
+  "syncedAt": "2026-05-17T10:01:18.681Z",
+  "models": [
+    {
+      "broj": "500",
+      "naziv": "Flow",
+      "colors": [
+        {
+          "slug": "flow-zelena-perlato",
+          "sizes": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42"
+          ],
+          "url": "https://leon.rs/p/flow-zelena-perlato/"
+        },
+        {
+          "slug": "flow-crna",
+          "sizes": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42"
+          ],
+          "url": "https://leon.rs/p/flow-crna/"
+        },
+        {
+          "slug": "flow-bela",
+          "sizes": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42"
+          ],
+          "url": "https://leon.rs/p/flow-bela/"
+        },
+        {
+          "slug": "flow-perla",
+          "sizes": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42"
+          ],
+          "url": "https://leon.rs/p/flow-perla/"
+        }
+      ],
+      "added": 0,
+      "updated": 4
+    },
+    {
+      "broj": "510",
+      "naziv": "Line",
+      "colors": [
+        {
+          "slug": "line-zelena",
+          "sizes": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42"
+          ],
+          "url": "https://leon.rs/p/line-zelena/"
+        },
+        {
+          "slug": "line-braon",
+          "sizes": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42"
+          ],
+          "url": "https://leon.rs/p/line-braon/"
+        },
+        {
+          "slug": "line-siva",
+          "sizes": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42"
+          ],
+          "url": "https://leon.rs/p/line-siva/"
+        },
+        {
+          "slug": "line-crna",
+          "sizes": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42"
+          ],
+          "url": "https://leon.rs/p/line-crna/"
+        }
+      ],
+      "added": 0,
+      "updated": 4
+    },
+    {
+      "broj": "4800",
+      "naziv": "Olaf",
+      "colors": [
+        {
+          "slug": "olaf-teget",
+          "sizes": [
+            "26",
+            "27",
+            "28",
+            "29",
+            "30",
+            "31",
+            "32",
+            "33",
+            "34"
+          ],
+          "url": "https://leon.rs/p/olaf-teget/"
+        },
+        {
+          "slug": "olaf-perla",
+          "sizes": [
+            "26",
+            "27",
+            "28",
+            "29",
+            "30",
+            "31",
+            "32",
+            "33",
+            "34"
+          ],
+          "url": "https://leon.rs/p/olaf-perla/"
+        }
+      ],
+      "added": 0,
+      "updated": 2
+    },
+    {
+      "broj": "4810",
+      "naziv": "Nino",
+      "colors": [
+        {
+          "slug": "nino-siva",
+          "sizes": [
+            "22",
+            "23",
+            "24",
+            "25",
+            "26",
+            "27",
+            "28",
+            "29",
+            "30",
+            "31",
+            "32",
+            "33",
+            "34"
+          ],
+          "url": "https://leon.rs/p/nino-siva/"
+        },
+        {
+          "slug": "nino-braon",
+          "sizes": [
+            "22",
+            "23",
+            "24",
+            "25",
+            "26",
+            "27",
+            "28",
+            "29",
+            "30",
+            "31",
+            "32",
+            "33",
+            "34"
+          ],
+          "url": "https://leon.rs/p/nino-braon/"
+        },
+        {
+          "slug": "nino-roze",
+          "sizes": [
+            "22",
+            "23",
+            "24",
+            "25",
+            "26",
+            "27",
+            "28",
+            "29",
+            "30",
+            "31",
+            "32",
+            "33",
+            "34"
+          ],
+          "url": "https://leon.rs/p/nino-roze/"
+        }
+      ],
+      "added": 0,
+      "updated": 3
+    },
+    {
+      "broj": "4811",
+      "naziv": "Stella",
+      "colors": [
+        {
+          "slug": "stella-i-zlatna",
+          "sizes": [
+            "22",
+            "23",
+            "24",
+            "25",
+            "26",
+            "27",
+            "28",
+            "29",
+            "30",
+            "31",
+            "32",
+            "33",
+            "34"
+          ],
+          "url": "https://leon.rs/p/stella-i-zlatna/"
+        },
+        {
+          "slug": "stella-i-roze",
+          "sizes": [
+            "22",
+            "23",
+            "24",
+            "25",
+            "26",
+            "27",
+            "28",
+            "29",
+            "30",
+            "31",
+            "32",
+            "33",
+            "34"
+          ],
+          "url": "https://leon.rs/p/stella-i-roze/"
+        }
+      ],
+      "added": 0,
+      "updated": 2
+    },
+    {
+      "broj": "4812",
+      "naziv": "Stella II",
+      "colors": [
+        {
+          "slug": "stella-ii-zlatna",
+          "sizes": [
+            "22",
+            "23",
+            "24",
+            "25",
+            "26",
+            "27",
+            "28",
+            "29",
+            "30",
+            "31",
+            "32",
+            "33",
+            "34"
+          ],
+          "url": "https://leon.rs/p/stella-ii-zlatna/"
+        },
+        {
+          "slug": "stella-ii-roze",
+          "sizes": [
+            "22",
+            "23",
+            "24",
+            "25",
+            "26",
+            "27",
+            "28",
+            "29",
+            "30",
+            "31",
+            "32",
+            "33",
+            "34"
+          ],
+          "url": "https://leon.rs/p/stella-ii-roze/"
+        }
+      ],
+      "added": 0,
+      "updated": 2
+    },
+    {
+      "broj": "4813",
+      "naziv": "Elio",
+      "colors": [
+        {
+          "slug": "elio-zlatna",
+          "sizes": [
+            "22",
+            "23",
+            "24",
+            "25",
+            "26",
+            "27",
+            "28",
+            "29",
+            "30",
+            "31",
+            "32",
+            "33",
+            "34"
+          ],
+          "url": "https://leon.rs/p/elio-zlatna/"
+        },
+        {
+          "slug": "elio-teget",
+          "sizes": [
+            "22",
+            "23",
+            "24",
+            "25",
+            "26",
+            "27",
+            "28",
+            "29",
+            "30",
+            "31",
+            "32",
+            "33",
+            "34"
+          ],
+          "url": "https://leon.rs/p/elio-teget/"
+        },
+        {
+          "slug": "elio-zelena",
+          "sizes": [
+            "22",
+            "23",
+            "24",
+            "25",
+            "26",
+            "27",
+            "28",
+            "29",
+            "30",
+            "31",
+            "32",
+            "33",
+            "34"
+          ],
+          "url": "https://leon.rs/p/elio-zelena/"
+        },
+        {
+          "slug": "elio-siva",
+          "sizes": [
+            "22",
+            "23",
+            "24",
+            "25",
+            "26",
+            "27",
+            "28",
+            "29",
+            "30",
+            "31",
+            "32",
+            "33",
+            "34"
+          ],
+          "url": "https://leon.rs/p/elio-siva/"
+        },
+        {
+          "slug": "elio-roze",
+          "sizes": [
+            "22",
+            "23",
+            "24",
+            "25",
+            "26",
+            "27",
+            "28",
+            "29",
+            "30",
+            "31",
+            "32",
+            "33",
+            "34"
+          ],
+          "url": "https://leon.rs/p/elio-roze/"
+        }
+      ],
+      "added": 0,
+      "updated": 5
+    }
+  ]
+}

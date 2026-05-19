@@ -9,6 +9,9 @@ import {
   stripColorsFromPathSlug,
 } from '@/data/leonMultiLocale';
 import leonRaw from '@/data/leon-products.raw.json';
+import leonSiteSkuCache from '../../scripts/leon-site-sku-cache.json';
+
+type LeonSkuEntry = { sifra?: string };
 
 export type ExcelPriceRow = {
   broj: string;
@@ -124,6 +127,17 @@ function brojMatch(broj: string, p: Product, stem: string | null): boolean {
   return false;
 }
 
+function pathMatchesExcelKey(pathSlug: string, ek: string): boolean {
+  if (pathSlug === ek) return true;
+  if (!pathSlug.startsWith(`${ek}-`)) return false;
+  // liora-i ≠ liora-ii (slugNameMatch ranje hvatao liora-ii-zlatna za „Liora 1“)
+  if (ek === 'liora-i' && pathSlug.startsWith('liora-ii')) return false;
+  if (ek === 'anna-velur' || ek === 'anna-1') {
+    if (!pathSlug.includes('velur') && pathSlug !== 'anna-braon') return false;
+  }
+  return true;
+}
+
 function slugNameMatch(excelNaziv: string, p: Product, stem: string | null): boolean {
   const eKeys = excelNameKeys(excelNaziv);
   const slug = p.slug?.toLowerCase() ?? '';
@@ -134,8 +148,11 @@ function slugNameMatch(excelNaziv: string, p: Product, stem: string | null): boo
     for (const a of EXCEL_STEM_ALIASES[ek] ?? []) aliases.add(a);
   }
   for (const ek of Array.from(aliases)) {
-    if (slug.includes(ek) || pathSlug.startsWith(`${ek}-`) || pathSlug === ek) return true;
-    if (stem && (stem === ek || stem.startsWith(`${ek}-`) || stem.includes(ek))) return true;
+    if (pathMatchesExcelKey(pathSlug, ek)) return true;
+    if (stem && (stem === ek || stem.startsWith(`${ek}-`))) {
+      if (ek === 'liora-i' && stem.startsWith('liora-ii')) continue;
+      return true;
+    }
   }
   return false;
 }
@@ -147,26 +164,61 @@ function productKeys(p: Product) {
   return { stem, urlSlug };
 }
 
+/** Šifra sa leon.rs (kolona C na sajtu proizvođača). */
+export function leonCatalogSifra(slug: string): string | undefined {
+  const entry = (leonSiteSkuCache as Record<string, LeonSkuEntry>)[slug];
+  const s = entry?.sifra?.trim();
+  return s || undefined;
+}
+
+/** Da li Excel red (kolona C + naziv) pripada ovom shop proizvodu. */
+export function productMatchesExcelRow(row: ExcelPriceRow, p: Product): boolean {
+  const sifra = leonCatalogSifra(p.slug);
+  const { stem, urlSlug } = productKeys(p);
+
+  if (sifra) {
+    if (row.broj === sifra) return true;
+    if (brojMatch(row.broj, p, stem)) return true;
+    return false;
+  }
+
+  return (
+    brojMatch(row.broj, p, stem) ||
+    nameMatch(row.naziv, stem, urlSlug) ||
+    slugNameMatch(row.naziv, p, stem)
+  );
+}
+
+/** Najbolji Excel red za proizvod (poslednji red u tabeli ako ima duplikata). */
+export function findExcelRowForProduct(
+  p: Product,
+  excelRows: ExcelPriceRow[]
+): ExcelPriceRow | null {
+  const sifra = leonCatalogSifra(p.slug);
+  if (sifra) {
+    const byBroj = excelRows.filter((r) => r.broj === sifra);
+    if (byBroj.length) return byBroj[byBroj.length - 1]!;
+  }
+  const matches = excelRows.filter((r) => productMatchesExcelRow(r, p));
+  if (!matches.length) return null;
+  return matches[matches.length - 1]!;
+}
+
 /** Proizvodi iz kataloga koji odgovaraju jednom Excel redu (+ boje iz iste model grupe). */
 export function matchProductsForExcelRow(row: ExcelPriceRow, catalog: Product[]): Product[] {
   const hits = new Set<Product>();
 
   for (const p of catalog) {
-    const { stem, urlSlug } = productKeys(p);
-    if (
-      brojMatch(row.broj, p, stem) ||
-      nameMatch(row.naziv, stem, urlSlug) ||
-      slugNameMatch(row.naziv, p, stem)
-    ) {
-      hits.add(p);
-    }
+    if (productMatchesExcelRow(row, p)) hits.add(p);
   }
 
   const expanded = new Set<Product>(hits);
   for (const p of Array.from(hits)) {
     if (!p.modelGroupId) continue;
     for (const sib of catalog) {
-      if (sib.modelGroupId === p.modelGroupId) expanded.add(sib);
+      if (sib.modelGroupId === p.modelGroupId && productMatchesExcelRow(row, sib)) {
+        expanded.add(sib);
+      }
     }
   }
 

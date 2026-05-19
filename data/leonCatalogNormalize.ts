@@ -45,6 +45,9 @@ const LEON_EXPLICIT_MODEL_GROUP_BY_SLUG = new Map<string, string>([
   ...['liora-zelena', 'liora-i-crna', 'liora-i-bela'].map(
     (slug) => [slug, 'leon-mg-liora-i-women'] as const
   ),
+  ...['liora-ii-zlatna', 'liora-ii-crna', 'liora-ii-bela'].map(
+    (slug) => [slug, 'leon-mg-liora-ii-women'] as const
+  ),
   ...['mia-roze-bakkar', 'mia-crna-bakkar', 'mia-bela-bakkar'].map(
     (slug) => [slug, 'leon-mg-mia-4019-women'] as const
   ),

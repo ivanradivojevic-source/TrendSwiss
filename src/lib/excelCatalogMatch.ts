@@ -59,7 +59,7 @@ function excelNameKeys(naziv: string): string[] {
     const rw = ROMAN_WORD[m[2]];
     if (rw) keys.add(`${stem}-${rw}`);
   }
-  return [...keys];
+  return Array.from(keys);
 }
 
 function hasVariantSuffix(key: string): boolean {
@@ -76,13 +76,13 @@ function nameMatch(excelNaziv: string, productStem: string | null, urlSlug: stri
     pKeys.add(stripColorsFromPathSlug(urlSlug));
   }
   for (const ek of eKeys) {
-    for (const pk of pKeys) {
+    for (const pk of Array.from(pKeys)) {
       if (ek === pk) return true;
     }
   }
   if (eKeys.some((k) => hasVariantSuffix(k))) return false;
   const baseOnly = normKey(excelNaziv.split(/\s+\d/)[0] ?? excelNaziv);
-  for (const pk of pKeys) {
+  for (const pk of Array.from(pKeys)) {
     if (pk === baseOnly && !hasVariantSuffix(pk)) return true;
   }
   return false;
@@ -133,7 +133,7 @@ function slugNameMatch(excelNaziv: string, p: Product, stem: string | null): boo
     aliases.add(ek);
     for (const a of EXCEL_STEM_ALIASES[ek] ?? []) aliases.add(a);
   }
-  for (const ek of aliases) {
+  for (const ek of Array.from(aliases)) {
     if (slug.includes(ek) || pathSlug.startsWith(`${ek}-`) || pathSlug === ek) return true;
     if (stem && (stem === ek || stem.startsWith(`${ek}-`) || stem.includes(ek))) return true;
   }
@@ -163,14 +163,14 @@ export function matchProductsForExcelRow(row: ExcelPriceRow, catalog: Product[])
   }
 
   const expanded = new Set<Product>(hits);
-  for (const p of hits) {
+  for (const p of Array.from(hits)) {
     if (!p.modelGroupId) continue;
     for (const sib of catalog) {
       if (sib.modelGroupId === p.modelGroupId) expanded.add(sib);
     }
   }
 
-  return [...expanded];
+  return Array.from(expanded);
 }
 
 /** Jedinstveni slugovi svih proizvoda koji su na Excel listi cena. */
@@ -181,5 +181,5 @@ export function excelPricedProductSlugs(catalog: Product[], excelRows: ExcelPric
       slugs.add(p.slug);
     }
   }
-  return [...slugs].sort();
+  return Array.from(slugs).sort();
 }

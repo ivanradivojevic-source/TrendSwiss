@@ -38,9 +38,15 @@ export default function AddToCartForm({
     !groupedModelColors && !leonSingleModelVariant && product.colors.length > 1;
   const showLeonSizeGuide =
     product.brand === 'leon' &&
-    (product.category === 'men' || product.category === 'women');
+    (product.category === 'men' ||
+      product.category === 'women' ||
+      product.category === 'children');
   const leonSizeGuideVariant =
-    product.category === 'women' ? 'women' : 'men';
+    product.category === 'women'
+      ? 'women'
+      : product.category === 'children'
+        ? 'children'
+        : 'men';
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();

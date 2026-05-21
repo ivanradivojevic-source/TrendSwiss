@@ -6,7 +6,7 @@ import { categories } from '@/data/categories';
 import type { CategoryId } from '@/data/categories';
 import { exploreCategories } from '@/data/explore-categories';
 import type { ExploreCategoryId } from '@/data/explore-categories';
-import { getExploreCategoriesForProduct } from '@/src/lib/exploreClassifier';
+import { getExploreCategoriesForProduct, isUncategorizedProduct } from '@/src/lib/exploreClassifier';
 import { formatArticleLine } from '@/src/lib/productArticle';
 import { formatProductPriceLabel, productHasPrice } from '@/src/lib/productPrice';
 import MobileFilterSheet from '@/components/MobileFilterSheet';
@@ -18,10 +18,10 @@ export default async function ShopPage({
   searchParams,
 }: {
   params: Promise<{ locale: string }>;
-  searchParams: Promise<{ cat?: string; cats?: string; brand?: string; pcats?: string }>;
+  searchParams: Promise<{ cat?: string; cats?: string; brand?: string; pcats?: string; uncat?: string }>;
 }) {
   const { locale } = await params;
-  const { cat, cats, brand, pcats } = await searchParams;
+  const { cat, cats, brand, pcats, uncat } = await searchParams;
   const t = await getTranslations('shop');
   const loc = locale as 'de' | 'fr' | 'en' | 'it';
 
@@ -55,11 +55,15 @@ export default async function ShopPage({
     return parts.filter((p): p is ExploreCategoryId => (allExploreIds as string[]).includes(p));
   };
   const selectedExplore = Array.from(new Set(parseExplore(pcats)));
+  const showUncategorized = uncat === '1';
 
-  const filtered = products.filter((p) => {
+  const pricedProducts = products.filter(productHasPrice);
+  const uncategorizedCount = pricedProducts.filter(isUncategorizedProduct).length;
+
+  const filtered = pricedProducts.filter((p) => {
     if (selectedCats.length && !selectedCats.includes(p.category)) return false;
     if (selectedBrand && p.brand !== selectedBrand) return false;
-    if (!productHasPrice(p)) return false;
+    if (showUncategorized) return isUncategorizedProduct(p);
     if (selectedExplore.length) {
       const tags = getExploreCategoriesForProduct(p);
       if (!selectedExplore.some((id) => tags.includes(id))) return false;
@@ -70,12 +74,14 @@ export default async function ShopPage({
   const buildHref = (
     nextCats: CategoryId[],
     nextBrand: 'leon' | 'milami' | null,
-    nextExplore: ExploreCategoryId[]
+    nextExplore: ExploreCategoryId[],
+    nextUncategorized = false
   ) => {
     const params = new URLSearchParams();
     if (nextCats.length) params.set('cats', nextCats.join(','));
     if (nextBrand) params.set('brand', nextBrand);
-    if (nextExplore.length) params.set('pcats', nextExplore.join(','));
+    if (!nextUncategorized && nextExplore.length) params.set('pcats', nextExplore.join(','));
+    if (nextUncategorized) params.set('uncat', '1');
     const qs = params.toString();
     return `/${locale}/shop${qs ? `?${qs}` : ''}`;
   };
@@ -147,14 +153,16 @@ export default async function ShopPage({
               <Link
                 href={buildHref(selectedCats, selectedBrand, [])}
                 className={`flex min-h-12 items-center gap-2 rounded-xl px-4 py-3 ${
-                  selectedExplore.length === 0
+                  !showUncategorized && selectedExplore.length === 0
                     ? 'bg-red-600 text-white font-semibold'
                     : 'text-neutral-800 bg-neutral-50 hover:bg-neutral-100'
                 }`}
               >
                 <span
                   className={`h-4 w-4 rounded border ${
-                    selectedExplore.length === 0 ? 'border-white bg-white/20' : 'border-neutral-300 bg-white'
+                    !showUncategorized && selectedExplore.length === 0
+                      ? 'border-white bg-white/20'
+                      : 'border-neutral-300 bg-white'
                   }`}
                   aria-hidden
                 />
@@ -163,24 +171,50 @@ export default async function ShopPage({
               {exploreCategories.map((c) => (
                 <Link
                   key={c.id}
-                  href={buildHref(selectedCats, selectedBrand, toggleExplore(c.id))}
+                  href={buildHref(selectedCats, selectedBrand, toggleExplore(c.id), false)}
                   className={`flex min-h-12 items-center gap-2 rounded-xl px-4 py-3 ${
-                    selectedExplore.includes(c.id)
+                    !showUncategorized && selectedExplore.includes(c.id)
                       ? 'bg-red-600 text-white font-semibold'
                       : 'text-neutral-800 bg-neutral-50 hover:bg-neutral-100'
                   }`}
                 >
                   <span
                     className={`grid h-4 w-4 place-items-center rounded border ${
-                      selectedExplore.includes(c.id) ? 'border-white bg-white/20' : 'border-neutral-300 bg-white'
+                      !showUncategorized && selectedExplore.includes(c.id)
+                        ? 'border-white bg-white/20'
+                        : 'border-neutral-300 bg-white'
                     }`}
                     aria-hidden
                   >
-                    {selectedExplore.includes(c.id) ? <span className="block h-2 w-2 rounded-sm bg-white" /> : null}
+                    {!showUncategorized && selectedExplore.includes(c.id) ? (
+                      <span className="block h-2 w-2 rounded-sm bg-white" />
+                    ) : null}
                   </span>
                   {c.label[loc]}
                 </Link>
               ))}
+              <Link
+                href={
+                  showUncategorized
+                    ? buildHref(selectedCats, selectedBrand, selectedExplore, false)
+                    : buildHref(selectedCats, selectedBrand, [], true)
+                }
+                className={`flex min-h-12 items-center gap-2 rounded-xl border px-4 py-3 ${
+                  showUncategorized
+                    ? 'border-amber-500 bg-amber-500 text-white font-semibold'
+                    : 'border-amber-200 bg-amber-50 text-amber-950 hover:bg-amber-100'
+                }`}
+              >
+                <span
+                  className={`grid h-4 w-4 place-items-center rounded border ${
+                    showUncategorized ? 'border-white bg-white/20' : 'border-amber-400 bg-white'
+                  }`}
+                  aria-hidden
+                >
+                  {showUncategorized ? <span className="block h-2 w-2 rounded-sm bg-white" /> : null}
+                </span>
+                {t('uncategorizedFilter', { count: uncategorizedCount })}
+              </Link>
             </div>
           </div>
 
@@ -188,7 +222,7 @@ export default async function ShopPage({
             <h2 className="text-sm font-semibold text-neutral-800">{t('categories')}</h2>
             <div className="mt-3 space-y-2 text-sm">
               <Link
-                href={buildHref([], selectedBrand, selectedExplore)}
+                href={buildHref([], selectedBrand, selectedExplore, showUncategorized)}
                 className={`flex min-h-12 items-center gap-2 rounded-xl px-4 py-3 ${
                   selectedCats.length === 0
                     ? 'bg-red-600 text-white font-semibold'
@@ -206,7 +240,7 @@ export default async function ShopPage({
               {categories.map((c) => (
                 <Link
                   key={c.id}
-                  href={buildHref(toggleCat(c.id), selectedBrand, selectedExplore)}
+                  href={buildHref(toggleCat(c.id), selectedBrand, selectedExplore, showUncategorized)}
                   className={`flex min-h-12 items-center gap-2 rounded-xl px-4 py-3 ${
                     selectedCats.includes(c.id)
                       ? 'bg-red-600 text-white font-semibold'
@@ -231,7 +265,7 @@ export default async function ShopPage({
             <h2 className="text-sm font-semibold text-neutral-800">{t('brandTitle')}</h2>
             <div className="mt-3 space-y-2 text-sm">
               <Link
-                href={buildHref(selectedCats, null, selectedExplore)}
+                href={buildHref(selectedCats, null, selectedExplore, showUncategorized)}
                 className={`flex min-h-12 items-center rounded-xl px-4 py-3 ${
                   !selectedBrand ? 'bg-red-600 text-white font-semibold' : 'text-neutral-800 bg-neutral-50 hover:bg-neutral-100'
                 }`}
@@ -249,7 +283,7 @@ export default async function ShopPage({
                 Leon
               </Link>
               <Link
-                href={buildHref(selectedCats, 'milami', selectedExplore)}
+                href={buildHref(selectedCats, 'milami', selectedExplore, showUncategorized)}
                 className={`flex min-h-12 items-center rounded-xl px-4 py-3 ${
                   selectedBrand === 'milami'
                     ? 'bg-red-600 text-white font-semibold'
@@ -271,14 +305,16 @@ export default async function ShopPage({
               <Link
                 href={buildHref(selectedCats, selectedBrand, [])}
                 className={`flex min-h-11 items-center gap-2 rounded-lg px-3 py-2 ${
-                  selectedExplore.length === 0
+                  !showUncategorized && selectedExplore.length === 0
                     ? 'bg-red-600 text-white font-semibold'
                     : 'text-neutral-700 hover:bg-red-50'
                 }`}
               >
                 <span
                   className={`h-4 w-4 rounded border ${
-                    selectedExplore.length === 0 ? 'border-white bg-white/20' : 'border-neutral-300 bg-white'
+                    !showUncategorized && selectedExplore.length === 0
+                      ? 'border-white bg-white/20'
+                      : 'border-neutral-300 bg-white'
                   }`}
                   aria-hidden
                 />
@@ -287,26 +323,50 @@ export default async function ShopPage({
               {exploreCategories.map((c) => (
                 <Link
                   key={c.id}
-                  href={buildHref(selectedCats, selectedBrand, toggleExplore(c.id))}
+                  href={buildHref(selectedCats, selectedBrand, toggleExplore(c.id), false)}
                   className={`flex min-h-11 items-center gap-2 rounded-lg px-3 py-2 ${
-                    selectedExplore.includes(c.id)
+                    !showUncategorized && selectedExplore.includes(c.id)
                       ? 'bg-red-600 text-white font-semibold'
                       : 'text-neutral-700 hover:bg-red-50'
                   }`}
                 >
                   <span
                     className={`grid h-4 w-4 place-items-center rounded border ${
-                      selectedExplore.includes(c.id) ? 'border-white bg-white/20' : 'border-neutral-300 bg-white'
+                      !showUncategorized && selectedExplore.includes(c.id)
+                        ? 'border-white bg-white/20'
+                        : 'border-neutral-300 bg-white'
                     }`}
                     aria-hidden
                   >
-                    {selectedExplore.includes(c.id) ? (
+                    {!showUncategorized && selectedExplore.includes(c.id) ? (
                       <span className="block h-2 w-2 rounded-sm bg-white" />
                     ) : null}
                   </span>
                   {c.label[loc]}
                 </Link>
               ))}
+              <Link
+                href={
+                  showUncategorized
+                    ? buildHref(selectedCats, selectedBrand, selectedExplore, false)
+                    : buildHref(selectedCats, selectedBrand, [], true)
+                }
+                className={`flex min-h-11 items-center gap-2 rounded-lg border px-3 py-2 ${
+                  showUncategorized
+                    ? 'border-amber-500 bg-amber-500 text-white font-semibold'
+                    : 'border-amber-200 bg-amber-50 text-amber-950 hover:bg-amber-100'
+                }`}
+              >
+                <span
+                  className={`grid h-4 w-4 place-items-center rounded border ${
+                    showUncategorized ? 'border-white bg-white/20' : 'border-amber-400 bg-white'
+                  }`}
+                  aria-hidden
+                >
+                  {showUncategorized ? <span className="block h-2 w-2 rounded-sm bg-white" /> : null}
+                </span>
+                {t('uncategorizedFilter', { count: uncategorizedCount })}
+              </Link>
             </div>
           </div>
 
@@ -314,7 +374,7 @@ export default async function ShopPage({
             <h2 className="text-sm font-semibold text-neutral-800">{t('categories')}</h2>
             <div className="mt-3 space-y-2 text-sm">
               <Link
-                href={buildHref([], selectedBrand, selectedExplore)}
+                href={buildHref([], selectedBrand, selectedExplore, showUncategorized)}
                 className={`flex min-h-11 items-center gap-2 rounded-lg px-3 py-2 ${
                   selectedCats.length === 0
                     ? 'bg-red-600 text-white font-semibold'
@@ -332,7 +392,7 @@ export default async function ShopPage({
               {categories.map((c) => (
                 <Link
                   key={c.id}
-                  href={buildHref(toggleCat(c.id), selectedBrand, selectedExplore)}
+                  href={buildHref(toggleCat(c.id), selectedBrand, selectedExplore, showUncategorized)}
                   className={`flex min-h-11 items-center gap-2 rounded-lg px-3 py-2 ${
                     selectedCats.includes(c.id)
                       ? 'bg-red-600 text-white font-semibold'
@@ -359,7 +419,7 @@ export default async function ShopPage({
             <h2 className="text-sm font-semibold text-neutral-800">{t('brandTitle')}</h2>
             <div className="mt-3 space-y-2 text-sm">
               <Link
-                href={buildHref(selectedCats, null, selectedExplore)}
+                href={buildHref(selectedCats, null, selectedExplore, showUncategorized)}
                 className={`flex min-h-11 items-center rounded-lg px-3 py-2 ${
                   !selectedBrand ? 'bg-red-600 text-white font-semibold' : 'text-neutral-700 hover:bg-red-50'
                 }`}
@@ -377,7 +437,7 @@ export default async function ShopPage({
                 Leon
               </Link>
               <Link
-                href={buildHref(selectedCats, 'milami', selectedExplore)}
+                href={buildHref(selectedCats, 'milami', selectedExplore, showUncategorized)}
                 className={`flex min-h-11 items-center rounded-lg px-3 py-2 ${
                   selectedBrand === 'milami'
                     ? 'bg-red-600 text-white font-semibold'

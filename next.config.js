@@ -7,6 +7,8 @@ const nextConfig = {
     remotePatterns: [
       { protocol: 'https', hostname: 'placehold.co', pathname: '/**' },
       { protocol: 'https', hostname: 'images.unsplash.com', pathname: '/**' },
+      { protocol: 'https', hostname: 'cdn.leon.rs', pathname: '/**' },
+      { protocol: 'https', hostname: 'milami.rs', pathname: '/**' },
     ],
   },
 };

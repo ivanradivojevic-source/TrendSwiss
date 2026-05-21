@@ -8,11 +8,15 @@ import {
   LEON_MEN_FOOT_LENGTH_MM,
 } from '@/data/leonMenSizeTable';
 import {
+  LEON_CHILDREN_EU_SIZES,
+  LEON_CHILDREN_FOOT_LENGTH_MM,
+} from '@/data/leonChildrenSizeTable';
+import {
   LEON_WOMEN_EU_SIZES,
   LEON_WOMEN_FOOT_LENGTH_MM,
 } from '@/data/leonWomenSizeTable';
 
-export type LeonSizeGuideVariant = 'men' | 'women';
+export type LeonSizeGuideVariant = 'men' | 'women' | 'children';
 
 type TabId = 'measurements' | 'instructions';
 
@@ -45,6 +49,12 @@ export default function LeonSizeGuideModal({
       return {
         euSizes: LEON_WOMEN_EU_SIZES,
         footMm: LEON_WOMEN_FOOT_LENGTH_MM,
+      };
+    }
+    if (variant === 'children') {
+      return {
+        euSizes: LEON_CHILDREN_EU_SIZES,
+        footMm: LEON_CHILDREN_FOOT_LENGTH_MM,
       };
     }
     return {

@@ -4,7 +4,11 @@
     "shop": "Shop",
     "cart": "Cart",
     "about": "About us",
-    "contact": "Contact"
+    "contact": "Contact",
+    "searchLabel": "Search models",
+    "searchPlaceholder": "Model name or article number…",
+    "searchClear": "Clear search",
+    "searchNoResults": "No models found."
   },
   "home": {
     "heroTitle": "Welcome to Trend Swiss Shop",
@@ -19,6 +23,7 @@
   "shop": {
     "title": "Shop",
     "allProducts": "All products",
+    "uncategorizedFilter": "Without category ({count})",
     "exploreByCategory": "Explore by category",
     "view": "View",
     "exploreFilterTitle": "Categories",

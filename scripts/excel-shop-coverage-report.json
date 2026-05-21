@@ -1,0 +1,2058 @@
+{
+  "excelRows": 109,
+  "problemCount": 5,
+  "problems": [
+    {
+      "broj": "PU101M",
+      "naziv": "Muska Klompa",
+      "maloprodajna": 49,
+      "matchedSlugs": [],
+      "inShop": [],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": true
+    },
+    {
+      "broj": "PU115",
+      "naziv": "Zenska Klompa",
+      "maloprodajna": 39,
+      "matchedSlugs": [],
+      "inShop": [],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": true
+    },
+    {
+      "broj": "3400",
+      "naziv": "Zenska Klompa",
+      "maloprodajna": 39,
+      "matchedSlugs": [],
+      "inShop": [],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": true
+    },
+    {
+      "broj": "991",
+      "naziv": "Zenska Klompa",
+      "maloprodajna": 49,
+      "matchedSlugs": [],
+      "inShop": [],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": true
+    },
+    {
+      "broj": "4054",
+      "naziv": "Liora 1",
+      "maloprodajna": 53,
+      "matchedSlugs": [
+        "liora-i-bela",
+        "liora-i-crna",
+        "liora-ii-bela",
+        "liora-ii-crna",
+        "liora-ii-zlatna",
+        "liora-zelena"
+      ],
+      "inShop": [
+        "liora-zelena",
+        "liora-i-crna",
+        "liora-i-bela"
+      ],
+      "missingFromShop": [
+        "liora-ii-bela",
+        "liora-ii-crna",
+        "liora-ii-zlatna"
+      ],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    }
+  ],
+  "all": [
+    {
+      "broj": "6016",
+      "naziv": "Anchor",
+      "maloprodajna": 87,
+      "matchedSlugs": [
+        "anchor-braon",
+        "anchor-crna",
+        "anchor-mink",
+        "anchor-zelena"
+      ],
+      "inShop": [
+        "anchor-crna",
+        "anchor-braon",
+        "anchor-zelena",
+        "anchor-mink"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "6017",
+      "naziv": "Strata",
+      "maloprodajna": 87,
+      "matchedSlugs": [
+        "strata-bez",
+        "strata-crna"
+      ],
+      "inShop": [
+        "strata-crna",
+        "strata-bez"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "7032",
+      "naziv": "Axis",
+      "maloprodajna": 59,
+      "matchedSlugs": [
+        "axis-bez",
+        "axis-crna",
+        "axis-led",
+        "axis-zlatna"
+      ],
+      "inShop": [
+        "axis-zlatna",
+        "axis-led",
+        "axis-bez",
+        "axis-crna"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "7012",
+      "naziv": "Halo",
+      "maloprodajna": 69,
+      "matchedSlugs": [
+        "halo-braon",
+        "halo-zelena",
+        "halo-zlatna"
+      ],
+      "inShop": [
+        "halo-zlatna",
+        "halo-zelena",
+        "halo-braon"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "7022",
+      "naziv": "Avera",
+      "maloprodajna": 59,
+      "matchedSlugs": [
+        "avera-bez",
+        "avera-crna"
+      ],
+      "inShop": [
+        "avera-crna",
+        "avera-bez"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "7031",
+      "naziv": "Plain",
+      "maloprodajna": 59,
+      "matchedSlugs": [
+        "plain-bez",
+        "plain-crna"
+      ],
+      "inShop": [
+        "plain-bez",
+        "plain-crna"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "4016",
+      "naziv": "Edge",
+      "maloprodajna": 79,
+      "matchedSlugs": [
+        "edge-bordo",
+        "edge-braon",
+        "edge-crna",
+        "edge-siva"
+      ],
+      "inShop": [
+        "edge-braon",
+        "edge-siva",
+        "edge-crna",
+        "edge-bordo"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "4015",
+      "naziv": "Orbita",
+      "maloprodajna": 79,
+      "matchedSlugs": [
+        "orbira-mink",
+        "orbita-bordo",
+        "orbita-braon",
+        "orbita-crna",
+        "orbita-siva",
+        "orbita-tamno-braon",
+        "orbita-zelena"
+      ],
+      "inShop": [
+        "orbita-siva",
+        "orbita-bordo",
+        "orbita-braon",
+        "orbita-zelena",
+        "orbita-tamno-braon",
+        "orbita-crna",
+        "orbira-mink"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "4014",
+      "naziv": "Aura",
+      "maloprodajna": 69,
+      "matchedSlugs": [
+        "aura-roze",
+        "aura-zelena"
+      ],
+      "inShop": [
+        "aura-roze",
+        "aura-zelena"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "510",
+      "naziv": "Line",
+      "maloprodajna": 49,
+      "matchedSlugs": [
+        "line-braon",
+        "line-crna",
+        "line-siva",
+        "line-zelena"
+      ],
+      "inShop": [
+        "line-zelena",
+        "line-braon",
+        "line-siva",
+        "line-crna"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "511",
+      "naziv": "Motio",
+      "maloprodajna": 49,
+      "matchedSlugs": [
+        "motio-bez",
+        "motio-crna",
+        "motio-led",
+        "motio-zelena"
+      ],
+      "inShop": [
+        "motio-zelena",
+        "motio-led",
+        "motio-crna",
+        "motio-bez"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "520",
+      "naziv": "Moveo",
+      "maloprodajna": 53,
+      "matchedSlugs": [
+        "moveo-bez",
+        "moveo-crna",
+        "moveo-led"
+      ],
+      "inShop": [
+        "moveo-led",
+        "moveo-crna",
+        "moveo-bez"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "917",
+      "naziv": "Moss",
+      "maloprodajna": 49,
+      "matchedSlugs": [
+        "moss-braon",
+        "moss-crna",
+        "moss-siva",
+        "moss-zelena"
+      ],
+      "inShop": [
+        "moss-siva",
+        "moss-zelena",
+        "moss-braon",
+        "moss-crna"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "310",
+      "naziv": "Felx",
+      "maloprodajna": 59,
+      "matchedSlugs": [
+        "felx-bez",
+        "felx-crna"
+      ],
+      "inShop": [
+        "felx-crna",
+        "felx-bez"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "320",
+      "naziv": "Calm",
+      "maloprodajna": 59,
+      "matchedSlugs": [
+        "calm-bez",
+        "calm-crna"
+      ],
+      "inShop": [
+        "calm-bez",
+        "calm-crna"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "302",
+      "naziv": "Melt",
+      "maloprodajna": 60,
+      "matchedSlugs": [
+        "melt-bez",
+        "melt-crna",
+        "melt-led"
+      ],
+      "inShop": [
+        "melt-led",
+        "melt-crna",
+        "melt-bez"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "500",
+      "naziv": "Flow",
+      "maloprodajna": 47,
+      "matchedSlugs": [
+        "flow-bela",
+        "flow-crna",
+        "flow-perla",
+        "flow-zelena-perlato",
+        "zenska-klompa-5002-bela",
+        "zenska-klompa-5002-crna",
+        "zenska-klompa-5002-perla"
+      ],
+      "inShop": [
+        "zenska-klompa-5002-perla",
+        "zenska-klompa-5002-crna",
+        "zenska-klompa-5002-bela",
+        "flow-zelena-perlato",
+        "flow-crna",
+        "flow-bela",
+        "flow-perla"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "940",
+      "naziv": "Pure",
+      "maloprodajna": 49,
+      "matchedSlugs": [
+        "pure-bela",
+        "pure-bez",
+        "pure-zelena"
+      ],
+      "inShop": [
+        "pure-zelena",
+        "pure-bez",
+        "pure-bela"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "7002",
+      "naziv": "Forge",
+      "maloprodajna": 59,
+      "matchedSlugs": [
+        "forge-braon",
+        "forge-crne"
+      ],
+      "inShop": [
+        "forge-crne",
+        "forge-braon"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "8001",
+      "naziv": "Linea",
+      "maloprodajna": 59,
+      "matchedSlugs": [
+        "liena-braon",
+        "linea-bez",
+        "linea-zlatna"
+      ],
+      "inShop": [
+        "linea-bez",
+        "linea-zlatna",
+        "liena-braon"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "8003",
+      "naziv": "Here",
+      "maloprodajna": 49,
+      "matchedSlugs": [
+        "here-braon",
+        "here-crna",
+        "here-zlatna"
+      ],
+      "inShop": [
+        "here-zlatna",
+        "here-crna",
+        "here-braon"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "8004",
+      "naziv": "Virea",
+      "maloprodajna": 59,
+      "matchedSlugs": [
+        "virea-bordo",
+        "virea-braon",
+        "virea-crna"
+      ],
+      "inShop": [
+        "virea-bordo",
+        "virea-crna",
+        "virea-braon"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "1132",
+      "naziv": "Serene",
+      "maloprodajna": 59,
+      "matchedSlugs": [
+        "serene-braon",
+        "serene-siva",
+        "serene-zlatna"
+      ],
+      "inShop": [
+        "serene-braon",
+        "serene-zlatna",
+        "serene-siva"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "1131",
+      "naziv": "Grace",
+      "maloprodajna": 59,
+      "matchedSlugs": [
+        "grace-bez",
+        "grace-braon",
+        "grace-zlatna"
+      ],
+      "inShop": [
+        "grace-bez",
+        "grace-zlatna",
+        "grace-braon"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "1112",
+      "naziv": "Rise",
+      "maloprodajna": 59,
+      "matchedSlugs": [
+        "rise-bez",
+        "rise-braon",
+        "rise-zlatna"
+      ],
+      "inShop": [
+        "rise-zlatna",
+        "rise-braon",
+        "rise-bez"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "1111",
+      "naziv": "Eleve",
+      "maloprodajna": 59,
+      "matchedSlugs": [
+        "eleve-braon",
+        "eleve-zlatna"
+      ],
+      "inShop": [
+        "eleve-braon",
+        "eleve-zlatna"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "4307",
+      "naziv": "Root",
+      "maloprodajna": 59,
+      "matchedSlugs": [
+        "root-bez",
+        "root-braon",
+        "root-crna"
+      ],
+      "inShop": [
+        "root-braon",
+        "root-bez",
+        "root-crna"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "937",
+      "naziv": "Even",
+      "maloprodajna": 59,
+      "matchedSlugs": [
+        "even-braon",
+        "even-siva"
+      ],
+      "inShop": [
+        "even-braon",
+        "even-siva"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "4812",
+      "naziv": "Stella 2 *",
+      "maloprodajna": 49,
+      "matchedSlugs": [
+        "stella-ii-roze",
+        "stella-ii-zlatna"
+      ],
+      "inShop": [
+        "stella-ii-zlatna",
+        "stella-ii-roze"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "4811",
+      "naziv": "Stella 1*",
+      "maloprodajna": 49,
+      "matchedSlugs": [
+        "stella-i-roze",
+        "stella-i-zlatna"
+      ],
+      "inShop": [
+        "stella-i-zlatna",
+        "stella-i-roze"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "4813",
+      "naziv": "Elio*",
+      "maloprodajna": 49,
+      "matchedSlugs": [
+        "elio-roze",
+        "elio-siva",
+        "elio-teget",
+        "elio-zelena",
+        "elio-zlatna"
+      ],
+      "inShop": [
+        "elio-zlatna",
+        "elio-teget",
+        "elio-zelena",
+        "elio-siva",
+        "elio-roze"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "4813",
+      "naziv": "Elio*",
+      "maloprodajna": 49,
+      "matchedSlugs": [
+        "elio-roze",
+        "elio-siva",
+        "elio-teget",
+        "elio-zelena",
+        "elio-zlatna"
+      ],
+      "inShop": [
+        "elio-zlatna",
+        "elio-teget",
+        "elio-zelena",
+        "elio-siva",
+        "elio-roze"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "4810",
+      "naziv": "Nino*",
+      "maloprodajna": 49,
+      "matchedSlugs": [
+        "nino-braon",
+        "nino-roze",
+        "nino-siva"
+      ],
+      "inShop": [
+        "nino-siva",
+        "nino-braon",
+        "nino-roze"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "4800",
+      "naziv": "Olaf*",
+      "maloprodajna": 49,
+      "matchedSlugs": [
+        "olaf-perla",
+        "olaf-teget"
+      ],
+      "inShop": [
+        "olaf-teget",
+        "olaf-perla"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "4710M",
+      "naziv": "Harbor",
+      "maloprodajna": 79,
+      "matchedSlugs": [
+        "harbor-braon",
+        "harbor-crna",
+        "harbor-siva"
+      ],
+      "inShop": [
+        "harbor-braon",
+        "harbor-crna",
+        "harbor-siva"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "4705M",
+      "naziv": "Ridge",
+      "maloprodajna": 89,
+      "matchedSlugs": [
+        "ridge-braon",
+        "ridge-siva",
+        "ridge-tamno-siva"
+      ],
+      "inShop": [
+        "ridge-siva",
+        "ridge-tamno-siva",
+        "ridge-braon"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "4703M",
+      "naziv": "Kratos",
+      "maloprodajna": 59,
+      "matchedSlugs": [
+        "kratos-braon-velur",
+        "kratos-crna",
+        "kratos-siva-velur"
+      ],
+      "inShop": [
+        "kratos-siva-velur",
+        "kratos-crna",
+        "kratos-braon-velur"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "4704M",
+      "naziv": "Mateo",
+      "maloprodajna": 59,
+      "matchedSlugs": [
+        "mateo-braon",
+        "mateo-siva",
+        "mateo-zelena"
+      ],
+      "inShop": [
+        "mateo-zelena",
+        "mateo-siva",
+        "mateo-braon"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "4701M",
+      "naziv": "North",
+      "maloprodajna": 109,
+      "matchedSlugs": [
+        "north-braon",
+        "north-siva",
+        "north-tamno-siva"
+      ],
+      "inShop": [
+        "north-siva",
+        "north-braon",
+        "north-tamno-siva"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "4700M",
+      "naziv": "Bjorn",
+      "maloprodajna": 59,
+      "matchedSlugs": [
+        "bjorn-bela",
+        "bjorn-crna",
+        "bjorn-teget"
+      ],
+      "inShop": [
+        "bjorn-teget",
+        "bjorn-crna",
+        "bjorn-bela"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "4700",
+      "naziv": "Bjorn Crazy",
+      "maloprodajna": 59,
+      "matchedSlugs": [
+        "bjorn-crazy-maslinasto-zelena",
+        "bjorn-crazy-siva"
+      ],
+      "inShop": [
+        "bjorn-crazy-maslinasto-zelena",
+        "bjorn-crazy-siva"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "700M",
+      "naziv": "Kasper",
+      "maloprodajna": 49,
+      "matchedSlugs": [
+        "kasper-bela",
+        "kasper-crna"
+      ],
+      "inShop": [
+        "kasper-crna",
+        "kasper-bela"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "V230M",
+      "naziv": "Thomas",
+      "maloprodajna": 49,
+      "matchedSlugs": [
+        "thomas-bela",
+        "thomas-crna"
+      ],
+      "inShop": [
+        "thomas-crna",
+        "thomas-bela"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "300M",
+      "naziv": "Ground",
+      "maloprodajna": 49,
+      "matchedSlugs": [
+        "ground-bela",
+        "ground-crna"
+      ],
+      "inShop": [
+        "ground-bela",
+        "ground-crna"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "707M",
+      "naziv": "Oskar",
+      "maloprodajna": 69,
+      "matchedSlugs": [
+        "oskar-braon",
+        "oskar-crna",
+        "oskar-teget"
+      ],
+      "inShop": [
+        "oskar-teget",
+        "oskar-crna",
+        "oskar-braon"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "V200M",
+      "naziv": "Arthur 1",
+      "maloprodajna": 49,
+      "matchedSlugs": [
+        "arthur-i-bela",
+        "arthur-i-crna"
+      ],
+      "inShop": [
+        "arthur-i-crna",
+        "arthur-i-bela"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "V202M",
+      "naziv": "Vigo",
+      "maloprodajna": 49,
+      "matchedSlugs": [
+        "vigo-bela",
+        "vigo-crna"
+      ],
+      "inShop": [
+        "vigo-crna",
+        "vigo-bela"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "PU100M",
+      "naziv": "Muska Klompa",
+      "maloprodajna": 49,
+      "matchedSlugs": [
+        "muska-klompa-klasik-i-bela",
+        "muska-klompa-klasik-i-crna"
+      ],
+      "inShop": [
+        "muska-klompa-klasik-i-crna",
+        "muska-klompa-klasik-i-bela"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "PU101M",
+      "naziv": "Muska Klompa",
+      "maloprodajna": 49,
+      "matchedSlugs": [],
+      "inShop": [],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": true
+    },
+    {
+      "broj": "PU100",
+      "naziv": "Muska Klompa Klasik 1",
+      "maloprodajna": 39,
+      "matchedSlugs": [
+        "zenska-klompa-klasik-i-bela",
+        "zenska-klompa-klasik-i-crna",
+        "zenska-klompa-klasik-i-perla"
+      ],
+      "inShop": [
+        "zenska-klompa-klasik-i-bela",
+        "zenska-klompa-klasik-i-perla",
+        "zenska-klompa-klasik-i-crna"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "PU115",
+      "naziv": "Zenska Klompa",
+      "maloprodajna": 39,
+      "matchedSlugs": [],
+      "inShop": [],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": true
+    },
+    {
+      "broj": "3400",
+      "naziv": "Zenska Klompa",
+      "maloprodajna": 39,
+      "matchedSlugs": [],
+      "inShop": [],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": true
+    },
+    {
+      "broj": "3500",
+      "naziv": "Rubikon",
+      "maloprodajna": 49,
+      "matchedSlugs": [
+        "rubicon-bela-bakkar",
+        "rubicon-crna-bakkar",
+        "rubicon-roze-bakkar",
+        "rubicon-teget-bakkar"
+      ],
+      "inShop": [
+        "rubicon-teget-bakkar",
+        "rubicon-roze-bakkar",
+        "rubicon-crna-bakkar",
+        "rubicon-bela-bakkar"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "V260",
+      "naziv": "Emili 1",
+      "maloprodajna": 39,
+      "matchedSlugs": [
+        "emili-i-bela",
+        "emili-i-crna",
+        "emili-i-perla",
+        "emili-iii-bela",
+        "emili-iii-roze",
+        "emili-iii-teget"
+      ],
+      "inShop": [
+        "emili-iii-teget",
+        "emili-iii-roze",
+        "emili-iii-bela",
+        "emili-i-perla",
+        "emili-i-crna",
+        "emili-i-bela"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "V202",
+      "naziv": "Elena 1",
+      "maloprodajna": 39,
+      "matchedSlugs": [
+        "elena-i-bela",
+        "elena-i-crna"
+      ],
+      "inShop": [
+        "elena-i-crna",
+        "elena-i-bela"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "V200",
+      "naziv": "Elena 2",
+      "maloprodajna": 39,
+      "matchedSlugs": [
+        "elena-ii-bela",
+        "elena-ii-crna"
+      ],
+      "inShop": [
+        "elena-ii-crna",
+        "elena-ii-bela"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "2022",
+      "naziv": "Aurora 5",
+      "maloprodajna": 79,
+      "matchedSlugs": [
+        "aurora-iv-perla",
+        "aurora-iv-sampanj"
+      ],
+      "inShop": [
+        "aurora-iv-sampanj",
+        "aurora-iv-perla"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "2019",
+      "naziv": "Aurora 1",
+      "maloprodajna": 79,
+      "matchedSlugs": [
+        "aurora-i-bela",
+        "aurora-i-braon",
+        "aurora-i-crna"
+      ],
+      "inShop": [
+        "aurora-i-crna",
+        "aurora-i-braon",
+        "aurora-i-bela"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "902",
+      "naziv": "Lara",
+      "maloprodajna": 59,
+      "matchedSlugs": [
+        "lara-bela",
+        "lara-braon",
+        "lara-crna",
+        "lara-teget"
+      ],
+      "inShop": [
+        "lara-teget",
+        "lara-crna",
+        "lara-braon",
+        "lara-bela"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "5000",
+      "naziv": "Nora 1",
+      "maloprodajna": 79,
+      "matchedSlugs": [
+        "nora-i-braon",
+        "nora-i-crna"
+      ],
+      "inShop": [
+        "nora-i-crna",
+        "nora-i-braon"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "5001",
+      "naziv": "Nora 4",
+      "maloprodajna": 69,
+      "matchedSlugs": [
+        "nora-iv-bela",
+        "nora-iv-crna",
+        "nora-iv-perla",
+        "nora-iv-sampanj"
+      ],
+      "inShop": [
+        "nora-iv-sampanj",
+        "nora-iv-perla",
+        "nora-iv-crna",
+        "nora-iv-bela"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "912",
+      "naziv": "Aria 1",
+      "maloprodajna": 59,
+      "matchedSlugs": [
+        "aria-i-bela",
+        "aria-i-braon",
+        "aria-i-crna"
+      ],
+      "inShop": [
+        "aria-i-crna",
+        "aria-i-bela",
+        "aria-i-braon"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "953",
+      "naziv": "Ruby",
+      "maloprodajna": 59,
+      "matchedSlugs": [
+        "ruby-bela",
+        "ruby-crna"
+      ],
+      "inShop": [
+        "ruby-crna",
+        "ruby-bela"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "967",
+      "naziv": "Nana",
+      "maloprodajna": 49,
+      "matchedSlugs": [
+        "nana-bordo",
+        "nana-crna",
+        "nana-ii-bordo",
+        "nana-ii-crna",
+        "nana-ii-teget"
+      ],
+      "inShop": [
+        "nana-crna",
+        "nana-bordo",
+        "nana-ii-teget",
+        "nana-ii-crna",
+        "nana-ii-bordo"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "950",
+      "naziv": "Leona",
+      "maloprodajna": 49,
+      "matchedSlugs": [
+        "leona-bela",
+        "leona-crna",
+        "leona-crvena",
+        "leona-perla",
+        "leona-sampanj",
+        "leona-teget",
+        "leona-zelena-perlato"
+      ],
+      "inShop": [
+        "leona-perla",
+        "leona-sampanj",
+        "leona-zelena-perlato",
+        "leona-teget",
+        "leona-crna",
+        "leona-bela",
+        "leona-crvena"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "900",
+      "naziv": "Lana",
+      "maloprodajna": 49,
+      "matchedSlugs": [
+        "lana-bela",
+        "lana-crna",
+        "lana-crvena",
+        "lana-perla",
+        "lana-teget",
+        "milami-bali-blue-graffiti",
+        "milami-bali-comic-boom",
+        "milami-bali-dark-rose-star",
+        "milami-bali-green-dinosaur",
+        "milami-bali-navy-blue",
+        "milami-bali-purple-star",
+        "milami-bali-rose-flower",
+        "milami-new-bali-pink",
+        "milami-new-bali-silver"
+      ],
+      "inShop": [
+        "lana-crvena",
+        "lana-teget",
+        "lana-perla",
+        "lana-crna",
+        "lana-bela",
+        "milami-new-bali-pink",
+        "milami-bali-rose-flower",
+        "milami-bali-green-dinosaur",
+        "milami-bali-dark-rose-star",
+        "milami-bali-blue-graffiti",
+        "milami-bali-comic-boom",
+        "milami-bali-purple-star",
+        "milami-bali-navy-blue",
+        "milami-new-bali-silver"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "933",
+      "naziv": "Bakkar 3",
+      "maloprodajna": 49,
+      "matchedSlugs": [
+        "bakkar-iii-bela-bakkar",
+        "bakkar-iii-roze-bakkar"
+      ],
+      "inShop": [
+        "bakkar-iii-roze-bakkar",
+        "bakkar-iii-bela-bakkar"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "970",
+      "naziv": "Leona Bakkar",
+      "maloprodajna": 49,
+      "matchedSlugs": [
+        "leona-bakkar-bela-bakkar",
+        "leona-bakkar-roze-bakkar",
+        "leona-bakkar-teget-bakkar"
+      ],
+      "inShop": [
+        "leona-bakkar-teget-bakkar",
+        "leona-bakkar-roze-bakkar",
+        "leona-bakkar-bela-bakkar"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "5010",
+      "naziv": "Nora 2",
+      "maloprodajna": 69,
+      "matchedSlugs": [
+        "nora-ii-braon",
+        "nora-ii-crna"
+      ],
+      "inShop": [
+        "nora-ii-braon",
+        "nora-ii-crna"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "904",
+      "naziv": "Lucia",
+      "maloprodajna": 49,
+      "matchedSlugs": [
+        "lucia-bela",
+        "lucia-crna",
+        "lucia-perla"
+      ],
+      "inShop": [
+        "lucia-crna",
+        "lucia-bela",
+        "lucia-perla"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "906",
+      "naziv": "Laura",
+      "maloprodajna": 49,
+      "matchedSlugs": [
+        "laura-bela",
+        "laura-crna",
+        "laura-perla",
+        "laura-zlato-sjaj",
+        "milami-luxury-golden-sandalas",
+        "milami-luxury-silver-sandalas"
+      ],
+      "inShop": [
+        "laura-perla",
+        "laura-crna",
+        "laura-zlato-sjaj",
+        "laura-bela",
+        "milami-luxury-silver-sandalas",
+        "milami-luxury-golden-sandalas"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "5002",
+      "naziv": "Zenska Klompa",
+      "maloprodajna": 59,
+      "matchedSlugs": [
+        "zenska-klompa-5002-bela",
+        "zenska-klompa-5002-crna",
+        "zenska-klompa-5002-perla"
+      ],
+      "inShop": [
+        "zenska-klompa-5002-perla",
+        "zenska-klompa-5002-crna",
+        "zenska-klompa-5002-bela"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "2023",
+      "naziv": "Zenska Klompa",
+      "maloprodajna": 59,
+      "matchedSlugs": [
+        "zenska-klompa-2023-bela",
+        "zenska-klompa-2023-crna",
+        "zenska-klompa-2023-perla"
+      ],
+      "inShop": [
+        "zenska-klompa-2023-crna",
+        "zenska-klompa-2023-perla",
+        "zenska-klompa-2023-bela"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "3300",
+      "naziv": "Zenska Klompa",
+      "maloprodajna": 49,
+      "matchedSlugs": [
+        "zenska-klompa-3300-bela",
+        "zenska-klompa-3300-crna",
+        "zenska-klompa-3300-perla"
+      ],
+      "inShop": [
+        "zenska-klompa-3300-perla",
+        "zenska-klompa-3300-bela",
+        "zenska-klompa-3300-crna"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "991",
+      "naziv": "Zenska Klompa",
+      "maloprodajna": 49,
+      "matchedSlugs": [],
+      "inShop": [],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": true
+    },
+    {
+      "broj": "300",
+      "naziv": "Settle",
+      "maloprodajna": 49,
+      "matchedSlugs": [
+        "settle-bela",
+        "settle-crna",
+        "settle-perla",
+        "zenska-klompa-3300-bela",
+        "zenska-klompa-3300-crna",
+        "zenska-klompa-3300-perla"
+      ],
+      "inShop": [
+        "settle-perla",
+        "settle-crna",
+        "settle-bela",
+        "zenska-klompa-3300-perla",
+        "zenska-klompa-3300-bela",
+        "zenska-klompa-3300-crna"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "4250",
+      "naziv": "Edita",
+      "maloprodajna": 59,
+      "matchedSlugs": [
+        "edita-bela",
+        "edita-crazy-bez",
+        "edita-crazy-braon-dark",
+        "edita-crazy-crna",
+        "edita-crazy-maslinasto-zelena",
+        "edita-crazy-roze",
+        "edita-crazy-siva",
+        "edita-crna",
+        "edita-ii-mint",
+        "edita-mint",
+        "edita-orlando-bez",
+        "edita-orlando-braon",
+        "edita-orlando-roza",
+        "edita-perla",
+        "edita-sampanj",
+        "edita-teget",
+        "edita-zelena-perlato"
+      ],
+      "inShop": [
+        "edita-orlando-roza",
+        "edita-orlando-braon",
+        "edita-orlando-bez",
+        "edita-ii-mint",
+        "edita-crazy-siva",
+        "edita-crazy-roze",
+        "edita-crazy-maslinasto-zelena",
+        "edita-crazy-crna",
+        "edita-crazy-braon-dark",
+        "edita-crazy-bez",
+        "edita-zelena-perlato",
+        "edita-teget",
+        "edita-sampanj",
+        "edita-perla",
+        "edita-mint",
+        "edita-crna",
+        "edita-bela"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "4251",
+      "naziv": "Edita 2",
+      "maloprodajna": 59,
+      "matchedSlugs": [
+        "edita-ii-mint",
+        "edita-ii-perla",
+        "edita-ii-sampanj",
+        "edita-ii-zelena-perlato"
+      ],
+      "inShop": [
+        "edita-ii-zelena-perlato",
+        "edita-ii-sampanj",
+        "edita-ii-perla",
+        "edita-ii-mint"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "6000",
+      "naziv": "Andora",
+      "maloprodajna": 79,
+      "matchedSlugs": [
+        "andora-bela-bakkar",
+        "andora-crna-bakkar",
+        "andora-roze-bakkar"
+      ],
+      "inShop": [
+        "andora-roze-bakkar",
+        "andora-crna-bakkar",
+        "andora-bela-bakkar"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "6006",
+      "naziv": "Andora 2",
+      "maloprodajna": 79,
+      "matchedSlugs": [
+        "andora-ii-bez",
+        "andora-ii-braon",
+        "andora-ii-zelena"
+      ],
+      "inShop": [
+        "andora-ii-zelena",
+        "andora-ii-braon",
+        "andora-ii-bez"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "6003",
+      "naziv": "Zoe",
+      "maloprodajna": 79,
+      "matchedSlugs": [
+        "zoe-bela",
+        "zoe-braon"
+      ],
+      "inShop": [
+        "zoe-bela",
+        "zoe-braon"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "6010",
+      "naziv": "Portofino",
+      "maloprodajna": 79,
+      "matchedSlugs": [
+        "portofino-bela-bakkar",
+        "portofino-crna-bakkar",
+        "portofino-i-zlatna",
+        "portofino-roze-bakkar"
+      ],
+      "inShop": [
+        "portofino-i-zlatna",
+        "portofino-roze-bakkar",
+        "portofino-crna-bakkar",
+        "portofino-bela-bakkar"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "6011",
+      "naziv": "Portofino 2",
+      "maloprodajna": 79,
+      "matchedSlugs": [
+        "portofino-ii-bez",
+        "portofino-ii-braon"
+      ],
+      "inShop": [
+        "portofino-ii-braon",
+        "portofino-ii-bez"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "6013",
+      "naziv": "Terra",
+      "maloprodajna": 79,
+      "matchedSlugs": [
+        "terra-bela",
+        "terra-braon"
+      ],
+      "inShop": [
+        "terra-braon",
+        "terra-bela"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "6300",
+      "naziv": "Roma",
+      "maloprodajna": 79,
+      "matchedSlugs": [
+        "roma-braon",
+        "roma-crna",
+        "roma-zlatna"
+      ],
+      "inShop": [
+        "roma-zlatna",
+        "roma-crna",
+        "roma-braon"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "6022",
+      "naziv": "Tessa",
+      "maloprodajna": 75,
+      "matchedSlugs": [
+        "tessa-bez",
+        "tessa-crna"
+      ],
+      "inShop": [
+        "tessa-crna",
+        "tessa-bez"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "7010",
+      "naziv": "Siena 1",
+      "maloprodajna": 69,
+      "matchedSlugs": [
+        "siena-i-bez",
+        "siena-i-braon",
+        "siena-i-roze",
+        "siena-i-siva",
+        "siena-i-zelena"
+      ],
+      "inShop": [
+        "siena-i-zelena",
+        "siena-i-siva",
+        "siena-i-roze",
+        "siena-i-braon",
+        "siena-i-bez"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "7011",
+      "naziv": "Siena2",
+      "maloprodajna": 69,
+      "matchedSlugs": [
+        "siena-ii-bela",
+        "siena-ii-crna",
+        "siena-ii-zlatna"
+      ],
+      "inShop": [
+        "siena-ii-zlatna",
+        "siena-ii-crna",
+        "siena-ii-bela"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "7080",
+      "naziv": "Doris",
+      "maloprodajna": 59,
+      "matchedSlugs": [
+        "doris-crna",
+        "doris-zlatna"
+      ],
+      "inShop": [
+        "doris-zlatna",
+        "doris-crna"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "7021",
+      "naziv": "Hemera",
+      "maloprodajna": 59,
+      "matchedSlugs": [
+        "hemera-bela",
+        "hemera-braon"
+      ],
+      "inShop": [
+        "hemera-braon",
+        "hemera-bela"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "7020",
+      "naziv": "Gaia",
+      "maloprodajna": 59,
+      "matchedSlugs": [
+        "gaia-braon",
+        "gaia-zelena"
+      ],
+      "inShop": [
+        "gaia-zelena",
+        "gaia-braon"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "4054",
+      "naziv": "Liora 1",
+      "maloprodajna": 53,
+      "matchedSlugs": [
+        "liora-i-bela",
+        "liora-i-crna",
+        "liora-ii-bela",
+        "liora-ii-crna",
+        "liora-ii-zlatna",
+        "liora-zelena"
+      ],
+      "inShop": [
+        "liora-zelena",
+        "liora-i-crna",
+        "liora-i-bela"
+      ],
+      "missingFromShop": [
+        "liora-ii-bela",
+        "liora-ii-crna",
+        "liora-ii-zlatna"
+      ],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "4000",
+      "naziv": "Atalanta",
+      "maloprodajna": 59,
+      "matchedSlugs": [
+        "atalanta-bela-zmija",
+        "atalanta-roze-zmija",
+        "atalanta-zlato-rust",
+        "atalanta-zlato-zmija"
+      ],
+      "inShop": [
+        "atalanta-zlato-zmija",
+        "atalanta-roze-zmija",
+        "atalanta-bela-zmija",
+        "atalanta-zlato-rust"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "4011",
+      "naziv": "Anastasia",
+      "maloprodajna": 59,
+      "matchedSlugs": [
+        "anastasia-zlato-zmija"
+      ],
+      "inShop": [
+        "anastasia-zlato-zmija"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "4201",
+      "naziv": "Adriana",
+      "maloprodajna": 49,
+      "matchedSlugs": [
+        "adriana-roze-zmija",
+        "adriana-zlato-zmija-2"
+      ],
+      "inShop": [
+        "adriana-roze-zmija",
+        "adriana-zlato-zmija-2"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "4019",
+      "naziv": "Mia",
+      "maloprodajna": 49,
+      "matchedSlugs": [
+        "mia-bela-bakkar",
+        "mia-crna-bakkar",
+        "mia-ii-orlando-braon",
+        "mia-ii-orlando-crvena",
+        "mia-roze-bakkar"
+      ],
+      "inShop": [
+        "mia-ii-orlando-braon",
+        "mia-ii-orlando-crvena",
+        "mia-roze-bakkar",
+        "mia-crna-bakkar",
+        "mia-bela-bakkar"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "4305",
+      "naziv": "Vivian",
+      "maloprodajna": 59,
+      "matchedSlugs": [
+        "vivian-braon",
+        "vivian-crna"
+      ],
+      "inShop": [
+        "vivian-crna",
+        "vivian-braon"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "4300",
+      "naziv": "Helen",
+      "maloprodajna": 59,
+      "matchedSlugs": [
+        "helen-roze-zmija",
+        "helen-zlato-zmija"
+      ],
+      "inShop": [
+        "helen-zlato-zmija",
+        "helen-roze-zmija"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "4010",
+      "naziv": "Anna Velur",
+      "maloprodajna": 49,
+      "matchedSlugs": [
+        "anna-braon",
+        "anna-crna-bakkar",
+        "anna-roze-velur",
+        "anna-velur-bez",
+        "anna-velur-braon",
+        "anna-velur-siva"
+      ],
+      "inShop": [
+        "anna-velur-siva",
+        "anna-velur-braon",
+        "anna-velur-bez",
+        "anna-roze-velur",
+        "anna-crna-bakkar",
+        "anna-braon"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "1041",
+      "naziv": "Sofia 2",
+      "maloprodajna": 59,
+      "matchedSlugs": [
+        "sofia-ii-bela",
+        "sofia-ii-braon",
+        "sofia-ii-crna"
+      ],
+      "inShop": [
+        "sofia-ii-crna",
+        "sofia-ii-braon",
+        "sofia-ii-bela"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "1020",
+      "naziv": "Sofia 1",
+      "maloprodajna": 59,
+      "matchedSlugs": [
+        "sofia-i-braon",
+        "sofia-i-crna"
+      ],
+      "inShop": [
+        "sofia-i-crna",
+        "sofia-i-braon"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "1120",
+      "naziv": "Kiara",
+      "maloprodajna": 59,
+      "matchedSlugs": [
+        "kiara-braon",
+        "kiara-zlatna"
+      ],
+      "inShop": [
+        "kiara-zlatna",
+        "kiara-braon"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "1024",
+      "naziv": "Bakkar 2",
+      "maloprodajna": 49,
+      "matchedSlugs": [
+        "bakkar-ii-bela",
+        "bakkar-ii-crna",
+        "bakkar-ii-roze"
+      ],
+      "inShop": [
+        "bakkar-ii-roze",
+        "bakkar-ii-crna",
+        "bakkar-ii-bela"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "924",
+      "naziv": "Violet",
+      "maloprodajna": 59,
+      "matchedSlugs": [
+        "violet-braon",
+        "violet-crna"
+      ],
+      "inShop": [
+        "violet-crna",
+        "violet-braon"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "935",
+      "naziv": "Beti",
+      "maloprodajna": 59,
+      "matchedSlugs": [
+        "beti-bez"
+      ],
+      "inShop": [
+        "beti-bez"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "2024",
+      "naziv": "Aurora 5",
+      "maloprodajna": 59,
+      "matchedSlugs": [
+        "aurora-v-bordo-bakkar",
+        "aurora-v-led-orladno"
+      ],
+      "inShop": [
+        "aurora-v-bordo-bakkar",
+        "aurora-v-led-orladno"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "966",
+      "naziv": "Bella",
+      "maloprodajna": 49,
+      "matchedSlugs": [
+        "bella-crna-orlando",
+        "bella-led-orlando"
+      ],
+      "inShop": [
+        "bella-led-orlando",
+        "bella-crna-orlando"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "963",
+      "naziv": "Xenia 3",
+      "maloprodajna": 49,
+      "matchedSlugs": [
+        "xenia-iii-braon-orlando",
+        "xenia-iii-teget-orlando"
+      ],
+      "inShop": [
+        "xenia-iii-teget-orlando",
+        "xenia-iii-braon-orlando"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    },
+    {
+      "broj": "965",
+      "naziv": "Xenia 2",
+      "maloprodajna": 49,
+      "matchedSlugs": [
+        "xenia-ii-crna-sjaj",
+        "xenia-ii-zlato-sjaj"
+      ],
+      "inShop": [
+        "xenia-ii-zlato-sjaj",
+        "xenia-ii-crna-sjaj"
+      ],
+      "missingFromShop": [],
+      "noPriceInCatalog": [],
+      "notInCatalog": false
+    }
+  ]
+}

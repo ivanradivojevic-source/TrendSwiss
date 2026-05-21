@@ -58,7 +58,7 @@ export default async function ProductPage({
           ) : null}
           <ProductModelColorLinks
             locale={locale}
-            currentSlug={slug}
+            currentSlug={canonicalSlug}
             siblings={modelSiblings}
           />
           <AddToCartForm

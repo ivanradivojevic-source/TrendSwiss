@@ -88,6 +88,12 @@ writeFileSync(OUT_SLUGS, JSON.stringify(slugs, null, 2) + '\n', 'utf8');
 
 const unmatched = excel.filter((row) => matchProductsForExcelRow(row, products).length === 0);
 
+console.log('\nRegenerating product search index…');
+execSync('npx tsx scripts/generate-product-search-index.ts', {
+  cwd: join(__dirname, '..'),
+  stdio: 'inherit',
+});
+
 console.log('Excel redova:', excel.length);
 console.log('Shop slugova (ceo katalog):', slugs.length);
 console.log('Excel redovi bez matcha u katalogu:', unmatched.length);

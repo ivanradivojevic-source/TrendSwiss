@@ -23,8 +23,10 @@ export default function LocaleSwitcher() {
 
   const switchLocale = (newLocale: string) => {
     const segments = pathname.split('/').filter(Boolean);
-    segments[0] = newLocale;
-    router.push('/' + segments.join('/'));
+    const pathSegments =
+      segments[0] === locale ? segments.slice(1) : segments;
+    const suffix = pathSegments.length ? `/${pathSegments.join('/')}` : '';
+    router.push(`/${newLocale}${suffix}`);
     setOpen(false);
   };
 

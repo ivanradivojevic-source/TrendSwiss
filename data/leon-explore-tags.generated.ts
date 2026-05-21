@@ -1,4 +1,4 @@
-/* AUTO-GENERATED — liora-i-4054 */
+/* AUTO-GENERATED — line-510-women 2026-05-21 */
 export const leonExploreTagsByProductId = {
   "leon-geneve-comfort": [
     "papuce",
@@ -1003,20 +1003,16 @@ export const leonExploreTagsByProductId = {
     "medicinske-klompe"
   ],
   "leon-portofino-i-zlatna": [
-    "klompe",
-    "medicinske-klompe"
+    "papuce"
   ],
   "leon-portofino-roze-bakkar": [
-    "klompe",
-    "medicinske-klompe"
+    "papuce"
   ],
   "leon-portofino-crna-bakkar": [
-    "klompe",
-    "medicinske-klompe"
+    "papuce"
   ],
   "leon-portofino-bela-bakkar": [
-    "klompe",
-    "medicinske-klompe"
+    "papuce"
   ],
   "leon-liora-i-bela": [
     "papuce",
@@ -1029,5 +1025,441 @@ export const leonExploreTagsByProductId = {
   "leon-liora-zelena": [
     "papuce",
     "zenske-papuce"
+  ],
+  "leon-rubicon-teget-bakkar": [
+    "klompe",
+    "medicinske-klompe"
+  ],
+  "leon-rubicon-roze-bakkar": [
+    "klompe",
+    "medicinske-klompe"
+  ],
+  "leon-rubicon-crna-bakkar": [
+    "klompe",
+    "medicinske-klompe"
+  ],
+  "leon-rubicon-bela-bakkar": [
+    "klompe",
+    "medicinske-klompe"
+  ],
+  "leon-leona-perla": [
+    "klompe",
+    "medicinske-klompe"
+  ],
+  "leon-leona-sampanj": [
+    "klompe",
+    "medicinske-klompe"
+  ],
+  "leon-leona-bakkar-teget-bakkar": [
+    "klompe",
+    "medicinske-klompe"
+  ],
+  "leon-leona-bakkar-roze-bakkar": [
+    "klompe",
+    "medicinske-klompe"
+  ],
+  "leon-leona-bakkar-bela-bakkar": [
+    "klompe",
+    "medicinske-klompe"
+  ],
+  "leon-leona-zelena-perlato": [
+    "klompe",
+    "medicinske-klompe"
+  ],
+  "leon-leona-teget": [
+    "klompe",
+    "medicinske-klompe"
+  ],
+  "leon-leona-crna": [
+    "klompe",
+    "medicinske-klompe"
+  ],
+  "leon-leona-bela": [
+    "klompe",
+    "medicinske-klompe"
+  ],
+  "leon-leona-crvena": [
+    "klompe",
+    "medicinske-klompe"
+  ],
+  "leon-settle-perla": [
+    "klompe"
+  ],
+  "leon-zoe-bela": [
+    "klompe"
+  ],
+  "leon-settle-crna": [
+    "klompe"
+  ],
+  "leon-settle-bela": [
+    "klompe"
+  ],
+  "leon-zoe-braon": [
+    "klompe"
+  ],
+  "leon-lara-teget": [
+    "klompe"
+  ],
+  "leon-lara-crna": [
+    "klompe"
+  ],
+  "leon-lara-braon": [
+    "klompe"
+  ],
+  "leon-lara-bela": [
+    "klompe"
+  ],
+  "leon-lana-crvena": [
+    "klompe"
+  ],
+  "leon-lana-teget": [
+    "klompe"
+  ],
+  "leon-lana-perla": [
+    "klompe"
+  ],
+  "leon-lana-crna": [
+    "klompe"
+  ],
+  "leon-lana-bela": [
+    "klompe"
+  ],
+  "leon-emili-i-perla": [
+    "klompe"
+  ],
+  "leon-emili-i-crna": [
+    "klompe"
+  ],
+  "leon-emili-i-bela": [
+    "klompe"
+  ],
+  "leon-edita-orlando-roza": [
+    "klompe"
+  ],
+  "leon-edita-orlando-braon": [
+    "klompe"
+  ],
+  "leon-edita-orlando-bez": [
+    "klompe"
+  ],
+  "leon-edita-ii-zelena-perlato": [
+    "klompe"
+  ],
+  "leon-edita-ii-sampanj": [
+    "klompe"
+  ],
+  "leon-edita-ii-perla": [
+    "klompe"
+  ],
+  "leon-edita-ii-mint": [
+    "klompe"
+  ],
+  "leon-edita-crazy-siva": [
+    "klompe"
+  ],
+  "leon-edita-crazy-roze": [
+    "klompe"
+  ],
+  "leon-edita-crazy-maslinasto-zelena": [
+    "klompe"
+  ],
+  "leon-edita-crazy-crna": [
+    "klompe"
+  ],
+  "leon-edita-crazy-braon-dark": [
+    "klompe"
+  ],
+  "leon-edita-crazy-bez": [
+    "klompe"
+  ],
+  "leon-edita-zelena-perlato": [
+    "klompe"
+  ],
+  "leon-edita-teget": [
+    "klompe"
+  ],
+  "leon-edita-sampanj": [
+    "klompe"
+  ],
+  "leon-edita-perla": [
+    "klompe"
+  ],
+  "leon-edita-mint": [
+    "klompe"
+  ],
+  "leon-edita-crna": [
+    "klompe"
+  ],
+  "leon-edita-bela": [
+    "klompe"
+  ],
+  "leon-bakkar-ii-roze": [
+    "klompe"
+  ],
+  "leon-bakkar-ii-crna": [
+    "klompe"
+  ],
+  "leon-bakkar-ii-bela": [
+    "klompe"
+  ],
+  "leon-aurora-i-crna": [
+    "klompe"
+  ],
+  "leon-aurora-i-braon": [
+    "klompe"
+  ],
+  "leon-aurora-i-bela": [
+    "klompe"
+  ],
+  "leon-aria-i-crna": [
+    "klompe"
+  ],
+  "leon-aria-i-bela": [
+    "klompe"
+  ],
+  "leon-aria-i-braon": [
+    "klompe"
+  ],
+  "leon-elena-i-crna": [
+    "klompe"
+  ],
+  "leon-elena-i-bela": [
+    "klompe"
+  ],
+  "leon-ground-bela": [
+    "klompe"
+  ],
+  "leon-ground-crna": [
+    "klompe"
+  ],
+  "leon-kasper-crna": [
+    "klompe"
+  ],
+  "leon-kasper-bela": [
+    "klompe"
+  ],
+  "leon-arthur-i-crna": [
+    "klompe"
+  ],
+  "leon-arthur-i-bela": [
+    "klompe"
+  ],
+  "leon-vigo-crna": [
+    "klompe"
+  ],
+  "leon-vigo-bela": [
+    "klompe"
+  ],
+  "leon-thomas-crna": [
+    "klompe"
+  ],
+  "leon-thomas-bela": [
+    "klompe"
+  ],
+  "leon-oskar-teget": [
+    "klompe"
+  ],
+  "leon-oskar-crna": [
+    "klompe"
+  ],
+  "leon-oskar-braon": [
+    "klompe"
+  ],
+  "leon-north-siva": [
+    "klompe"
+  ],
+  "leon-north-braon": [
+    "klompe"
+  ],
+  "leon-north-tamno-siva": [
+    "klompe"
+  ],
+  "leon-mateo-zelena": [
+    "papuce"
+  ],
+  "leon-mateo-siva": [
+    "papuce"
+  ],
+  "leon-mateo-braon": [
+    "papuce"
+  ],
+  "leon-kratos-siva-velur": [
+    "papuce"
+  ],
+  "leon-kratos-crna": [
+    "papuce"
+  ],
+  "leon-kratos-braon-velur": [
+    "papuce"
+  ],
+  "leon-ridge-siva": [
+    "papuce"
+  ],
+  "leon-ridge-tamno-siva": [
+    "papuce"
+  ],
+  "leon-ridge-braon": [
+    "papuce"
+  ],
+  "leon-nana-crna": [
+    "sandale"
+  ],
+  "leon-nana-bordo": [
+    "sandale"
+  ],
+  "leon-nana-ii-teget": [
+    "sandale"
+  ],
+  "leon-nana-ii-crna": [
+    "sandale"
+  ],
+  "leon-nana-ii-bordo": [
+    "sandale"
+  ],
+  "leon-kiara-zlatna": [
+    "sandale"
+  ],
+  "leon-kiara-braon": [
+    "sandale"
+  ],
+  "leon-xenia-iii-teget-orlando": [
+    "sandale"
+  ],
+  "leon-xenia-iii-braon-orlando": [
+    "sandale"
+  ],
+  "leon-xenia-ii-zlato-sjaj": [
+    "sandale"
+  ],
+  "leon-xenia-ii-crna-sjaj": [
+    "sandale"
+  ],
+  "leon-violet-crna": [
+    "sandale"
+  ],
+  "leon-violet-braon": [
+    "sandale"
+  ],
+  "leon-sofia-ii-crna": [
+    "sandale"
+  ],
+  "leon-sofia-ii-braon": [
+    "sandale"
+  ],
+  "leon-sofia-ii-bela": [
+    "sandale"
+  ],
+  "leon-sofia-i-crna": [
+    "sandale"
+  ],
+  "leon-sofia-i-braon": [
+    "sandale"
+  ],
+  "leon-beti-bez": [
+    "sandale"
+  ],
+  "leon-bella-led-orlando": [
+    "sandale"
+  ],
+  "leon-bella-crna-orlando": [
+    "sandale"
+  ],
+  "leon-aurora-v-bordo-bakkar": [
+    "sandale"
+  ],
+  "leon-aurora-v-led-orladno": [
+    "sandale"
+  ],
+  "leon-serene-braon": [
+    "sandale"
+  ],
+  "leon-serene-zlatna": [
+    "sandale"
+  ],
+  "leon-serene-siva": [
+    "sandale"
+  ],
+  "leon-grace-bez": [
+    "sandale"
+  ],
+  "leon-grace-zlatna": [
+    "sandale"
+  ],
+  "leon-grace-braon": [
+    "sandale"
+  ],
+  "leon-melt-led": [
+    "klompe"
+  ],
+  "leon-melt-crna": [
+    "klompe"
+  ],
+  "leon-melt-bez": [
+    "klompe"
+  ],
+  "leon-elena-ii-crna": [
+    "klompe"
+  ],
+  "leon-elena-ii-bela": [
+    "klompe"
+  ],
+  "leon-forge-crne": [
+    "klompe"
+  ],
+  "leon-forge-braon": [
+    "klompe"
+  ],
+  "leon-muska-klompa-klasik-i-crna": [
+    "klompe",
+    "medicinske-klompe"
+  ],
+  "leon-muska-klompa-klasik-i-bela": [
+    "klompe",
+    "medicinske-klompe"
+  ],
+  "leon-olaf-teget": [
+    "klompe"
+  ],
+  "leon-olaf-perla": [
+    "klompe"
+  ],
+  "leon-stella-i-zlatna": [
+    "papuce"
+  ],
+  "leon-stella-i-roze": [
+    "papuce"
+  ],
+  "leon-stella-ii-zlatna": [
+    "sandale"
+  ],
+  "leon-stella-ii-roze": [
+    "sandale"
+  ],
+  "leon-elio-zlatna": [
+    "sandale"
+  ],
+  "leon-elio-teget": [
+    "sandale"
+  ],
+  "leon-elio-zelena": [
+    "sandale"
+  ],
+  "leon-elio-siva": [
+    "sandale"
+  ],
+  "leon-elio-roze": [
+    "sandale"
+  ],
+  "leon-line-zelena": [
+    "papuce"
+  ],
+  "leon-line-braon": [
+    "papuce"
+  ],
+  "leon-line-siva": [
+    "papuce"
+  ],
+  "leon-line-crna": [
+    "papuce"
   ]
 };

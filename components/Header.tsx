@@ -1,16 +1,18 @@
 'use client';
 
-import { useTranslations } from 'next-intl';
+import { useTranslations, useLocale } from 'next-intl';
 import Link from 'next/link';
 import Image from 'next/image';
 import { usePathname } from 'next/navigation';
 import { useCartStore } from '@/store/cart-store';
 import LocaleSwitcher from './LocaleSwitcher';
 import BagIcon from './BagIcon';
+import GlobalProductSearch from './GlobalProductSearch';
 import { useState, useEffect } from 'react';
 
 export default function Header() {
   const t = useTranslations('nav');
+  const locale = useLocale();
   const pathname = usePathname();
   const lines = useCartStore((s) => s.lines);
   const cartCount = lines.reduce((acc, l) => acc + l.quantity, 0);
@@ -23,8 +25,8 @@ export default function Header() {
     return () => window.removeEventListener('scroll', onScroll);
   }, []);
 
-  const base = pathname.split('/').slice(0, 2).join('/') || '/de';
-  const isHome = pathname === base || pathname === base + '/';
+  const base = `/${locale}`;
+  const isHome = pathname === base || pathname === `${base}/`;
 
   const scrollTo = (id: string) => (e: React.MouseEvent) => {
     if (isHome) {
@@ -100,6 +102,13 @@ export default function Header() {
           </nav>
 
           <div className="flex flex-shrink-0 items-center gap-2 mr-4 md:mr-6">
+            <Link
+              href={`${base}/shop`}
+              className="flex items-center gap-1.5 rounded-lg px-3 py-2 text-sm font-semibold text-red-600 transition hover:bg-red-50 md:hidden"
+            >
+              <BagIcon size={18} className="flex-shrink-0" />
+              {t('shop')}
+            </Link>
             <LocaleSwitcher />
             {/* Use full navigation to avoid chunk/cache mismatch errors during rapid rebuilds. */}
             <a
@@ -115,6 +124,9 @@ export default function Header() {
               )}
             </a>
           </div>
+        </div>
+        <div className="mx-auto max-w-6xl px-4 pb-3">
+          <GlobalProductSearch />
         </div>
       </div>
     </header>

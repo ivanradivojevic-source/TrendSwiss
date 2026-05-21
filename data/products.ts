@@ -5,7 +5,6 @@
 import type { CategoryId } from './categories';
 import { harborMensSandalProducts } from './harbor-mens-sandals';
 import { applyLeonMenStandardSizesIfApplicable } from './leonMenSizeStandard';
-import { normalizeLeonImportedProducts } from './leonCatalogNormalize';
 import { leonProducts } from './leon-products.generated';
 import { milamiProducts } from './milami-products.generated';
 import leonSlugRedirects from './leon-slug-redirects.json';
@@ -183,7 +182,8 @@ const productsRaw: Product[] = [
       ),
     ],
   },
-  ...normalizeLeonImportedProducts(leonProducts as unknown as Product[]),
+  // leon-products.generated.ts is already normalized on disk (see scripts/persist-leon-normalize.mjs)
+  ...(leonProducts as unknown as Product[]),
   ...harborMensSandalProducts,
   ...(milamiProducts as unknown as Product[]),
 ];

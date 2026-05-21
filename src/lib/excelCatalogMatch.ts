@@ -45,6 +45,8 @@ const EXCEL_STEM_ALIASES: Record<string, string[]> = {
   'nora-5': ['nora-iv', 'nora-v', 'nora-5'],
   rubikon: ['rubicon'],
   rubicon: ['rubicon'],
+  emili1: ['emili-i'],
+  'emili-1': ['emili-i'],
 };
 
 function normKey(s: string): string {
@@ -132,6 +134,9 @@ function pathMatchesExcelKey(pathSlug: string, ek: string): boolean {
   if (!pathSlug.startsWith(`${ek}-`)) return false;
   // liora-i ≠ liora-ii (slugNameMatch ranje hvatao liora-ii-zlatna za „Liora 1“)
   if (ek === 'liora-i' && pathSlug.startsWith('liora-ii')) return false;
+  if ((ek === 'emili-i' || ek === 'emili-1' || ek === 'emili1') && pathSlug.startsWith('emili-iii')) {
+    return false;
+  }
   if (ek === 'anna-velur' || ek === 'anna-1') {
     if (!pathSlug.includes('velur') && pathSlug !== 'anna-braon') return false;
   }
@@ -173,6 +178,10 @@ export function leonCatalogSifra(slug: string): string | undefined {
 
 /** Da li Excel red (kolona C + naziv) pripada ovom shop proizvodu. */
 export function productMatchesExcelRow(row: ExcelPriceRow, p: Product): boolean {
+  const slug = p.slug?.toLowerCase() ?? '';
+  // V260 = Emili I only (Excel „Emili 1“), not Emili III.
+  if (row.broj === 'V260' && slug.startsWith('emili-iii')) return false;
+
   const sifra = leonCatalogSifra(p.slug);
   const { stem, urlSlug } = productKeys(p);
 

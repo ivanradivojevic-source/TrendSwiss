@@ -2,6 +2,7 @@
 
 import { useEffect, useMemo, useRef, useState } from 'react';
 import Image from 'next/image';
+import { searchNavZoomDelayMs } from '@/src/lib/searchNavFlag';
 
 export default function ProductGallery({
   images,
@@ -14,9 +15,16 @@ export default function ProductGallery({
   const list = uniqImages.length ? uniqImages : [];
   const [active, setActive] = useState(0);
   const [open, setOpen] = useState(false);
+  const [zoomEnabled, setZoomEnabled] = useState(false);
   const touchStartX = useRef<number | null>(null);
 
   const activeSrc = list[active] ?? list[0] ?? '';
+
+  useEffect(() => {
+    const delay = searchNavZoomDelayMs();
+    const t = window.setTimeout(() => setZoomEnabled(true), delay);
+    return () => window.clearTimeout(t);
+  }, []);
 
   const go = (next: number) => {
     if (!list.length) return;
@@ -59,12 +67,14 @@ export default function ProductGallery({
       >
         {activeSrc ? (
           <>
-            <button
-              type="button"
-              onClick={() => setOpen(true)}
-              className="absolute inset-0 z-10 cursor-zoom-in"
-              aria-label="Open gallery"
-            />
+            {zoomEnabled ? (
+              <button
+                type="button"
+                onClick={() => setOpen(true)}
+                className="absolute inset-0 z-10 cursor-zoom-in"
+                aria-label="Open gallery"
+              />
+            ) : null}
             <Image
               src={activeSrc}
               alt={alt}

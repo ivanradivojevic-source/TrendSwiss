@@ -4406,8 +4406,8 @@
   "stella-ii-zlatna": {
     "url": "https://leon.rs/p/stella-ii-zlatna/",
     "sifra": "4812",
-    "title": "Stella II – Zlatna",
-    "colorLabel": "Zlatna",
+    "title": "Stella II – Gold",
+    "colorLabel": "Gold",
     "sizes": [
       "22",
       "23",
@@ -4423,13 +4423,13 @@
       "33",
       "34"
     ],
-    "fetchedAt": "2026-05-17T10:01:47.883Z"
+    "fetchedAt": "2026-05-21T11:56:56.890Z"
   },
   "stella-i-zlatna": {
     "url": "https://leon.rs/p/stella-i-zlatna/",
     "sifra": "4811",
-    "title": "Stella I – Zlatna",
-    "colorLabel": "Zlatna",
+    "title": "Stella I – Gold",
+    "colorLabel": "Gold",
     "sizes": [
       "22",
       "23",
@@ -4445,13 +4445,13 @@
       "33",
       "34"
     ],
-    "fetchedAt": "2026-05-17T10:01:44.400Z"
+    "fetchedAt": "2026-05-21T11:56:56.591Z"
   },
   "stella-i-roze": {
     "url": "https://leon.rs/p/stella-i-roze/",
     "sifra": "4811",
-    "title": "Stella I – Roze",
-    "colorLabel": "Roze",
+    "title": "Stella I – Pink",
+    "colorLabel": "Pink",
     "sizes": [
       "22",
       "23",
@@ -4467,13 +4467,13 @@
       "33",
       "34"
     ],
-    "fetchedAt": "2026-05-17T10:01:44.802Z"
+    "fetchedAt": "2026-05-21T11:56:56.746Z"
   },
   "stella-ii-roze": {
     "url": "https://leon.rs/p/stella-ii-roze/",
     "sifra": "4812",
-    "title": "Stella II – Roze",
-    "colorLabel": "Roze",
+    "title": "Stella II – Pink",
+    "colorLabel": "Pink",
     "sizes": [
       "22",
       "23",
@@ -4489,13 +4489,13 @@
       "33",
       "34"
     ],
-    "fetchedAt": "2026-05-17T10:01:48.300Z"
+    "fetchedAt": "2026-05-21T11:56:57.020Z"
   },
   "elio-zlatna": {
     "url": "https://leon.rs/p/elio-zlatna/",
     "sifra": "4813",
-    "title": "Elio – Zlatna",
-    "colorLabel": "Zlatna",
+    "title": "Elio – Gold",
+    "colorLabel": "Gold",
     "sizes": [
       "22",
       "23",
@@ -4511,13 +4511,13 @@
       "33",
       "34"
     ],
-    "fetchedAt": "2026-05-17T10:01:53.098Z"
+    "fetchedAt": "2026-05-21T12:00:13.711Z"
   },
   "elio-teget": {
     "url": "https://leon.rs/p/elio-teget/",
     "sifra": "4813",
-    "title": "Elio – Teget",
-    "colorLabel": "Teget",
+    "title": "Elio – Charcoal",
+    "colorLabel": "Charcoal",
     "sizes": [
       "22",
       "23",
@@ -4533,13 +4533,13 @@
       "33",
       "34"
     ],
-    "fetchedAt": "2026-05-17T10:01:53.471Z"
+    "fetchedAt": "2026-05-21T12:00:13.873Z"
   },
   "elio-zelena": {
     "url": "https://leon.rs/p/elio-zelena/",
     "sifra": "4813",
-    "title": "Elio – Zelena",
-    "colorLabel": "Zelena",
+    "title": "Elio – Green",
+    "colorLabel": "Green",
     "sizes": [
       "22",
       "23",
@@ -4555,13 +4555,13 @@
       "33",
       "34"
     ],
-    "fetchedAt": "2026-05-17T10:01:53.872Z"
+    "fetchedAt": "2026-05-21T12:00:14.024Z"
   },
   "elio-siva": {
     "url": "https://leon.rs/p/elio-siva/",
     "sifra": "4813",
-    "title": "Elio – Siva",
-    "colorLabel": "Siva",
+    "title": "Elio – Grey",
+    "colorLabel": "Grey",
     "sizes": [
       "22",
       "23",
@@ -4577,13 +4577,13 @@
       "33",
       "34"
     ],
-    "fetchedAt": "2026-05-17T10:01:54.229Z"
+    "fetchedAt": "2026-05-21T12:00:14.169Z"
   },
   "elio-roze": {
     "url": "https://leon.rs/p/elio-roze/",
     "sifra": "4813",
-    "title": "Elio – Roze",
-    "colorLabel": "Roze",
+    "title": "Elio – Pink",
+    "colorLabel": "Pink",
     "sizes": [
       "22",
       "23",
@@ -4599,7 +4599,7 @@
       "33",
       "34"
     ],
-    "fetchedAt": "2026-05-17T10:01:54.617Z"
+    "fetchedAt": "2026-05-21T12:00:14.311Z"
   },
   "nino-siva": {
     "url": "https://leon.rs/p/nino-siva/",

@@ -10,9 +10,12 @@ import { fetchLeonPageInfo } from './fetch-leon-sku.mjs';
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const OUT_TS = path.join(ROOT, 'data', 'leon-products.generated.ts');
 const CACHE_PATH = path.join(ROOT, 'scripts', 'leon-site-sku-cache.json');
+const TAGS_TS = path.join(ROOT, 'data', 'leon-explore-tags.generated.ts');
 
 const ARTICLE = 'V260';
 const PRICE_CHF = 39;
+const EXPLORE_TAGS = ['klompe'];
+const EMILI_I_SLUGS = new Set(['emili-i-perla', 'emili-i-crna', 'emili-i-bela']);
 
 const PAGES = [
   {
@@ -114,6 +117,8 @@ for (const page of PAGES) {
     console.warn(page.slug, `leon.rs ${res.status} — using fallback gallery`);
   }
 
+  if (!EMILI_I_SLUGS.has(page.slug)) continue;
+
   const p = products.find((x) => x.slug === page.slug);
   if (!p) throw new Error(`Missing product ${page.slug}`);
 
@@ -150,6 +155,16 @@ for (const page of PAGES) {
   );
 }
 
+let tagsMap = {};
+if (fs.existsSync(TAGS_TS)) {
+  const m = fs.readFileSync(TAGS_TS, 'utf8').match(/export const leonExploreTagsByProductId = (\{[\s\S]*\});/);
+  if (m) tagsMap = JSON.parse(m[1]);
+}
+for (const slug of EMILI_I_SLUGS) {
+  const p = products.find((x) => x.slug === slug);
+  if (p?.id) tagsMap[p.id] = EXPLORE_TAGS;
+}
+
 fs.writeFileSync(
   OUT_TS,
   `/* AUTO-GENERATED — emili-i-v260 ${new Date().toISOString().slice(0, 10)} */\n` +
@@ -157,4 +172,12 @@ fs.writeFileSync(
   'utf8'
 );
 fs.writeFileSync(CACHE_PATH, JSON.stringify(cache, null, 2) + '\n', 'utf8');
-console.log('Emili I V260 done.');
+if (fs.existsSync(TAGS_TS)) {
+  fs.writeFileSync(
+    TAGS_TS,
+    `/* AUTO-GENERATED — emili-i-v260 ${new Date().toISOString().slice(0, 10)} */\n` +
+      `export const leonExploreTagsByProductId = ${JSON.stringify(tagsMap, null, 2)};\n`,
+    'utf8'
+  );
+}
+console.log('Emili I V260 done (Emili III excluded).');

@@ -13,7 +13,7 @@ const TAGS_TS = path.join(ROOT, 'data', 'leon-explore-tags.generated.ts');
 const ARTICLE = '6010';
 const MODEL_GROUP = 'leon-mg-portofino-6010-women';
 const PRICE_CHF = 79;
-const EXPLORE_TAGS = ['klompe', 'medicinske-klompe'];
+const EXPLORE_TAGS = ['papuce'];
 
 const SLUGS = [
   'portofino-i-zlatna',

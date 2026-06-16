@@ -1,0 +1,47 @@
+---
+description: TrendSwiss shop — osnovni kontekst projekta (uvek važi)
+alwaysApply: true
+---
+
+# TrendSwiss Shop — osnovno
+
+## Šta je ovo
+Next.js 14 e-commerce katalog (Leon + Milami) za Švajcarsku. Produkcija na **Vercel** (`main` → auto deploy).
+
+## Stack
+- **Next.js 14** App Router, **TypeScript**, **Tailwind**
+- **next-intl** — jezici: `de`, `fr`, `en`, `it` (UI nikad na sr, osim ako korisnik eksplicitno traži)
+- **Zustand** korpa, **Prisma** admin, **Stripe** checkout
+- Katalog: `data/products.ts` agregira `leon-products.generated.ts` + `milami-products.generated.ts`
+
+## Dev
+```bash
+npm run dev          # localhost:3000
+npm run dev:clean    # obriše .next pa dev (kad pukne webpack modul)
+```
+Default locale redirect: `/` → `/de`.
+
+## Šta NE commitovati
+- `.env`, `.env.local`, `.next/`
+- `excel-out.json`, `*.log`, privremeni build artefakti
+
+## Git
+- **Commit i push samo kad korisnik eksplicitno traži**
+- Nikad `git push --force` na main bez eksplicitnog zahteva
+- Ne menjati git config
+
+## Opšti principi koda
+- Minimalan diff — ne refaktorisati nešto što nije traženo
+- Pratiti postojeće konvencije u fajlu pre izmene
+- Ne dodavati README/docs osim ako korisnik traži
+- Posle izmene `messages/*.json` — proveriti validnost JSON-a (zarez između ključeva!)
+
+## Ključni fajlovi
+| Oblast | Fajl |
+|--------|------|
+| Katalog | `data/products.ts`, `data/leon-products.generated.ts` |
+| Explore filteri | `src/lib/exploreClassifier.ts`, `data/leon-explore-tags.generated.ts` |
+| Prevodi | `messages/de.json`, `en.json`, `fr.json`, `it.json` |
+| Shop UI | `app/[locale]/shop/`, `components/AddToCartForm.tsx` |
+| Search | `components/GlobalProductSearch.tsx`, `data/product-search-index.json` |
+| Excel cene | `src/lib/excelCatalogMatch.ts`, `Tabela Cene.xlsx` |

@@ -45,5 +45,5 @@ export function formatProductPriceLabel(
 }
 
 export function formatChf(amount: number): string {
-  return Number.isInteger(amount) ? String(amount) : amount.toFixed(2);
+  return amount.toFixed(2);
 }

@@ -1,0 +1,36 @@
+---
+description: Prevodi i UI — svi jezici moraju biti sinhronizovani
+globs: messages/**/*.json,app/[locale]/**/*.tsx,components/**/*.tsx
+alwaysApply: false
+---
+
+# i18n i UI tekstovi
+
+## Jezici
+`de`, `fr`, `en`, `it` — **svaki novi ključ u sva 4 fajla** u `messages/`.
+
+Namespace-ovi: `nav`, `home`, `shop`, `productTabs`, `cart`, `checkout`, `footer`.
+
+## Pravila
+- UI stringovi **nikad hardkodovani** na stranici (osim privremenog „Pogledaj“ — treba prevesti ako diraš tu oblast)
+- Koristi `useTranslations('shop')` (client) ili `getTranslations('home')` (server)
+- Nakon izmene JSON-a: proveri zareze — česta greška je nedostajući `,` između poslednjeg ključa u bloku
+
+```json
+// ❌ LOŠE
+"aboutFooterLine": "..."
+"contactTitle": "Kontakt"
+
+// ✅ DOBRO
+"aboutFooterLine": "...",
+"contactTitle": "Kontakt"
+```
+
+## Leon size guide
+- `LeonSizeGuideModal` — varianti: `men` | `women` | `children`
+- Tabele: `data/leonMenSizeTable.ts`, `leonWomenSizeTable.ts`, `leonChildrenSizeTable.ts`
+- Prikazuje se u `AddToCartForm` za Leon proizvode po `category`
+
+## Stil
+- Brand boje: crvena (`red-600`), header tamno siva (`--header-dark`)
+- Leon modal plava: `#1e3a5f`

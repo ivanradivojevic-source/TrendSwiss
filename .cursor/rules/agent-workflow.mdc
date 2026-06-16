@@ -1,0 +1,38 @@
+---
+description: Kako agent radi zadatke — workflow i granice
+alwaysApply: true
+---
+
+# Agent workflow
+
+## Pre implementacije
+1. Pročitaj relevantne fajlove — ne nagađaj strukturu
+2. Za Leon katalog: proveri `articleNumber`, slug, postojeće patch skripte
+3. Za kategorije: `exploreClassifier.ts` + `leon-explore-tags.generated.ts`
+
+## Tok za Leon ispravke (tipičan)
+1. Identifikuj slug(ove) i šifru u `leon-products.generated.ts`
+2. Napiši/pokreni patch skriptu sa fetch sa leon.rs
+3. Ažuriraj `exploreClassifier.ts` ako treba nova šifra
+4. Proveri filter na `/shop?pcats=papuce` (ili sandale/klompe)
+5. Ne commituj dok korisnik ne traži
+
+## PowerShell (Windows)
+Korisnik je na Windows — koristi `;` umesto `&&`:
+```powershell
+cd "d:\Cursor_AI\Sima saj trend swiss"; npm run dev
+```
+
+## Kada pitati korisnika
+- Nejasna poslovna odluka (npr. Milami koristi drugu tabelu veličina)
+- Destruktivne git operacije
+- Commit/push (uvek pitaj ili čekaj eksplicitnu komandu)
+
+## Kada NE pitati
+- Tehnički default je očigledan iz koda
+- Bug fix sa jasnim uzrokom (npr. JSON sintaksa, pogrešna kategorija po šifri)
+
+## Testiranje
+- Pokreni dev server ako treba verifikacija
+- `npx tsx scripts/....mjs` za patch skripte (mreža za leon.rs)
+- `node -e "JSON.parse(...)"` za validaciju messages JSON

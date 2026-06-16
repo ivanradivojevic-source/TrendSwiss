@@ -8,6 +8,7 @@ import { applyLeonMenStandardSizesIfApplicable } from './leonMenSizeStandard';
 import { leonProducts } from './leon-products.generated';
 import { milamiProducts } from './milami-products.generated';
 import leonSlugRedirects from './leon-slug-redirects.json';
+import { productHasPrice } from '@/src/lib/productPrice';
 
 export type ProductId = string;
 export type SizeId = string;
@@ -141,54 +142,15 @@ const productsRaw: Product[] = [
       ),
     ],
   },
-  {
-    id: 'slippers-kids',
-    slug: 'papuce-kinder',
-    category: 'children',
-    brand: 'leon',
-    name: {
-      de: 'Kinder-Hausschuhe',
-      fr: 'Pantoufles enfants',
-      en: "Children's Slippers",
-      it: 'Pantofole per bambini',
-    },
-    description: {
-      de: 'Weiche, sichere Hausschuhe für Kinder. Rutschfeste Sohle.',
-      fr: 'Pantoufles douces et sûres pour les enfants. Semelle antidérapante.',
-      en: 'Soft, safe slippers for kids. Non-slip sole.',
-      it: 'Pantofole morbide e sicure per bambini. Suola antiscivolo.',
-    },
-    image: 'https://images.unsplash.com/photo-1543420629-5350879dd4cd?w=600&q=80',
-    sizes: [
-      { id: '28', label: { de: '28', fr: '28', en: '28', it: '28' } },
-      { id: '30', label: { de: '30', fr: '30', en: '30', it: '30' } },
-      { id: '32', label: { de: '32', fr: '32', en: '32', it: '32' } },
-      { id: '34', label: { de: '34', fr: '34', en: '34', it: '34' } },
-    ],
-    colors: [
-      { id: 'pink', label: 'Rosa', hex: '#ec4899' },
-      { id: 'blue', label: 'Blau', hex: '#2563eb' },
-      { id: 'green', label: 'Grün', hex: '#22c55e' },
-    ],
-    variants: [
-      ...['28', '30', '32', '34'].flatMap((size) =>
-        (['pink', 'blue', 'green'] as const).map((color) => ({
-          size,
-          color,
-          sku: `KIDS-${size}-${color}`,
-          priceCHF: null,
-          stock: 12,
-        }))
-      ),
-    ],
-  },
   // leon-products.generated.ts is already normalized on disk (see scripts/persist-leon-normalize.mjs)
   ...(leonProducts as unknown as Product[]),
   ...harborMensSandalProducts,
   ...(milamiProducts as unknown as Product[]),
 ];
 
-export const products: Product[] = productsRaw.map(applyLeonMenStandardSizesIfApplicable);
+export const products: Product[] = productsRaw
+  .map(applyLeonMenStandardSizesIfApplicable)
+  .filter((p) => p.category !== 'children' || productHasPrice(p));
 
 const slugRedirectMap = leonSlugRedirects as Record<string, string>;
 

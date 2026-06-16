@@ -1,0 +1,48 @@
+---
+description: Leon katalog — patch skripte, galerije, kategorije po šifri
+globs: data/leon-*.ts,data/leon-*.json,scripts/patch-*.mjs,scripts/fetch-leon-sku.mjs,scripts/leon-*.mjs,src/lib/exploreClassifier.ts
+alwaysApply: false
+---
+
+# Leon katalog
+
+## AUTO-GENERATED fajlovi — ne editovati ručno
+- `data/leon-products.generated.ts`
+- `data/leon-explore-tags.generated.ts`
+
+Umesto toga: napiši ili pokreni **`scripts/patch-<model>.mjs`**, pa `npx tsx scripts/patch-....mjs`.
+
+Wzorac patch skripte (vidi `patch-stella-4811-4812.mjs`, `patch-elio-4813.mjs`, `patch-line-510-women.mjs`):
+1. Učitaj `leonProducts` i `leonExploreTagsByProductId` iz TS fajlova (regex parse)
+2. Fetch sa `leon.rs/p/<slug>/` — fancybox galerija
+3. **Filtriraj slike**: `/${article}-` + regex boje (npr. `4813-Zelena`, `510-Siva-velur`)
+4. Postavi `category`, `articleNumber`, `modelGroupId`, `colorLabel`, veličine, cene
+5. Upiši explore tagove u `leon-explore-tags.generated.ts`
+6. Ažuriraj `scripts/leon-site-sku-cache.json`
+
+## Kategorije (exploreClassifier)
+Eksplicitne šifre u `src/lib/exploreClassifier.ts` — **rani return** pre fallback-a:
+
+| Tip | Primeri šifara |
+|-----|----------------|
+| Ženske papuče | `6010`, `510` |
+| Ženske klompe | `300`, `302`, `6003`, `V260`, … |
+| Ženske sandale | `967`, `1120`, `963`, … |
+| Ženske medicinske | `950`, `970`, `3500`, `5000`, `5001` |
+| Muške klompe | `300M`, `700M`, `V200M`, `707M`, … |
+| Muške papuče | `4703M`, `4704M`, `4705M` |
+| Dečije klompe | `4800` |
+| Dečije papuče | `4811` |
+| Dečije sandale | `4812`, `4813` |
+
+Fallback bez eksplicitnog tipa: žene/muškarci/deca → `papuce` (osim gore navedenih).
+
+## Gender kategorija u katalogu
+- `women` / `men` / `children` — mora odgovarati stvarnom proizvodu (npr. 510 = women, ne children)
+- Veličine: žene 36–42/43, muškarci po modelu, deca 22–34
+
+## Galerije — čest bug
+Mešane slike različitih boja/modela → filtriraj samo URL-ove sa prefiksom šifre i boje te varijante.
+
+## Excel uparivanje
+`src/lib/excelCatalogMatch.ts` — paziti na stem match (npr. `510` ne sme pogoditi `DSC05510`).

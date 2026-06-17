@@ -51,23 +51,27 @@ export default function Header() {
             : 'bg-gradient-to-r from-white via-white to-[#fdf2f4]'
         }`}
       >
-        <div className="mx-auto flex min-h-[5.25rem] max-w-6xl items-center justify-between gap-4 px-4 py-3 sm:min-h-[6.5rem]">
+        <div className="mx-auto flex min-h-[7.25rem] max-w-6xl items-center justify-between gap-3 px-4 py-2 sm:min-h-[8.25rem] md:min-h-[9rem] md:gap-4">
           <Link
             href={`${base}`}
-            className="flex items-center gap-3 sm:gap-4 rounded-lg outline-none focus-visible:ring-2 focus-visible:ring-red-500 focus-visible:ring-offset-2"
+            className="group flex min-w-0 flex-shrink-0 items-center gap-3 sm:gap-4 rounded-lg outline-none focus-visible:ring-2 focus-visible:ring-red-500"
           >
-            <div className="relative h-16 w-16 flex-shrink-0 sm:h-24 sm:w-24 md:h-28 md:w-28">
-              <Image
-                src="/logo.png"
-                alt="Trend Swiss Shop"
-                fill
-                className="object-contain"
-                priority
-              />
-            </div>
-            <span className="text-xl font-bold text-[var(--header-dark)] sm:text-2xl md:text-3xl">
-              TREND SWISS <span className="text-red-600">SHOP</span>
-              <span className="ml-1.5 block text-xs font-normal text-neutral-500 sm:inline sm:text-sm">trendswiss.ch</span>
+            <Image
+              src="/logo-icon.png"
+              alt="Trend Swiss"
+              width={928}
+              height={598}
+              className="brand-logo-3d-img h-[6.75rem] w-auto flex-shrink-0 object-contain sm:h-[8rem] md:h-[9.25rem] lg:h-[9.75rem]"
+              priority
+              unoptimized
+            />
+            <span className="brand-text-3d flex min-w-0 flex-col leading-none">
+              <span className="brand-title-3d text-2xl font-extrabold tracking-tight text-[var(--header-dark)] sm:text-3xl md:text-4xl lg:text-5xl">
+                Trend <span className="brand-title-swiss-3d text-red-600">Swiss</span>
+              </span>
+              <span className="brand-subtitle-3d mt-1.5 text-xs font-medium text-neutral-500 sm:text-sm">
+                trendswiss.ch
+              </span>
             </span>
           </Link>
 

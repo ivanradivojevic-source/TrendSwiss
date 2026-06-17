@@ -23,6 +23,55 @@ body {
   background: var(--bg-warm);
 }
 
+.brand-logo-3d-img {
+  transform: perspective(900px) rotateY(-10deg) rotateX(5deg) translateY(-1.55rem) translateX(-2.55rem);
+  filter:
+    drop-shadow(2px 3px 0 rgba(185, 28, 28, 0.22))
+    drop-shadow(0 8px 16px rgba(0, 0, 0, 0.18));
+  transform-origin: center center;
+  transition: transform 0.25s ease;
+}
+
+.group:hover .brand-logo-3d-img {
+  transform: perspective(900px) rotateY(-10deg) rotateX(5deg) translateY(-1.65rem) translateX(-2.55rem) scale(1.03);
+}
+
+.brand-text-3d {
+  transform: perspective(1000px) rotateY(-8deg) translateZ(8px);
+  transform-style: preserve-3d;
+}
+
+.brand-title-3d {
+  text-shadow:
+    0 1px 0 #ffffff,
+    0 2px 0 #f3f4f6,
+    0 3px 0 #e5e7eb,
+    0 4px 0 #d1d5db,
+    0 5px 0 #9ca3af,
+    0 6px 0 #6b7280,
+    0 8px 2px rgba(0, 0, 0, 0.14),
+    0 14px 24px rgba(0, 0, 0, 0.22),
+    0 22px 40px rgba(0, 0, 0, 0.12);
+  letter-spacing: -0.03em;
+}
+
+.brand-title-swiss-3d {
+  text-shadow:
+    0 1px 0 #fecaca,
+    0 2px 0 #fca5a5,
+    0 3px 0 #f87171,
+    0 4px 0 #ef4444,
+    0 5px 0 #dc2626,
+    0 6px 0 #b91c1c,
+    0 8px 2px rgba(127, 29, 29, 0.35),
+    0 14px 24px rgba(185, 28, 28, 0.28),
+    0 22px 40px rgba(0, 0, 0, 0.12);
+}
+
+.brand-subtitle-3d {
+  text-shadow: 0 1px 0 #fff, 0 2px 8px rgba(0, 0, 0, 0.12);
+}
+
 /* Bolji fokus za linkove i dugmad */
 a:focus-visible,
 button:focus-visible {

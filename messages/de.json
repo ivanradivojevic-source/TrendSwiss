@@ -11,8 +11,8 @@
     "searchNoResults": "Kein Modell gefunden."
   },
   "home": {
-    "heroTitle": "Willkommen bei Trend Swiss Shop",
-    "heroSubtitle": "Qualität und Stil aus der Schweiz",
+    "heroTitle": "Willkommen bei Trend Swiss",
+    "heroSubtitle": "Qualität und Stil für die Schweiz",
     "aboutTitle": "Über uns",
     "aboutCompany": "TrendSwiss GmbH",
     "aboutTagline": "Stilvoller Komfort für jeden Tag – Ihre Experten für erstklassiges Schuhwerk",
@@ -37,9 +37,12 @@
     "aboutClosingLine": "Gehen Sie gemeinsam mit uns auf Erfolgskurs und erleben Sie Komfort neu.",
     "aboutFooterLine": "TrendSwiss GmbH – Schritt für Schritt mehr Wohlbefinden.",
     "contactTitle": "Kontakt",
-    "contactPhone": "Telefon",
+    "contactPhone": "Tel",
     "contactAddress": "Adresse",
     "contactEmail": "E-Mail",
+    "contactStreet": "Bodenackerstrasse 50",
+    "contactCity": "5200, Brugg",
+    "contactCountry": "Schweiz",
     "galleryAriaLabel": "Bildergalerie"
   },
   "shop": {

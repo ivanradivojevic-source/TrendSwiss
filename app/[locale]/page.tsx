@@ -23,17 +23,19 @@ export default async function HomePage({
     <div>
       {/* Hero – isečena slika (bez belih traka), visina = slika, blago šire */}
       <section className="px-4">
-        <div className="relative mx-auto max-w-6xl overflow-hidden leading-[0]">
-          <Image
-            src="/hero-backdrop-trim.png"
-            alt=""
-            width={1024}
-            height={570}
-            priority
-            unoptimized
-            className="block h-auto w-[106%] max-w-none -translate-x-[3%] align-bottom"
-          />
-          <div className="absolute inset-0 bg-white/20" aria-hidden />
+        <div className="relative mx-auto max-w-6xl">
+          <div className="relative overflow-hidden leading-[0]">
+            <Image
+              src="/hero-backdrop-trim.png"
+              alt=""
+              width={1024}
+              height={570}
+              priority
+              unoptimized
+              className="block h-auto w-[106%] max-w-none -translate-x-[3%] align-bottom"
+            />
+            <div className="absolute inset-0 bg-white/20" aria-hidden />
+          </div>
           <div className="absolute inset-x-0 top-[16%] -translate-y-1/2 px-4 text-center sm:px-8 md:top-[14%]">
             <div className="relative z-10 mx-auto max-w-2xl -translate-y-2 sm:-translate-y-3">
               <h1 className="text-2xl font-bold text-neutral-900 drop-shadow-sm sm:text-3xl md:text-4xl">
@@ -44,7 +46,7 @@ export default async function HomePage({
               </p>
             </div>
           </div>
-          <div className="absolute inset-x-0 top-[42%] z-10 flex -translate-y-1/2 justify-center px-4 sm:top-[42%]">
+          <div className="absolute inset-x-0 top-[42%] z-10 flex -translate-y-1/2 justify-center overflow-visible px-4 sm:top-[42%]">
             <ShopFlyButton href={`/${locale}/shop`}>
               <span className="text-lg">{tNav('shop')}</span>
             </ShopFlyButton>
@@ -175,26 +177,28 @@ export default async function HomePage({
       <section id="contact" className="scroll-mt-20 border-t border-neutral-200 bg-neutral-100 py-16 px-4">
         <div className="mx-auto max-w-2xl text-center">
           <h2 className="text-2xl font-bold text-neutral-900">{t('contactTitle')}</h2>
-          <div className="mt-8 space-y-4 text-left inline-block">
+          <div className="mt-8 inline-block space-y-3 text-left text-neutral-600">
+            <p className="font-semibold text-neutral-900">{t('aboutCompany')}</p>
             <p>
-              <span className="font-medium text-neutral-700">{t('contactPhone')}:</span>{' '}
-              <a href="tel:+41123456789" className="text-red-600 hover:underline">
-                +41 12 345 67 89
-              </a>
+              {t('contactStreet')}
+              <br />
+              {t('contactCity')}
+              <br />
+              {t('contactCountry')}
             </p>
             <p>
-              <span className="font-medium text-neutral-700">{t('contactAddress')}:</span>{' '}
-              <span className="text-neutral-600">
-                Musterstrasse 1, 8000 Zürich, Schweiz
-              </span>
+              <span className="font-medium text-neutral-700">{t('contactPhone')}:</span>{' '}
+              <a href="tel:+41772314129" className="text-red-600 hover:underline">
+                +41 77 231 41 29
+              </a>
             </p>
             <p>
               <span className="font-medium text-neutral-700">{t('contactEmail')}:</span>{' '}
               <a
-                href="mailto:info@trendswiss.ch"
+                href="mailto:trendswissshop@gmail.com"
                 className="text-red-600 hover:underline"
               >
-                info@trendswiss.ch
+                trendswissshop@gmail.com
               </a>
             </p>
           </div>

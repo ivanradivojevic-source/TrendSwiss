@@ -1,0 +1,47 @@
+---
+description: GitHub upload — korisnik daje samo commit tekst, agent radi ostalo
+alwaysApply: true
+---
+
+# GitHub deploy (brzi tok)
+
+Korisnik **Ivan** šalje samo **commit poruku** (npr. „uploaduj na github“ + tekst). Ne pitaj ponovo — odmah izvrši ceo tok.
+
+## Repo
+- **Remote:** `https://github.com/ivanradivojevic-source/TrendSwiss`
+- **Branch:** `main` → Vercel auto-deploy
+- **Radni folder:** `d:\Cursor_AI\Sima saj trend swiss`
+
+## Koraci (redom, bez čekanja)
+
+1. **Paralelno:** `git status`, `git diff`, `git log -3 --oneline`
+2. **Stage** — sve relevantno za verziju:
+   - izmenjeni izvorni fajlovi (`app/`, `components/`, `data/`, `messages/`, `src/`, `scripts/` ako treba)
+   - novi asseti koji se **koriste** u app-u (`public/home-gallery/`, `public/hero-backdrop-trim.png`, itd.)
+   - `.cursor/rules/` i `AGENTS.md` ako su menjani
+3. **Ne stage-uj:**
+   - `.next/`, `.env`, `.env.local`
+   - `excel-out.json`, `*.log`
+   - `SlikePrvaStrana/` (duplikat slika; prave su u `public/`)
+   - nekorišćeni hero asseti (`hero-backdrop.png`, `hero-backdrop-cropped.png`, `hero-backdrop-scene.png`)
+   - `public/logo-no-background.png` i slični privremeni fajlovi ako nisu u kodu
+4. **Commit** — tačno korisnikov tekst: `git commit -m "..."`
+5. **Push:** `git push -u origin main`
+6. **Potvrda:** `git status` — „up to date with origin/main“
+
+## PowerShell
+```powershell
+cd "d:\Cursor_AI\Sima saj trend swiss"; git status
+```
+Koristi `;` umesto `&&`.
+
+## Pravila
+- Commit/push **samo** kad korisnik eksplicitno traži (ovaj tok = eksplicitan zahtev)
+- Nikad `git push --force` na `main`
+- Ne menjati git config
+- Ne pitaj „da li da commitujem“ ako je korisnik već dao commit tekst
+
+## Posle push-a (kratak odgovor korisniku)
+- hash commita + poruka
+- link na repo
+- šta je ušlo / šta je namerno ostalo van commita (ako ima untracked)

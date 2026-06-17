@@ -11,7 +11,7 @@
     "searchNoResults": "Nessun modello trovato."
   },
   "home": {
-    "heroTitle": "Benvenuto su Trend Swiss Shop",
+    "heroTitle": "Benvenuto su Trend Swiss",
     "heroSubtitle": "Qualità e stile svizzeri",
     "aboutTitle": "Chi siamo",
     "aboutCompany": "TrendSwiss GmbH",
@@ -37,9 +37,12 @@
     "aboutClosingLine": "Percorrete con noi la strada del successo e riscoprite il comfort.",
     "aboutFooterLine": "TrendSwiss GmbH – passo dopo passo verso un maggiore benessere.",
     "contactTitle": "Contatti",
-    "contactPhone": "Telefono",
+    "contactPhone": "Tel",
     "contactAddress": "Indirizzo",
     "contactEmail": "E-mail",
+    "contactStreet": "Bodenackerstrasse 50",
+    "contactCity": "5200, Brugg",
+    "contactCountry": "Svizzera",
     "galleryAriaLabel": "Galleria immagini"
   },
   "shop": {

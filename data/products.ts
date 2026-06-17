@@ -148,9 +148,18 @@ const productsRaw: Product[] = [
   ...(milamiProducts as unknown as Product[]),
 ];
 
+export function isCatalogVisible(p: Product): boolean {
+  if (p.brand === 'milami' && p.category === 'children') {
+    const slug = p.slug.toLowerCase();
+    if (slug.includes('sandal') || slug.includes('bali')) return false;
+  }
+  return true;
+}
+
 export const products: Product[] = productsRaw
   .map(applyLeonMenStandardSizesIfApplicable)
-  .filter((p) => p.category !== 'children' || productHasPrice(p));
+  .filter((p) => p.category !== 'children' || productHasPrice(p))
+  .filter(isCatalogVisible);
 
 const slugRedirectMap = leonSlugRedirects as Record<string, string>;
 

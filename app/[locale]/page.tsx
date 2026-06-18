@@ -36,7 +36,7 @@ export default async function HomePage({
             />
             <div className="absolute inset-0 bg-white/20" aria-hidden />
           </div>
-          <div className="absolute inset-x-0 top-[22%] z-20 px-3 text-center sm:top-[16%] sm:-translate-y-1/2 sm:px-8 md:top-[14%]">
+          <div className="absolute inset-x-0 top-[14%] z-20 px-3 text-center sm:top-[16%] sm:-translate-y-1/2 sm:px-8 md:top-[14%]">
             <div className="relative mx-auto max-w-2xl sm:-translate-y-3">
               <h1 className="text-xl font-bold leading-snug text-neutral-900 drop-shadow-sm sm:text-3xl md:text-4xl">
                 {t('heroTitle')}
@@ -46,7 +46,7 @@ export default async function HomePage({
               </p>
             </div>
           </div>
-          <div className="absolute inset-x-0 top-[50%] z-10 flex justify-center px-2 sm:top-[42%] sm:-translate-y-1/2 sm:px-4">
+          <div className="absolute inset-x-0 top-[54%] z-10 flex justify-center px-2 sm:top-[42%] sm:-translate-y-1/2 sm:px-4">
             <ShopFlyButton href={`/${locale}/shop`}>
               <span className="text-lg">{tNav('shop')}</span>
             </ShopFlyButton>

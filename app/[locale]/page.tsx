@@ -21,9 +21,9 @@ export default async function HomePage({
 
   return (
     <div className="overflow-x-hidden">
-      {/* Hero – isečena slika (bez belih traka), visina = slika, blago šire */}
-      <section className="px-4">
-        <div className="relative mx-auto max-w-6xl">
+      {/* Hero – slika + naslov; na mobilnom bez isečenja teksta */}
+      <section className="overflow-visible px-4">
+        <div className="relative mx-auto max-w-6xl overflow-visible">
           <div className="relative overflow-hidden leading-[0]">
             <Image
               src="/hero-backdrop-trim.png"
@@ -32,21 +32,21 @@ export default async function HomePage({
               height={570}
               priority
               unoptimized
-              className="block h-auto w-[106%] max-w-none -translate-x-[3%] align-bottom"
+              className="block h-auto w-full align-bottom sm:w-[106%] sm:max-w-none sm:-translate-x-[3%]"
             />
             <div className="absolute inset-0 bg-white/20" aria-hidden />
           </div>
-          <div className="absolute inset-x-0 top-[16%] -translate-y-1/2 px-4 text-center sm:px-8 md:top-[14%]">
-            <div className="relative z-10 mx-auto max-w-2xl -translate-y-2 sm:-translate-y-3">
-              <h1 className="text-2xl font-bold text-neutral-900 drop-shadow-sm sm:text-3xl md:text-4xl">
+          <div className="absolute inset-x-0 top-[22%] z-20 px-3 text-center sm:top-[16%] sm:-translate-y-1/2 sm:px-8 md:top-[14%]">
+            <div className="relative mx-auto max-w-2xl sm:-translate-y-3">
+              <h1 className="text-xl font-bold leading-snug text-neutral-900 drop-shadow-sm sm:text-3xl md:text-4xl">
                 {t('heroTitle')}
               </h1>
-              <p className="mt-2 text-lg font-semibold text-red-600 drop-shadow-[0_1px_2px_rgba(255,255,255,0.9)] sm:text-xl md:text-2xl">
+              <p className="mt-1.5 text-base font-semibold leading-snug text-red-600 drop-shadow-[0_1px_2px_rgba(255,255,255,0.9)] sm:mt-2 sm:text-xl md:text-2xl">
                 {t('heroSubtitle')}
               </p>
             </div>
           </div>
-          <div className="absolute inset-x-0 top-[42%] z-10 flex -translate-y-1/2 justify-center px-4 sm:top-[42%]">
+          <div className="absolute inset-x-0 top-[50%] z-10 flex justify-center px-2 sm:top-[42%] sm:-translate-y-1/2 sm:px-4">
             <ShopFlyButton href={`/${locale}/shop`}>
               <span className="text-lg">{tNav('shop')}</span>
             </ShopFlyButton>

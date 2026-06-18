@@ -16,11 +16,13 @@
 
 html {
   scroll-behavior: smooth;
+  overflow-x: hidden;
 }
 
 body {
   font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
   background: var(--bg-warm);
+  overflow-x: hidden;
 }
 
 .brand-logo-3d-img {
@@ -34,6 +36,26 @@ body {
 
 .group:hover .brand-logo-3d-img {
   transform: perspective(900px) rotateY(-10deg) rotateX(5deg) translateY(-1.65rem) translateX(-2.55rem) scale(1.03);
+}
+
+@media (max-width: 767px) {
+  .brand-logo-3d-img {
+    transform: perspective(900px) rotateY(-8deg) rotateX(4deg) translateY(-0.2rem) translateX(-0.35rem);
+    filter: drop-shadow(0 4px 10px rgba(0, 0, 0, 0.16));
+  }
+
+  .group:hover .brand-logo-3d-img {
+    transform: perspective(900px) rotateY(-8deg) rotateX(4deg) translateY(-0.2rem) translateX(-0.35rem) scale(1.02);
+  }
+
+  .brand-text-3d {
+    transform: none;
+  }
+
+  .brand-title-3d,
+  .brand-title-swiss-3d {
+    text-shadow: 0 1px 0 #ffffff, 0 2px 8px rgba(0, 0, 0, 0.14);
+  }
 }
 
 .brand-text-3d {

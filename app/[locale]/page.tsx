@@ -20,7 +20,7 @@ export default async function HomePage({
   const galleryImages: HomeGalleryImage[] = await getHomeGalleryImages();
 
   return (
-    <div>
+    <div className="overflow-x-hidden">
       {/* Hero – isečena slika (bez belih traka), visina = slika, blago šire */}
       <section className="px-4">
         <div className="relative mx-auto max-w-6xl">
@@ -46,7 +46,7 @@ export default async function HomePage({
               </p>
             </div>
           </div>
-          <div className="absolute inset-x-0 top-[42%] z-10 flex -translate-y-1/2 justify-center overflow-visible px-4 sm:top-[42%]">
+          <div className="absolute inset-x-0 top-[42%] z-10 flex -translate-y-1/2 justify-center px-4 sm:top-[42%]">
             <ShopFlyButton href={`/${locale}/shop`}>
               <span className="text-lg">{tNav('shop')}</span>
             </ShopFlyButton>

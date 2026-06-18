@@ -35,7 +35,7 @@ export default function LocaleSwitcher() {
       <button
         type="button"
         onClick={() => setOpen(!open)}
-        className="flex items-center gap-2 rounded-lg border border-neutral-200 bg-neutral-50 px-3 py-2 hover:bg-neutral-100"
+        className="flex items-center gap-1.5 rounded-lg border border-neutral-200 bg-neutral-50 px-2 py-2 hover:bg-neutral-100 sm:gap-2 sm:px-3"
         aria-label="Change language"
       >
         <FlagIcon code={current.code} size={22} />

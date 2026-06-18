@@ -24,7 +24,7 @@ export default async function LocaleLayout({
   return (
     <NextIntlClientProvider messages={messages}>
       <SmoothScrollToHash />
-      <div className="min-h-screen flex flex-col bg-[var(--bg-warm)] text-neutral-900 antialiased">
+      <div className="flex min-h-screen flex-col overflow-x-hidden bg-[var(--bg-warm)] text-neutral-900 antialiased">
         <Header />
         <main className="flex-1">{children}</main>
         <Footer />

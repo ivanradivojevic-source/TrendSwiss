@@ -1,7 +1,7 @@
 'use client';
 
 import { useRouter } from 'next/navigation';
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 import Image from 'next/image';
 
 export default function ShopFlyButton({
@@ -14,6 +14,10 @@ export default function ShopFlyButton({
   const router = useRouter();
   const [flying, setFlying] = useState(false);
 
+  useEffect(() => {
+    router.prefetch(href);
+  }, [href, router]);
+
   const handleClick = (e: React.MouseEvent) => {
     e.preventDefault();
     if (flying) return;
@@ -25,10 +29,10 @@ export default function ShopFlyButton({
 
   return (
     <div
-      className={`flex flex-wrap items-center justify-center gap-0 overflow-visible ${flying ? 'shop-fly-active' : ''}`}
+      className={`flex max-w-full flex-wrap items-center justify-center gap-0 overflow-visible ${flying ? 'shop-fly-active' : ''}`}
     >
       <span
-        className={`relative -mr-3 hidden h-[5.2rem] w-28 flex-shrink-0 overflow-visible sm:block ${flying ? 'wing-flap-left' : 'translate-y-[-0.5cm]'}`}
+        className={`relative -mr-2 h-12 w-16 flex-shrink-0 overflow-visible sm:-mr-3 sm:h-[5.2rem] sm:w-28 ${flying ? 'wing-flap-left' : 'translate-y-[-0.5cm]'}`}
       >
         <Image
           src="/wing-no-background.png"
@@ -48,7 +52,7 @@ export default function ShopFlyButton({
         {children}
       </button>
       <span
-        className={`relative -ml-3 hidden h-[5.2rem] w-28 flex-shrink-0 overflow-visible sm:block ${flying ? 'wing-flap-right' : ''}`}
+        className={`relative -ml-2 h-12 w-16 flex-shrink-0 overflow-visible sm:-ml-3 sm:h-[5.2rem] sm:w-28 ${flying ? 'wing-flap-right' : ''}`}
         style={flying ? undefined : { transform: 'scaleX(-1) translateY(-0.5cm)' }}
       >
         <Image

@@ -10,18 +10,27 @@ import { getExploreCategoriesForProduct, isUncategorizedProduct } from '@/src/li
 import { formatArticleLine } from '@/src/lib/productArticle';
 import { formatProductPriceLabel, productHasPrice } from '@/src/lib/productPrice';
 import MobileFilterSheet from '@/components/MobileFilterSheet';
-
-export const dynamic = 'force-dynamic';
+import ShopProductPagination from '@/components/ShopProductPagination';
+import { paginateProducts, parseShopPage, parseShopPerPage } from '@/src/lib/shopPagination';
 
 export default async function ShopPage({
   params,
   searchParams,
 }: {
   params: Promise<{ locale: string }>;
-  searchParams: Promise<{ cat?: string; cats?: string; brand?: string; pcats?: string; uncat?: string }>;
+  searchParams: Promise<{
+    cat?: string;
+    cats?: string;
+    brand?: string;
+    pcats?: string;
+    uncat?: string;
+    perPage?: string;
+    page?: string;
+  }>;
 }) {
   const { locale } = await params;
-  const { cat, cats, brand, pcats, uncat } = await searchParams;
+  const { cat, cats, brand, pcats, uncat, perPage: perPageParam, page: pageParam } =
+    await searchParams;
   const t = await getTranslations('shop');
   const loc = locale as 'de' | 'fr' | 'en' | 'it';
 
@@ -56,6 +65,8 @@ export default async function ShopPage({
   };
   const selectedExplore = Array.from(new Set(parseExplore(pcats)));
   const showUncategorized = uncat === '1';
+  const perPage = parseShopPerPage(perPageParam);
+  const requestedPage = parseShopPage(pageParam);
 
   const pricedProducts = products.filter(productHasPrice);
   const uncategorizedCount = pricedProducts.filter(isUncategorizedProduct).length;
@@ -71,7 +82,10 @@ export default async function ShopPage({
     return true;
   });
 
-  const buildHref = (
+  const pagination = paginateProducts(filtered, perPage, requestedPage);
+  const visibleProducts = pagination.items;
+
+  const buildFilterQuery = (
     nextCats: CategoryId[],
     nextBrand: 'leon' | 'milami' | null,
     nextExplore: ExploreCategoryId[],
@@ -82,9 +96,26 @@ export default async function ShopPage({
     if (nextBrand) params.set('brand', nextBrand);
     if (!nextUncategorized && nextExplore.length) params.set('pcats', nextExplore.join(','));
     if (nextUncategorized) params.set('uncat', '1');
-    const qs = params.toString();
+    if (perPage !== 20) params.set('perPage', perPage === 'all' ? 'all' : String(perPage));
+    return params.toString();
+  };
+
+  const buildHref = (
+    nextCats: CategoryId[],
+    nextBrand: 'leon' | 'milami' | null,
+    nextExplore: ExploreCategoryId[],
+    nextUncategorized = false
+  ) => {
+    const qs = buildFilterQuery(nextCats, nextBrand, nextExplore, nextUncategorized);
     return `/${locale}/shop${qs ? `?${qs}` : ''}`;
   };
+
+  const filterQuery = buildFilterQuery(
+    selectedCats,
+    selectedBrand,
+    selectedExplore,
+    showUncategorized
+  );
 
   const toggleCat = (id: CategoryId) => {
     if (selectedCats.includes(id)) return selectedCats.filter((c) => c !== id);
@@ -450,8 +481,9 @@ export default async function ShopPage({
           </div>
         </aside>
 
+        <div>
         <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
-          {filtered.map((p) => (
+          {visibleProducts.map((p) => (
             <Link
               key={p.id}
               href={`/${locale}/shop/${p.slug}`}
@@ -485,6 +517,35 @@ export default async function ShopPage({
               </div>
             </Link>
           ))}
+        </div>
+
+        <ShopProductPagination
+          locale={locale}
+          baseQuery={filterQuery}
+          perPage={perPage}
+          page={pagination.page}
+          totalPages={pagination.totalPages}
+          from={pagination.from}
+          to={pagination.to}
+          total={pagination.total}
+          labels={{
+            perPage: t('perPageLabel'),
+            per20: t('perPage20'),
+            per50: t('perPage50'),
+            perAll: t('perPageAll'),
+            showing: t('showingRange', {
+              from: pagination.from,
+              to: pagination.to,
+              total: pagination.total,
+            }),
+            prev: t('prevPage'),
+            next: t('nextPage'),
+            pageOf: t('pageOf', {
+              page: pagination.page,
+              totalPages: pagination.totalPages,
+            }),
+          }}
+        />
         </div>
       </div>
 

@@ -1,6 +1,12 @@
 import { getTranslations } from 'next-intl/server';
 import { notFound, redirect } from 'next/navigation';
-import { getProductBySlug, getProductsByModelGroup, resolveProductSlug } from '@/data/products';
+import {
+  getProductBySlug,
+  getProductsByModelGroup,
+  resolveProductSlug,
+  products,
+} from '@/data/products';
+import leonSlugRedirects from '@/data/leon-slug-redirects.json';
 import AddToCartForm from '@/components/AddToCartForm';
 import ProductTabs from '@/components/ProductTabs';
 import ProductGallery from '@/components/ProductGallery';
@@ -8,7 +14,15 @@ import ProductModelColorLinks from '@/components/ProductModelColorLinks';
 import { formatArticleLineForProduct } from '@/src/lib/productArticle';
 import { formatProductPriceLabel } from '@/src/lib/productPrice';
 
-export const dynamic = 'force-dynamic';
+export const dynamicParams = false;
+
+export function generateStaticParams() {
+  const redirectFromSlugs = Object.keys(
+    leonSlugRedirects as unknown as Record<string, string>
+  );
+  const all = new Set<string>([...products.map((p) => p.slug), ...redirectFromSlugs]);
+  return Array.from(all).map((slug) => ({ slug }));
+}
 
 export default async function ProductPage({
   params,

@@ -195,10 +195,10 @@ export default async function HomePage({
             <p>
               <span className="font-medium text-neutral-700">{t('contactEmail')}:</span>{' '}
               <a
-                href="mailto:trendswissshop@gmail.com"
+                href="mailto:info@trendswiss.ch"
                 className="text-red-600 hover:underline"
               >
-                trendswissshop@gmail.com
+                info@trendswiss.ch
               </a>
             </p>
           </div>

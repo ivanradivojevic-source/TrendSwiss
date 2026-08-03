@@ -1,20 +1,18 @@
-import createMiddleware from 'next-intl/middleware';
-import { routing } from './i18n/routing';
-
-export default createMiddleware(routing);
+import { NextResponse } from 'next/server';
+import type { NextRequest } from 'next/server';
 
 /**
- * Tight matcher: only real app routes.
- * Skips bot junk (/wp-admin, /wordpress, random paths, etc.)
- * that previously hit middleware on every request and burned invocations/CPU.
+ * Minimal middleware: only redirect `/` → `/de`.
+ * Locale pages use setRequestLocale (static), so next-intl Edge middleware
+ * is not needed on every shop/PDP hit (saves invocations + CPU).
  */
+export default function middleware(request: NextRequest) {
+  if (request.nextUrl.pathname === '/') {
+    return NextResponse.redirect(new URL('/de', request.url));
+  }
+  return NextResponse.next();
+}
+
 export const config = {
-  matcher: [
-    '/',
-    '/(de|fr|en|it)',
-    '/(de|fr|en|it)/shop/:path*',
-    '/(de|fr|en|it)/cart',
-    '/(de|fr|en|it)/cart/:path*',
-    '/(de|fr|en|it)/checkout/:path*',
-  ],
+  matcher: ['/'],
 };

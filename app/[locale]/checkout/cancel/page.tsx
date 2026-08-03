@@ -1,4 +1,4 @@
-import { getTranslations } from 'next-intl/server';
+import { getTranslations, setRequestLocale } from 'next-intl/server';
 import Link from 'next/link';
 
 export default async function CheckoutCancelPage({
@@ -7,6 +7,7 @@ export default async function CheckoutCancelPage({
   params: Promise<{ locale: string }>;
 }) {
   const { locale } = await params;
+  setRequestLocale(locale);
   const t = await getTranslations('checkout');
   return (
     <div className="mx-auto max-w-lg px-4 py-16 text-center">

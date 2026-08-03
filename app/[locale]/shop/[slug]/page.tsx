@@ -1,4 +1,4 @@
-import { getTranslations } from 'next-intl/server';
+import { getTranslations, setRequestLocale } from 'next-intl/server';
 import { notFound, redirect } from 'next/navigation';
 import {
   getProductBySlug,
@@ -30,6 +30,7 @@ export default async function ProductPage({
   params: Promise<{ locale: string; slug: string }>;
 }) {
   const { locale, slug } = await params;
+  setRequestLocale(locale);
   const canonicalSlug = resolveProductSlug(slug);
   if (canonicalSlug !== slug) {
     redirect(`/${locale}/shop/${canonicalSlug}`);

@@ -8,7 +8,8 @@
     "clean": "node -e \"try{require('fs').rmSync('.next',{recursive:true,force:true});console.log('Removed .next')}catch(e){console.log('No .next to remove')}\"",
     "dev:clean": "npm run clean && next dev -p 3000",
     "up": "npm run clean && npm run build && next start -p 3000",
-    "build": "next build",
+    "build": "npx tsx scripts/generate-shop-listing.ts && next build",
+    "generate:shop-listing": "npx tsx scripts/generate-shop-listing.ts",
     "start": "next start -p 3000",
     "lint": "next lint"
   },

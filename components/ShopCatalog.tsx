@@ -1,6 +1,6 @@
 'use client';
 
-import { useMemo } from 'react';
+import { useEffect, useMemo, useState } from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 import { useSearchParams } from 'next/navigation';
@@ -20,12 +20,31 @@ import {
 
 type ShopCatalogProps = {
   locale: Locale;
-  products: ShopListingItem[];
 };
 
-export default function ShopCatalog({ locale, products }: ShopCatalogProps) {
+export default function ShopCatalog({ locale }: ShopCatalogProps) {
   const t = useTranslations('shop');
   const searchParams = useSearchParams();
+  const [products, setProducts] = useState<ShopListingItem[] | null>(null);
+  const [loadError, setLoadError] = useState(false);
+
+  useEffect(() => {
+    let cancelled = false;
+    fetch('/shop-listing.json', { cache: 'force-cache' })
+      .then((r) => {
+        if (!r.ok) throw new Error(`HTTP ${r.status}`);
+        return r.json() as Promise<ShopListingItem[]>;
+      })
+      .then((data) => {
+        if (!cancelled) setProducts(data);
+      })
+      .catch(() => {
+        if (!cancelled) setLoadError(true);
+      });
+    return () => {
+      cancelled = true;
+    };
+  }, []);
 
   const cat = searchParams.get('cat') ?? undefined;
   const cats = searchParams.get('cats') ?? undefined;
@@ -71,13 +90,15 @@ export default function ShopCatalog({ locale, products }: ShopCatalogProps) {
   const perPage = parseShopPerPage(perPageParam);
   const requestedPage = parseShopPage(pageParam);
 
+  const catalog = products ?? [];
+
   const uncategorizedCount = useMemo(
-    () => products.filter((p) => p.uncategorized).length,
-    [products]
+    () => catalog.filter((p) => p.uncategorized).length,
+    [catalog]
   );
 
   const filtered = useMemo(() => {
-    return products.filter((p) => {
+    return catalog.filter((p) => {
       if (selectedCats.length && !selectedCats.includes(p.category)) return false;
       if (selectedBrand && p.brand !== selectedBrand) return false;
       if (showUncategorized) return p.uncategorized;
@@ -86,7 +107,7 @@ export default function ShopCatalog({ locale, products }: ShopCatalogProps) {
       }
       return true;
     });
-  }, [products, selectedCats, selectedBrand, showUncategorized, selectedExplore]);
+  }, [catalog, selectedCats, selectedBrand, showUncategorized, selectedExplore]);
 
   const pagination = paginateProducts(filtered, perPage, requestedPage);
   const visibleProducts = pagination.items;
@@ -337,76 +358,84 @@ export default function ShopCatalog({ locale, products }: ShopCatalogProps) {
         </aside>
 
         <div>
-          <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
-            {visibleProducts.map((p) => (
-              <Link
-                key={p.id}
-                href={`/${locale}/shop/${p.slug}`}
-                className="group overflow-hidden rounded-xl border-2 border-red-100 bg-white shadow-md transition hover:border-red-200 hover:shadow-lg"
-              >
-                <div className="aspect-square relative bg-neutral-100">
-                  <Image
-                    src={p.image}
-                    alt={p.name[locale]}
-                    fill
-                    className="object-cover transition group-hover:scale-105"
-                    sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
-                    unoptimized
-                  />
-                </div>
-                <div className="p-4">
-                  <p className="text-xs font-medium uppercase text-neutral-500">
-                    {categories.find((c) => c.id === p.category)?.name[locale]}
-                  </p>
-                  <h2 className="mt-0.5 font-semibold text-neutral-900">{p.name[locale]}</h2>
-                  {p.articleLine ? (
-                    <p className="mt-0.5 font-mono text-xs font-medium text-neutral-500">
-                      {t('sku')}: {p.articleLine}
-                    </p>
-                  ) : null}
-                  {formatListingPrice(p, t('chf')) ? (
-                    <p className="mt-1 font-medium text-red-600">
-                      {formatListingPrice(p, t('chf'))}
-                    </p>
-                  ) : null}
-                </div>
-              </Link>
-            ))}
-          </div>
+          {loadError ? (
+            <p className="text-center text-neutral-500">{t('noProductsInCategory')}</p>
+          ) : products == null ? (
+            <p className="py-16 text-center text-neutral-500">…</p>
+          ) : (
+            <>
+              <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+                {visibleProducts.map((p) => (
+                  <Link
+                    key={p.id}
+                    href={`/${locale}/shop/${p.slug}`}
+                    className="group overflow-hidden rounded-xl border-2 border-red-100 bg-white shadow-md transition hover:border-red-200 hover:shadow-lg"
+                  >
+                    <div className="aspect-square relative bg-neutral-100">
+                      <Image
+                        src={p.image}
+                        alt={p.name[locale]}
+                        fill
+                        className="object-cover transition group-hover:scale-105"
+                        sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
+                        unoptimized
+                      />
+                    </div>
+                    <div className="p-4">
+                      <p className="text-xs font-medium uppercase text-neutral-500">
+                        {categories.find((c) => c.id === p.category)?.name[locale]}
+                      </p>
+                      <h2 className="mt-0.5 font-semibold text-neutral-900">{p.name[locale]}</h2>
+                      {p.articleLine ? (
+                        <p className="mt-0.5 font-mono text-xs font-medium text-neutral-500">
+                          {t('sku')}: {p.articleLine}
+                        </p>
+                      ) : null}
+                      {formatListingPrice(p, t('chf')) ? (
+                        <p className="mt-1 font-medium text-red-600">
+                          {formatListingPrice(p, t('chf'))}
+                        </p>
+                      ) : null}
+                    </div>
+                  </Link>
+                ))}
+              </div>
 
-          <ShopProductPagination
-            locale={locale}
-            baseQuery={filterQuery}
-            perPage={perPage}
-            page={pagination.page}
-            totalPages={pagination.totalPages}
-            from={pagination.from}
-            to={pagination.to}
-            total={pagination.total}
-            labels={{
-              perPage: t('perPageLabel'),
-              per20: t('perPage20'),
-              per50: t('perPage50'),
-              perAll: t('perPageAll'),
-              showing: t('showingRange', {
-                from: pagination.from,
-                to: pagination.to,
-                total: pagination.total,
-              }),
-              prev: t('prevPage'),
-              next: t('nextPage'),
-              pageOf: t('pageOf', {
-                page: pagination.page,
-                totalPages: pagination.totalPages,
-              }),
-            }}
-          />
+              <ShopProductPagination
+                locale={locale}
+                baseQuery={filterQuery}
+                perPage={perPage}
+                page={pagination.page}
+                totalPages={pagination.totalPages}
+                from={pagination.from}
+                to={pagination.to}
+                total={pagination.total}
+                labels={{
+                  perPage: t('perPageLabel'),
+                  per20: t('perPage20'),
+                  per50: t('perPage50'),
+                  perAll: t('perPageAll'),
+                  showing: t('showingRange', {
+                    from: pagination.from,
+                    to: pagination.to,
+                    total: pagination.total,
+                  }),
+                  prev: t('prevPage'),
+                  next: t('nextPage'),
+                  pageOf: t('pageOf', {
+                    page: pagination.page,
+                    totalPages: pagination.totalPages,
+                  }),
+                }}
+              />
+
+              {filtered.length === 0 && (
+                <p className="mt-10 text-center text-neutral-500">{t('noProductsInCategory')}</p>
+              )}
+            </>
+          )}
         </div>
       </div>
-
-      {filtered.length === 0 && (
-        <p className="mt-10 text-center text-neutral-500">{t('noProductsInCategory')}</p>
-      )}
     </div>
   );
 }

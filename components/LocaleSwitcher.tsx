@@ -4,13 +4,20 @@ import { useLocale } from 'next-intl';
 import { usePathname, useRouter } from 'next/navigation';
 import { useRef, useState } from 'react';
 import FlagIcon from './FlagIcon';
+import { routing } from '@/i18n/routing';
 
-const locales = [
-  { code: 'de', label: 'Deutsch' },
-  { code: 'fr', label: 'Français' },
-  { code: 'en', label: 'English' },
-  { code: 'it', label: 'Italiano' },
-] as const;
+const localeMeta = {
+  de: { label: 'Deutsch' },
+  fr: { label: 'Français' },
+  en: { label: 'English' },
+  it: { label: 'Italiano' },
+} as const;
+
+/** Built from routing.locales — when you re-add fr/en/it there, the switcher returns. */
+const locales = routing.locales.map((code) => ({
+  code,
+  label: localeMeta[code as keyof typeof localeMeta]?.label ?? code,
+}));
 
 export default function LocaleSwitcher() {
   const locale = useLocale();
@@ -18,6 +25,9 @@ export default function LocaleSwitcher() {
   const router = useRouter();
   const [open, setOpen] = useState(false);
   const ref = useRef<HTMLDivElement>(null);
+
+  // Single-locale mode: hide switcher (restore languages via i18n/routing.ts).
+  if (locales.length <= 1) return null;
 
   const current = locales.find((l) => l.code === locale) ?? locales[0];
 
@@ -38,7 +48,7 @@ export default function LocaleSwitcher() {
         className="flex items-center gap-1.5 rounded-lg border border-neutral-200 bg-neutral-50 px-2 py-2 hover:bg-neutral-100 sm:gap-2 sm:px-3"
         aria-label="Change language"
       >
-        <FlagIcon code={current.code} size={22} />
+        <FlagIcon code={current.code as 'de' | 'fr' | 'en' | 'it'} size={22} />
         <span className="hidden text-sm font-medium text-neutral-600 sm:inline">
           {current.label}
         </span>
@@ -64,7 +74,7 @@ export default function LocaleSwitcher() {
                   role="option"
                   aria-selected={locale === l.code}
                 >
-                  <FlagIcon code={l.code} size={24} />
+                  <FlagIcon code={l.code as 'de' | 'fr' | 'en' | 'it'} size={24} />
                   <span className="font-medium">{l.label}</span>
                 </button>
               </li>

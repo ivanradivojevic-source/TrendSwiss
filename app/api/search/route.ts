@@ -5,8 +5,9 @@ import {
   searchProductIndex,
   type ProductSearchIndexEntry,
 } from '@/src/lib/productSearchClient';
+import { routing } from '@/i18n/routing';
 
-const LOCALES = new Set(['de', 'fr', 'en', 'it']);
+const LOCALES = new Set<string>(routing.locales);
 const searchIndex = searchIndexData as ProductSearchIndexEntry[];
 
 export async function GET(req: Request) {

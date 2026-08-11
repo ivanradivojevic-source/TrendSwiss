@@ -30,7 +30,7 @@ export default function ShopCatalog({ locale }: ShopCatalogProps) {
 
   useEffect(() => {
     let cancelled = false;
-    fetch('/shop-listing.json', { cache: 'force-cache' })
+    fetch(`${process.env.NEXT_PUBLIC_BASE_PATH || ''}/shop-listing.json`, { cache: 'force-cache' })
       .then((r) => {
         if (!r.ok) throw new Error(`HTTP ${r.status}`);
         return r.json() as Promise<ShopListingItem[]>;

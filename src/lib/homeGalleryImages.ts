@@ -1,6 +1,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import sharp from 'sharp';
+import { withBasePath } from '@/src/lib/basePath';
 
 const GALLERY_DIR = path.join(process.cwd(), 'public', 'home-gallery');
 const IMAGE_EXT = /\.(jpe?g|png|webp|gif)$/i;
@@ -27,7 +28,7 @@ export async function getHomeGalleryImages(): Promise<HomeGalleryImage[]> {
       const width = meta.width && meta.width > 0 ? meta.width : 2000;
       const height = meta.height && meta.height > 0 ? meta.height : 3000;
       return {
-        src: `/home-gallery/${encodeURIComponent(name)}`,
+        src: withBasePath(`/home-gallery/${encodeURIComponent(name)}`),
         width,
         height,
       };

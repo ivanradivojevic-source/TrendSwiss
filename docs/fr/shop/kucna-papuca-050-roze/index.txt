@@ -1,0 +1,303 @@
+3:I[4707,[],""]
+6:I[6423,[],""]
+4:["locale","fr","d"]
+5:["slug","kucna-papuca-050-roze","d"]
+0:["ml7UmRV2zItQXVGmRrv7j",[[["",{"children":[["locale","fr","d"],{"children":["shop",{"children":[["slug","kucna-papuca-050-roze","d"],{"children":["__PAGE__?{\"locale\":\"fr\",\"slug\":\"kucna-papuca-050-roze\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","fr","d"],{"children":["shop",{"children":[["slug","kucna-papuca-050-roze","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children","shop","children","$5","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children","shop","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/810bbd7e806ce024.css","precedence":"next","crossOrigin":"$undefined"}]],"$L7"],null],null]},[[null,["$","html",null,{"suppressHydrationWarning":true,"children":["$","body",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}]}]],null],null],["$L8",null]]]]
+9:I[5664,["972","static/chunks/972-d71866a6631b6318.js","529","static/chunks/529-56c5ab17e14cba56.js","145","static/chunks/145-a8953cd3f91aee0b.js","883","static/chunks/883-e2a4759db12ee0dc.js","623","static/chunks/623-299883740fc8c65a.js","437","static/chunks/app/%5Blocale%5D/shop/%5Bslug%5D/page-35d9698df50a1a4d.js"],"default"]
+a:I[4456,["972","static/chunks/972-d71866a6631b6318.js","529","static/chunks/529-56c5ab17e14cba56.js","145","static/chunks/145-a8953cd3f91aee0b.js","883","static/chunks/883-e2a4759db12ee0dc.js","623","static/chunks/623-299883740fc8c65a.js","437","static/chunks/app/%5Blocale%5D/shop/%5Bslug%5D/page-35d9698df50a1a4d.js"],"default"]
+c:I[4929,["972","static/chunks/972-d71866a6631b6318.js","529","static/chunks/529-56c5ab17e14cba56.js","145","static/chunks/145-a8953cd3f91aee0b.js","883","static/chunks/883-e2a4759db12ee0dc.js","623","static/chunks/623-299883740fc8c65a.js","437","static/chunks/app/%5Blocale%5D/shop/%5Bslug%5D/page-35d9698df50a1a4d.js"],"default"]
+12a:I[564,["972","static/chunks/972-d71866a6631b6318.js","529","static/chunks/529-56c5ab17e14cba56.js","145","static/chunks/145-a8953cd3f91aee0b.js","883","static/chunks/883-e2a4759db12ee0dc.js","623","static/chunks/623-299883740fc8c65a.js","437","static/chunks/app/%5Blocale%5D/shop/%5Bslug%5D/page-35d9698df50a1a4d.js"],"default"]
+b:["https://cdn.leon.rs/wp-content/uploads/2025/10/050-Roze1.jpg","https://cdn.leon.rs/wp-content/uploads/2025/10/050-Roze2.jpg","https://cdn.leon.rs/wp-content/uploads/2025/10/050-Roze3.jpg"]
+e:{"de":"Hausschuh Home 050 – Rosa","fr":"Chausson d'intérieur 050 – Rose","en":"House slipper 050 – Pink","it":"Pantofola da casa 050 – Rosa"}
+f:{"de":"Damenmodell „Hausschuh Home 050“ mit weichem, anatomischem Fussbett.","fr":"Modèle femme « Chausson d'intérieur 050 » avec semelle intérieure anatomique douce.","en":"Women's model \"House slipper 050\" with a soft anatomical footbed.","it":"Modello da donna «Pantofola da casa 050» con plantare anatomico morbido."}
+12:{"de":"36","fr":"36","en":"36","it":"36"}
+11:{"id":"36","label":"$12"}
+14:{"de":"37","fr":"37","en":"37","it":"37"}
+13:{"id":"37","label":"$14"}
+16:{"de":"38","fr":"38","en":"38","it":"38"}
+15:{"id":"38","label":"$16"}
+18:{"de":"39","fr":"39","en":"39","it":"39"}
+17:{"id":"39","label":"$18"}
+1a:{"de":"40","fr":"40","en":"40","it":"40"}
+19:{"id":"40","label":"$1a"}
+1c:{"de":"41","fr":"41","en":"41","it":"41"}
+1b:{"id":"41","label":"$1c"}
+10:["$11","$13","$15","$17","$19","$1b"]
+1e:{"id":"black","label":"Schwarz","hex":"#111827"}
+1f:{"id":"grey","label":"Grau","hex":"#6b7280"}
+1d:["$1e","$1f"]
+23:{"de":"36","fr":"36","en":"36","it":"36"}
+22:{"id":"36","label":"$23"}
+21:{"size":"$22","color":"black","sku":"LEON-KUCNAPAPUCA050ROZE-[object Object]-black","priceCHF":null,"stock":10}
+26:{"de":"36","fr":"36","en":"36","it":"36"}
+25:{"id":"36","label":"$26"}
+24:{"size":"$25","color":"grey","sku":"LEON-KUCNAPAPUCA050ROZE-[object Object]-grey","priceCHF":null,"stock":10}
+29:{"de":"37","fr":"37","en":"37","it":"37"}
+28:{"id":"37","label":"$29"}
+27:{"size":"$28","color":"black","sku":"LEON-KUCNAPAPUCA050ROZE-[object Object]-black","priceCHF":null,"stock":10}
+2c:{"de":"37","fr":"37","en":"37","it":"37"}
+2b:{"id":"37","label":"$2c"}
+2a:{"size":"$2b","color":"grey","sku":"LEON-KUCNAPAPUCA050ROZE-[object Object]-grey","priceCHF":null,"stock":10}
+2f:{"de":"38","fr":"38","en":"38","it":"38"}
+2e:{"id":"38","label":"$2f"}
+2d:{"size":"$2e","color":"black","sku":"LEON-KUCNAPAPUCA050ROZE-[object Object]-black","priceCHF":null,"stock":10}
+32:{"de":"38","fr":"38","en":"38","it":"38"}
+31:{"id":"38","label":"$32"}
+30:{"size":"$31","color":"grey","sku":"LEON-KUCNAPAPUCA050ROZE-[object Object]-grey","priceCHF":null,"stock":10}
+35:{"de":"39","fr":"39","en":"39","it":"39"}
+34:{"id":"39","label":"$35"}
+33:{"size":"$34","color":"black","sku":"LEON-KUCNAPAPUCA050ROZE-[object Object]-black","priceCHF":null,"stock":10}
+38:{"de":"39","fr":"39","en":"39","it":"39"}
+37:{"id":"39","label":"$38"}
+36:{"size":"$37","color":"grey","sku":"LEON-KUCNAPAPUCA050ROZE-[object Object]-grey","priceCHF":null,"stock":10}
+3b:{"de":"40","fr":"40","en":"40","it":"40"}
+3a:{"id":"40","label":"$3b"}
+39:{"size":"$3a","color":"black","sku":"LEON-KUCNAPAPUCA050ROZE-[object Object]-black","priceCHF":null,"stock":10}
+3e:{"de":"40","fr":"40","en":"40","it":"40"}
+3d:{"id":"40","label":"$3e"}
+3c:{"size":"$3d","color":"grey","sku":"LEON-KUCNAPAPUCA050ROZE-[object Object]-grey","priceCHF":null,"stock":10}
+41:{"de":"41","fr":"41","en":"41","it":"41"}
+40:{"id":"41","label":"$41"}
+3f:{"size":"$40","color":"black","sku":"LEON-KUCNAPAPUCA050ROZE-[object Object]-black","priceCHF":null,"stock":10}
+44:{"de":"41","fr":"41","en":"41","it":"41"}
+43:{"id":"41","label":"$44"}
+42:{"size":"$43","color":"grey","sku":"LEON-KUCNAPAPUCA050ROZE-[object Object]-grey","priceCHF":null,"stock":10}
+20:["$21","$24","$27","$2a","$2d","$30","$33","$36","$39","$3c","$3f","$42"]
+d:{"id":"leon-kucna-papuca-050-roze","slug":"kucna-papuca-050-roze","category":"women","brand":"leon","name":"$e","description":"$f","image":"https://cdn.leon.rs/wp-content/uploads/2025/10/050-Roze1.jpg","sizes":"$10","colors":"$1d","variants":"$20","modelGroupId":"leon-mg-kucna-papuca-050-women","articleNumber":"050","colorLabel":"Pink","images":"$b"}
+47:{"de":"Hausschuh Home 050 – Fuchsia","fr":"Chausson d'intérieur 050 – Fuchsia","en":"House slipper 050 – Fuchsia","it":"Pantofola da casa 050 – Fucsia"}
+48:{"de":"Damenmodell „Hausschuh Home 050“ mit weichem, anatomischem Fussbett.","fr":"Modèle femme « Chausson d'intérieur 050 » avec semelle intérieure anatomique douce.","en":"Women's model \"House slipper 050\" with a soft anatomical footbed.","it":"Modello da donna «Pantofola da casa 050» con plantare anatomico morbido."}
+4b:{"de":"36","fr":"36","en":"36","it":"36"}
+4a:{"id":"36","label":"$4b"}
+4d:{"de":"37","fr":"37","en":"37","it":"37"}
+4c:{"id":"37","label":"$4d"}
+4f:{"de":"38","fr":"38","en":"38","it":"38"}
+4e:{"id":"38","label":"$4f"}
+51:{"de":"39","fr":"39","en":"39","it":"39"}
+50:{"id":"39","label":"$51"}
+53:{"de":"40","fr":"40","en":"40","it":"40"}
+52:{"id":"40","label":"$53"}
+55:{"de":"41","fr":"41","en":"41","it":"41"}
+54:{"id":"41","label":"$55"}
+49:["$4a","$4c","$4e","$50","$52","$54"]
+57:{"id":"black","label":"Schwarz","hex":"#111827"}
+58:{"id":"grey","label":"Grau","hex":"#6b7280"}
+56:["$57","$58"]
+5c:{"de":"36","fr":"36","en":"36","it":"36"}
+5b:{"id":"36","label":"$5c"}
+5a:{"size":"$5b","color":"black","sku":"LEON-KUCNAPAPUCA050CIKL-[object Object]-black","priceCHF":null,"stock":10}
+5f:{"de":"36","fr":"36","en":"36","it":"36"}
+5e:{"id":"36","label":"$5f"}
+5d:{"size":"$5e","color":"grey","sku":"LEON-KUCNAPAPUCA050CIKL-[object Object]-grey","priceCHF":null,"stock":10}
+62:{"de":"37","fr":"37","en":"37","it":"37"}
+61:{"id":"37","label":"$62"}
+60:{"size":"$61","color":"black","sku":"LEON-KUCNAPAPUCA050CIKL-[object Object]-black","priceCHF":null,"stock":10}
+65:{"de":"37","fr":"37","en":"37","it":"37"}
+64:{"id":"37","label":"$65"}
+63:{"size":"$64","color":"grey","sku":"LEON-KUCNAPAPUCA050CIKL-[object Object]-grey","priceCHF":null,"stock":10}
+68:{"de":"38","fr":"38","en":"38","it":"38"}
+67:{"id":"38","label":"$68"}
+66:{"size":"$67","color":"black","sku":"LEON-KUCNAPAPUCA050CIKL-[object Object]-black","priceCHF":null,"stock":10}
+6b:{"de":"38","fr":"38","en":"38","it":"38"}
+6a:{"id":"38","label":"$6b"}
+69:{"size":"$6a","color":"grey","sku":"LEON-KUCNAPAPUCA050CIKL-[object Object]-grey","priceCHF":null,"stock":10}
+6e:{"de":"39","fr":"39","en":"39","it":"39"}
+6d:{"id":"39","label":"$6e"}
+6c:{"size":"$6d","color":"black","sku":"LEON-KUCNAPAPUCA050CIKL-[object Object]-black","priceCHF":null,"stock":10}
+71:{"de":"39","fr":"39","en":"39","it":"39"}
+70:{"id":"39","label":"$71"}
+6f:{"size":"$70","color":"grey","sku":"LEON-KUCNAPAPUCA050CIKL-[object Object]-grey","priceCHF":null,"stock":10}
+74:{"de":"40","fr":"40","en":"40","it":"40"}
+73:{"id":"40","label":"$74"}
+72:{"size":"$73","color":"black","sku":"LEON-KUCNAPAPUCA050CIKL-[object Object]-black","priceCHF":null,"stock":10}
+77:{"de":"40","fr":"40","en":"40","it":"40"}
+76:{"id":"40","label":"$77"}
+75:{"size":"$76","color":"grey","sku":"LEON-KUCNAPAPUCA050CIKL-[object Object]-grey","priceCHF":null,"stock":10}
+7a:{"de":"41","fr":"41","en":"41","it":"41"}
+79:{"id":"41","label":"$7a"}
+78:{"size":"$79","color":"black","sku":"LEON-KUCNAPAPUCA050CIKL-[object Object]-black","priceCHF":null,"stock":10}
+7d:{"de":"41","fr":"41","en":"41","it":"41"}
+7c:{"id":"41","label":"$7d"}
+7b:{"size":"$7c","color":"grey","sku":"LEON-KUCNAPAPUCA050CIKL-[object Object]-grey","priceCHF":null,"stock":10}
+59:["$5a","$5d","$60","$63","$66","$69","$6c","$6f","$72","$75","$78","$7b"]
+7e:["https://cdn.leon.rs/wp-content/uploads/2025/10/050-Ciklama1.jpg","https://cdn.leon.rs/wp-content/uploads/2025/10/050-Ciklama2.jpg","https://cdn.leon.rs/wp-content/uploads/2025/10/050-Ciklama3.jpg"]
+46:{"id":"leon-kucna-papuca-050-ciklama","slug":"kucna-papuca-050-ciklama","category":"women","brand":"leon","name":"$47","description":"$48","image":"https://cdn.leon.rs/wp-content/uploads/2025/10/050-Ciklama1.jpg","sizes":"$49","colors":"$56","variants":"$59","modelGroupId":"leon-mg-kucna-papuca-050-women","articleNumber":"050","colorLabel":"Fuchsia","images":"$7e"}
+80:{"de":"Hausschuh Home 050 – Beige","fr":"Chausson d'intérieur 050 – Beige","en":"House slipper 050 – Beige","it":"Pantofola da casa 050 – Beige"}
+81:{"de":"Damenmodell „Hausschuh Home 050“ mit weichem, anatomischem Fussbett.","fr":"Modèle femme « Chausson d'intérieur 050 » avec semelle intérieure anatomique douce.","en":"Women's model \"House slipper 050\" with a soft anatomical footbed.","it":"Modello da donna «Pantofola da casa 050» con plantare anatomico morbido."}
+84:{"de":"36","fr":"36","en":"36","it":"36"}
+83:{"id":"36","label":"$84"}
+86:{"de":"37","fr":"37","en":"37","it":"37"}
+85:{"id":"37","label":"$86"}
+88:{"de":"38","fr":"38","en":"38","it":"38"}
+87:{"id":"38","label":"$88"}
+8a:{"de":"39","fr":"39","en":"39","it":"39"}
+89:{"id":"39","label":"$8a"}
+8c:{"de":"40","fr":"40","en":"40","it":"40"}
+8b:{"id":"40","label":"$8c"}
+8e:{"de":"41","fr":"41","en":"41","it":"41"}
+8d:{"id":"41","label":"$8e"}
+82:["$83","$85","$87","$89","$8b","$8d"]
+90:{"id":"black","label":"Schwarz","hex":"#111827"}
+91:{"id":"grey","label":"Grau","hex":"#6b7280"}
+8f:["$90","$91"]
+95:{"de":"36","fr":"36","en":"36","it":"36"}
+94:{"id":"36","label":"$95"}
+93:{"size":"$94","color":"black","sku":"LEON-KUCNAPAPUCA050BEZ-[object Object]-black","priceCHF":null,"stock":10}
+98:{"de":"36","fr":"36","en":"36","it":"36"}
+97:{"id":"36","label":"$98"}
+96:{"size":"$97","color":"grey","sku":"LEON-KUCNAPAPUCA050BEZ-[object Object]-grey","priceCHF":null,"stock":10}
+9b:{"de":"37","fr":"37","en":"37","it":"37"}
+9a:{"id":"37","label":"$9b"}
+99:{"size":"$9a","color":"black","sku":"LEON-KUCNAPAPUCA050BEZ-[object Object]-black","priceCHF":null,"stock":10}
+9e:{"de":"37","fr":"37","en":"37","it":"37"}
+9d:{"id":"37","label":"$9e"}
+9c:{"size":"$9d","color":"grey","sku":"LEON-KUCNAPAPUCA050BEZ-[object Object]-grey","priceCHF":null,"stock":10}
+a1:{"de":"38","fr":"38","en":"38","it":"38"}
+a0:{"id":"38","label":"$a1"}
+9f:{"size":"$a0","color":"black","sku":"LEON-KUCNAPAPUCA050BEZ-[object Object]-black","priceCHF":null,"stock":10}
+a4:{"de":"38","fr":"38","en":"38","it":"38"}
+a3:{"id":"38","label":"$a4"}
+a2:{"size":"$a3","color":"grey","sku":"LEON-KUCNAPAPUCA050BEZ-[object Object]-grey","priceCHF":null,"stock":10}
+a7:{"de":"39","fr":"39","en":"39","it":"39"}
+a6:{"id":"39","label":"$a7"}
+a5:{"size":"$a6","color":"black","sku":"LEON-KUCNAPAPUCA050BEZ-[object Object]-black","priceCHF":null,"stock":10}
+aa:{"de":"39","fr":"39","en":"39","it":"39"}
+a9:{"id":"39","label":"$aa"}
+a8:{"size":"$a9","color":"grey","sku":"LEON-KUCNAPAPUCA050BEZ-[object Object]-grey","priceCHF":null,"stock":10}
+ad:{"de":"40","fr":"40","en":"40","it":"40"}
+ac:{"id":"40","label":"$ad"}
+ab:{"size":"$ac","color":"black","sku":"LEON-KUCNAPAPUCA050BEZ-[object Object]-black","priceCHF":null,"stock":10}
+b0:{"de":"40","fr":"40","en":"40","it":"40"}
+af:{"id":"40","label":"$b0"}
+ae:{"size":"$af","color":"grey","sku":"LEON-KUCNAPAPUCA050BEZ-[object Object]-grey","priceCHF":null,"stock":10}
+b3:{"de":"41","fr":"41","en":"41","it":"41"}
+b2:{"id":"41","label":"$b3"}
+b1:{"size":"$b2","color":"black","sku":"LEON-KUCNAPAPUCA050BEZ-[object Object]-black","priceCHF":null,"stock":10}
+b6:{"de":"41","fr":"41","en":"41","it":"41"}
+b5:{"id":"41","label":"$b6"}
+b4:{"size":"$b5","color":"grey","sku":"LEON-KUCNAPAPUCA050BEZ-[object Object]-grey","priceCHF":null,"stock":10}
+92:["$93","$96","$99","$9c","$9f","$a2","$a5","$a8","$ab","$ae","$b1","$b4"]
+b7:["https://cdn.leon.rs/wp-content/uploads/2025/10/050-Bez1.jpg","https://cdn.leon.rs/wp-content/uploads/2025/10/050-Bez2.jpg","https://cdn.leon.rs/wp-content/uploads/2025/10/050-Bez3.jpg"]
+7f:{"id":"leon-kucna-papuca-050-bez","slug":"kucna-papuca-050-bez","category":"women","brand":"leon","name":"$80","description":"$81","image":"https://cdn.leon.rs/wp-content/uploads/2025/10/050-Bez1.jpg","sizes":"$82","colors":"$8f","variants":"$92","modelGroupId":"leon-mg-kucna-papuca-050-women","articleNumber":"050","colorLabel":"Beige","images":"$b7"}
+b9:{"de":"Hausschuh Home 050 – Anthrazit","fr":"Chausson d'intérieur 050 – Anthracite","en":"House slipper 050 – Charcoal","it":"Pantofola da casa 050 – Antracite"}
+ba:{"de":"Damenmodell „Hausschuh Home 050“ mit weichem, anatomischem Fussbett.","fr":"Modèle femme « Chausson d'intérieur 050 » avec semelle intérieure anatomique douce.","en":"Women's model \"House slipper 050\" with a soft anatomical footbed.","it":"Modello da donna «Pantofola da casa 050» con plantare anatomico morbido."}
+bd:{"de":"36","fr":"36","en":"36","it":"36"}
+bc:{"id":"36","label":"$bd"}
+bf:{"de":"37","fr":"37","en":"37","it":"37"}
+be:{"id":"37","label":"$bf"}
+c1:{"de":"38","fr":"38","en":"38","it":"38"}
+c0:{"id":"38","label":"$c1"}
+c3:{"de":"39","fr":"39","en":"39","it":"39"}
+c2:{"id":"39","label":"$c3"}
+c5:{"de":"40","fr":"40","en":"40","it":"40"}
+c4:{"id":"40","label":"$c5"}
+c7:{"de":"41","fr":"41","en":"41","it":"41"}
+c6:{"id":"41","label":"$c7"}
+bb:["$bc","$be","$c0","$c2","$c4","$c6"]
+c9:{"id":"black","label":"Schwarz","hex":"#111827"}
+ca:{"id":"grey","label":"Grau","hex":"#6b7280"}
+c8:["$c9","$ca"]
+ce:{"de":"36","fr":"36","en":"36","it":"36"}
+cd:{"id":"36","label":"$ce"}
+cc:{"size":"$cd","color":"black","sku":"LEON-KUCNAPAPUCA050TEGE-[object Object]-black","priceCHF":null,"stock":10}
+d1:{"de":"36","fr":"36","en":"36","it":"36"}
+d0:{"id":"36","label":"$d1"}
+cf:{"size":"$d0","color":"grey","sku":"LEON-KUCNAPAPUCA050TEGE-[object Object]-grey","priceCHF":null,"stock":10}
+d4:{"de":"37","fr":"37","en":"37","it":"37"}
+d3:{"id":"37","label":"$d4"}
+d2:{"size":"$d3","color":"black","sku":"LEON-KUCNAPAPUCA050TEGE-[object Object]-black","priceCHF":null,"stock":10}
+d7:{"de":"37","fr":"37","en":"37","it":"37"}
+d6:{"id":"37","label":"$d7"}
+d5:{"size":"$d6","color":"grey","sku":"LEON-KUCNAPAPUCA050TEGE-[object Object]-grey","priceCHF":null,"stock":10}
+da:{"de":"38","fr":"38","en":"38","it":"38"}
+d9:{"id":"38","label":"$da"}
+d8:{"size":"$d9","color":"black","sku":"LEON-KUCNAPAPUCA050TEGE-[object Object]-black","priceCHF":null,"stock":10}
+dd:{"de":"38","fr":"38","en":"38","it":"38"}
+dc:{"id":"38","label":"$dd"}
+db:{"size":"$dc","color":"grey","sku":"LEON-KUCNAPAPUCA050TEGE-[object Object]-grey","priceCHF":null,"stock":10}
+e0:{"de":"39","fr":"39","en":"39","it":"39"}
+df:{"id":"39","label":"$e0"}
+de:{"size":"$df","color":"black","sku":"LEON-KUCNAPAPUCA050TEGE-[object Object]-black","priceCHF":null,"stock":10}
+e3:{"de":"39","fr":"39","en":"39","it":"39"}
+e2:{"id":"39","label":"$e3"}
+e1:{"size":"$e2","color":"grey","sku":"LEON-KUCNAPAPUCA050TEGE-[object Object]-grey","priceCHF":null,"stock":10}
+e6:{"de":"40","fr":"40","en":"40","it":"40"}
+e5:{"id":"40","label":"$e6"}
+e4:{"size":"$e5","color":"black","sku":"LEON-KUCNAPAPUCA050TEGE-[object Object]-black","priceCHF":null,"stock":10}
+e9:{"de":"40","fr":"40","en":"40","it":"40"}
+e8:{"id":"40","label":"$e9"}
+e7:{"size":"$e8","color":"grey","sku":"LEON-KUCNAPAPUCA050TEGE-[object Object]-grey","priceCHF":null,"stock":10}
+ec:{"de":"41","fr":"41","en":"41","it":"41"}
+eb:{"id":"41","label":"$ec"}
+ea:{"size":"$eb","color":"black","sku":"LEON-KUCNAPAPUCA050TEGE-[object Object]-black","priceCHF":null,"stock":10}
+ef:{"de":"41","fr":"41","en":"41","it":"41"}
+ee:{"id":"41","label":"$ef"}
+ed:{"size":"$ee","color":"grey","sku":"LEON-KUCNAPAPUCA050TEGE-[object Object]-grey","priceCHF":null,"stock":10}
+cb:["$cc","$cf","$d2","$d5","$d8","$db","$de","$e1","$e4","$e7","$ea","$ed"]
+f0:["https://cdn.leon.rs/wp-content/uploads/2025/10/050-Teget1.jpg","https://cdn.leon.rs/wp-content/uploads/2025/10/050-Teget2.jpg","https://cdn.leon.rs/wp-content/uploads/2025/10/050-Teget3.jpg"]
+b8:{"id":"leon-kucna-papuca-050-teget","slug":"kucna-papuca-050-teget","category":"women","brand":"leon","name":"$b9","description":"$ba","image":"https://cdn.leon.rs/wp-content/uploads/2025/10/050-Teget1.jpg","sizes":"$bb","colors":"$c8","variants":"$cb","modelGroupId":"leon-mg-kucna-papuca-050-women","articleNumber":"050","colorLabel":"Charcoal","images":"$f0"}
+f2:{"de":"Hausschuh Home 050 – Lila","fr":"Chausson d'intérieur 050 – Violet","en":"House slipper 050 – Purple","it":"Pantofola da casa 050 – Viola"}
+f3:{"de":"Damenmodell „Hausschuh Home 050“ mit weichem, anatomischem Fussbett.","fr":"Modèle femme « Chausson d'intérieur 050 » avec semelle intérieure anatomique douce.","en":"Women's model \"House slipper 050\" with a soft anatomical footbed.","it":"Modello da donna «Pantofola da casa 050» con plantare anatomico morbido."}
+f6:{"de":"36","fr":"36","en":"36","it":"36"}
+f5:{"id":"36","label":"$f6"}
+f8:{"de":"37","fr":"37","en":"37","it":"37"}
+f7:{"id":"37","label":"$f8"}
+fa:{"de":"38","fr":"38","en":"38","it":"38"}
+f9:{"id":"38","label":"$fa"}
+fc:{"de":"39","fr":"39","en":"39","it":"39"}
+fb:{"id":"39","label":"$fc"}
+fe:{"de":"40","fr":"40","en":"40","it":"40"}
+fd:{"id":"40","label":"$fe"}
+100:{"de":"41","fr":"41","en":"41","it":"41"}
+ff:{"id":"41","label":"$100"}
+f4:["$f5","$f7","$f9","$fb","$fd","$ff"]
+102:{"id":"black","label":"Schwarz","hex":"#111827"}
+103:{"id":"grey","label":"Grau","hex":"#6b7280"}
+101:["$102","$103"]
+107:{"de":"36","fr":"36","en":"36","it":"36"}
+106:{"id":"36","label":"$107"}
+105:{"size":"$106","color":"black","sku":"LEON-KUCNAPAPUCA050LJUB-[object Object]-black","priceCHF":null,"stock":10}
+10a:{"de":"36","fr":"36","en":"36","it":"36"}
+109:{"id":"36","label":"$10a"}
+108:{"size":"$109","color":"grey","sku":"LEON-KUCNAPAPUCA050LJUB-[object Object]-grey","priceCHF":null,"stock":10}
+10d:{"de":"37","fr":"37","en":"37","it":"37"}
+10c:{"id":"37","label":"$10d"}
+10b:{"size":"$10c","color":"black","sku":"LEON-KUCNAPAPUCA050LJUB-[object Object]-black","priceCHF":null,"stock":10}
+110:{"de":"37","fr":"37","en":"37","it":"37"}
+10f:{"id":"37","label":"$110"}
+10e:{"size":"$10f","color":"grey","sku":"LEON-KUCNAPAPUCA050LJUB-[object Object]-grey","priceCHF":null,"stock":10}
+113:{"de":"38","fr":"38","en":"38","it":"38"}
+112:{"id":"38","label":"$113"}
+111:{"size":"$112","color":"black","sku":"LEON-KUCNAPAPUCA050LJUB-[object Object]-black","priceCHF":null,"stock":10}
+116:{"de":"38","fr":"38","en":"38","it":"38"}
+115:{"id":"38","label":"$116"}
+114:{"size":"$115","color":"grey","sku":"LEON-KUCNAPAPUCA050LJUB-[object Object]-grey","priceCHF":null,"stock":10}
+119:{"de":"39","fr":"39","en":"39","it":"39"}
+118:{"id":"39","label":"$119"}
+117:{"size":"$118","color":"black","sku":"LEON-KUCNAPAPUCA050LJUB-[object Object]-black","priceCHF":null,"stock":10}
+11c:{"de":"39","fr":"39","en":"39","it":"39"}
+11b:{"id":"39","label":"$11c"}
+11a:{"size":"$11b","color":"grey","sku":"LEON-KUCNAPAPUCA050LJUB-[object Object]-grey","priceCHF":null,"stock":10}
+11f:{"de":"40","fr":"40","en":"40","it":"40"}
+11e:{"id":"40","label":"$11f"}
+11d:{"size":"$11e","color":"black","sku":"LEON-KUCNAPAPUCA050LJUB-[object Object]-black","priceCHF":null,"stock":10}
+122:{"de":"40","fr":"40","en":"40","it":"40"}
+121:{"id":"40","label":"$122"}
+120:{"size":"$121","color":"grey","sku":"LEON-KUCNAPAPUCA050LJUB-[object Object]-grey","priceCHF":null,"stock":10}
+125:{"de":"41","fr":"41","en":"41","it":"41"}
+124:{"id":"41","label":"$125"}
+123:{"size":"$124","color":"black","sku":"LEON-KUCNAPAPUCA050LJUB-[object Object]-black","priceCHF":null,"stock":10}
+128:{"de":"41","fr":"41","en":"41","it":"41"}
+127:{"id":"41","label":"$128"}
+126:{"size":"$127","color":"grey","sku":"LEON-KUCNAPAPUCA050LJUB-[object Object]-grey","priceCHF":null,"stock":10}
+104:["$105","$108","$10b","$10e","$111","$114","$117","$11a","$11d","$120","$123","$126"]
+129:["https://cdn.leon.rs/wp-content/uploads/2025/10/050-Ljubicasta1.jpg","https://cdn.leon.rs/wp-content/uploads/2025/10/050-Ljubicasta2.jpg","https://cdn.leon.rs/wp-content/uploads/2025/10/050-Ljubicasta3.jpg"]
+f1:{"id":"leon-kucna-papuca-050-ljubicasta","slug":"kucna-papuca-050-ljubicasta","category":"women","brand":"leon","name":"$f2","description":"$f3","image":"https://cdn.leon.rs/wp-content/uploads/2025/10/050-Ljubicasta1.jpg","sizes":"$f4","colors":"$101","variants":"$104","modelGroupId":"leon-mg-kucna-papuca-050-women","articleNumber":"050","images":"$129","colorLabel":"Purple"}
+45:["$d","$46","$7f","$b8","$f1"]
+2:["$","div",null,{"className":"mx-auto max-w-6xl px-4 py-10","children":[["$","div",null,{"className":"grid gap-10 md:grid-cols-2","children":[["$","$L9",null,{"images":["https://cdn.leon.rs/wp-content/uploads/2025/10/050-Roze1.jpg","https://cdn.leon.rs/wp-content/uploads/2025/10/050-Roze2.jpg","https://cdn.leon.rs/wp-content/uploads/2025/10/050-Roze3.jpg"],"alt":"Chausson d'intérieur 050 – Rose"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-2xl font-bold text-neutral-900 md:text-3xl","children":"Chausson d'intérieur 050 – Rose"}],["$","p",null,{"className":"mt-2 text-sm text-neutral-600","children":[["$","span",null,{"className":"font-medium text-neutral-500","children":["Réf.",":"]}]," ",["$","span",null,{"className":"font-mono font-semibold tracking-wide text-neutral-900","children":"050 · Pink"}]]}],["$","p",null,{"className":"mt-4 text-neutral-600","children":"Modèle femme « Chausson d'intérieur 050 » avec semelle intérieure anatomique douce."}],null,["$","$La",null,{"locale":"fr","currentSlug":"kucna-papuca-050-roze","siblings":[{"id":"leon-kucna-papuca-050-roze","slug":"kucna-papuca-050-roze","category":"women","brand":"leon","name":{"de":"Hausschuh Home 050 – Rosa","fr":"Chausson d'intérieur 050 – Rose","en":"House slipper 050 – Pink","it":"Pantofola da casa 050 – Rosa"},"description":{"de":"Damenmodell „Hausschuh Home 050“ mit weichem, anatomischem Fussbett.","fr":"Modèle femme « Chausson d'intérieur 050 » avec semelle intérieure anatomique douce.","en":"Women's model \"House slipper 050\" with a soft anatomical footbed.","it":"Modello da donna «Pantofola da casa 050» con plantare anatomico morbido."},"image":"https://cdn.leon.rs/wp-content/uploads/2025/10/050-Roze1.jpg","sizes":[{"id":"36","label":{"de":"36","fr":"36","en":"36","it":"36"}},{"id":"37","label":{"de":"37","fr":"37","en":"37","it":"37"}},{"id":"38","label":{"de":"38","fr":"38","en":"38","it":"38"}},{"id":"39","label":{"de":"39","fr":"39","en":"39","it":"39"}},{"id":"40","label":{"de":"40","fr":"40","en":"40","it":"40"}},{"id":"41","label":{"de":"41","fr":"41","en":"41","it":"41"}}],"colors":[{"id":"black","label":"Schwarz","hex":"#111827"},{"id":"grey","label":"Grau","hex":"#6b7280"}],"variants":[{"size":{"id":"36","label":{"de":"36","fr":"36","en":"36","it":"36"}},"color":"black","sku":"LEON-KUCNAPAPUCA050ROZE-[object Object]-black","priceCHF":null,"stock":10},{"size":{"id":"36","label":{"de":"36","fr":"36","en":"36","it":"36"}},"color":"grey","sku":"LEON-KUCNAPAPUCA050ROZE-[object Object]-grey","priceCHF":null,"stock":10},{"size":{"id":"37","label":{"de":"37","fr":"37","en":"37","it":"37"}},"color":"black","sku":"LEON-KUCNAPAPUCA050ROZE-[object Object]-black","priceCHF":null,"stock":10},{"size":{"id":"37","label":{"de":"37","fr":"37","en":"37","it":"37"}},"color":"grey","sku":"LEON-KUCNAPAPUCA050ROZE-[object Object]-grey","priceCHF":null,"stock":10},{"size":{"id":"38","label":{"de":"38","fr":"38","en":"38","it":"38"}},"color":"black","sku":"LEON-KUCNAPAPUCA050ROZE-[object Object]-black","priceCHF":null,"stock":10},{"size":{"id":"38","label":{"de":"38","fr":"38","en":"38","it":"38"}},"color":"grey","sku":"LEON-KUCNAPAPUCA050ROZE-[object Object]-grey","priceCHF":null,"stock":10},{"size":{"id":"39","label":{"de":"39","fr":"39","en":"39","it":"39"}},"color":"black","sku":"LEON-KUCNAPAPUCA050ROZE-[object Object]-black","priceCHF":null,"stock":10},{"size":{"id":"39","label":{"de":"39","fr":"39","en":"39","it":"39"}},"color":"grey","sku":"LEON-KUCNAPAPUCA050ROZE-[object Object]-grey","priceCHF":null,"stock":10},{"size":{"id":"40","label":{"de":"40","fr":"40","en":"40","it":"40"}},"color":"black","sku":"LEON-KUCNAPAPUCA050ROZE-[object Object]-black","priceCHF":null,"stock":10},{"size":{"id":"40","label":{"de":"40","fr":"40","en":"40","it":"40"}},"color":"grey","sku":"LEON-KUCNAPAPUCA050ROZE-[object Object]-grey","priceCHF":null,"stock":10},{"size":{"id":"41","label":{"de":"41","fr":"41","en":"41","it":"41"}},"color":"black","sku":"LEON-KUCNAPAPUCA050ROZE-[object Object]-black","priceCHF":null,"stock":10},{"size":{"id":"41","label":{"de":"41","fr":"41","en":"41","it":"41"}},"color":"grey","sku":"LEON-KUCNAPAPUCA050ROZE-[object Object]-grey","priceCHF":null,"stock":10}],"modelGroupId":"leon-mg-kucna-papuca-050-women","articleNumber":"050","colorLabel":"Pink","images":"$b"},{"id":"leon-kucna-papuca-050-ciklama","slug":"kucna-papuca-050-ciklama","category":"women","brand":"leon","name":{"de":"Hausschuh Home 050 – Fuchsia","fr":"Chausson d'intérieur 050 – Fuchsia","en":"House slipper 050 – Fuchsia","it":"Pantofola da casa 050 – Fucsia"},"description":{"de":"Damenmodell „Hausschuh Home 050“ mit weichem, anatomischem Fussbett.","fr":"Modèle femme « Chausson d'intérieur 050 » avec semelle intérieure anatomique douce.","en":"Women's model \"House slipper 050\" with a soft anatomical footbed.","it":"Modello da donna «Pantofola da casa 050» con plantare anatomico morbido."},"image":"https://cdn.leon.rs/wp-content/uploads/2025/10/050-Ciklama1.jpg","sizes":[{"id":"36","label":{"de":"36","fr":"36","en":"36","it":"36"}},{"id":"37","label":{"de":"37","fr":"37","en":"37","it":"37"}},{"id":"38","label":{"de":"38","fr":"38","en":"38","it":"38"}},{"id":"39","label":{"de":"39","fr":"39","en":"39","it":"39"}},{"id":"40","label":{"de":"40","fr":"40","en":"40","it":"40"}},{"id":"41","label":{"de":"41","fr":"41","en":"41","it":"41"}}],"colors":[{"id":"black","label":"Schwarz","hex":"#111827"},{"id":"grey","label":"Grau","hex":"#6b7280"}],"variants":[{"size":{"id":"36","label":{"de":"36","fr":"36","en":"36","it":"36"}},"color":"black","sku":"LEON-KUCNAPAPUCA050CIKL-[object Object]-black","priceCHF":null,"stock":10},{"size":{"id":"36","label":{"de":"36","fr":"36","en":"36","it":"36"}},"color":"grey","sku":"LEON-KUCNAPAPUCA050CIKL-[object Object]-grey","priceCHF":null,"stock":10},{"size":{"id":"37","label":{"de":"37","fr":"37","en":"37","it":"37"}},"color":"black","sku":"LEON-KUCNAPAPUCA050CIKL-[object Object]-black","priceCHF":null,"stock":10},{"size":{"id":"37","label":{"de":"37","fr":"37","en":"37","it":"37"}},"color":"grey","sku":"LEON-KUCNAPAPUCA050CIKL-[object Object]-grey","priceCHF":null,"stock":10},{"size":{"id":"38","label":{"de":"38","fr":"38","en":"38","it":"38"}},"color":"black","sku":"LEON-KUCNAPAPUCA050CIKL-[object Object]-black","priceCHF":null,"stock":10},{"size":{"id":"38","label":{"de":"38","fr":"38","en":"38","it":"38"}},"color":"grey","sku":"LEON-KUCNAPAPUCA050CIKL-[object Object]-grey","priceCHF":null,"stock":10},{"size":{"id":"39","label":{"de":"39","fr":"39","en":"39","it":"39"}},"color":"black","sku":"LEON-KUCNAPAPUCA050CIKL-[object Object]-black","priceCHF":null,"stock":10},{"size":{"id":"39","label":{"de":"39","fr":"39","en":"39","it":"39"}},"color":"grey","sku":"LEON-KUCNAPAPUCA050CIKL-[object Object]-grey","priceCHF":null,"stock":10},{"size":{"id":"40","label":{"de":"40","fr":"40","en":"40","it":"40"}},"color":"black","sku":"LEON-KUCNAPAPUCA050CIKL-[object Object]-black","priceCHF":null,"stock":10},{"size":{"id":"40","label":{"de":"40","fr":"40","en":"40","it":"40"}},"color":"grey","sku":"LEON-KUCNAPAPUCA050CIKL-[object Object]-grey","priceCHF":null,"stock":10},{"size":{"id":"41","label":{"de":"41","fr":"41","en":"41","it":"41"}},"color":"black","sku":"LEON-KUCNAPAPUCA050CIKL-[object Object]-black","priceCHF":null,"stock":10},{"size":{"id":"41","label":{"de":"41","fr":"41","en":"41","it":"41"}},"color":"grey","sku":"LEON-KUCNAPAPUCA050CIKL-[object Object]-grey","priceCHF":null,"stock":10}],"modelGroupId":"leon-mg-kucna-papuca-050-women","articleNumber":"050","colorLabel":"Fuchsia","images":["https://cdn.leon.rs/wp-content/uploads/2025/10/050-Ciklama1.jpg","https://cdn.leon.rs/wp-content/uploads/2025/10/050-Ciklama2.jpg","https://cdn.leon.rs/wp-content/uploads/2025/10/050-Ciklama3.jpg"]},{"id":"leon-kucna-papuca-050-bez","slug":"kucna-papuca-050-bez","category":"women","brand":"leon","name":{"de":"Hausschuh Home 050 – Beige","fr":"Chausson d'intérieur 050 – Beige","en":"House slipper 050 – Beige","it":"Pantofola da casa 050 – Beige"},"description":{"de":"Damenmodell „Hausschuh Home 050“ mit weichem, anatomischem Fussbett.","fr":"Modèle femme « Chausson d'intérieur 050 » avec semelle intérieure anatomique douce.","en":"Women's model \"House slipper 050\" with a soft anatomical footbed.","it":"Modello da donna «Pantofola da casa 050» con plantare anatomico morbido."},"image":"https://cdn.leon.rs/wp-content/uploads/2025/10/050-Bez1.jpg","sizes":[{"id":"36","label":{"de":"36","fr":"36","en":"36","it":"36"}},{"id":"37","label":{"de":"37","fr":"37","en":"37","it":"37"}},{"id":"38","label":{"de":"38","fr":"38","en":"38","it":"38"}},{"id":"39","label":{"de":"39","fr":"39","en":"39","it":"39"}},{"id":"40","label":{"de":"40","fr":"40","en":"40","it":"40"}},{"id":"41","label":{"de":"41","fr":"41","en":"41","it":"41"}}],"colors":[{"id":"black","label":"Schwarz","hex":"#111827"},{"id":"grey","label":"Grau","hex":"#6b7280"}],"variants":[{"size":{"id":"36","label":{"de":"36","fr":"36","en":"36","it":"36"}},"color":"black","sku":"LEON-KUCNAPAPUCA050BEZ-[object Object]-black","priceCHF":null,"stock":10},{"size":{"id":"36","label":{"de":"36","fr":"36","en":"36","it":"36"}},"color":"grey","sku":"LEON-KUCNAPAPUCA050BEZ-[object Object]-grey","priceCHF":null,"stock":10},{"size":{"id":"37","label":{"de":"37","fr":"37","en":"37","it":"37"}},"color":"black","sku":"LEON-KUCNAPAPUCA050BEZ-[object Object]-black","priceCHF":null,"stock":10},{"size":{"id":"37","label":{"de":"37","fr":"37","en":"37","it":"37"}},"color":"grey","sku":"LEON-KUCNAPAPUCA050BEZ-[object Object]-grey","priceCHF":null,"stock":10},{"size":{"id":"38","label":{"de":"38","fr":"38","en":"38","it":"38"}},"color":"black","sku":"LEON-KUCNAPAPUCA050BEZ-[object Object]-black","priceCHF":null,"stock":10},{"size":{"id":"38","label":{"de":"38","fr":"38","en":"38","it":"38"}},"color":"grey","sku":"LEON-KUCNAPAPUCA050BEZ-[object Object]-grey","priceCHF":null,"stock":10},{"size":{"id":"39","label":{"de":"39","fr":"39","en":"39","it":"39"}},"color":"black","sku":"LEON-KUCNAPAPUCA050BEZ-[object Object]-black","priceCHF":null,"stock":10},{"size":{"id":"39","label":{"de":"39","fr":"39","en":"39","it":"39"}},"color":"grey","sku":"LEON-KUCNAPAPUCA050BEZ-[object Object]-grey","priceCHF":null,"stock":10},{"size":{"id":"40","label":{"de":"40","fr":"40","en":"40","it":"40"}},"color":"black","sku":"LEON-KUCNAPAPUCA050BEZ-[object Object]-black","priceCHF":null,"stock":10},{"size":{"id":"40","label":{"de":"40","fr":"40","en":"40","it":"40"}},"color":"grey","sku":"LEON-KUCNAPAPUCA050BEZ-[object Object]-grey","priceCHF":null,"stock":10},{"size":{"id":"41","label":{"de":"41","fr":"41","en":"41","it":"41"}},"color":"black","sku":"LEON-KUCNAPAPUCA050BEZ-[object Object]-black","priceCHF":null,"stock":10},{"size":{"id":"41","label":{"de":"41","fr":"41","en":"41","it":"41"}},"color":"grey","sku":"LEON-KUCNAPAPUCA050BEZ-[object Object]-grey","priceCHF":null,"stock":10}],"modelGroupId":"leon-mg-kucna-papuca-050-women","articleNumber":"050","colorLabel":"Beige","images":["https://cdn.leon.rs/wp-content/uploads/2025/10/050-Bez1.jpg","https://cdn.leon.rs/wp-content/uploads/2025/10/050-Bez2.jpg","https://cdn.leon.rs/wp-content/uploads/2025/10/050-Bez3.jpg"]},{"id":"leon-kucna-papuca-050-teget","slug":"kucna-papuca-050-teget","category":"women","brand":"leon","name":{"de":"Hausschuh Home 050 – Anthrazit","fr":"Chausson d'intérieur 050 – Anthracite","en":"House slipper 050 – Charcoal","it":"Pantofola da casa 050 – Antracite"},"description":{"de":"Damenmodell „Hausschuh Home 050“ mit weichem, anatomischem Fussbett.","fr":"Modèle femme « Chausson d'intérieur 050 » avec semelle intérieure anatomique douce.","en":"Women's model \"House slipper 050\" with a soft anatomical footbed.","it":"Modello da donna «Pantofola da casa 050» con plantare anatomico morbido."},"image":"https://cdn.leon.rs/wp-content/uploads/2025/10/050-Teget1.jpg","sizes":[{"id":"36","label":{"de":"36","fr":"36","en":"36","it":"36"}},{"id":"37","label":{"de":"37","fr":"37","en":"37","it":"37"}},{"id":"38","label":{"de":"38","fr":"38","en":"38","it":"38"}},{"id":"39","label":{"de":"39","fr":"39","en":"39","it":"39"}},{"id":"40","label":{"de":"40","fr":"40","en":"40","it":"40"}},{"id":"41","label":{"de":"41","fr":"41","en":"41","it":"41"}}],"colors":[{"id":"black","label":"Schwarz","hex":"#111827"},{"id":"grey","label":"Grau","hex":"#6b7280"}],"variants":[{"size":{"id":"36","label":{"de":"36","fr":"36","en":"36","it":"36"}},"color":"black","sku":"LEON-KUCNAPAPUCA050TEGE-[object Object]-black","priceCHF":null,"stock":10},{"size":{"id":"36","label":{"de":"36","fr":"36","en":"36","it":"36"}},"color":"grey","sku":"LEON-KUCNAPAPUCA050TEGE-[object Object]-grey","priceCHF":null,"stock":10},{"size":{"id":"37","label":{"de":"37","fr":"37","en":"37","it":"37"}},"color":"black","sku":"LEON-KUCNAPAPUCA050TEGE-[object Object]-black","priceCHF":null,"stock":10},{"size":{"id":"37","label":{"de":"37","fr":"37","en":"37","it":"37"}},"color":"grey","sku":"LEON-KUCNAPAPUCA050TEGE-[object Object]-grey","priceCHF":null,"stock":10},{"size":{"id":"38","label":{"de":"38","fr":"38","en":"38","it":"38"}},"color":"black","sku":"LEON-KUCNAPAPUCA050TEGE-[object Object]-black","priceCHF":null,"stock":10},{"size":{"id":"38","label":{"de":"38","fr":"38","en":"38","it":"38"}},"color":"grey","sku":"LEON-KUCNAPAPUCA050TEGE-[object Object]-grey","priceCHF":null,"stock":10},{"size":{"id":"39","label":{"de":"39","fr":"39","en":"39","it":"39"}},"color":"black","sku":"LEON-KUCNAPAPUCA050TEGE-[object Object]-black","priceCHF":null,"stock":10},{"size":{"id":"39","label":{"de":"39","fr":"39","en":"39","it":"39"}},"color":"grey","sku":"LEON-KUCNAPAPUCA050TEGE-[object Object]-grey","priceCHF":null,"stock":10},{"size":{"id":"40","label":{"de":"40","fr":"40","en":"40","it":"40"}},"color":"black","sku":"LEON-KUCNAPAPUCA050TEGE-[object Object]-black","priceCHF":null,"stock":10},{"size":{"id":"40","label":{"de":"40","fr":"40","en":"40","it":"40"}},"color":"grey","sku":"LEON-KUCNAPAPUCA050TEGE-[object Object]-grey","priceCHF":null,"stock":10},{"size":{"id":"41","label":{"de":"41","fr":"41","en":"41","it":"41"}},"color":"black","sku":"LEON-KUCNAPAPUCA050TEGE-[object Object]-black","priceCHF":null,"stock":10},{"size":{"id":"41","label":{"de":"41","fr":"41","en":"41","it":"41"}},"color":"grey","sku":"LEON-KUCNAPAPUCA050TEGE-[object Object]-grey","priceCHF":null,"stock":10}],"modelGroupId":"leon-mg-kucna-papuca-050-women","articleNumber":"050","colorLabel":"Charcoal","images":["https://cdn.leon.rs/wp-content/uploads/2025/10/050-Teget1.jpg","https://cdn.leon.rs/wp-content/uploads/2025/10/050-Teget2.jpg","https://cdn.leon.rs/wp-content/uploads/2025/10/050-Teget3.jpg"]},{"id":"leon-kucna-papuca-050-ljubicasta","slug":"kucna-papuca-050-ljubicasta","category":"women","brand":"leon","name":{"de":"Hausschuh Home 050 – Lila","fr":"Chausson d'intérieur 050 – Violet","en":"House slipper 050 – Purple","it":"Pantofola da casa 050 – Viola"},"description":{"de":"Damenmodell „Hausschuh Home 050“ mit weichem, anatomischem Fussbett.","fr":"Modèle femme « Chausson d'intérieur 050 » avec semelle intérieure anatomique douce.","en":"Women's model \"House slipper 050\" with a soft anatomical footbed.","it":"Modello da donna «Pantofola da casa 050» con plantare anatomico morbido."},"image":"https://cdn.leon.rs/wp-content/uploads/2025/10/050-Ljubicasta1.jpg","sizes":[{"id":"36","label":{"de":"36","fr":"36","en":"36","it":"36"}},{"id":"37","label":{"de":"37","fr":"37","en":"37","it":"37"}},{"id":"38","label":{"de":"38","fr":"38","en":"38","it":"38"}},{"id":"39","label":{"de":"39","fr":"39","en":"39","it":"39"}},{"id":"40","label":{"de":"40","fr":"40","en":"40","it":"40"}},{"id":"41","label":{"de":"41","fr":"41","en":"41","it":"41"}}],"colors":[{"id":"black","label":"Schwarz","hex":"#111827"},{"id":"grey","label":"Grau","hex":"#6b7280"}],"variants":[{"size":{"id":"36","label":{"de":"36","fr":"36","en":"36","it":"36"}},"color":"black","sku":"LEON-KUCNAPAPUCA050LJUB-[object Object]-black","priceCHF":null,"stock":10},{"size":{"id":"36","label":{"de":"36","fr":"36","en":"36","it":"36"}},"color":"grey","sku":"LEON-KUCNAPAPUCA050LJUB-[object Object]-grey","priceCHF":null,"stock":10},{"size":{"id":"37","label":{"de":"37","fr":"37","en":"37","it":"37"}},"color":"black","sku":"LEON-KUCNAPAPUCA050LJUB-[object Object]-black","priceCHF":null,"stock":10},{"size":{"id":"37","label":{"de":"37","fr":"37","en":"37","it":"37"}},"color":"grey","sku":"LEON-KUCNAPAPUCA050LJUB-[object Object]-grey","priceCHF":null,"stock":10},{"size":{"id":"38","label":{"de":"38","fr":"38","en":"38","it":"38"}},"color":"black","sku":"LEON-KUCNAPAPUCA050LJUB-[object Object]-black","priceCHF":null,"stock":10},{"size":{"id":"38","label":{"de":"38","fr":"38","en":"38","it":"38"}},"color":"grey","sku":"LEON-KUCNAPAPUCA050LJUB-[object Object]-grey","priceCHF":null,"stock":10},{"size":{"id":"39","label":{"de":"39","fr":"39","en":"39","it":"39"}},"color":"black","sku":"LEON-KUCNAPAPUCA050LJUB-[object Object]-black","priceCHF":null,"stock":10},{"size":{"id":"39","label":{"de":"39","fr":"39","en":"39","it":"39"}},"color":"grey","sku":"LEON-KUCNAPAPUCA050LJUB-[object Object]-grey","priceCHF":null,"stock":10},{"size":{"id":"40","label":{"de":"40","fr":"40","en":"40","it":"40"}},"color":"black","sku":"LEON-KUCNAPAPUCA050LJUB-[object Object]-black","priceCHF":null,"stock":10},{"size":{"id":"40","label":{"de":"40","fr":"40","en":"40","it":"40"}},"color":"grey","sku":"LEON-KUCNAPAPUCA050LJUB-[object Object]-grey","priceCHF":null,"stock":10},{"size":{"id":"41","label":{"de":"41","fr":"41","en":"41","it":"41"}},"color":"black","sku":"LEON-KUCNAPAPUCA050LJUB-[object Object]-black","priceCHF":null,"stock":10},{"size":{"id":"41","label":{"de":"41","fr":"41","en":"41","it":"41"}},"color":"grey","sku":"LEON-KUCNAPAPUCA050LJUB-[object Object]-grey","priceCHF":null,"stock":10}],"modelGroupId":"leon-mg-kucna-papuca-050-women","articleNumber":"050","images":["https://cdn.leon.rs/wp-content/uploads/2025/10/050-Ljubicasta1.jpg","https://cdn.leon.rs/wp-content/uploads/2025/10/050-Ljubicasta2.jpg","https://cdn.leon.rs/wp-content/uploads/2025/10/050-Ljubicasta3.jpg"],"colorLabel":"Purple"}]}],["$","$Lc",null,{"product":"$d","locale":"fr","modelGroupSiblings":"$45"}]]}]]}],["$","$L12a",null,{"product":"$d","locale":"fr"}]]}]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Trend Swiss Shop | trendswiss.ch"}],["$","meta","3",{"name":"description","content":"Online shop – Swiss quality and style. trendswiss.ch"}]]
+1:null
+12b:I[6456,["972","static/chunks/972-d71866a6631b6318.js","529","static/chunks/529-56c5ab17e14cba56.js","145","static/chunks/145-a8953cd3f91aee0b.js","883","static/chunks/883-e2a4759db12ee0dc.js","203","static/chunks/app/%5Blocale%5D/layout-1b7a049853e5d5e0.js"],"default"]
+12c:I[3970,["972","static/chunks/972-d71866a6631b6318.js","529","static/chunks/529-56c5ab17e14cba56.js","145","static/chunks/145-a8953cd3f91aee0b.js","883","static/chunks/883-e2a4759db12ee0dc.js","203","static/chunks/app/%5Blocale%5D/layout-1b7a049853e5d5e0.js"],"default"]
+12d:I[4767,["972","static/chunks/972-d71866a6631b6318.js","529","static/chunks/529-56c5ab17e14cba56.js","145","static/chunks/145-a8953cd3f91aee0b.js","883","static/chunks/883-e2a4759db12ee0dc.js","203","static/chunks/app/%5Blocale%5D/layout-1b7a049853e5d5e0.js"],"default"]
+7:["$","$L12b",null,{"locale":"fr","now":"$D2026-08-11T13:21:00.523Z","timeZone":"Europe/Belgrade","messages":{"nav":{"home":"Accueil","shop":"Boutique","cart":"Panier","about":"À propos","contact":"Contact","searchLabel":"Rechercher des modèles","searchPlaceholder":"Nom du modèle ou numéro d'article…","searchClear":"Effacer la recherche","searchNoResults":"Aucun modèle trouvé."},"home":{"heroTitle":"Bienvenue chez Trend Swiss","heroSubtitle":"Qualité et style suisses","aboutTitle":"À propos de nous","aboutCompany":"TrendSwiss GmbH","aboutTagline":"Confort élégant au quotidien – vos experts en chaussures de qualité","aboutWelcomeTitle":"Bienvenue chez TrendSwiss GmbH !","aboutWelcomeBody":"En tant qu'entreprise suisse moderne, nous nous sommes consacrés à une mission claire : vous apporter un confort de marche et de station debout de haute qualité. En tant que représentation générale officielle de producteurs internationaux de premier plan, nous faisons le lien entre l'artisanat traditionnel, le design moderne et l'ergonomie contemporaine.","aboutPhilosophyTitle":"Notre philosophie : une qualité que l'on ressent","aboutPhilosophyBody":"Une grande partie de notre vie se déroule sur nos pieds. Que ce soit dans un quotidien professionnel exigeant, à la maison ou pendant les loisirs – nos pieds méritent le meilleur soutien possible. Chez TrendSwiss, nous sélectionnons nos collections selon les critères les plus stricts. Nous misons systématiquement sur des matériaux naturels de première qualité (comme le cuir véritable fin) et une fabrication exigeante qui garantit durabilité et un confort de port optimal.","aboutAssortmentTitle":"Notre assortiment : la diversité au service de la fonction","aboutAssortmentBody":"Avec un assortiment soigneusement composé et polyvalent, nous répondons à des besoins variés. Des sabots classiques pour un usage professionnel en cabinet, pharmacie ou soins aux élégantes pantoufles et chaussons confortables pour toute la famille : nos produits allient une semelle anatomique à un design moderne. Ils s'intègrent harmonieusement à chaque situation de vie et favorisent le bien-être quotidien à chaque pas.","aboutPartnerTitle":"Votre partenaire suisse de confiance","aboutPartnerBody1":"TrendSwiss GmbH se considère non seulement comme un commerçant, mais comme un partenaire à long terme. Grâce à notre lien direct avec les sites de production, nous pouvons agir avec flexibilité, garantir les normes de qualité les plus élevées et vous offrir en permanence un excellent rapport qualité-prix.","aboutPartnerBody2":"Que vous soyez un revendeur souhaitant enrichir votre assortiment avec nos produits de qualité ou un client particulier à la recherche du compagnon idéal pour votre quotidien – le client et un service de premier ordre sont toujours au centre de nos préoccupations.","aboutWhyTitle":"Pourquoi TrendSwiss ?","aboutWhy1Title":"Collections exclusives :","aboutWhy1Text":"Modèles soigneusement sélectionnés auprès de producteurs internationaux établis.","aboutWhy2Title":"Design ergonomique :","aboutWhy2Text":"Coupe anatomiquement étudiée pour une station debout et une marche sans fatigue au quotidien.","aboutWhy3Title":"Matériaux naturels :","aboutWhy3Text":"Cuir de haute qualité et composants respirants pour un climat agréable au pied.","aboutWhy4Title":"Fiabilité suisse :","aboutWhy4Text":"Service compétent, traitement simple et proximité client authentique.","aboutClosingLine":"Avancez avec nous vers le succès et redécouvrez le confort.","aboutFooterLine":"TrendSwiss GmbH – pas à pas vers un plus grand bien-être.","contactTitle":"Contact","contactPhone":"Tél","contactAddress":"Adresse","contactEmail":"E-mail","contactStreet":"Bodenackerstrasse 50","contactCity":"5200, Brugg","contactCountry":"Suisse","galleryAriaLabel":"Galerie d'images"},"shop":{"title":"Boutique","allProducts":"Tous les produits","uncategorizedFilter":"Sans catégorie ({count})","exploreByCategory":"Explorer par catégorie","view":"Voir","exploreFilterTitle":"Catégories","filtersTitle":"Filtres","openFilters":"Filtres","close":"Fermer","categories":"Catégories","all":"Tout","brandTitle":"Marque","allBrands":"Toutes les marques","noProductsInCategory":"Aucun produit dans cette catégorie.","perPageLabel":"Par page","perPage20":"20","perPage50":"50","perPageAll":"Tous","showingRange":"Affichage de {from} à {to} sur {total} produits","prevPage":"Précédent","nextPage":"Suivant","pageOf":"Page {page} sur {totalPages}","addToCart":"Ajouter au panier","catalogOnly":"Catalogue uniquement","purchaseDisabled":"Les achats sont temporairement désactivés. Ce site sert actuellement de catalogue en ligne.","size":"Taille","color":"Couleur","price":"Prix","priceFilterTitle":"Prix","pricedOnly":"Afficher uniquement les modèles avec prix","sku":"Réf.","chf":"CHF","selectSize":"Choisir la taille","selectColor":"Choisir la couleur","quantity":"Quantité","sameModelColors":"Ce modèle dans d’autres couleurs","leonSizeGuide":{"link":"Guide des tailles","title":"Guide des tailles","tabMeasurements":"Mesures","tabInstructions":"Mode d’emploi","close":"Fermer","eu":"UE","footLengthMm":"Longueur du pied (mm)","footLengthIn":"Longueur du pied (po)","unitMm":"mm","unitIn":"po","howToTitle":"Comment mesurer :","step1":"Posez le pied à plat sur une feuille et marquez le point le plus long des orteils et l’arrière du talon. Idéalement debout et avec des chaussettes.","step2":"Mesurez en ligne droite de l’orteil le plus long jusqu’au talon avec une règle ou un mètre ruban.","step3":"Utilisez le tableau pour trouver votre pointure EU."}},"productTabs":{"specs":"Spécifications","description":"Description","shipping":"Livraison & retours","reviews":"Avis","specsContent":"Matière : peluche douce, mélange coton. Entretien : lavage machine 30 °C. Tailles et couleurs disponibles voir sélection ci-dessus.","shippingContent":"Livraison en Suisse : 2–4 jours ouvrés. Frais de port à partir de 6 CHF, gratuit dès 80 CHF. Retours sous 30 jours, article non porté.","reviewsIntro":"Avis clients","review1":"Très confortables, je les porte tous les jours. Taille parfaite.","review2":"Bon rapport qualité-prix, livraison rapide. Je recommande.","review3":"Doux et chauds. Je conseille de prendre sa taille habituelle."},"cart":{"title":"Panier","empty":"Votre panier est vide","purchaseDisabled":"Les achats sont temporairement désactivés. Le panier et le paiement ne sont pas disponibles pour le moment.","subtotal":"Sous-total","discount":"Réduction","total":"Total","checkout":"Commander","remove":"Retirer","voucherPlaceholder":"Code promo","applyVoucher":"Appliquer","voucherInvalid":"Code invalide ou non applicable.","voucherApplied":"Code « {code} » appliqué : -{amount} CHF","goToShop":"À la boutique"},"checkout":{"title":"Paiement","successTitle":"Paiement réussi","successMessage":"Merci ! Vous recevrez sous peu un e-mail de confirmation.","cancelMessage":"Paiement annulé.","backToShop":"Retour à la boutique"},"footer":{"rights":"Tous droits réservés."}},"children":[["$","$L12c",null,{}],["$","div",null,{"className":"flex min-h-screen flex-col overflow-x-hidden bg-[var(--bg-warm)] text-neutral-900 antialiased","children":[["$","$L12d",null,{}],["$","main",null,{"className":"flex-1","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]}],"$L12e"]}]]}]
+12e:["$","footer",null,{"className":"bg-neutral-900 py-8 text-center text-sm text-neutral-300","children":[["$","div",null,{"className":"h-1 w-full bg-[var(--header-dark)]","aria-hidden":true}],["$","div",null,{"className":"pt-6","children":["© ",2026," ",["$","strong",null,{"className":"font-semibold text-white","children":"trendswiss.ch"}],". ","Tous droits réservés."]}]]}]

@@ -1,0 +1,528 @@
+3:I[4707,[],""]
+6:I[6423,[],""]
+4:["locale","it","d"]
+5:["slug","edita-teget","d"]
+0:["ml7UmRV2zItQXVGmRrv7j",[[["",{"children":[["locale","it","d"],{"children":["shop",{"children":[["slug","edita-teget","d"],{"children":["__PAGE__?{\"locale\":\"it\",\"slug\":\"edita-teget\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","it","d"],{"children":["shop",{"children":[["slug","edita-teget","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children","shop","children","$5","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children","shop","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/810bbd7e806ce024.css","precedence":"next","crossOrigin":"$undefined"}]],"$L7"],null],null]},[[null,["$","html",null,{"suppressHydrationWarning":true,"children":["$","body",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}]}]],null],null],["$L8",null]]]]
+9:I[5664,["972","static/chunks/972-d71866a6631b6318.js","529","static/chunks/529-56c5ab17e14cba56.js","145","static/chunks/145-a8953cd3f91aee0b.js","883","static/chunks/883-e2a4759db12ee0dc.js","623","static/chunks/623-299883740fc8c65a.js","437","static/chunks/app/%5Blocale%5D/shop/%5Bslug%5D/page-35d9698df50a1a4d.js"],"default"]
+a:I[4456,["972","static/chunks/972-d71866a6631b6318.js","529","static/chunks/529-56c5ab17e14cba56.js","145","static/chunks/145-a8953cd3f91aee0b.js","883","static/chunks/883-e2a4759db12ee0dc.js","623","static/chunks/623-299883740fc8c65a.js","437","static/chunks/app/%5Blocale%5D/shop/%5Bslug%5D/page-35d9698df50a1a4d.js"],"default"]
+c:I[4929,["972","static/chunks/972-d71866a6631b6318.js","529","static/chunks/529-56c5ab17e14cba56.js","145","static/chunks/145-a8953cd3f91aee0b.js","883","static/chunks/883-e2a4759db12ee0dc.js","623","static/chunks/623-299883740fc8c65a.js","437","static/chunks/app/%5Blocale%5D/shop/%5Bslug%5D/page-35d9698df50a1a4d.js"],"default"]
+20b:I[564,["972","static/chunks/972-d71866a6631b6318.js","529","static/chunks/529-56c5ab17e14cba56.js","145","static/chunks/145-a8953cd3f91aee0b.js","883","static/chunks/883-e2a4759db12ee0dc.js","623","static/chunks/623-299883740fc8c65a.js","437","static/chunks/app/%5Blocale%5D/shop/%5Bslug%5D/page-35d9698df50a1a4d.js"],"default"]
+b:["https://cdn.leon.rs/wp-content/uploads/2025/09/Edita-TEGET.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Edita-TEGET-1.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Edita-TEGET-2.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Edita-TEGET-3.jpg"]
+e:{"de":"Edita – Anthrazit","fr":"Edita – Anthracite","en":"Edita – Charcoal","it":"Edita – Antracite"}
+f:{"de":"Anatomischer Clog f�r Damen mit speziell geformtem Profil, Massagegel und Bel�ftungsl�chern. Hergestellt aus nat�rlichem Material � Leder und Polyurethanschaum.","fr":"Sabot anatomique pour femme avec bande de roulement de forme sp�ciale, gel de massage et trous d'a�ration. Fabriqu� en mat�riau naturel - cuir et mousse de polyur�thane.","en":"Women's anatomical clog with a specially shaped tread, massage gel and ventilation holes. Made of natural material - leather, and polyurethane foam.","it":"Zoccolo anatomico da donna con battistrada dalla forma speciale, gel massaggiante e fori di ventilazione. Realizzato in materiale naturale: pelle e schiuma di poliuretano."}
+12:{"de":"35","fr":"35","en":"35","it":"35"}
+11:{"id":"35","label":"$12"}
+14:{"de":"36","fr":"36","en":"36","it":"36"}
+13:{"id":"36","label":"$14"}
+16:{"de":"37","fr":"37","en":"37","it":"37"}
+15:{"id":"37","label":"$16"}
+18:{"de":"38","fr":"38","en":"38","it":"38"}
+17:{"id":"38","label":"$18"}
+1a:{"de":"39","fr":"39","en":"39","it":"39"}
+19:{"id":"39","label":"$1a"}
+1c:{"de":"40","fr":"40","en":"40","it":"40"}
+1b:{"id":"40","label":"$1c"}
+1e:{"de":"41","fr":"41","en":"41","it":"41"}
+1d:{"id":"41","label":"$1e"}
+20:{"de":"42","fr":"42","en":"42","it":"42"}
+1f:{"id":"42","label":"$20"}
+10:["$11","$13","$15","$17","$19","$1b","$1d","$1f"]
+22:{"id":"black","label":"Schwarz","hex":"#111827"}
+23:{"id":"grey","label":"Grau","hex":"#6b7280"}
+21:["$22","$23"]
+25:{"size":"35","color":"black","sku":"LEON-ALPEN-KOMFORT-175-35-black","priceCHF":59,"stock":10}
+26:{"size":"35","color":"grey","sku":"LEON-ALPEN-KOMFORT-175-35-grey","priceCHF":59,"stock":10}
+27:{"size":"36","color":"black","sku":"LEON-ALPEN-KOMFORT-175-36-black","priceCHF":59,"stock":10}
+28:{"size":"36","color":"grey","sku":"LEON-ALPEN-KOMFORT-175-36-grey","priceCHF":59,"stock":10}
+29:{"size":"37","color":"black","sku":"LEON-ALPEN-KOMFORT-175-37-black","priceCHF":59,"stock":10}
+2a:{"size":"37","color":"grey","sku":"LEON-ALPEN-KOMFORT-175-37-grey","priceCHF":59,"stock":10}
+2b:{"size":"38","color":"black","sku":"LEON-ALPEN-KOMFORT-175-38-black","priceCHF":59,"stock":10}
+2c:{"size":"38","color":"grey","sku":"LEON-ALPEN-KOMFORT-175-38-grey","priceCHF":59,"stock":10}
+2d:{"size":"39","color":"black","sku":"LEON-ALPEN-KOMFORT-175-39-black","priceCHF":59,"stock":10}
+2e:{"size":"39","color":"grey","sku":"LEON-ALPEN-KOMFORT-175-39-grey","priceCHF":59,"stock":10}
+2f:{"size":"40","color":"black","sku":"LEON-ALPEN-KOMFORT-175-40-black","priceCHF":59,"stock":10}
+30:{"size":"40","color":"grey","sku":"LEON-ALPEN-KOMFORT-175-40-grey","priceCHF":59,"stock":10}
+31:{"size":"41","color":"black","sku":"LEON-ALPEN-KOMFORT-175-41-black","priceCHF":59,"stock":10}
+32:{"size":"41","color":"grey","sku":"LEON-ALPEN-KOMFORT-175-41-grey","priceCHF":59,"stock":10}
+33:{"size":"42","color":"black","sku":"LEON-ALPEN-KOMFORT-175-42-black","priceCHF":59,"stock":10}
+34:{"size":"42","color":"grey","sku":"LEON-ALPEN-KOMFORT-175-42-grey","priceCHF":59,"stock":10}
+24:["$25","$26","$27","$28","$29","$2a","$2b","$2c","$2d","$2e","$2f","$30","$31","$32","$33","$34"]
+37:{"de":"Obermaterial","fr":"Composition du dessus","en":"Upper material","it":"Tomaia"}
+38:{"de":"Naturleder","fr":"Cuir naturel","en":"Natural leather","it":"Pelle naturale"}
+36:{"label":"$37","value":"$38"}
+3a:{"de":"Fußbett","fr":"Semelle intérieure","en":"Footbed","it":"Plantare"}
+3b:{"de":"Naturleder mit anatomischem Profil und weicher Gel-Innensohle","fr":"Cuir naturel avec bande de roulement anatomique et semelle int�rieure en gel souple","en":"Natural leather with anatomical tread and soft gel insole","it":"Pelle naturale con battistrada anatomico e plantare in morbido gel"}
+39:{"label":"$3a","value":"$3b"}
+3d:{"de":"Laufsohle","fr":"Semelle extérieure","en":"Outsole","it":"Suola"}
+3e:{"de":"Polyurethan","fr":"Polyur�thane","en":"Polyurethane","it":"Poliuretano"}
+3c:{"label":"$3d","value":"$3e"}
+35:["$36","$39","$3c"]
+d:{"id":"leon-edita-teget","slug":"edita-teget","category":"women","brand":"leon","name":"$e","description":"$f","image":"https://cdn.leon.rs/wp-content/uploads/2025/09/Edita-TEGET.jpg","sizes":"$10","colors":"$21","variants":"$24","modelGroupId":"leon-mg-edita-4250-women","articleNumber":"4250","colorLabel":"Charcoal","images":"$b","specifications":"$35"}
+41:{"de":"Edita Orlando Roza – Rosa Lack","fr":"Edita Orlando Roza – Rose verni","en":"Edita Orlando Roza – Pink patent","it":"Edita Orlando Roza – Rosa verniciato"}
+42:{"de":"Anatomischer Clog f�r Damen mit speziell geformtem Profil, Massagegel und Bel�ftungsl�chern. Hergestellt aus nat�rlichem Material � Leder und Polyurethanschaum.","fr":"Sabot anatomique pour femme avec bande de roulement de forme sp�ciale, gel de massage et trous d'a�ration. Fabriqu� en mat�riau naturel - cuir et mousse de polyur�thane.","en":"Women's anatomical clog with a specially shaped tread, massage gel and ventilation holes. Made of natural material - leather, and polyurethane foam.","it":"Zoccolo anatomico da donna con battistrada dalla forma speciale, gel massaggiante e fori di ventilazione. Realizzato in materiale naturale: pelle e schiuma di poliuretano."}
+45:{"de":"35","fr":"35","en":"35","it":"35"}
+44:{"id":"35","label":"$45"}
+47:{"de":"36","fr":"36","en":"36","it":"36"}
+46:{"id":"36","label":"$47"}
+49:{"de":"37","fr":"37","en":"37","it":"37"}
+48:{"id":"37","label":"$49"}
+4b:{"de":"38","fr":"38","en":"38","it":"38"}
+4a:{"id":"38","label":"$4b"}
+4d:{"de":"39","fr":"39","en":"39","it":"39"}
+4c:{"id":"39","label":"$4d"}
+4f:{"de":"40","fr":"40","en":"40","it":"40"}
+4e:{"id":"40","label":"$4f"}
+51:{"de":"41","fr":"41","en":"41","it":"41"}
+50:{"id":"41","label":"$51"}
+53:{"de":"42","fr":"42","en":"42","it":"42"}
+52:{"id":"42","label":"$53"}
+43:["$44","$46","$48","$4a","$4c","$4e","$50","$52"]
+55:{"id":"black","label":"Schwarz","hex":"#111827"}
+56:{"id":"grey","label":"Grau","hex":"#6b7280"}
+54:["$55","$56"]
+58:{"size":"35","color":"black","sku":"LEON-ALPEN-KOMFORT-161-35-black","priceCHF":59,"stock":10}
+59:{"size":"35","color":"grey","sku":"LEON-ALPEN-KOMFORT-161-35-grey","priceCHF":59,"stock":10}
+5a:{"size":"36","color":"black","sku":"LEON-ALPEN-KOMFORT-161-36-black","priceCHF":59,"stock":10}
+5b:{"size":"36","color":"grey","sku":"LEON-ALPEN-KOMFORT-161-36-grey","priceCHF":59,"stock":10}
+5c:{"size":"37","color":"black","sku":"LEON-ALPEN-KOMFORT-161-37-black","priceCHF":59,"stock":10}
+5d:{"size":"37","color":"grey","sku":"LEON-ALPEN-KOMFORT-161-37-grey","priceCHF":59,"stock":10}
+5e:{"size":"38","color":"black","sku":"LEON-ALPEN-KOMFORT-161-38-black","priceCHF":59,"stock":10}
+5f:{"size":"38","color":"grey","sku":"LEON-ALPEN-KOMFORT-161-38-grey","priceCHF":59,"stock":10}
+60:{"size":"39","color":"black","sku":"LEON-ALPEN-KOMFORT-161-39-black","priceCHF":59,"stock":10}
+61:{"size":"39","color":"grey","sku":"LEON-ALPEN-KOMFORT-161-39-grey","priceCHF":59,"stock":10}
+62:{"size":"40","color":"black","sku":"LEON-ALPEN-KOMFORT-161-40-black","priceCHF":59,"stock":10}
+63:{"size":"40","color":"grey","sku":"LEON-ALPEN-KOMFORT-161-40-grey","priceCHF":59,"stock":10}
+64:{"size":"41","color":"black","sku":"LEON-ALPEN-KOMFORT-161-41-black","priceCHF":59,"stock":10}
+65:{"size":"41","color":"grey","sku":"LEON-ALPEN-KOMFORT-161-41-grey","priceCHF":59,"stock":10}
+66:{"size":"42","color":"black","sku":"LEON-ALPEN-KOMFORT-161-42-black","priceCHF":59,"stock":10}
+67:{"size":"42","color":"grey","sku":"LEON-ALPEN-KOMFORT-161-42-grey","priceCHF":59,"stock":10}
+57:["$58","$59","$5a","$5b","$5c","$5d","$5e","$5f","$60","$61","$62","$63","$64","$65","$66","$67"]
+68:["https://cdn.leon.rs/wp-content/uploads/2025/09/4250-RozeOrlandoNova1.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/4250-RozeOrlandoNova2.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/4250-RozeOrlandoNova3.jpg"]
+6b:{"de":"Obermaterial","fr":"Composition du dessus","en":"Upper material","it":"Tomaia"}
+6c:{"de":"Naturleder","fr":"Cuir naturel","en":"Natural leather","it":"Pelle naturale"}
+6a:{"label":"$6b","value":"$6c"}
+6e:{"de":"Fußbett","fr":"Semelle intérieure","en":"Footbed","it":"Plantare"}
+6f:{"de":"Naturleder mit anatomischem Profil und weicher Gel-Innensohle","fr":"Cuir naturel avec bande de roulement anatomique et semelle int�rieure en gel souple","en":"Natural leather with anatomical tread and soft gel insole","it":"Pelle naturale con battistrada anatomico e plantare in morbido gel"}
+6d:{"label":"$6e","value":"$6f"}
+71:{"de":"Laufsohle","fr":"Semelle extérieure","en":"Outsole","it":"Suola"}
+72:{"de":"Polyurethan","fr":"Polyur�thane","en":"Polyurethane","it":"Poliuretano"}
+70:{"label":"$71","value":"$72"}
+69:["$6a","$6d","$70"]
+40:{"id":"leon-edita-orlando-roza","slug":"edita-orlando-roza","category":"women","brand":"leon","name":"$41","description":"$42","image":"https://cdn.leon.rs/wp-content/uploads/2025/09/4250-RozeOrlandoNova1.jpg","sizes":"$43","colors":"$54","variants":"$57","articleNumber":"4250","colorLabel":"Pink patent","images":"$68","modelGroupId":"leon-mg-edita-4250-women","specifications":"$69"}
+74:{"de":"Edita Orlando Braon – Braun Lack","fr":"Edita Orlando Braon – Marron Verni","en":"Edita Orlando Braon – Brown Patent","it":"Edita Orlando Braon – Marrone Vernice"}
+75:{"de":"Anatomischer Clog f�r Damen mit speziell geformtem Profil, Massagegel und Bel�ftungsl�chern. Hergestellt aus nat�rlichem Material � Leder und Polyurethanschaum.","fr":"Sabot anatomique pour femme avec bande de roulement de forme sp�ciale, gel de massage et trous d'a�ration. Fabriqu� en mat�riau naturel - cuir et mousse de polyur�thane.","en":"Women's anatomical clog with a specially shaped tread, massage gel and ventilation holes. Made of natural material - leather, and polyurethane foam.","it":"Zoccolo anatomico da donna con battistrada dalla forma speciale, gel massaggiante e fori di ventilazione. Realizzato in materiale naturale: pelle e schiuma di poliuretano."}
+78:{"de":"35","fr":"35","en":"35","it":"35"}
+77:{"id":"35","label":"$78"}
+7a:{"de":"36","fr":"36","en":"36","it":"36"}
+79:{"id":"36","label":"$7a"}
+7c:{"de":"37","fr":"37","en":"37","it":"37"}
+7b:{"id":"37","label":"$7c"}
+7e:{"de":"38","fr":"38","en":"38","it":"38"}
+7d:{"id":"38","label":"$7e"}
+80:{"de":"39","fr":"39","en":"39","it":"39"}
+7f:{"id":"39","label":"$80"}
+82:{"de":"40","fr":"40","en":"40","it":"40"}
+81:{"id":"40","label":"$82"}
+84:{"de":"41","fr":"41","en":"41","it":"41"}
+83:{"id":"41","label":"$84"}
+86:{"de":"42","fr":"42","en":"42","it":"42"}
+85:{"id":"42","label":"$86"}
+76:["$77","$79","$7b","$7d","$7f","$81","$83","$85"]
+88:{"id":"black","label":"Schwarz","hex":"#111827"}
+89:{"id":"grey","label":"Grau","hex":"#6b7280"}
+87:["$88","$89"]
+8b:{"size":"35","color":"black","sku":"LEON-ALPEN-KOMFORT-162-35-black","priceCHF":59,"stock":10}
+8c:{"size":"35","color":"grey","sku":"LEON-ALPEN-KOMFORT-162-35-grey","priceCHF":59,"stock":10}
+8d:{"size":"36","color":"black","sku":"LEON-ALPEN-KOMFORT-162-36-black","priceCHF":59,"stock":10}
+8e:{"size":"36","color":"grey","sku":"LEON-ALPEN-KOMFORT-162-36-grey","priceCHF":59,"stock":10}
+8f:{"size":"37","color":"black","sku":"LEON-ALPEN-KOMFORT-162-37-black","priceCHF":59,"stock":10}
+90:{"size":"37","color":"grey","sku":"LEON-ALPEN-KOMFORT-162-37-grey","priceCHF":59,"stock":10}
+91:{"size":"38","color":"black","sku":"LEON-ALPEN-KOMFORT-162-38-black","priceCHF":59,"stock":10}
+92:{"size":"38","color":"grey","sku":"LEON-ALPEN-KOMFORT-162-38-grey","priceCHF":59,"stock":10}
+93:{"size":"39","color":"black","sku":"LEON-ALPEN-KOMFORT-162-39-black","priceCHF":59,"stock":10}
+94:{"size":"39","color":"grey","sku":"LEON-ALPEN-KOMFORT-162-39-grey","priceCHF":59,"stock":10}
+95:{"size":"40","color":"black","sku":"LEON-ALPEN-KOMFORT-162-40-black","priceCHF":59,"stock":10}
+96:{"size":"40","color":"grey","sku":"LEON-ALPEN-KOMFORT-162-40-grey","priceCHF":59,"stock":10}
+97:{"size":"41","color":"black","sku":"LEON-ALPEN-KOMFORT-162-41-black","priceCHF":59,"stock":10}
+98:{"size":"41","color":"grey","sku":"LEON-ALPEN-KOMFORT-162-41-grey","priceCHF":59,"stock":10}
+99:{"size":"42","color":"black","sku":"LEON-ALPEN-KOMFORT-162-42-black","priceCHF":59,"stock":10}
+9a:{"size":"42","color":"grey","sku":"LEON-ALPEN-KOMFORT-162-42-grey","priceCHF":59,"stock":10}
+8a:["$8b","$8c","$8d","$8e","$8f","$90","$91","$92","$93","$94","$95","$96","$97","$98","$99","$9a"]
+9b:["https://cdn.leon.rs/wp-content/uploads/2025/09/4250-BraonOrlandoNova1.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/4250-BraonOrlandoNova2.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/4250-BraonOrlandoNova3.jpg"]
+9e:{"de":"Obermaterial","fr":"Composition du dessus","en":"Upper material","it":"Tomaia"}
+9f:{"de":"Naturleder","fr":"Cuir naturel","en":"Natural leather","it":"Pelle naturale"}
+9d:{"label":"$9e","value":"$9f"}
+a1:{"de":"Fußbett","fr":"Semelle intérieure","en":"Footbed","it":"Plantare"}
+a2:{"de":"Naturleder mit anatomischem Profil und weicher Gel-Innensohle","fr":"Cuir naturel avec bande de roulement anatomique et semelle int�rieure en gel souple","en":"Natural leather with anatomical tread and soft gel insole","it":"Pelle naturale con battistrada anatomico e plantare in morbido gel"}
+a0:{"label":"$a1","value":"$a2"}
+a4:{"de":"Laufsohle","fr":"Semelle extérieure","en":"Outsole","it":"Suola"}
+a5:{"de":"Polyurethan","fr":"Polyur�thane","en":"Polyurethane","it":"Poliuretano"}
+a3:{"label":"$a4","value":"$a5"}
+9c:["$9d","$a0","$a3"]
+73:{"id":"leon-edita-orlando-braon","slug":"edita-orlando-braon","category":"women","brand":"leon","name":"$74","description":"$75","image":"https://cdn.leon.rs/wp-content/uploads/2025/09/4250-BraonOrlandoNova1.jpg","sizes":"$76","colors":"$87","variants":"$8a","articleNumber":"4250","colorLabel":"Brown Patent","images":"$9b","modelGroupId":"leon-mg-edita-4250-women","specifications":"$9c"}
+a7:{"de":"Edita Orlando Bez – Beige Lack","fr":"Edita Orlando Bez – Beige Verni","en":"Edita Orlando Bez – Beige Patent","it":"Edita Orlando Bez – Beige Vernice"}
+a8:{"de":"Anatomischer Clog f�r Damen mit speziell geformtem Profil, Massagegel und Bel�ftungsl�chern. Hergestellt aus nat�rlichem Material � Leder und Polyurethanschaum.","fr":"Sabot anatomique pour femme avec bande de roulement de forme sp�ciale, gel de massage et trous d'a�ration. Fabriqu� en mat�riau naturel - cuir et mousse de polyur�thane.","en":"Women's anatomical clog with a specially shaped tread, massage gel and ventilation holes. Made of natural material - leather, and polyurethane foam.","it":"Zoccolo anatomico da donna con battistrada dalla forma speciale, gel massaggiante e fori di ventilazione. Realizzato in materiale naturale: pelle e schiuma di poliuretano."}
+ab:{"de":"35","fr":"35","en":"35","it":"35"}
+aa:{"id":"35","label":"$ab"}
+ad:{"de":"36","fr":"36","en":"36","it":"36"}
+ac:{"id":"36","label":"$ad"}
+af:{"de":"37","fr":"37","en":"37","it":"37"}
+ae:{"id":"37","label":"$af"}
+b1:{"de":"38","fr":"38","en":"38","it":"38"}
+b0:{"id":"38","label":"$b1"}
+b3:{"de":"39","fr":"39","en":"39","it":"39"}
+b2:{"id":"39","label":"$b3"}
+b5:{"de":"40","fr":"40","en":"40","it":"40"}
+b4:{"id":"40","label":"$b5"}
+b7:{"de":"41","fr":"41","en":"41","it":"41"}
+b6:{"id":"41","label":"$b7"}
+b9:{"de":"42","fr":"42","en":"42","it":"42"}
+b8:{"id":"42","label":"$b9"}
+a9:["$aa","$ac","$ae","$b0","$b2","$b4","$b6","$b8"]
+bb:{"id":"black","label":"Schwarz","hex":"#111827"}
+bc:{"id":"grey","label":"Grau","hex":"#6b7280"}
+ba:["$bb","$bc"]
+be:{"size":"35","color":"black","sku":"LEON-ALPEN-KOMFORT-164-35-black","priceCHF":59,"stock":10}
+bf:{"size":"35","color":"grey","sku":"LEON-ALPEN-KOMFORT-164-35-grey","priceCHF":59,"stock":10}
+c0:{"size":"36","color":"black","sku":"LEON-ALPEN-KOMFORT-164-36-black","priceCHF":59,"stock":10}
+c1:{"size":"36","color":"grey","sku":"LEON-ALPEN-KOMFORT-164-36-grey","priceCHF":59,"stock":10}
+c2:{"size":"37","color":"black","sku":"LEON-ALPEN-KOMFORT-164-37-black","priceCHF":59,"stock":10}
+c3:{"size":"37","color":"grey","sku":"LEON-ALPEN-KOMFORT-164-37-grey","priceCHF":59,"stock":10}
+c4:{"size":"38","color":"black","sku":"LEON-ALPEN-KOMFORT-164-38-black","priceCHF":59,"stock":10}
+c5:{"size":"38","color":"grey","sku":"LEON-ALPEN-KOMFORT-164-38-grey","priceCHF":59,"stock":10}
+c6:{"size":"39","color":"black","sku":"LEON-ALPEN-KOMFORT-164-39-black","priceCHF":59,"stock":10}
+c7:{"size":"39","color":"grey","sku":"LEON-ALPEN-KOMFORT-164-39-grey","priceCHF":59,"stock":10}
+c8:{"size":"40","color":"black","sku":"LEON-ALPEN-KOMFORT-164-40-black","priceCHF":59,"stock":10}
+c9:{"size":"40","color":"grey","sku":"LEON-ALPEN-KOMFORT-164-40-grey","priceCHF":59,"stock":10}
+ca:{"size":"41","color":"black","sku":"LEON-ALPEN-KOMFORT-164-41-black","priceCHF":59,"stock":10}
+cb:{"size":"41","color":"grey","sku":"LEON-ALPEN-KOMFORT-164-41-grey","priceCHF":59,"stock":10}
+cc:{"size":"42","color":"black","sku":"LEON-ALPEN-KOMFORT-164-42-black","priceCHF":59,"stock":10}
+cd:{"size":"42","color":"grey","sku":"LEON-ALPEN-KOMFORT-164-42-grey","priceCHF":59,"stock":10}
+bd:["$be","$bf","$c0","$c1","$c2","$c3","$c4","$c5","$c6","$c7","$c8","$c9","$ca","$cb","$cc","$cd"]
+ce:["https://cdn.leon.rs/wp-content/uploads/2025/09/4250-BezOrlandoNova1.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/4250-BezOrlandoNova2.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/4250-BezOrlandoNova3.jpg"]
+d1:{"de":"Obermaterial","fr":"Composition du dessus","en":"Upper material","it":"Tomaia"}
+d2:{"de":"Naturleder","fr":"Cuir naturel","en":"Natural leather","it":"Pelle naturale"}
+d0:{"label":"$d1","value":"$d2"}
+d4:{"de":"Fußbett","fr":"Semelle intérieure","en":"Footbed","it":"Plantare"}
+d5:{"de":"Naturleder mit anatomischem Profil und weicher Gel-Innensohle","fr":"Cuir naturel avec bande de roulement anatomique et semelle int�rieure en gel souple","en":"Natural leather with anatomical tread and soft gel insole","it":"Pelle naturale con battistrada anatomico e plantare in morbido gel"}
+d3:{"label":"$d4","value":"$d5"}
+d7:{"de":"Laufsohle","fr":"Semelle extérieure","en":"Outsole","it":"Suola"}
+d8:{"de":"Polyurethan","fr":"Polyur�thane","en":"Polyurethane","it":"Poliuretano"}
+d6:{"label":"$d7","value":"$d8"}
+cf:["$d0","$d3","$d6"]
+a6:{"id":"leon-edita-orlando-bez","slug":"edita-orlando-bez","category":"women","brand":"leon","name":"$a7","description":"$a8","image":"https://cdn.leon.rs/wp-content/uploads/2025/09/4250-BezOrlandoNova1.jpg","sizes":"$a9","colors":"$ba","variants":"$bd","articleNumber":"4250","colorLabel":"Beige Patent","images":"$ce","modelGroupId":"leon-mg-edita-4250-women","specifications":"$cf"}
+da:{"de":"Edita – Grün Perlato","fr":"Edita – Vert perlato","en":"Edita – Green perlato","it":"Edita – Verde perlato"}
+db:{"de":"Anatomischer Clog f�r Damen mit speziell geformtem Profil, Massagegel und Bel�ftungsl�chern. Hergestellt aus nat�rlichem Material � Leder und Polyurethanschaum.","fr":"Sabot anatomique pour femme avec bande de roulement de forme sp�ciale, gel de massage et trous d'a�ration. Fabriqu� en mat�riau naturel - cuir et mousse de polyur�thane.","en":"Women's anatomical clog with a specially shaped tread, massage gel and ventilation holes. Made of natural material - leather, and polyurethane foam.","it":"Zoccolo anatomico da donna con battistrada dalla forma speciale, gel massaggiante e fori di ventilazione. Realizzato in materiale naturale: pelle e schiuma di poliuretano."}
+de:{"de":"35","fr":"35","en":"35","it":"35"}
+dd:{"id":"35","label":"$de"}
+e0:{"de":"36","fr":"36","en":"36","it":"36"}
+df:{"id":"36","label":"$e0"}
+e2:{"de":"37","fr":"37","en":"37","it":"37"}
+e1:{"id":"37","label":"$e2"}
+e4:{"de":"38","fr":"38","en":"38","it":"38"}
+e3:{"id":"38","label":"$e4"}
+e6:{"de":"39","fr":"39","en":"39","it":"39"}
+e5:{"id":"39","label":"$e6"}
+e8:{"de":"40","fr":"40","en":"40","it":"40"}
+e7:{"id":"40","label":"$e8"}
+ea:{"de":"41","fr":"41","en":"41","it":"41"}
+e9:{"id":"41","label":"$ea"}
+ec:{"de":"42","fr":"42","en":"42","it":"42"}
+eb:{"id":"42","label":"$ec"}
+dc:["$dd","$df","$e1","$e3","$e5","$e7","$e9","$eb"]
+ee:{"id":"black","label":"Schwarz","hex":"#111827"}
+ef:{"id":"grey","label":"Grau","hex":"#6b7280"}
+ed:["$ee","$ef"]
+f1:{"size":"35","color":"black","sku":"LEON-ALPEN-KOMFORT-173-35-black","priceCHF":59,"stock":10}
+f2:{"size":"35","color":"grey","sku":"LEON-ALPEN-KOMFORT-173-35-grey","priceCHF":59,"stock":10}
+f3:{"size":"36","color":"black","sku":"LEON-ALPEN-KOMFORT-173-36-black","priceCHF":59,"stock":10}
+f4:{"size":"36","color":"grey","sku":"LEON-ALPEN-KOMFORT-173-36-grey","priceCHF":59,"stock":10}
+f5:{"size":"37","color":"black","sku":"LEON-ALPEN-KOMFORT-173-37-black","priceCHF":59,"stock":10}
+f6:{"size":"37","color":"grey","sku":"LEON-ALPEN-KOMFORT-173-37-grey","priceCHF":59,"stock":10}
+f7:{"size":"38","color":"black","sku":"LEON-ALPEN-KOMFORT-173-38-black","priceCHF":59,"stock":10}
+f8:{"size":"38","color":"grey","sku":"LEON-ALPEN-KOMFORT-173-38-grey","priceCHF":59,"stock":10}
+f9:{"size":"39","color":"black","sku":"LEON-ALPEN-KOMFORT-173-39-black","priceCHF":59,"stock":10}
+fa:{"size":"39","color":"grey","sku":"LEON-ALPEN-KOMFORT-173-39-grey","priceCHF":59,"stock":10}
+fb:{"size":"40","color":"black","sku":"LEON-ALPEN-KOMFORT-173-40-black","priceCHF":59,"stock":10}
+fc:{"size":"40","color":"grey","sku":"LEON-ALPEN-KOMFORT-173-40-grey","priceCHF":59,"stock":10}
+fd:{"size":"41","color":"black","sku":"LEON-ALPEN-KOMFORT-173-41-black","priceCHF":59,"stock":10}
+fe:{"size":"41","color":"grey","sku":"LEON-ALPEN-KOMFORT-173-41-grey","priceCHF":59,"stock":10}
+ff:{"size":"42","color":"black","sku":"LEON-ALPEN-KOMFORT-173-42-black","priceCHF":59,"stock":10}
+100:{"size":"42","color":"grey","sku":"LEON-ALPEN-KOMFORT-173-42-grey","priceCHF":59,"stock":10}
+f0:["$f1","$f2","$f3","$f4","$f5","$f6","$f7","$f8","$f9","$fa","$fb","$fc","$fd","$fe","$ff","$100"]
+101:["https://cdn.leon.rs/wp-content/uploads/2025/09/Edita-ZELENA-PERLATO.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Edita-ZELENA-PERLATO-1.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Edita-ZELENA-PERLATO-2.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Edita-ZELENA-PERLATO-3.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Edita-ZELENA-PERLATO-4.jpg"]
+104:{"de":"Obermaterial","fr":"Composition du dessus","en":"Upper material","it":"Tomaia"}
+105:{"de":"Naturleder","fr":"Cuir naturel","en":"Natural leather","it":"Pelle naturale"}
+103:{"label":"$104","value":"$105"}
+107:{"de":"Fußbett","fr":"Semelle intérieure","en":"Footbed","it":"Plantare"}
+108:{"de":"Naturleder mit anatomischem Profil und weicher Gel-Innensohle","fr":"Cuir naturel avec bande de roulement anatomique et semelle int�rieure en gel souple","en":"Natural leather with anatomical tread and soft gel insole","it":"Pelle naturale con battistrada anatomico e plantare in morbido gel"}
+106:{"label":"$107","value":"$108"}
+10a:{"de":"Laufsohle","fr":"Semelle extérieure","en":"Outsole","it":"Suola"}
+10b:{"de":"Polyurethan","fr":"Polyur�thane","en":"Polyurethane","it":"Poliuretano"}
+109:{"label":"$10a","value":"$10b"}
+102:["$103","$106","$109"]
+d9:{"id":"leon-edita-zelena-perlato","slug":"edita-zelena-perlato","category":"women","brand":"leon","name":"$da","description":"$db","image":"https://cdn.leon.rs/wp-content/uploads/2025/09/Edita-ZELENA-PERLATO.jpg","sizes":"$dc","colors":"$ed","variants":"$f0","modelGroupId":"leon-mg-edita-4250-women","articleNumber":"4250","colorLabel":"Green perlato","images":"$101","specifications":"$102"}
+10d:{"de":"Edita – Champagner","fr":"Edita – Champagne","en":"Edita – Champagne","it":"Edita – Champagne"}
+10e:{"de":"Anatomischer Clog f�r Damen mit speziell geformtem Profil, Massagegel und Bel�ftungsl�chern. Hergestellt aus nat�rlichem Material � Leder und Polyurethanschaum.","fr":"Sabot anatomique pour femme avec bande de roulement de forme sp�ciale, gel de massage et trous d'a�ration. Fabriqu� en mat�riau naturel - cuir et mousse de polyur�thane.","en":"Women's anatomical clog with a specially shaped tread, massage gel and ventilation holes. Made of natural material - leather, and polyurethane foam.","it":"Zoccolo anatomico da donna con battistrada dalla forma speciale, gel massaggiante e fori di ventilazione. Realizzato in materiale naturale: pelle e schiuma di poliuretano."}
+111:{"de":"35","fr":"35","en":"35","it":"35"}
+110:{"id":"35","label":"$111"}
+113:{"de":"36","fr":"36","en":"36","it":"36"}
+112:{"id":"36","label":"$113"}
+115:{"de":"37","fr":"37","en":"37","it":"37"}
+114:{"id":"37","label":"$115"}
+117:{"de":"38","fr":"38","en":"38","it":"38"}
+116:{"id":"38","label":"$117"}
+119:{"de":"39","fr":"39","en":"39","it":"39"}
+118:{"id":"39","label":"$119"}
+11b:{"de":"40","fr":"40","en":"40","it":"40"}
+11a:{"id":"40","label":"$11b"}
+11d:{"de":"41","fr":"41","en":"41","it":"41"}
+11c:{"id":"41","label":"$11d"}
+11f:{"de":"42","fr":"42","en":"42","it":"42"}
+11e:{"id":"42","label":"$11f"}
+10f:["$110","$112","$114","$116","$118","$11a","$11c","$11e"]
+121:{"id":"black","label":"Schwarz","hex":"#111827"}
+122:{"id":"grey","label":"Grau","hex":"#6b7280"}
+120:["$121","$122"]
+124:{"size":"35","color":"black","sku":"LEON-ALPEN-KOMFORT-176-35-black","priceCHF":59,"stock":10}
+125:{"size":"35","color":"grey","sku":"LEON-ALPEN-KOMFORT-176-35-grey","priceCHF":59,"stock":10}
+126:{"size":"36","color":"black","sku":"LEON-ALPEN-KOMFORT-176-36-black","priceCHF":59,"stock":10}
+127:{"size":"36","color":"grey","sku":"LEON-ALPEN-KOMFORT-176-36-grey","priceCHF":59,"stock":10}
+128:{"size":"37","color":"black","sku":"LEON-ALPEN-KOMFORT-176-37-black","priceCHF":59,"stock":10}
+129:{"size":"37","color":"grey","sku":"LEON-ALPEN-KOMFORT-176-37-grey","priceCHF":59,"stock":10}
+12a:{"size":"38","color":"black","sku":"LEON-ALPEN-KOMFORT-176-38-black","priceCHF":59,"stock":10}
+12b:{"size":"38","color":"grey","sku":"LEON-ALPEN-KOMFORT-176-38-grey","priceCHF":59,"stock":10}
+12c:{"size":"39","color":"black","sku":"LEON-ALPEN-KOMFORT-176-39-black","priceCHF":59,"stock":10}
+12d:{"size":"39","color":"grey","sku":"LEON-ALPEN-KOMFORT-176-39-grey","priceCHF":59,"stock":10}
+12e:{"size":"40","color":"black","sku":"LEON-ALPEN-KOMFORT-176-40-black","priceCHF":59,"stock":10}
+12f:{"size":"40","color":"grey","sku":"LEON-ALPEN-KOMFORT-176-40-grey","priceCHF":59,"stock":10}
+130:{"size":"41","color":"black","sku":"LEON-ALPEN-KOMFORT-176-41-black","priceCHF":59,"stock":10}
+131:{"size":"41","color":"grey","sku":"LEON-ALPEN-KOMFORT-176-41-grey","priceCHF":59,"stock":10}
+132:{"size":"42","color":"black","sku":"LEON-ALPEN-KOMFORT-176-42-black","priceCHF":59,"stock":10}
+133:{"size":"42","color":"grey","sku":"LEON-ALPEN-KOMFORT-176-42-grey","priceCHF":59,"stock":10}
+123:["$124","$125","$126","$127","$128","$129","$12a","$12b","$12c","$12d","$12e","$12f","$130","$131","$132","$133"]
+134:["https://cdn.leon.rs/wp-content/uploads/2025/09/Edita-SAMPANJ.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Edita-SAMPANJ-1.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Edita-SAMPANJ-2.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Edita-SAMPANJ-3.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Edita-SAMPANJ-4.jpg"]
+137:{"de":"Obermaterial","fr":"Composition du dessus","en":"Upper material","it":"Tomaia"}
+138:{"de":"Naturleder","fr":"Cuir naturel","en":"Natural leather","it":"Pelle naturale"}
+136:{"label":"$137","value":"$138"}
+13a:{"de":"Fußbett","fr":"Semelle intérieure","en":"Footbed","it":"Plantare"}
+13b:{"de":"Naturleder mit anatomischem Profil und weicher Gel-Innensohle","fr":"Cuir naturel avec bande de roulement anatomique et semelle int�rieure en gel souple","en":"Natural leather with anatomical tread and soft gel insole","it":"Pelle naturale con battistrada anatomico e plantare in morbido gel"}
+139:{"label":"$13a","value":"$13b"}
+13d:{"de":"Laufsohle","fr":"Semelle extérieure","en":"Outsole","it":"Suola"}
+13e:{"de":"Polyurethan","fr":"Polyur�thane","en":"Polyurethane","it":"Poliuretano"}
+13c:{"label":"$13d","value":"$13e"}
+135:["$136","$139","$13c"]
+10c:{"id":"leon-edita-sampanj","slug":"edita-sampanj","category":"women","brand":"leon","name":"$10d","description":"$10e","image":"https://cdn.leon.rs/wp-content/uploads/2025/09/Edita-SAMPANJ.jpg","sizes":"$10f","colors":"$120","variants":"$123","modelGroupId":"leon-mg-edita-4250-women","articleNumber":"4250","colorLabel":"Champagne","images":"$134","specifications":"$135"}
+140:{"de":"Edita – Perle","fr":"Edita – Perle","en":"Edita – Pearl","it":"Edita – Perla"}
+141:{"de":"Anatomischer Clog f�r Damen mit speziell geformtem Profil, Massagegel und Bel�ftungsl�chern. Hergestellt aus nat�rlichem Material � Leder und Polyurethanschaum.","fr":"Sabot anatomique pour femme avec bande de roulement de forme sp�ciale, gel de massage et trous d'a�ration. Fabriqu� en mat�riau naturel - cuir et mousse de polyur�thane.","en":"Women's anatomical clog with a specially shaped tread, massage gel and ventilation holes. Made of natural material - leather, and polyurethane foam.","it":"Zoccolo anatomico da donna con battistrada dalla forma speciale, gel massaggiante e fori di ventilazione. Realizzato in materiale naturale: pelle e schiuma di poliuretano."}
+144:{"de":"35","fr":"35","en":"35","it":"35"}
+143:{"id":"35","label":"$144"}
+146:{"de":"36","fr":"36","en":"36","it":"36"}
+145:{"id":"36","label":"$146"}
+148:{"de":"37","fr":"37","en":"37","it":"37"}
+147:{"id":"37","label":"$148"}
+14a:{"de":"38","fr":"38","en":"38","it":"38"}
+149:{"id":"38","label":"$14a"}
+14c:{"de":"39","fr":"39","en":"39","it":"39"}
+14b:{"id":"39","label":"$14c"}
+14e:{"de":"40","fr":"40","en":"40","it":"40"}
+14d:{"id":"40","label":"$14e"}
+150:{"de":"41","fr":"41","en":"41","it":"41"}
+14f:{"id":"41","label":"$150"}
+152:{"de":"42","fr":"42","en":"42","it":"42"}
+151:{"id":"42","label":"$152"}
+142:["$143","$145","$147","$149","$14b","$14d","$14f","$151"]
+154:{"id":"black","label":"Schwarz","hex":"#111827"}
+155:{"id":"grey","label":"Grau","hex":"#6b7280"}
+153:["$154","$155"]
+157:{"size":"35","color":"black","sku":"LEON-ALPEN-KOMFORT-177-35-black","priceCHF":59,"stock":10}
+158:{"size":"35","color":"grey","sku":"LEON-ALPEN-KOMFORT-177-35-grey","priceCHF":59,"stock":10}
+159:{"size":"36","color":"black","sku":"LEON-ALPEN-KOMFORT-177-36-black","priceCHF":59,"stock":10}
+15a:{"size":"36","color":"grey","sku":"LEON-ALPEN-KOMFORT-177-36-grey","priceCHF":59,"stock":10}
+15b:{"size":"37","color":"black","sku":"LEON-ALPEN-KOMFORT-177-37-black","priceCHF":59,"stock":10}
+15c:{"size":"37","color":"grey","sku":"LEON-ALPEN-KOMFORT-177-37-grey","priceCHF":59,"stock":10}
+15d:{"size":"38","color":"black","sku":"LEON-ALPEN-KOMFORT-177-38-black","priceCHF":59,"stock":10}
+15e:{"size":"38","color":"grey","sku":"LEON-ALPEN-KOMFORT-177-38-grey","priceCHF":59,"stock":10}
+15f:{"size":"39","color":"black","sku":"LEON-ALPEN-KOMFORT-177-39-black","priceCHF":59,"stock":10}
+160:{"size":"39","color":"grey","sku":"LEON-ALPEN-KOMFORT-177-39-grey","priceCHF":59,"stock":10}
+161:{"size":"40","color":"black","sku":"LEON-ALPEN-KOMFORT-177-40-black","priceCHF":59,"stock":10}
+162:{"size":"40","color":"grey","sku":"LEON-ALPEN-KOMFORT-177-40-grey","priceCHF":59,"stock":10}
+163:{"size":"41","color":"black","sku":"LEON-ALPEN-KOMFORT-177-41-black","priceCHF":59,"stock":10}
+164:{"size":"41","color":"grey","sku":"LEON-ALPEN-KOMFORT-177-41-grey","priceCHF":59,"stock":10}
+165:{"size":"42","color":"black","sku":"LEON-ALPEN-KOMFORT-177-42-black","priceCHF":59,"stock":10}
+166:{"size":"42","color":"grey","sku":"LEON-ALPEN-KOMFORT-177-42-grey","priceCHF":59,"stock":10}
+156:["$157","$158","$159","$15a","$15b","$15c","$15d","$15e","$15f","$160","$161","$162","$163","$164","$165","$166"]
+167:["https://cdn.leon.rs/wp-content/uploads/2025/09/Edita-PERLA.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Edita-PERLA-1.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Edita-PERLA-2.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Edita-PERLA-3.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Edita-PERLA-4.jpg"]
+16a:{"de":"Obermaterial","fr":"Composition du dessus","en":"Upper material","it":"Tomaia"}
+16b:{"de":"Naturleder","fr":"Cuir naturel","en":"Natural leather","it":"Pelle naturale"}
+169:{"label":"$16a","value":"$16b"}
+16d:{"de":"Fußbett","fr":"Semelle intérieure","en":"Footbed","it":"Plantare"}
+16e:{"de":"Naturleder mit anatomischem Profil und weicher Gel-Innensohle","fr":"Cuir naturel avec bande de roulement anatomique et semelle int�rieure en gel souple","en":"Natural leather with anatomical tread and soft gel insole","it":"Pelle naturale con battistrada anatomico e plantare in morbido gel"}
+16c:{"label":"$16d","value":"$16e"}
+170:{"de":"Laufsohle","fr":"Semelle extérieure","en":"Outsole","it":"Suola"}
+171:{"de":"Polyurethan","fr":"Polyur�thane","en":"Polyurethane","it":"Poliuretano"}
+16f:{"label":"$170","value":"$171"}
+168:["$169","$16c","$16f"]
+13f:{"id":"leon-edita-perla","slug":"edita-perla","category":"women","brand":"leon","name":"$140","description":"$141","image":"https://cdn.leon.rs/wp-content/uploads/2025/09/Edita-PERLA.jpg","sizes":"$142","colors":"$153","variants":"$156","modelGroupId":"leon-mg-edita-4250-women","articleNumber":"4250","colorLabel":"Pearl","images":"$167","specifications":"$168"}
+173:{"de":"Edita – Mint","fr":"Edita – Menthe","en":"Edita – Mint","it":"Edita – Menta"}
+174:{"de":"Anatomischer Clog f�r Damen mit speziell geformtem Profil, Massagegel und Bel�ftungsl�chern. Hergestellt aus nat�rlichem Material � Leder und Polyurethanschaum.","fr":"Sabot anatomique pour femme avec bande de roulement de forme sp�ciale, gel de massage et trous d'a�ration. Fabriqu� en mat�riau naturel - cuir et mousse de polyur�thane.","en":"Women's anatomical clog with a specially shaped tread, massage gel and ventilation holes. Made of natural material - leather, and polyurethane foam.","it":"Zoccolo anatomico da donna con battistrada dalla forma speciale, gel massaggiante e fori di ventilazione. Realizzato in materiale naturale: pelle e schiuma di poliuretano."}
+177:{"de":"35","fr":"35","en":"35","it":"35"}
+176:{"id":"35","label":"$177"}
+179:{"de":"36","fr":"36","en":"36","it":"36"}
+178:{"id":"36","label":"$179"}
+17b:{"de":"37","fr":"37","en":"37","it":"37"}
+17a:{"id":"37","label":"$17b"}
+17d:{"de":"38","fr":"38","en":"38","it":"38"}
+17c:{"id":"38","label":"$17d"}
+17f:{"de":"39","fr":"39","en":"39","it":"39"}
+17e:{"id":"39","label":"$17f"}
+181:{"de":"40","fr":"40","en":"40","it":"40"}
+180:{"id":"40","label":"$181"}
+183:{"de":"41","fr":"41","en":"41","it":"41"}
+182:{"id":"41","label":"$183"}
+185:{"de":"42","fr":"42","en":"42","it":"42"}
+184:{"id":"42","label":"$185"}
+175:["$176","$178","$17a","$17c","$17e","$180","$182","$184"]
+187:{"id":"black","label":"Schwarz","hex":"#111827"}
+188:{"id":"grey","label":"Grau","hex":"#6b7280"}
+186:["$187","$188"]
+18a:{"size":"35","color":"black","sku":"LEON-ALPEN-KOMFORT-180-35-black","priceCHF":59,"stock":10}
+18b:{"size":"35","color":"grey","sku":"LEON-ALPEN-KOMFORT-180-35-grey","priceCHF":59,"stock":10}
+18c:{"size":"36","color":"black","sku":"LEON-ALPEN-KOMFORT-180-36-black","priceCHF":59,"stock":10}
+18d:{"size":"36","color":"grey","sku":"LEON-ALPEN-KOMFORT-180-36-grey","priceCHF":59,"stock":10}
+18e:{"size":"37","color":"black","sku":"LEON-ALPEN-KOMFORT-180-37-black","priceCHF":59,"stock":10}
+18f:{"size":"37","color":"grey","sku":"LEON-ALPEN-KOMFORT-180-37-grey","priceCHF":59,"stock":10}
+190:{"size":"38","color":"black","sku":"LEON-ALPEN-KOMFORT-180-38-black","priceCHF":59,"stock":10}
+191:{"size":"38","color":"grey","sku":"LEON-ALPEN-KOMFORT-180-38-grey","priceCHF":59,"stock":10}
+192:{"size":"39","color":"black","sku":"LEON-ALPEN-KOMFORT-180-39-black","priceCHF":59,"stock":10}
+193:{"size":"39","color":"grey","sku":"LEON-ALPEN-KOMFORT-180-39-grey","priceCHF":59,"stock":10}
+194:{"size":"40","color":"black","sku":"LEON-ALPEN-KOMFORT-180-40-black","priceCHF":59,"stock":10}
+195:{"size":"40","color":"grey","sku":"LEON-ALPEN-KOMFORT-180-40-grey","priceCHF":59,"stock":10}
+196:{"size":"41","color":"black","sku":"LEON-ALPEN-KOMFORT-180-41-black","priceCHF":59,"stock":10}
+197:{"size":"41","color":"grey","sku":"LEON-ALPEN-KOMFORT-180-41-grey","priceCHF":59,"stock":10}
+198:{"size":"42","color":"black","sku":"LEON-ALPEN-KOMFORT-180-42-black","priceCHF":59,"stock":10}
+199:{"size":"42","color":"grey","sku":"LEON-ALPEN-KOMFORT-180-42-grey","priceCHF":59,"stock":10}
+189:["$18a","$18b","$18c","$18d","$18e","$18f","$190","$191","$192","$193","$194","$195","$196","$197","$198","$199"]
+19a:["https://cdn.leon.rs/wp-content/uploads/2025/09/Edita-MINT.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Edita-MINT-1.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Edita-MINT-2.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Edita-MINT-3.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Edita-MINT-4.jpg"]
+19d:{"de":"Obermaterial","fr":"Composition du dessus","en":"Upper material","it":"Tomaia"}
+19e:{"de":"Naturleder","fr":"Cuir naturel","en":"Natural leather","it":"Pelle naturale"}
+19c:{"label":"$19d","value":"$19e"}
+1a0:{"de":"Fußbett","fr":"Semelle intérieure","en":"Footbed","it":"Plantare"}
+1a1:{"de":"Naturleder mit anatomischem Profil und weicher Gel-Innensohle","fr":"Cuir naturel avec bande de roulement anatomique et semelle int�rieure en gel souple","en":"Natural leather with anatomical tread and soft gel insole","it":"Pelle naturale con battistrada anatomico e plantare in morbido gel"}
+19f:{"label":"$1a0","value":"$1a1"}
+1a3:{"de":"Laufsohle","fr":"Semelle extérieure","en":"Outsole","it":"Suola"}
+1a4:{"de":"Polyurethan","fr":"Polyur�thane","en":"Polyurethane","it":"Poliuretano"}
+1a2:{"label":"$1a3","value":"$1a4"}
+19b:["$19c","$19f","$1a2"]
+172:{"id":"leon-edita-mint","slug":"edita-mint","category":"women","brand":"leon","name":"$173","description":"$174","image":"https://cdn.leon.rs/wp-content/uploads/2025/09/Edita-MINT.jpg","sizes":"$175","colors":"$186","variants":"$189","modelGroupId":"leon-mg-edita-4250-women","articleNumber":"4250","colorLabel":"Mint","images":"$19a","specifications":"$19b"}
+1a6:{"de":"Edita – Schwarz","fr":"Edita – Noir","en":"Edita – Black","it":"Edita – Nero"}
+1a7:{"de":"Anatomischer Clog f�r Damen mit speziell geformtem Profil, Massagegel und Bel�ftungsl�chern. Hergestellt aus nat�rlichem Material � Leder und Polyurethanschaum.","fr":"Sabot anatomique pour femme avec bande de roulement de forme sp�ciale, gel de massage et trous d'a�ration. Fabriqu� en mat�riau naturel - cuir et mousse de polyur�thane.","en":"Women's anatomical clog with a specially shaped tread, massage gel and ventilation holes. Made of natural material - leather, and polyurethane foam.","it":"Zoccolo anatomico da donna con battistrada dalla forma speciale, gel massaggiante e fori di ventilazione. Realizzato in materiale naturale: pelle e schiuma di poliuretano."}
+1aa:{"de":"35","fr":"35","en":"35","it":"35"}
+1a9:{"id":"35","label":"$1aa"}
+1ac:{"de":"36","fr":"36","en":"36","it":"36"}
+1ab:{"id":"36","label":"$1ac"}
+1ae:{"de":"37","fr":"37","en":"37","it":"37"}
+1ad:{"id":"37","label":"$1ae"}
+1b0:{"de":"38","fr":"38","en":"38","it":"38"}
+1af:{"id":"38","label":"$1b0"}
+1b2:{"de":"39","fr":"39","en":"39","it":"39"}
+1b1:{"id":"39","label":"$1b2"}
+1b4:{"de":"40","fr":"40","en":"40","it":"40"}
+1b3:{"id":"40","label":"$1b4"}
+1b6:{"de":"41","fr":"41","en":"41","it":"41"}
+1b5:{"id":"41","label":"$1b6"}
+1b8:{"de":"42","fr":"42","en":"42","it":"42"}
+1b7:{"id":"42","label":"$1b8"}
+1a8:["$1a9","$1ab","$1ad","$1af","$1b1","$1b3","$1b5","$1b7"]
+1ba:{"id":"black","label":"Schwarz","hex":"#111827"}
+1bb:{"id":"grey","label":"Grau","hex":"#6b7280"}
+1b9:["$1ba","$1bb"]
+1bd:{"size":"35","color":"black","sku":"LEON-ALPEN-KOMFORT-178-35-black","priceCHF":59,"stock":10}
+1be:{"size":"35","color":"grey","sku":"LEON-ALPEN-KOMFORT-178-35-grey","priceCHF":59,"stock":10}
+1bf:{"size":"36","color":"black","sku":"LEON-ALPEN-KOMFORT-178-36-black","priceCHF":59,"stock":10}
+1c0:{"size":"36","color":"grey","sku":"LEON-ALPEN-KOMFORT-178-36-grey","priceCHF":59,"stock":10}
+1c1:{"size":"37","color":"black","sku":"LEON-ALPEN-KOMFORT-178-37-black","priceCHF":59,"stock":10}
+1c2:{"size":"37","color":"grey","sku":"LEON-ALPEN-KOMFORT-178-37-grey","priceCHF":59,"stock":10}
+1c3:{"size":"38","color":"black","sku":"LEON-ALPEN-KOMFORT-178-38-black","priceCHF":59,"stock":10}
+1c4:{"size":"38","color":"grey","sku":"LEON-ALPEN-KOMFORT-178-38-grey","priceCHF":59,"stock":10}
+1c5:{"size":"39","color":"black","sku":"LEON-ALPEN-KOMFORT-178-39-black","priceCHF":59,"stock":10}
+1c6:{"size":"39","color":"grey","sku":"LEON-ALPEN-KOMFORT-178-39-grey","priceCHF":59,"stock":10}
+1c7:{"size":"40","color":"black","sku":"LEON-ALPEN-KOMFORT-178-40-black","priceCHF":59,"stock":10}
+1c8:{"size":"40","color":"grey","sku":"LEON-ALPEN-KOMFORT-178-40-grey","priceCHF":59,"stock":10}
+1c9:{"size":"41","color":"black","sku":"LEON-ALPEN-KOMFORT-178-41-black","priceCHF":59,"stock":10}
+1ca:{"size":"41","color":"grey","sku":"LEON-ALPEN-KOMFORT-178-41-grey","priceCHF":59,"stock":10}
+1cb:{"size":"42","color":"black","sku":"LEON-ALPEN-KOMFORT-178-42-black","priceCHF":59,"stock":10}
+1cc:{"size":"42","color":"grey","sku":"LEON-ALPEN-KOMFORT-178-42-grey","priceCHF":59,"stock":10}
+1bc:["$1bd","$1be","$1bf","$1c0","$1c1","$1c2","$1c3","$1c4","$1c5","$1c6","$1c7","$1c8","$1c9","$1ca","$1cb","$1cc"]
+1cd:["https://cdn.leon.rs/wp-content/uploads/2025/09/Edita-CRNA.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Edita-CRNA-1.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Edita-CRNA-2.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Edita-CRNA-3.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Edita-CRNA-4.jpg"]
+1d0:{"de":"Obermaterial","fr":"Composition du dessus","en":"Upper material","it":"Tomaia"}
+1d1:{"de":"Naturleder","fr":"Cuir naturel","en":"Natural leather","it":"Pelle naturale"}
+1cf:{"label":"$1d0","value":"$1d1"}
+1d3:{"de":"Fußbett","fr":"Semelle intérieure","en":"Footbed","it":"Plantare"}
+1d4:{"de":"Naturleder mit anatomischem Profil und weicher Gel-Innensohle","fr":"Cuir naturel avec bande de roulement anatomique et semelle int�rieure en gel souple","en":"Natural leather with anatomical tread and soft gel insole","it":"Pelle naturale con battistrada anatomico e plantare in morbido gel"}
+1d2:{"label":"$1d3","value":"$1d4"}
+1d6:{"de":"Laufsohle","fr":"Semelle extérieure","en":"Outsole","it":"Suola"}
+1d7:{"de":"Polyurethan","fr":"Polyur�thane","en":"Polyurethane","it":"Poliuretano"}
+1d5:{"label":"$1d6","value":"$1d7"}
+1ce:["$1cf","$1d2","$1d5"]
+1a5:{"id":"leon-edita-crna","slug":"edita-crna","category":"women","brand":"leon","name":"$1a6","description":"$1a7","image":"https://cdn.leon.rs/wp-content/uploads/2025/09/Edita-CRNA.jpg","sizes":"$1a8","colors":"$1b9","variants":"$1bc","modelGroupId":"leon-mg-edita-4250-women","articleNumber":"4250","colorLabel":"Black","images":"$1cd","specifications":"$1ce"}
+1d9:{"de":"Edita – Weiß","fr":"Edita – Blanc","en":"Edita – White","it":"Edita – Bianco"}
+1da:{"de":"Anatomischer Clog f�r Damen mit speziell geformtem Profil, Massagegel und Bel�ftungsl�chern. Hergestellt aus nat�rlichem Material � Leder und Polyurethanschaum.","fr":"Sabot anatomique pour femme avec bande de roulement de forme sp�ciale, gel de massage et trous d'a�ration. Fabriqu� en mat�riau naturel - cuir et mousse de polyur�thane.","en":"Women's anatomical clog with a specially shaped tread, massage gel and ventilation holes. Made of natural material - leather, and polyurethane foam.","it":"Zoccolo anatomico da donna con battistrada dalla forma speciale, gel massaggiante e fori di ventilazione. Realizzato in materiale naturale: pelle e schiuma di poliuretano."}
+1dd:{"de":"35","fr":"35","en":"35","it":"35"}
+1dc:{"id":"35","label":"$1dd"}
+1df:{"de":"36","fr":"36","en":"36","it":"36"}
+1de:{"id":"36","label":"$1df"}
+1e1:{"de":"37","fr":"37","en":"37","it":"37"}
+1e0:{"id":"37","label":"$1e1"}
+1e3:{"de":"38","fr":"38","en":"38","it":"38"}
+1e2:{"id":"38","label":"$1e3"}
+1e5:{"de":"39","fr":"39","en":"39","it":"39"}
+1e4:{"id":"39","label":"$1e5"}
+1e7:{"de":"40","fr":"40","en":"40","it":"40"}
+1e6:{"id":"40","label":"$1e7"}
+1e9:{"de":"41","fr":"41","en":"41","it":"41"}
+1e8:{"id":"41","label":"$1e9"}
+1eb:{"de":"42","fr":"42","en":"42","it":"42"}
+1ea:{"id":"42","label":"$1eb"}
+1db:["$1dc","$1de","$1e0","$1e2","$1e4","$1e6","$1e8","$1ea"]
+1ed:{"id":"black","label":"Schwarz","hex":"#111827"}
+1ee:{"id":"grey","label":"Grau","hex":"#6b7280"}
+1ec:["$1ed","$1ee"]
+1f0:{"size":"35","color":"black","sku":"LEON-ALPEN-KOMFORT-179-35-black","priceCHF":59,"stock":10}
+1f1:{"size":"35","color":"grey","sku":"LEON-ALPEN-KOMFORT-179-35-grey","priceCHF":59,"stock":10}
+1f2:{"size":"36","color":"black","sku":"LEON-ALPEN-KOMFORT-179-36-black","priceCHF":59,"stock":10}
+1f3:{"size":"36","color":"grey","sku":"LEON-ALPEN-KOMFORT-179-36-grey","priceCHF":59,"stock":10}
+1f4:{"size":"37","color":"black","sku":"LEON-ALPEN-KOMFORT-179-37-black","priceCHF":59,"stock":10}
+1f5:{"size":"37","color":"grey","sku":"LEON-ALPEN-KOMFORT-179-37-grey","priceCHF":59,"stock":10}
+1f6:{"size":"38","color":"black","sku":"LEON-ALPEN-KOMFORT-179-38-black","priceCHF":59,"stock":10}
+1f7:{"size":"38","color":"grey","sku":"LEON-ALPEN-KOMFORT-179-38-grey","priceCHF":59,"stock":10}
+1f8:{"size":"39","color":"black","sku":"LEON-ALPEN-KOMFORT-179-39-black","priceCHF":59,"stock":10}
+1f9:{"size":"39","color":"grey","sku":"LEON-ALPEN-KOMFORT-179-39-grey","priceCHF":59,"stock":10}
+1fa:{"size":"40","color":"black","sku":"LEON-ALPEN-KOMFORT-179-40-black","priceCHF":59,"stock":10}
+1fb:{"size":"40","color":"grey","sku":"LEON-ALPEN-KOMFORT-179-40-grey","priceCHF":59,"stock":10}
+1fc:{"size":"41","color":"black","sku":"LEON-ALPEN-KOMFORT-179-41-black","priceCHF":59,"stock":10}
+1fd:{"size":"41","color":"grey","sku":"LEON-ALPEN-KOMFORT-179-41-grey","priceCHF":59,"stock":10}
+1fe:{"size":"42","color":"black","sku":"LEON-ALPEN-KOMFORT-179-42-black","priceCHF":59,"stock":10}
+1ff:{"size":"42","color":"grey","sku":"LEON-ALPEN-KOMFORT-179-42-grey","priceCHF":59,"stock":10}
+1ef:["$1f0","$1f1","$1f2","$1f3","$1f4","$1f5","$1f6","$1f7","$1f8","$1f9","$1fa","$1fb","$1fc","$1fd","$1fe","$1ff"]
+200:["https://cdn.leon.rs/wp-content/uploads/2025/09/Edita-BELA.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Edita-BELA-1.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Edita-BELA-2.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Edita-BELA-3.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Edita-BELA-4.jpg"]
+203:{"de":"Obermaterial","fr":"Composition du dessus","en":"Upper material","it":"Tomaia"}
+204:{"de":"Naturleder","fr":"Cuir naturel","en":"Natural leather","it":"Pelle naturale"}
+202:{"label":"$203","value":"$204"}
+206:{"de":"Fußbett","fr":"Semelle intérieure","en":"Footbed","it":"Plantare"}
+207:{"de":"Naturleder mit anatomischem Profil und weicher Gel-Innensohle","fr":"Cuir naturel avec bande de roulement anatomique et semelle int�rieure en gel souple","en":"Natural leather with anatomical tread and soft gel insole","it":"Pelle naturale con battistrada anatomico e plantare in morbido gel"}
+205:{"label":"$206","value":"$207"}
+209:{"de":"Laufsohle","fr":"Semelle extérieure","en":"Outsole","it":"Suola"}
+20a:{"de":"Polyurethan","fr":"Polyur�thane","en":"Polyurethane","it":"Poliuretano"}
+208:{"label":"$209","value":"$20a"}
+201:["$202","$205","$208"]
+1d8:{"id":"leon-edita-bela","slug":"edita-bela","category":"women","brand":"leon","name":"$1d9","description":"$1da","image":"https://cdn.leon.rs/wp-content/uploads/2025/09/Edita-BELA.jpg","sizes":"$1db","colors":"$1ec","variants":"$1ef","modelGroupId":"leon-mg-edita-4250-women","articleNumber":"4250","colorLabel":"White","images":"$200","specifications":"$201"}
+3f:["$40","$73","$a6","$d9","$d","$10c","$13f","$172","$1a5","$1d8"]
+2:["$","div",null,{"className":"mx-auto max-w-6xl px-4 py-10","children":[["$","div",null,{"className":"grid gap-10 md:grid-cols-2","children":[["$","$L9",null,{"images":["https://cdn.leon.rs/wp-content/uploads/2025/09/Edita-TEGET.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Edita-TEGET-1.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Edita-TEGET-2.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Edita-TEGET-3.jpg"],"alt":"Edita – Antracite"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-2xl font-bold text-neutral-900 md:text-3xl","children":"Edita – Antracite"}],["$","p",null,{"className":"mt-2 text-sm text-neutral-600","children":[["$","span",null,{"className":"font-medium text-neutral-500","children":["Cod.",":"]}]," ",["$","span",null,{"className":"font-mono font-semibold tracking-wide text-neutral-900","children":"4250 · Charcoal"}]]}],["$","p",null,{"className":"mt-4 text-neutral-600","children":"Zoccolo anatomico da donna con battistrada dalla forma speciale, gel massaggiante e fori di ventilazione. Realizzato in materiale naturale: pelle e schiuma di poliuretano."}],["$","p",null,{"className":"mt-4 text-lg font-semibold text-red-600","children":"CHF 59.00"}],["$","$La",null,{"locale":"it","currentSlug":"edita-teget","siblings":[{"id":"leon-edita-orlando-roza","slug":"edita-orlando-roza","category":"women","brand":"leon","name":{"de":"Edita Orlando Roza – Rosa Lack","fr":"Edita Orlando Roza – Rose verni","en":"Edita Orlando Roza – Pink patent","it":"Edita Orlando Roza – Rosa verniciato"},"description":{"de":"Anatomischer Clog f�r Damen mit speziell geformtem Profil, Massagegel und Bel�ftungsl�chern. Hergestellt aus nat�rlichem Material � Leder und Polyurethanschaum.","fr":"Sabot anatomique pour femme avec bande de roulement de forme sp�ciale, gel de massage et trous d'a�ration. Fabriqu� en mat�riau naturel - cuir et mousse de polyur�thane.","en":"Women's anatomical clog with a specially shaped tread, massage gel and ventilation holes. Made of natural material - leather, and polyurethane foam.","it":"Zoccolo anatomico da donna con battistrada dalla forma speciale, gel massaggiante e fori di ventilazione. Realizzato in materiale naturale: pelle e schiuma di poliuretano."},"image":"https://cdn.leon.rs/wp-content/uploads/2025/09/4250-RozeOrlandoNova1.jpg","sizes":[{"id":"35","label":{"de":"35","fr":"35","en":"35","it":"35"}},{"id":"36","label":{"de":"36","fr":"36","en":"36","it":"36"}},{"id":"37","label":{"de":"37","fr":"37","en":"37","it":"37"}},{"id":"38","label":{"de":"38","fr":"38","en":"38","it":"38"}},{"id":"39","label":{"de":"39","fr":"39","en":"39","it":"39"}},{"id":"40","label":{"de":"40","fr":"40","en":"40","it":"40"}},{"id":"41","label":{"de":"41","fr":"41","en":"41","it":"41"}},{"id":"42","label":{"de":"42","fr":"42","en":"42","it":"42"}}],"colors":[{"id":"black","label":"Schwarz","hex":"#111827"},{"id":"grey","label":"Grau","hex":"#6b7280"}],"variants":[{"size":"35","color":"black","sku":"LEON-ALPEN-KOMFORT-161-35-black","priceCHF":59,"stock":10},{"size":"35","color":"grey","sku":"LEON-ALPEN-KOMFORT-161-35-grey","priceCHF":59,"stock":10},{"size":"36","color":"black","sku":"LEON-ALPEN-KOMFORT-161-36-black","priceCHF":59,"stock":10},{"size":"36","color":"grey","sku":"LEON-ALPEN-KOMFORT-161-36-grey","priceCHF":59,"stock":10},{"size":"37","color":"black","sku":"LEON-ALPEN-KOMFORT-161-37-black","priceCHF":59,"stock":10},{"size":"37","color":"grey","sku":"LEON-ALPEN-KOMFORT-161-37-grey","priceCHF":59,"stock":10},{"size":"38","color":"black","sku":"LEON-ALPEN-KOMFORT-161-38-black","priceCHF":59,"stock":10},{"size":"38","color":"grey","sku":"LEON-ALPEN-KOMFORT-161-38-grey","priceCHF":59,"stock":10},{"size":"39","color":"black","sku":"LEON-ALPEN-KOMFORT-161-39-black","priceCHF":59,"stock":10},{"size":"39","color":"grey","sku":"LEON-ALPEN-KOMFORT-161-39-grey","priceCHF":59,"stock":10},{"size":"40","color":"black","sku":"LEON-ALPEN-KOMFORT-161-40-black","priceCHF":59,"stock":10},{"size":"40","color":"grey","sku":"LEON-ALPEN-KOMFORT-161-40-grey","priceCHF":59,"stock":10},{"size":"41","color":"black","sku":"LEON-ALPEN-KOMFORT-161-41-black","priceCHF":59,"stock":10},{"size":"41","color":"grey","sku":"LEON-ALPEN-KOMFORT-161-41-grey","priceCHF":59,"stock":10},{"size":"42","color":"black","sku":"LEON-ALPEN-KOMFORT-161-42-black","priceCHF":59,"stock":10},{"size":"42","color":"grey","sku":"LEON-ALPEN-KOMFORT-161-42-grey","priceCHF":59,"stock":10}],"articleNumber":"4250","colorLabel":"Pink patent","images":["https://cdn.leon.rs/wp-content/uploads/2025/09/4250-RozeOrlandoNova1.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/4250-RozeOrlandoNova2.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/4250-RozeOrlandoNova3.jpg"],"modelGroupId":"leon-mg-edita-4250-women","specifications":[{"label":{"de":"Obermaterial","fr":"Composition du dessus","en":"Upper material","it":"Tomaia"},"value":{"de":"Naturleder","fr":"Cuir naturel","en":"Natural leather","it":"Pelle naturale"}},{"label":{"de":"Fußbett","fr":"Semelle intérieure","en":"Footbed","it":"Plantare"},"value":{"de":"Naturleder mit anatomischem Profil und weicher Gel-Innensohle","fr":"Cuir naturel avec bande de roulement anatomique et semelle int�rieure en gel souple","en":"Natural leather with anatomical tread and soft gel insole","it":"Pelle naturale con battistrada anatomico e plantare in morbido gel"}},{"label":{"de":"Laufsohle","fr":"Semelle extérieure","en":"Outsole","it":"Suola"},"value":{"de":"Polyurethan","fr":"Polyur�thane","en":"Polyurethane","it":"Poliuretano"}}]},{"id":"leon-edita-orlando-braon","slug":"edita-orlando-braon","category":"women","brand":"leon","name":{"de":"Edita Orlando Braon – Braun Lack","fr":"Edita Orlando Braon – Marron Verni","en":"Edita Orlando Braon – Brown Patent","it":"Edita Orlando Braon – Marrone Vernice"},"description":{"de":"Anatomischer Clog f�r Damen mit speziell geformtem Profil, Massagegel und Bel�ftungsl�chern. Hergestellt aus nat�rlichem Material � Leder und Polyurethanschaum.","fr":"Sabot anatomique pour femme avec bande de roulement de forme sp�ciale, gel de massage et trous d'a�ration. Fabriqu� en mat�riau naturel - cuir et mousse de polyur�thane.","en":"Women's anatomical clog with a specially shaped tread, massage gel and ventilation holes. Made of natural material - leather, and polyurethane foam.","it":"Zoccolo anatomico da donna con battistrada dalla forma speciale, gel massaggiante e fori di ventilazione. Realizzato in materiale naturale: pelle e schiuma di poliuretano."},"image":"https://cdn.leon.rs/wp-content/uploads/2025/09/4250-BraonOrlandoNova1.jpg","sizes":[{"id":"35","label":{"de":"35","fr":"35","en":"35","it":"35"}},{"id":"36","label":{"de":"36","fr":"36","en":"36","it":"36"}},{"id":"37","label":{"de":"37","fr":"37","en":"37","it":"37"}},{"id":"38","label":{"de":"38","fr":"38","en":"38","it":"38"}},{"id":"39","label":{"de":"39","fr":"39","en":"39","it":"39"}},{"id":"40","label":{"de":"40","fr":"40","en":"40","it":"40"}},{"id":"41","label":{"de":"41","fr":"41","en":"41","it":"41"}},{"id":"42","label":{"de":"42","fr":"42","en":"42","it":"42"}}],"colors":[{"id":"black","label":"Schwarz","hex":"#111827"},{"id":"grey","label":"Grau","hex":"#6b7280"}],"variants":[{"size":"35","color":"black","sku":"LEON-ALPEN-KOMFORT-162-35-black","priceCHF":59,"stock":10},{"size":"35","color":"grey","sku":"LEON-ALPEN-KOMFORT-162-35-grey","priceCHF":59,"stock":10},{"size":"36","color":"black","sku":"LEON-ALPEN-KOMFORT-162-36-black","priceCHF":59,"stock":10},{"size":"36","color":"grey","sku":"LEON-ALPEN-KOMFORT-162-36-grey","priceCHF":59,"stock":10},{"size":"37","color":"black","sku":"LEON-ALPEN-KOMFORT-162-37-black","priceCHF":59,"stock":10},{"size":"37","color":"grey","sku":"LEON-ALPEN-KOMFORT-162-37-grey","priceCHF":59,"stock":10},{"size":"38","color":"black","sku":"LEON-ALPEN-KOMFORT-162-38-black","priceCHF":59,"stock":10},{"size":"38","color":"grey","sku":"LEON-ALPEN-KOMFORT-162-38-grey","priceCHF":59,"stock":10},{"size":"39","color":"black","sku":"LEON-ALPEN-KOMFORT-162-39-black","priceCHF":59,"stock":10},{"size":"39","color":"grey","sku":"LEON-ALPEN-KOMFORT-162-39-grey","priceCHF":59,"stock":10},{"size":"40","color":"black","sku":"LEON-ALPEN-KOMFORT-162-40-black","priceCHF":59,"stock":10},{"size":"40","color":"grey","sku":"LEON-ALPEN-KOMFORT-162-40-grey","priceCHF":59,"stock":10},{"size":"41","color":"black","sku":"LEON-ALPEN-KOMFORT-162-41-black","priceCHF":59,"stock":10},{"size":"41","color":"grey","sku":"LEON-ALPEN-KOMFORT-162-41-grey","priceCHF":59,"stock":10},{"size":"42","color":"black","sku":"LEON-ALPEN-KOMFORT-162-42-black","priceCHF":59,"stock":10},{"size":"42","color":"grey","sku":"LEON-ALPEN-KOMFORT-162-42-grey","priceCHF":59,"stock":10}],"articleNumber":"4250","colorLabel":"Brown Patent","images":["https://cdn.leon.rs/wp-content/uploads/2025/09/4250-BraonOrlandoNova1.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/4250-BraonOrlandoNova2.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/4250-BraonOrlandoNova3.jpg"],"modelGroupId":"leon-mg-edita-4250-women","specifications":[{"label":{"de":"Obermaterial","fr":"Composition du dessus","en":"Upper material","it":"Tomaia"},"value":{"de":"Naturleder","fr":"Cuir naturel","en":"Natural leather","it":"Pelle naturale"}},{"label":{"de":"Fußbett","fr":"Semelle intérieure","en":"Footbed","it":"Plantare"},"value":{"de":"Naturleder mit anatomischem Profil und weicher Gel-Innensohle","fr":"Cuir naturel avec bande de roulement anatomique et semelle int�rieure en gel souple","en":"Natural leather with anatomical tread and soft gel insole","it":"Pelle naturale con battistrada anatomico e plantare in morbido gel"}},{"label":{"de":"Laufsohle","fr":"Semelle extérieure","en":"Outsole","it":"Suola"},"value":{"de":"Polyurethan","fr":"Polyur�thane","en":"Polyurethane","it":"Poliuretano"}}]},{"id":"leon-edita-orlando-bez","slug":"edita-orlando-bez","category":"women","brand":"leon","name":{"de":"Edita Orlando Bez – Beige Lack","fr":"Edita Orlando Bez – Beige Verni","en":"Edita Orlando Bez – Beige Patent","it":"Edita Orlando Bez – Beige Vernice"},"description":{"de":"Anatomischer Clog f�r Damen mit speziell geformtem Profil, Massagegel und Bel�ftungsl�chern. Hergestellt aus nat�rlichem Material � Leder und Polyurethanschaum.","fr":"Sabot anatomique pour femme avec bande de roulement de forme sp�ciale, gel de massage et trous d'a�ration. Fabriqu� en mat�riau naturel - cuir et mousse de polyur�thane.","en":"Women's anatomical clog with a specially shaped tread, massage gel and ventilation holes. Made of natural material - leather, and polyurethane foam.","it":"Zoccolo anatomico da donna con battistrada dalla forma speciale, gel massaggiante e fori di ventilazione. Realizzato in materiale naturale: pelle e schiuma di poliuretano."},"image":"https://cdn.leon.rs/wp-content/uploads/2025/09/4250-BezOrlandoNova1.jpg","sizes":[{"id":"35","label":{"de":"35","fr":"35","en":"35","it":"35"}},{"id":"36","label":{"de":"36","fr":"36","en":"36","it":"36"}},{"id":"37","label":{"de":"37","fr":"37","en":"37","it":"37"}},{"id":"38","label":{"de":"38","fr":"38","en":"38","it":"38"}},{"id":"39","label":{"de":"39","fr":"39","en":"39","it":"39"}},{"id":"40","label":{"de":"40","fr":"40","en":"40","it":"40"}},{"id":"41","label":{"de":"41","fr":"41","en":"41","it":"41"}},{"id":"42","label":{"de":"42","fr":"42","en":"42","it":"42"}}],"colors":[{"id":"black","label":"Schwarz","hex":"#111827"},{"id":"grey","label":"Grau","hex":"#6b7280"}],"variants":[{"size":"35","color":"black","sku":"LEON-ALPEN-KOMFORT-164-35-black","priceCHF":59,"stock":10},{"size":"35","color":"grey","sku":"LEON-ALPEN-KOMFORT-164-35-grey","priceCHF":59,"stock":10},{"size":"36","color":"black","sku":"LEON-ALPEN-KOMFORT-164-36-black","priceCHF":59,"stock":10},{"size":"36","color":"grey","sku":"LEON-ALPEN-KOMFORT-164-36-grey","priceCHF":59,"stock":10},{"size":"37","color":"black","sku":"LEON-ALPEN-KOMFORT-164-37-black","priceCHF":59,"stock":10},{"size":"37","color":"grey","sku":"LEON-ALPEN-KOMFORT-164-37-grey","priceCHF":59,"stock":10},{"size":"38","color":"black","sku":"LEON-ALPEN-KOMFORT-164-38-black","priceCHF":59,"stock":10},{"size":"38","color":"grey","sku":"LEON-ALPEN-KOMFORT-164-38-grey","priceCHF":59,"stock":10},{"size":"39","color":"black","sku":"LEON-ALPEN-KOMFORT-164-39-black","priceCHF":59,"stock":10},{"size":"39","color":"grey","sku":"LEON-ALPEN-KOMFORT-164-39-grey","priceCHF":59,"stock":10},{"size":"40","color":"black","sku":"LEON-ALPEN-KOMFORT-164-40-black","priceCHF":59,"stock":10},{"size":"40","color":"grey","sku":"LEON-ALPEN-KOMFORT-164-40-grey","priceCHF":59,"stock":10},{"size":"41","color":"black","sku":"LEON-ALPEN-KOMFORT-164-41-black","priceCHF":59,"stock":10},{"size":"41","color":"grey","sku":"LEON-ALPEN-KOMFORT-164-41-grey","priceCHF":59,"stock":10},{"size":"42","color":"black","sku":"LEON-ALPEN-KOMFORT-164-42-black","priceCHF":59,"stock":10},{"size":"42","color":"grey","sku":"LEON-ALPEN-KOMFORT-164-42-grey","priceCHF":59,"stock":10}],"articleNumber":"4250","colorLabel":"Beige Patent","images":["https://cdn.leon.rs/wp-content/uploads/2025/09/4250-BezOrlandoNova1.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/4250-BezOrlandoNova2.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/4250-BezOrlandoNova3.jpg"],"modelGroupId":"leon-mg-edita-4250-women","specifications":[{"label":{"de":"Obermaterial","fr":"Composition du dessus","en":"Upper material","it":"Tomaia"},"value":{"de":"Naturleder","fr":"Cuir naturel","en":"Natural leather","it":"Pelle naturale"}},{"label":{"de":"Fußbett","fr":"Semelle intérieure","en":"Footbed","it":"Plantare"},"value":{"de":"Naturleder mit anatomischem Profil und weicher Gel-Innensohle","fr":"Cuir naturel avec bande de roulement anatomique et semelle int�rieure en gel souple","en":"Natural leather with anatomical tread and soft gel insole","it":"Pelle naturale con battistrada anatomico e plantare in morbido gel"}},{"label":{"de":"Laufsohle","fr":"Semelle extérieure","en":"Outsole","it":"Suola"},"value":{"de":"Polyurethan","fr":"Polyur�thane","en":"Polyurethane","it":"Poliuretano"}}]},{"id":"leon-edita-zelena-perlato","slug":"edita-zelena-perlato","category":"women","brand":"leon","name":{"de":"Edita – Grün Perlato","fr":"Edita – Vert perlato","en":"Edita – Green perlato","it":"Edita – Verde perlato"},"description":{"de":"Anatomischer Clog f�r Damen mit speziell geformtem Profil, Massagegel und Bel�ftungsl�chern. Hergestellt aus nat�rlichem Material � Leder und Polyurethanschaum.","fr":"Sabot anatomique pour femme avec bande de roulement de forme sp�ciale, gel de massage et trous d'a�ration. Fabriqu� en mat�riau naturel - cuir et mousse de polyur�thane.","en":"Women's anatomical clog with a specially shaped tread, massage gel and ventilation holes. Made of natural material - leather, and polyurethane foam.","it":"Zoccolo anatomico da donna con battistrada dalla forma speciale, gel massaggiante e fori di ventilazione. Realizzato in materiale naturale: pelle e schiuma di poliuretano."},"image":"https://cdn.leon.rs/wp-content/uploads/2025/09/Edita-ZELENA-PERLATO.jpg","sizes":[{"id":"35","label":{"de":"35","fr":"35","en":"35","it":"35"}},{"id":"36","label":{"de":"36","fr":"36","en":"36","it":"36"}},{"id":"37","label":{"de":"37","fr":"37","en":"37","it":"37"}},{"id":"38","label":{"de":"38","fr":"38","en":"38","it":"38"}},{"id":"39","label":{"de":"39","fr":"39","en":"39","it":"39"}},{"id":"40","label":{"de":"40","fr":"40","en":"40","it":"40"}},{"id":"41","label":{"de":"41","fr":"41","en":"41","it":"41"}},{"id":"42","label":{"de":"42","fr":"42","en":"42","it":"42"}}],"colors":[{"id":"black","label":"Schwarz","hex":"#111827"},{"id":"grey","label":"Grau","hex":"#6b7280"}],"variants":[{"size":"35","color":"black","sku":"LEON-ALPEN-KOMFORT-173-35-black","priceCHF":59,"stock":10},{"size":"35","color":"grey","sku":"LEON-ALPEN-KOMFORT-173-35-grey","priceCHF":59,"stock":10},{"size":"36","color":"black","sku":"LEON-ALPEN-KOMFORT-173-36-black","priceCHF":59,"stock":10},{"size":"36","color":"grey","sku":"LEON-ALPEN-KOMFORT-173-36-grey","priceCHF":59,"stock":10},{"size":"37","color":"black","sku":"LEON-ALPEN-KOMFORT-173-37-black","priceCHF":59,"stock":10},{"size":"37","color":"grey","sku":"LEON-ALPEN-KOMFORT-173-37-grey","priceCHF":59,"stock":10},{"size":"38","color":"black","sku":"LEON-ALPEN-KOMFORT-173-38-black","priceCHF":59,"stock":10},{"size":"38","color":"grey","sku":"LEON-ALPEN-KOMFORT-173-38-grey","priceCHF":59,"stock":10},{"size":"39","color":"black","sku":"LEON-ALPEN-KOMFORT-173-39-black","priceCHF":59,"stock":10},{"size":"39","color":"grey","sku":"LEON-ALPEN-KOMFORT-173-39-grey","priceCHF":59,"stock":10},{"size":"40","color":"black","sku":"LEON-ALPEN-KOMFORT-173-40-black","priceCHF":59,"stock":10},{"size":"40","color":"grey","sku":"LEON-ALPEN-KOMFORT-173-40-grey","priceCHF":59,"stock":10},{"size":"41","color":"black","sku":"LEON-ALPEN-KOMFORT-173-41-black","priceCHF":59,"stock":10},{"size":"41","color":"grey","sku":"LEON-ALPEN-KOMFORT-173-41-grey","priceCHF":59,"stock":10},{"size":"42","color":"black","sku":"LEON-ALPEN-KOMFORT-173-42-black","priceCHF":59,"stock":10},{"size":"42","color":"grey","sku":"LEON-ALPEN-KOMFORT-173-42-grey","priceCHF":59,"stock":10}],"modelGroupId":"leon-mg-edita-4250-women","articleNumber":"4250","colorLabel":"Green perlato","images":["https://cdn.leon.rs/wp-content/uploads/2025/09/Edita-ZELENA-PERLATO.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Edita-ZELENA-PERLATO-1.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Edita-ZELENA-PERLATO-2.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Edita-ZELENA-PERLATO-3.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Edita-ZELENA-PERLATO-4.jpg"],"specifications":[{"label":{"de":"Obermaterial","fr":"Composition du dessus","en":"Upper material","it":"Tomaia"},"value":{"de":"Naturleder","fr":"Cuir naturel","en":"Natural leather","it":"Pelle naturale"}},{"label":{"de":"Fußbett","fr":"Semelle intérieure","en":"Footbed","it":"Plantare"},"value":{"de":"Naturleder mit anatomischem Profil und weicher Gel-Innensohle","fr":"Cuir naturel avec bande de roulement anatomique et semelle int�rieure en gel souple","en":"Natural leather with anatomical tread and soft gel insole","it":"Pelle naturale con battistrada anatomico e plantare in morbido gel"}},{"label":{"de":"Laufsohle","fr":"Semelle extérieure","en":"Outsole","it":"Suola"},"value":{"de":"Polyurethan","fr":"Polyur�thane","en":"Polyurethane","it":"Poliuretano"}}]},{"id":"leon-edita-teget","slug":"edita-teget","category":"women","brand":"leon","name":{"de":"Edita – Anthrazit","fr":"Edita – Anthracite","en":"Edita – Charcoal","it":"Edita – Antracite"},"description":{"de":"Anatomischer Clog f�r Damen mit speziell geformtem Profil, Massagegel und Bel�ftungsl�chern. Hergestellt aus nat�rlichem Material � Leder und Polyurethanschaum.","fr":"Sabot anatomique pour femme avec bande de roulement de forme sp�ciale, gel de massage et trous d'a�ration. Fabriqu� en mat�riau naturel - cuir et mousse de polyur�thane.","en":"Women's anatomical clog with a specially shaped tread, massage gel and ventilation holes. Made of natural material - leather, and polyurethane foam.","it":"Zoccolo anatomico da donna con battistrada dalla forma speciale, gel massaggiante e fori di ventilazione. Realizzato in materiale naturale: pelle e schiuma di poliuretano."},"image":"https://cdn.leon.rs/wp-content/uploads/2025/09/Edita-TEGET.jpg","sizes":[{"id":"35","label":{"de":"35","fr":"35","en":"35","it":"35"}},{"id":"36","label":{"de":"36","fr":"36","en":"36","it":"36"}},{"id":"37","label":{"de":"37","fr":"37","en":"37","it":"37"}},{"id":"38","label":{"de":"38","fr":"38","en":"38","it":"38"}},{"id":"39","label":{"de":"39","fr":"39","en":"39","it":"39"}},{"id":"40","label":{"de":"40","fr":"40","en":"40","it":"40"}},{"id":"41","label":{"de":"41","fr":"41","en":"41","it":"41"}},{"id":"42","label":{"de":"42","fr":"42","en":"42","it":"42"}}],"colors":[{"id":"black","label":"Schwarz","hex":"#111827"},{"id":"grey","label":"Grau","hex":"#6b7280"}],"variants":[{"size":"35","color":"black","sku":"LEON-ALPEN-KOMFORT-175-35-black","priceCHF":59,"stock":10},{"size":"35","color":"grey","sku":"LEON-ALPEN-KOMFORT-175-35-grey","priceCHF":59,"stock":10},{"size":"36","color":"black","sku":"LEON-ALPEN-KOMFORT-175-36-black","priceCHF":59,"stock":10},{"size":"36","color":"grey","sku":"LEON-ALPEN-KOMFORT-175-36-grey","priceCHF":59,"stock":10},{"size":"37","color":"black","sku":"LEON-ALPEN-KOMFORT-175-37-black","priceCHF":59,"stock":10},{"size":"37","color":"grey","sku":"LEON-ALPEN-KOMFORT-175-37-grey","priceCHF":59,"stock":10},{"size":"38","color":"black","sku":"LEON-ALPEN-KOMFORT-175-38-black","priceCHF":59,"stock":10},{"size":"38","color":"grey","sku":"LEON-ALPEN-KOMFORT-175-38-grey","priceCHF":59,"stock":10},{"size":"39","color":"black","sku":"LEON-ALPEN-KOMFORT-175-39-black","priceCHF":59,"stock":10},{"size":"39","color":"grey","sku":"LEON-ALPEN-KOMFORT-175-39-grey","priceCHF":59,"stock":10},{"size":"40","color":"black","sku":"LEON-ALPEN-KOMFORT-175-40-black","priceCHF":59,"stock":10},{"size":"40","color":"grey","sku":"LEON-ALPEN-KOMFORT-175-40-grey","priceCHF":59,"stock":10},{"size":"41","color":"black","sku":"LEON-ALPEN-KOMFORT-175-41-black","priceCHF":59,"stock":10},{"size":"41","color":"grey","sku":"LEON-ALPEN-KOMFORT-175-41-grey","priceCHF":59,"stock":10},{"size":"42","color":"black","sku":"LEON-ALPEN-KOMFORT-175-42-black","priceCHF":59,"stock":10},{"size":"42","color":"grey","sku":"LEON-ALPEN-KOMFORT-175-42-grey","priceCHF":59,"stock":10}],"modelGroupId":"leon-mg-edita-4250-women","articleNumber":"4250","colorLabel":"Charcoal","images":"$b","specifications":[{"label":{"de":"Obermaterial","fr":"Composition du dessus","en":"Upper material","it":"Tomaia"},"value":{"de":"Naturleder","fr":"Cuir naturel","en":"Natural leather","it":"Pelle naturale"}},{"label":{"de":"Fußbett","fr":"Semelle intérieure","en":"Footbed","it":"Plantare"},"value":{"de":"Naturleder mit anatomischem Profil und weicher Gel-Innensohle","fr":"Cuir naturel avec bande de roulement anatomique et semelle int�rieure en gel souple","en":"Natural leather with anatomical tread and soft gel insole","it":"Pelle naturale con battistrada anatomico e plantare in morbido gel"}},{"label":{"de":"Laufsohle","fr":"Semelle extérieure","en":"Outsole","it":"Suola"},"value":{"de":"Polyurethan","fr":"Polyur�thane","en":"Polyurethane","it":"Poliuretano"}}]},{"id":"leon-edita-sampanj","slug":"edita-sampanj","category":"women","brand":"leon","name":{"de":"Edita – Champagner","fr":"Edita – Champagne","en":"Edita – Champagne","it":"Edita – Champagne"},"description":{"de":"Anatomischer Clog f�r Damen mit speziell geformtem Profil, Massagegel und Bel�ftungsl�chern. Hergestellt aus nat�rlichem Material � Leder und Polyurethanschaum.","fr":"Sabot anatomique pour femme avec bande de roulement de forme sp�ciale, gel de massage et trous d'a�ration. Fabriqu� en mat�riau naturel - cuir et mousse de polyur�thane.","en":"Women's anatomical clog with a specially shaped tread, massage gel and ventilation holes. Made of natural material - leather, and polyurethane foam.","it":"Zoccolo anatomico da donna con battistrada dalla forma speciale, gel massaggiante e fori di ventilazione. Realizzato in materiale naturale: pelle e schiuma di poliuretano."},"image":"https://cdn.leon.rs/wp-content/uploads/2025/09/Edita-SAMPANJ.jpg","sizes":[{"id":"35","label":{"de":"35","fr":"35","en":"35","it":"35"}},{"id":"36","label":{"de":"36","fr":"36","en":"36","it":"36"}},{"id":"37","label":{"de":"37","fr":"37","en":"37","it":"37"}},{"id":"38","label":{"de":"38","fr":"38","en":"38","it":"38"}},{"id":"39","label":{"de":"39","fr":"39","en":"39","it":"39"}},{"id":"40","label":{"de":"40","fr":"40","en":"40","it":"40"}},{"id":"41","label":{"de":"41","fr":"41","en":"41","it":"41"}},{"id":"42","label":{"de":"42","fr":"42","en":"42","it":"42"}}],"colors":[{"id":"black","label":"Schwarz","hex":"#111827"},{"id":"grey","label":"Grau","hex":"#6b7280"}],"variants":[{"size":"35","color":"black","sku":"LEON-ALPEN-KOMFORT-176-35-black","priceCHF":59,"stock":10},{"size":"35","color":"grey","sku":"LEON-ALPEN-KOMFORT-176-35-grey","priceCHF":59,"stock":10},{"size":"36","color":"black","sku":"LEON-ALPEN-KOMFORT-176-36-black","priceCHF":59,"stock":10},{"size":"36","color":"grey","sku":"LEON-ALPEN-KOMFORT-176-36-grey","priceCHF":59,"stock":10},{"size":"37","color":"black","sku":"LEON-ALPEN-KOMFORT-176-37-black","priceCHF":59,"stock":10},{"size":"37","color":"grey","sku":"LEON-ALPEN-KOMFORT-176-37-grey","priceCHF":59,"stock":10},{"size":"38","color":"black","sku":"LEON-ALPEN-KOMFORT-176-38-black","priceCHF":59,"stock":10},{"size":"38","color":"grey","sku":"LEON-ALPEN-KOMFORT-176-38-grey","priceCHF":59,"stock":10},{"size":"39","color":"black","sku":"LEON-ALPEN-KOMFORT-176-39-black","priceCHF":59,"stock":10},{"size":"39","color":"grey","sku":"LEON-ALPEN-KOMFORT-176-39-grey","priceCHF":59,"stock":10},{"size":"40","color":"black","sku":"LEON-ALPEN-KOMFORT-176-40-black","priceCHF":59,"stock":10},{"size":"40","color":"grey","sku":"LEON-ALPEN-KOMFORT-176-40-grey","priceCHF":59,"stock":10},{"size":"41","color":"black","sku":"LEON-ALPEN-KOMFORT-176-41-black","priceCHF":59,"stock":10},{"size":"41","color":"grey","sku":"LEON-ALPEN-KOMFORT-176-41-grey","priceCHF":59,"stock":10},{"size":"42","color":"black","sku":"LEON-ALPEN-KOMFORT-176-42-black","priceCHF":59,"stock":10},{"size":"42","color":"grey","sku":"LEON-ALPEN-KOMFORT-176-42-grey","priceCHF":59,"stock":10}],"modelGroupId":"leon-mg-edita-4250-women","articleNumber":"4250","colorLabel":"Champagne","images":["https://cdn.leon.rs/wp-content/uploads/2025/09/Edita-SAMPANJ.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Edita-SAMPANJ-1.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Edita-SAMPANJ-2.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Edita-SAMPANJ-3.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Edita-SAMPANJ-4.jpg"],"specifications":[{"label":{"de":"Obermaterial","fr":"Composition du dessus","en":"Upper material","it":"Tomaia"},"value":{"de":"Naturleder","fr":"Cuir naturel","en":"Natural leather","it":"Pelle naturale"}},{"label":{"de":"Fußbett","fr":"Semelle intérieure","en":"Footbed","it":"Plantare"},"value":{"de":"Naturleder mit anatomischem Profil und weicher Gel-Innensohle","fr":"Cuir naturel avec bande de roulement anatomique et semelle int�rieure en gel souple","en":"Natural leather with anatomical tread and soft gel insole","it":"Pelle naturale con battistrada anatomico e plantare in morbido gel"}},{"label":{"de":"Laufsohle","fr":"Semelle extérieure","en":"Outsole","it":"Suola"},"value":{"de":"Polyurethan","fr":"Polyur�thane","en":"Polyurethane","it":"Poliuretano"}}]},{"id":"leon-edita-perla","slug":"edita-perla","category":"women","brand":"leon","name":{"de":"Edita – Perle","fr":"Edita – Perle","en":"Edita – Pearl","it":"Edita – Perla"},"description":{"de":"Anatomischer Clog f�r Damen mit speziell geformtem Profil, Massagegel und Bel�ftungsl�chern. Hergestellt aus nat�rlichem Material � Leder und Polyurethanschaum.","fr":"Sabot anatomique pour femme avec bande de roulement de forme sp�ciale, gel de massage et trous d'a�ration. Fabriqu� en mat�riau naturel - cuir et mousse de polyur�thane.","en":"Women's anatomical clog with a specially shaped tread, massage gel and ventilation holes. Made of natural material - leather, and polyurethane foam.","it":"Zoccolo anatomico da donna con battistrada dalla forma speciale, gel massaggiante e fori di ventilazione. Realizzato in materiale naturale: pelle e schiuma di poliuretano."},"image":"https://cdn.leon.rs/wp-content/uploads/2025/09/Edita-PERLA.jpg","sizes":[{"id":"35","label":{"de":"35","fr":"35","en":"35","it":"35"}},{"id":"36","label":{"de":"36","fr":"36","en":"36","it":"36"}},{"id":"37","label":{"de":"37","fr":"37","en":"37","it":"37"}},{"id":"38","label":{"de":"38","fr":"38","en":"38","it":"38"}},{"id":"39","label":{"de":"39","fr":"39","en":"39","it":"39"}},{"id":"40","label":{"de":"40","fr":"40","en":"40","it":"40"}},{"id":"41","label":{"de":"41","fr":"41","en":"41","it":"41"}},{"id":"42","label":{"de":"42","fr":"42","en":"42","it":"42"}}],"colors":[{"id":"black","label":"Schwarz","hex":"#111827"},{"id":"grey","label":"Grau","hex":"#6b7280"}],"variants":[{"size":"35","color":"black","sku":"LEON-ALPEN-KOMFORT-177-35-black","priceCHF":59,"stock":10},{"size":"35","color":"grey","sku":"LEON-ALPEN-KOMFORT-177-35-grey","priceCHF":59,"stock":10},{"size":"36","color":"black","sku":"LEON-ALPEN-KOMFORT-177-36-black","priceCHF":59,"stock":10},{"size":"36","color":"grey","sku":"LEON-ALPEN-KOMFORT-177-36-grey","priceCHF":59,"stock":10},{"size":"37","color":"black","sku":"LEON-ALPEN-KOMFORT-177-37-black","priceCHF":59,"stock":10},{"size":"37","color":"grey","sku":"LEON-ALPEN-KOMFORT-177-37-grey","priceCHF":59,"stock":10},{"size":"38","color":"black","sku":"LEON-ALPEN-KOMFORT-177-38-black","priceCHF":59,"stock":10},{"size":"38","color":"grey","sku":"LEON-ALPEN-KOMFORT-177-38-grey","priceCHF":59,"stock":10},{"size":"39","color":"black","sku":"LEON-ALPEN-KOMFORT-177-39-black","priceCHF":59,"stock":10},{"size":"39","color":"grey","sku":"LEON-ALPEN-KOMFORT-177-39-grey","priceCHF":59,"stock":10},{"size":"40","color":"black","sku":"LEON-ALPEN-KOMFORT-177-40-black","priceCHF":59,"stock":10},{"size":"40","color":"grey","sku":"LEON-ALPEN-KOMFORT-177-40-grey","priceCHF":59,"stock":10},{"size":"41","color":"black","sku":"LEON-ALPEN-KOMFORT-177-41-black","priceCHF":59,"stock":10},{"size":"41","color":"grey","sku":"LEON-ALPEN-KOMFORT-177-41-grey","priceCHF":59,"stock":10},{"size":"42","color":"black","sku":"LEON-ALPEN-KOMFORT-177-42-black","priceCHF":59,"stock":10},{"size":"42","color":"grey","sku":"LEON-ALPEN-KOMFORT-177-42-grey","priceCHF":59,"stock":10}],"modelGroupId":"leon-mg-edita-4250-women","articleNumber":"4250","colorLabel":"Pearl","images":["https://cdn.leon.rs/wp-content/uploads/2025/09/Edita-PERLA.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Edita-PERLA-1.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Edita-PERLA-2.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Edita-PERLA-3.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Edita-PERLA-4.jpg"],"specifications":[{"label":{"de":"Obermaterial","fr":"Composition du dessus","en":"Upper material","it":"Tomaia"},"value":{"de":"Naturleder","fr":"Cuir naturel","en":"Natural leather","it":"Pelle naturale"}},{"label":{"de":"Fußbett","fr":"Semelle intérieure","en":"Footbed","it":"Plantare"},"value":{"de":"Naturleder mit anatomischem Profil und weicher Gel-Innensohle","fr":"Cuir naturel avec bande de roulement anatomique et semelle int�rieure en gel souple","en":"Natural leather with anatomical tread and soft gel insole","it":"Pelle naturale con battistrada anatomico e plantare in morbido gel"}},{"label":{"de":"Laufsohle","fr":"Semelle extérieure","en":"Outsole","it":"Suola"},"value":{"de":"Polyurethan","fr":"Polyur�thane","en":"Polyurethane","it":"Poliuretano"}}]},{"id":"leon-edita-mint","slug":"edita-mint","category":"women","brand":"leon","name":{"de":"Edita – Mint","fr":"Edita – Menthe","en":"Edita – Mint","it":"Edita – Menta"},"description":{"de":"Anatomischer Clog f�r Damen mit speziell geformtem Profil, Massagegel und Bel�ftungsl�chern. Hergestellt aus nat�rlichem Material � Leder und Polyurethanschaum.","fr":"Sabot anatomique pour femme avec bande de roulement de forme sp�ciale, gel de massage et trous d'a�ration. Fabriqu� en mat�riau naturel - cuir et mousse de polyur�thane.","en":"Women's anatomical clog with a specially shaped tread, massage gel and ventilation holes. Made of natural material - leather, and polyurethane foam.","it":"Zoccolo anatomico da donna con battistrada dalla forma speciale, gel massaggiante e fori di ventilazione. Realizzato in materiale naturale: pelle e schiuma di poliuretano."},"image":"https://cdn.leon.rs/wp-content/uploads/2025/09/Edita-MINT.jpg","sizes":[{"id":"35","label":{"de":"35","fr":"35","en":"35","it":"35"}},{"id":"36","label":{"de":"36","fr":"36","en":"36","it":"36"}},{"id":"37","label":{"de":"37","fr":"37","en":"37","it":"37"}},{"id":"38","label":{"de":"38","fr":"38","en":"38","it":"38"}},{"id":"39","label":{"de":"39","fr":"39","en":"39","it":"39"}},{"id":"40","label":{"de":"40","fr":"40","en":"40","it":"40"}},{"id":"41","label":{"de":"41","fr":"41","en":"41","it":"41"}},{"id":"42","label":{"de":"42","fr":"42","en":"42","it":"42"}}],"colors":[{"id":"black","label":"Schwarz","hex":"#111827"},{"id":"grey","label":"Grau","hex":"#6b7280"}],"variants":[{"size":"35","color":"black","sku":"LEON-ALPEN-KOMFORT-180-35-black","priceCHF":59,"stock":10},{"size":"35","color":"grey","sku":"LEON-ALPEN-KOMFORT-180-35-grey","priceCHF":59,"stock":10},{"size":"36","color":"black","sku":"LEON-ALPEN-KOMFORT-180-36-black","priceCHF":59,"stock":10},{"size":"36","color":"grey","sku":"LEON-ALPEN-KOMFORT-180-36-grey","priceCHF":59,"stock":10},{"size":"37","color":"black","sku":"LEON-ALPEN-KOMFORT-180-37-black","priceCHF":59,"stock":10},{"size":"37","color":"grey","sku":"LEON-ALPEN-KOMFORT-180-37-grey","priceCHF":59,"stock":10},{"size":"38","color":"black","sku":"LEON-ALPEN-KOMFORT-180-38-black","priceCHF":59,"stock":10},{"size":"38","color":"grey","sku":"LEON-ALPEN-KOMFORT-180-38-grey","priceCHF":59,"stock":10},{"size":"39","color":"black","sku":"LEON-ALPEN-KOMFORT-180-39-black","priceCHF":59,"stock":10},{"size":"39","color":"grey","sku":"LEON-ALPEN-KOMFORT-180-39-grey","priceCHF":59,"stock":10},{"size":"40","color":"black","sku":"LEON-ALPEN-KOMFORT-180-40-black","priceCHF":59,"stock":10},{"size":"40","color":"grey","sku":"LEON-ALPEN-KOMFORT-180-40-grey","priceCHF":59,"stock":10},{"size":"41","color":"black","sku":"LEON-ALPEN-KOMFORT-180-41-black","priceCHF":59,"stock":10},{"size":"41","color":"grey","sku":"LEON-ALPEN-KOMFORT-180-41-grey","priceCHF":59,"stock":10},{"size":"42","color":"black","sku":"LEON-ALPEN-KOMFORT-180-42-black","priceCHF":59,"stock":10},{"size":"42","color":"grey","sku":"LEON-ALPEN-KOMFORT-180-42-grey","priceCHF":59,"stock":10}],"modelGroupId":"leon-mg-edita-4250-women","articleNumber":"4250","colorLabel":"Mint","images":["https://cdn.leon.rs/wp-content/uploads/2025/09/Edita-MINT.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Edita-MINT-1.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Edita-MINT-2.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Edita-MINT-3.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Edita-MINT-4.jpg"],"specifications":[{"label":{"de":"Obermaterial","fr":"Composition du dessus","en":"Upper material","it":"Tomaia"},"value":{"de":"Naturleder","fr":"Cuir naturel","en":"Natural leather","it":"Pelle naturale"}},{"label":{"de":"Fußbett","fr":"Semelle intérieure","en":"Footbed","it":"Plantare"},"value":{"de":"Naturleder mit anatomischem Profil und weicher Gel-Innensohle","fr":"Cuir naturel avec bande de roulement anatomique et semelle int�rieure en gel souple","en":"Natural leather with anatomical tread and soft gel insole","it":"Pelle naturale con battistrada anatomico e plantare in morbido gel"}},{"label":{"de":"Laufsohle","fr":"Semelle extérieure","en":"Outsole","it":"Suola"},"value":{"de":"Polyurethan","fr":"Polyur�thane","en":"Polyurethane","it":"Poliuretano"}}]},{"id":"leon-edita-crna","slug":"edita-crna","category":"women","brand":"leon","name":{"de":"Edita – Schwarz","fr":"Edita – Noir","en":"Edita – Black","it":"Edita – Nero"},"description":{"de":"Anatomischer Clog f�r Damen mit speziell geformtem Profil, Massagegel und Bel�ftungsl�chern. Hergestellt aus nat�rlichem Material � Leder und Polyurethanschaum.","fr":"Sabot anatomique pour femme avec bande de roulement de forme sp�ciale, gel de massage et trous d'a�ration. Fabriqu� en mat�riau naturel - cuir et mousse de polyur�thane.","en":"Women's anatomical clog with a specially shaped tread, massage gel and ventilation holes. Made of natural material - leather, and polyurethane foam.","it":"Zoccolo anatomico da donna con battistrada dalla forma speciale, gel massaggiante e fori di ventilazione. Realizzato in materiale naturale: pelle e schiuma di poliuretano."},"image":"https://cdn.leon.rs/wp-content/uploads/2025/09/Edita-CRNA.jpg","sizes":[{"id":"35","label":{"de":"35","fr":"35","en":"35","it":"35"}},{"id":"36","label":{"de":"36","fr":"36","en":"36","it":"36"}},{"id":"37","label":{"de":"37","fr":"37","en":"37","it":"37"}},{"id":"38","label":{"de":"38","fr":"38","en":"38","it":"38"}},{"id":"39","label":{"de":"39","fr":"39","en":"39","it":"39"}},{"id":"40","label":{"de":"40","fr":"40","en":"40","it":"40"}},{"id":"41","label":{"de":"41","fr":"41","en":"41","it":"41"}},{"id":"42","label":{"de":"42","fr":"42","en":"42","it":"42"}}],"colors":[{"id":"black","label":"Schwarz","hex":"#111827"},{"id":"grey","label":"Grau","hex":"#6b7280"}],"variants":[{"size":"35","color":"black","sku":"LEON-ALPEN-KOMFORT-178-35-black","priceCHF":59,"stock":10},{"size":"35","color":"grey","sku":"LEON-ALPEN-KOMFORT-178-35-grey","priceCHF":59,"stock":10},{"size":"36","color":"black","sku":"LEON-ALPEN-KOMFORT-178-36-black","priceCHF":59,"stock":10},{"size":"36","color":"grey","sku":"LEON-ALPEN-KOMFORT-178-36-grey","priceCHF":59,"stock":10},{"size":"37","color":"black","sku":"LEON-ALPEN-KOMFORT-178-37-black","priceCHF":59,"stock":10},{"size":"37","color":"grey","sku":"LEON-ALPEN-KOMFORT-178-37-grey","priceCHF":59,"stock":10},{"size":"38","color":"black","sku":"LEON-ALPEN-KOMFORT-178-38-black","priceCHF":59,"stock":10},{"size":"38","color":"grey","sku":"LEON-ALPEN-KOMFORT-178-38-grey","priceCHF":59,"stock":10},{"size":"39","color":"black","sku":"LEON-ALPEN-KOMFORT-178-39-black","priceCHF":59,"stock":10},{"size":"39","color":"grey","sku":"LEON-ALPEN-KOMFORT-178-39-grey","priceCHF":59,"stock":10},{"size":"40","color":"black","sku":"LEON-ALPEN-KOMFORT-178-40-black","priceCHF":59,"stock":10},{"size":"40","color":"grey","sku":"LEON-ALPEN-KOMFORT-178-40-grey","priceCHF":59,"stock":10},{"size":"41","color":"black","sku":"LEON-ALPEN-KOMFORT-178-41-black","priceCHF":59,"stock":10},{"size":"41","color":"grey","sku":"LEON-ALPEN-KOMFORT-178-41-grey","priceCHF":59,"stock":10},{"size":"42","color":"black","sku":"LEON-ALPEN-KOMFORT-178-42-black","priceCHF":59,"stock":10},{"size":"42","color":"grey","sku":"LEON-ALPEN-KOMFORT-178-42-grey","priceCHF":59,"stock":10}],"modelGroupId":"leon-mg-edita-4250-women","articleNumber":"4250","colorLabel":"Black","images":["https://cdn.leon.rs/wp-content/uploads/2025/09/Edita-CRNA.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Edita-CRNA-1.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Edita-CRNA-2.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Edita-CRNA-3.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Edita-CRNA-4.jpg"],"specifications":[{"label":{"de":"Obermaterial","fr":"Composition du dessus","en":"Upper material","it":"Tomaia"},"value":{"de":"Naturleder","fr":"Cuir naturel","en":"Natural leather","it":"Pelle naturale"}},{"label":{"de":"Fußbett","fr":"Semelle intérieure","en":"Footbed","it":"Plantare"},"value":{"de":"Naturleder mit anatomischem Profil und weicher Gel-Innensohle","fr":"Cuir naturel avec bande de roulement anatomique et semelle int�rieure en gel souple","en":"Natural leather with anatomical tread and soft gel insole","it":"Pelle naturale con battistrada anatomico e plantare in morbido gel"}},{"label":{"de":"Laufsohle","fr":"Semelle extérieure","en":"Outsole","it":"Suola"},"value":{"de":"Polyurethan","fr":"Polyur�thane","en":"Polyurethane","it":"Poliuretano"}}]},{"id":"leon-edita-bela","slug":"edita-bela","category":"women","brand":"leon","name":{"de":"Edita – Weiß","fr":"Edita – Blanc","en":"Edita – White","it":"Edita – Bianco"},"description":{"de":"Anatomischer Clog f�r Damen mit speziell geformtem Profil, Massagegel und Bel�ftungsl�chern. Hergestellt aus nat�rlichem Material � Leder und Polyurethanschaum.","fr":"Sabot anatomique pour femme avec bande de roulement de forme sp�ciale, gel de massage et trous d'a�ration. Fabriqu� en mat�riau naturel - cuir et mousse de polyur�thane.","en":"Women's anatomical clog with a specially shaped tread, massage gel and ventilation holes. Made of natural material - leather, and polyurethane foam.","it":"Zoccolo anatomico da donna con battistrada dalla forma speciale, gel massaggiante e fori di ventilazione. Realizzato in materiale naturale: pelle e schiuma di poliuretano."},"image":"https://cdn.leon.rs/wp-content/uploads/2025/09/Edita-BELA.jpg","sizes":[{"id":"35","label":{"de":"35","fr":"35","en":"35","it":"35"}},{"id":"36","label":{"de":"36","fr":"36","en":"36","it":"36"}},{"id":"37","label":{"de":"37","fr":"37","en":"37","it":"37"}},{"id":"38","label":{"de":"38","fr":"38","en":"38","it":"38"}},{"id":"39","label":{"de":"39","fr":"39","en":"39","it":"39"}},{"id":"40","label":{"de":"40","fr":"40","en":"40","it":"40"}},{"id":"41","label":{"de":"41","fr":"41","en":"41","it":"41"}},{"id":"42","label":{"de":"42","fr":"42","en":"42","it":"42"}}],"colors":[{"id":"black","label":"Schwarz","hex":"#111827"},{"id":"grey","label":"Grau","hex":"#6b7280"}],"variants":[{"size":"35","color":"black","sku":"LEON-ALPEN-KOMFORT-179-35-black","priceCHF":59,"stock":10},{"size":"35","color":"grey","sku":"LEON-ALPEN-KOMFORT-179-35-grey","priceCHF":59,"stock":10},{"size":"36","color":"black","sku":"LEON-ALPEN-KOMFORT-179-36-black","priceCHF":59,"stock":10},{"size":"36","color":"grey","sku":"LEON-ALPEN-KOMFORT-179-36-grey","priceCHF":59,"stock":10},{"size":"37","color":"black","sku":"LEON-ALPEN-KOMFORT-179-37-black","priceCHF":59,"stock":10},{"size":"37","color":"grey","sku":"LEON-ALPEN-KOMFORT-179-37-grey","priceCHF":59,"stock":10},{"size":"38","color":"black","sku":"LEON-ALPEN-KOMFORT-179-38-black","priceCHF":59,"stock":10},{"size":"38","color":"grey","sku":"LEON-ALPEN-KOMFORT-179-38-grey","priceCHF":59,"stock":10},{"size":"39","color":"black","sku":"LEON-ALPEN-KOMFORT-179-39-black","priceCHF":59,"stock":10},{"size":"39","color":"grey","sku":"LEON-ALPEN-KOMFORT-179-39-grey","priceCHF":59,"stock":10},{"size":"40","color":"black","sku":"LEON-ALPEN-KOMFORT-179-40-black","priceCHF":59,"stock":10},{"size":"40","color":"grey","sku":"LEON-ALPEN-KOMFORT-179-40-grey","priceCHF":59,"stock":10},{"size":"41","color":"black","sku":"LEON-ALPEN-KOMFORT-179-41-black","priceCHF":59,"stock":10},{"size":"41","color":"grey","sku":"LEON-ALPEN-KOMFORT-179-41-grey","priceCHF":59,"stock":10},{"size":"42","color":"black","sku":"LEON-ALPEN-KOMFORT-179-42-black","priceCHF":59,"stock":10},{"size":"42","color":"grey","sku":"LEON-ALPEN-KOMFORT-179-42-grey","priceCHF":59,"stock":10}],"modelGroupId":"leon-mg-edita-4250-women","articleNumber":"4250","colorLabel":"White","images":["https://cdn.leon.rs/wp-content/uploads/2025/09/Edita-BELA.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Edita-BELA-1.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Edita-BELA-2.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Edita-BELA-3.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Edita-BELA-4.jpg"],"specifications":[{"label":{"de":"Obermaterial","fr":"Composition du dessus","en":"Upper material","it":"Tomaia"},"value":{"de":"Naturleder","fr":"Cuir naturel","en":"Natural leather","it":"Pelle naturale"}},{"label":{"de":"Fußbett","fr":"Semelle intérieure","en":"Footbed","it":"Plantare"},"value":{"de":"Naturleder mit anatomischem Profil und weicher Gel-Innensohle","fr":"Cuir naturel avec bande de roulement anatomique et semelle int�rieure en gel souple","en":"Natural leather with anatomical tread and soft gel insole","it":"Pelle naturale con battistrada anatomico e plantare in morbido gel"}},{"label":{"de":"Laufsohle","fr":"Semelle extérieure","en":"Outsole","it":"Suola"},"value":{"de":"Polyurethan","fr":"Polyur�thane","en":"Polyurethane","it":"Poliuretano"}}]}]}],["$","$Lc",null,{"product":"$d","locale":"it","modelGroupSiblings":"$3f"}]]}]]}],["$","$L20b",null,{"product":"$d","locale":"it"}]]}]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Trend Swiss Shop | trendswiss.ch"}],["$","meta","3",{"name":"description","content":"Online shop – Swiss quality and style. trendswiss.ch"}]]
+1:null
+20c:I[6456,["972","static/chunks/972-d71866a6631b6318.js","529","static/chunks/529-56c5ab17e14cba56.js","145","static/chunks/145-a8953cd3f91aee0b.js","883","static/chunks/883-e2a4759db12ee0dc.js","203","static/chunks/app/%5Blocale%5D/layout-1b7a049853e5d5e0.js"],"default"]
+20d:I[3970,["972","static/chunks/972-d71866a6631b6318.js","529","static/chunks/529-56c5ab17e14cba56.js","145","static/chunks/145-a8953cd3f91aee0b.js","883","static/chunks/883-e2a4759db12ee0dc.js","203","static/chunks/app/%5Blocale%5D/layout-1b7a049853e5d5e0.js"],"default"]
+20e:I[4767,["972","static/chunks/972-d71866a6631b6318.js","529","static/chunks/529-56c5ab17e14cba56.js","145","static/chunks/145-a8953cd3f91aee0b.js","883","static/chunks/883-e2a4759db12ee0dc.js","203","static/chunks/app/%5Blocale%5D/layout-1b7a049853e5d5e0.js"],"default"]
+7:["$","$L20c",null,{"locale":"it","now":"$D2026-08-11T13:21:12.267Z","timeZone":"Europe/Belgrade","messages":{"nav":{"home":"Home","shop":"Shop","cart":"Carrello","about":"Chi siamo","contact":"Contatti","searchLabel":"Cerca modelli","searchPlaceholder":"Nome modello o numero articolo…","searchClear":"Cancella ricerca","searchNoResults":"Nessun modello trovato."},"home":{"heroTitle":"Benvenuto su Trend Swiss","heroSubtitle":"Qualità e stile svizzeri","aboutTitle":"Chi siamo","aboutCompany":"TrendSwiss GmbH","aboutTagline":"Comfort elegante per ogni giorno – i vostri esperti in calzature di prima qualità","aboutWelcomeTitle":"Benvenuti da TrendSwiss GmbH!","aboutWelcomeBody":"Come moderna azienda svizzera, ci siamo dedicate a una missione chiara: portarvi direttamente un comfort di camminata e di posizione in piedi di alta qualità. In qualità di rappresentanza generale ufficiale di produttori internazionali leader, uniamo artigianato tradizionale, design moderno ed ergonomia contemporanea.","aboutPhilosophyTitle":"La nostra filosofia: qualità che si sente","aboutPhilosophyBody":"Gran parte della nostra vita si svolge in piedi. Che sia in una giornata lavorativa impegnativa, a casa o nel tempo libero – i nostri piedi meritano il miglior sostegno possibile. Da TrendSwiss selezioniamo le nostre collezioni secondo i criteri più rigorosi. Puntiamo costantemente su materiali naturali di prima qualità (come la pregiata pelle veramente) e su una lavorazione accurata che garantisce durata e un comfort di calzata ottimale.","aboutAssortmentTitle":"La nostra gamma: varietà e funzionalità","aboutAssortmentBody":"Con un assortimento curato e versatile offriamo la risposta giusta a esigenze diverse. Dai classici zoccoli per l'uso professionale in studio, farmacia o assistenza alle eleganti pantofole e comode ciabatte per tutta la famiglia: i nostri prodotti uniscono una suola anatomica a un design moderno. Si integrano armoniosamente in ogni situazione quotidiana e favoriscono il benessere ad ogni passo.","aboutPartnerTitle":"Il vostro partner svizzero affidabile","aboutPartnerBody1":"TrendSwiss GmbH si considera non solo un rivenditore, ma un partner a lungo termine. Grazie al collegamento diretto con i siti produttivi possiamo agire con flessibilità, garantire i più alti standard qualitativi e offrirvi sempre un rapporto qualità-prezzo interessante.","aboutPartnerBody2":"Che siate rivenditori desiderosi di arricchire il vostro assortimento con i nostri prodotti di qualità o clienti privati in cerca del compagno perfetto per la vita quotidiana – il cliente e un servizio di prima classe sono sempre al centro.","aboutWhyTitle":"Perché TrendSwiss?","aboutWhy1Title":"Collezioni esclusive:","aboutWhy1Text":"Modelli accuratamente selezionati da produttori internazionali affermati.","aboutWhy2Title":"Design ergonomico:","aboutWhy2Text":"Calzata studiata anatomicamente per stare in piedi e camminare senza affaticamento nella vita quotidiana.","aboutWhy3Title":"Materiali naturali:","aboutWhy3Text":"Pelle di alta qualità e componenti traspiranti per un piacevole microclima del piede.","aboutWhy4Title":"Affidabilità svizzera:","aboutWhy4Text":"Servizio competente, gestione semplice e vicinanza autentica al cliente.","aboutClosingLine":"Percorrete con noi la strada del successo e riscoprite il comfort.","aboutFooterLine":"TrendSwiss GmbH – passo dopo passo verso un maggiore benessere.","contactTitle":"Contatti","contactPhone":"Tel","contactAddress":"Indirizzo","contactEmail":"E-mail","contactStreet":"Bodenackerstrasse 50","contactCity":"5200, Brugg","contactCountry":"Svizzera","galleryAriaLabel":"Galleria immagini"},"shop":{"title":"Shop","allProducts":"Tutti i prodotti","uncategorizedFilter":"Senza categoria ({count})","exploreByCategory":"Esplora per categoria","view":"Vedi","exploreFilterTitle":"Categorie","filtersTitle":"Filtri","openFilters":"Filtri","close":"Chiudi","categories":"Categorie","all":"Tutti","brandTitle":"Marca","allBrands":"Tutte le marche","noProductsInCategory":"Nessun prodotto in questa categoria.","perPageLabel":"Per pagina","perPage20":"20","perPage50":"50","perPageAll":"Tutti","showingRange":"Visualizzati {from}–{to} di {total} prodotti","prevPage":"Indietro","nextPage":"Avanti","pageOf":"Pagina {page} di {totalPages}","addToCart":"Aggiungi al carrello","catalogOnly":"Solo catalogo","purchaseDisabled":"Gli acquisti sono temporaneamente disattivati. Questo sito al momento è solo un catalogo online.","size":"Taglia","color":"Colore","price":"Prezzo","priceFilterTitle":"Prezzo","pricedOnly":"Mostra solo modelli con prezzo","sku":"Cod.","chf":"CHF","selectSize":"Seleziona la taglia","selectColor":"Seleziona il colore","quantity":"Quantità","sameModelColors":"Stesso modello in altri colori","leonSizeGuide":{"link":"Guida alle taglie","title":"Guida alle taglie","tabMeasurements":"Misure","tabInstructions":"Istruzioni","close":"Chiudi","eu":"EU","footLengthMm":"Lunghezza del piede (mm)","footLengthIn":"Lunghezza del piede (in)","unitMm":"mm","unitIn":"in","howToTitle":"Come misurare:","step1":"Appoggia il piede in piano su un foglio e segna il punto più lungo delle dita e il tallone. Meglio in piedi e con le calze.","step2":"Misura in linea retta dal dito più lungo al tallone con un righello o un metro.","step3":"Usa la tabella per trovare la tua taglia EU."}},"productTabs":{"specs":"Specifiche","description":"Descrizione","shipping":"Spedizione e resi","reviews":"Recensioni","specsContent":"Materiale: pelo morbido, misto cotone. Cura: lavaggio in lavatrice a 30°C. Taglie e colori disponibili: vedi selezione sopra.","shippingContent":"Spedizione in Svizzera: 2–4 giorni lavorativi. Spese di spedizione da 6 CHF, gratis da 80 CHF. Reso entro 30 giorni, articolo non utilizzato.","reviewsIntro":"Recensioni dei clienti","review1":"Molto comode, le indosso ogni giorno. Vestono perfettamente.","review2":"Buona qualità, consegna rapida. Acquisterò di nuovo.","review3":"Morbide e calde. Consiglio la taglia abituale."},"cart":{"title":"Carrello","empty":"Il tuo carrello è vuoto","purchaseDisabled":"Gli acquisti sono temporaneamente disattivati. Carrello e checkout non sono disponibili al momento.","subtotal":"Subtotale","discount":"Sconto","total":"Totale","checkout":"Vai alla cassa","remove":"Rimuovi","voucherPlaceholder":"Codice sconto","applyVoucher":"Applica","voucherInvalid":"Codice non valido o non applicabile.","voucherApplied":"Codice \"{code}\" applicato: -{amount} CHF","goToShop":"Vai allo shop"},"checkout":{"title":"Cassa","successTitle":"Pagamento riuscito","successMessage":"Grazie! Riceverai a breve un’e-mail di conferma.","cancelMessage":"Pagamento annullato.","backToShop":"Torna allo shop"},"footer":{"rights":"Tutti i diritti riservati."}},"children":[["$","$L20d",null,{}],["$","div",null,{"className":"flex min-h-screen flex-col overflow-x-hidden bg-[var(--bg-warm)] text-neutral-900 antialiased","children":[["$","$L20e",null,{}],["$","main",null,{"className":"flex-1","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]}],"$L20f"]}]]}]
+20f:["$","footer",null,{"className":"bg-neutral-900 py-8 text-center text-sm text-neutral-300","children":[["$","div",null,{"className":"h-1 w-full bg-[var(--header-dark)]","aria-hidden":true}],["$","div",null,{"className":"pt-6","children":["© ",2026," ",["$","strong",null,{"className":"font-semibold text-white","children":"trendswiss.ch"}],". ","Tutti i diritti riservati."]}]]}]

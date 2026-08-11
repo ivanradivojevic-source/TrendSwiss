@@ -1,0 +1,276 @@
+3:I[4707,[],""]
+6:I[6423,[],""]
+4:["locale","fr","d"]
+5:["slug","moveo-crna","d"]
+0:["ml7UmRV2zItQXVGmRrv7j",[[["",{"children":[["locale","fr","d"],{"children":["shop",{"children":[["slug","moveo-crna","d"],{"children":["__PAGE__?{\"locale\":\"fr\",\"slug\":\"moveo-crna\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","fr","d"],{"children":["shop",{"children":[["slug","moveo-crna","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children","shop","children","$5","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children","shop","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/810bbd7e806ce024.css","precedence":"next","crossOrigin":"$undefined"}]],"$L7"],null],null]},[[null,["$","html",null,{"suppressHydrationWarning":true,"children":["$","body",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}]}]],null],null],["$L8",null]]]]
+9:I[5664,["972","static/chunks/972-d71866a6631b6318.js","529","static/chunks/529-56c5ab17e14cba56.js","145","static/chunks/145-a8953cd3f91aee0b.js","883","static/chunks/883-e2a4759db12ee0dc.js","623","static/chunks/623-299883740fc8c65a.js","437","static/chunks/app/%5Blocale%5D/shop/%5Bslug%5D/page-35d9698df50a1a4d.js"],"default"]
+a:I[4456,["972","static/chunks/972-d71866a6631b6318.js","529","static/chunks/529-56c5ab17e14cba56.js","145","static/chunks/145-a8953cd3f91aee0b.js","883","static/chunks/883-e2a4759db12ee0dc.js","623","static/chunks/623-299883740fc8c65a.js","437","static/chunks/app/%5Blocale%5D/shop/%5Bslug%5D/page-35d9698df50a1a4d.js"],"default"]
+c:I[4929,["972","static/chunks/972-d71866a6631b6318.js","529","static/chunks/529-56c5ab17e14cba56.js","145","static/chunks/145-a8953cd3f91aee0b.js","883","static/chunks/883-e2a4759db12ee0dc.js","623","static/chunks/623-299883740fc8c65a.js","437","static/chunks/app/%5Blocale%5D/shop/%5Bslug%5D/page-35d9698df50a1a4d.js"],"default"]
+10f:I[564,["972","static/chunks/972-d71866a6631b6318.js","529","static/chunks/529-56c5ab17e14cba56.js","145","static/chunks/145-a8953cd3f91aee0b.js","883","static/chunks/883-e2a4759db12ee0dc.js","623","static/chunks/623-299883740fc8c65a.js","437","static/chunks/app/%5Blocale%5D/shop/%5Bslug%5D/page-35d9698df50a1a4d.js"],"default"]
+b:["https://cdn.leon.rs/wp-content/uploads/2026/04/520-Crna1.jpg","https://cdn.leon.rs/wp-content/uploads/2026/04/520-Crna3.jpg"]
+e:{"de":"Moveo – Schwarz","fr":"Moveo – Noir","en":"Moveo – Black","it":"Moveo – Nero"}
+f:{"de":"Anatomische Damensandale mit speziell geformtem Profil und Massagegel. Hergestellt aus nat�rlichem Material � Leder und Polyurethanschaum.","fr":"Sandale anatomique pour femme avec bande de roulement de forme sp�ciale, gel de massage. Fabriqu� en mat�riau naturel - cuir et mousse de polyur�thane.","en":"Women's anatomical sandal with a specially shaped tread, massage gel. Made of natural material - leather, and polyurethane foam.","it":"Sandalo anatomico da donna con battistrada dalla forma particolare, gel massaggiante. Realizzato in materiale naturale: pelle e schiuma di poliuretano."}
+12:{"de":"36","fr":"36","en":"36","it":"36"}
+11:{"id":"36","label":"$12"}
+14:{"de":"37","fr":"37","en":"37","it":"37"}
+13:{"id":"37","label":"$14"}
+16:{"de":"38","fr":"38","en":"38","it":"38"}
+15:{"id":"38","label":"$16"}
+18:{"de":"39","fr":"39","en":"39","it":"39"}
+17:{"id":"39","label":"$18"}
+1a:{"de":"40","fr":"40","en":"40","it":"40"}
+19:{"id":"40","label":"$1a"}
+1c:{"de":"41","fr":"41","en":"41","it":"41"}
+1b:{"id":"41","label":"$1c"}
+10:["$11","$13","$15","$17","$19","$1b"]
+1e:{"id":"black","label":"Schwarz","hex":"#111827"}
+1f:{"id":"grey","label":"Grau","hex":"#6b7280"}
+20:{"id":"white","label":"Weiss","hex":"#f9fafb"}
+1d:["$1e","$1f","$20"]
+24:{"de":"36","fr":"36","en":"36","it":"36"}
+23:{"id":"36","label":"$24"}
+22:{"size":"$23","color":"black","sku":"LEON-MOVEOCRNA-[object Object]-black","priceCHF":53,"stock":10}
+27:{"de":"36","fr":"36","en":"36","it":"36"}
+26:{"id":"36","label":"$27"}
+25:{"size":"$26","color":"grey","sku":"LEON-MOVEOCRNA-[object Object]-grey","priceCHF":53,"stock":10}
+2a:{"de":"36","fr":"36","en":"36","it":"36"}
+29:{"id":"36","label":"$2a"}
+28:{"size":"$29","color":"white","sku":"LEON-MOVEOCRNA-[object Object]-white","priceCHF":53,"stock":10}
+2d:{"de":"37","fr":"37","en":"37","it":"37"}
+2c:{"id":"37","label":"$2d"}
+2b:{"size":"$2c","color":"black","sku":"LEON-MOVEOCRNA-[object Object]-black","priceCHF":53,"stock":10}
+30:{"de":"37","fr":"37","en":"37","it":"37"}
+2f:{"id":"37","label":"$30"}
+2e:{"size":"$2f","color":"grey","sku":"LEON-MOVEOCRNA-[object Object]-grey","priceCHF":53,"stock":10}
+33:{"de":"37","fr":"37","en":"37","it":"37"}
+32:{"id":"37","label":"$33"}
+31:{"size":"$32","color":"white","sku":"LEON-MOVEOCRNA-[object Object]-white","priceCHF":53,"stock":10}
+36:{"de":"38","fr":"38","en":"38","it":"38"}
+35:{"id":"38","label":"$36"}
+34:{"size":"$35","color":"black","sku":"LEON-MOVEOCRNA-[object Object]-black","priceCHF":53,"stock":10}
+39:{"de":"38","fr":"38","en":"38","it":"38"}
+38:{"id":"38","label":"$39"}
+37:{"size":"$38","color":"grey","sku":"LEON-MOVEOCRNA-[object Object]-grey","priceCHF":53,"stock":10}
+3c:{"de":"38","fr":"38","en":"38","it":"38"}
+3b:{"id":"38","label":"$3c"}
+3a:{"size":"$3b","color":"white","sku":"LEON-MOVEOCRNA-[object Object]-white","priceCHF":53,"stock":10}
+3f:{"de":"39","fr":"39","en":"39","it":"39"}
+3e:{"id":"39","label":"$3f"}
+3d:{"size":"$3e","color":"black","sku":"LEON-MOVEOCRNA-[object Object]-black","priceCHF":53,"stock":10}
+42:{"de":"39","fr":"39","en":"39","it":"39"}
+41:{"id":"39","label":"$42"}
+40:{"size":"$41","color":"grey","sku":"LEON-MOVEOCRNA-[object Object]-grey","priceCHF":53,"stock":10}
+45:{"de":"39","fr":"39","en":"39","it":"39"}
+44:{"id":"39","label":"$45"}
+43:{"size":"$44","color":"white","sku":"LEON-MOVEOCRNA-[object Object]-white","priceCHF":53,"stock":10}
+48:{"de":"40","fr":"40","en":"40","it":"40"}
+47:{"id":"40","label":"$48"}
+46:{"size":"$47","color":"black","sku":"LEON-MOVEOCRNA-[object Object]-black","priceCHF":53,"stock":10}
+4b:{"de":"40","fr":"40","en":"40","it":"40"}
+4a:{"id":"40","label":"$4b"}
+49:{"size":"$4a","color":"grey","sku":"LEON-MOVEOCRNA-[object Object]-grey","priceCHF":53,"stock":10}
+4e:{"de":"40","fr":"40","en":"40","it":"40"}
+4d:{"id":"40","label":"$4e"}
+4c:{"size":"$4d","color":"white","sku":"LEON-MOVEOCRNA-[object Object]-white","priceCHF":53,"stock":10}
+51:{"de":"41","fr":"41","en":"41","it":"41"}
+50:{"id":"41","label":"$51"}
+4f:{"size":"$50","color":"black","sku":"LEON-MOVEOCRNA-[object Object]-black","priceCHF":53,"stock":10}
+54:{"de":"41","fr":"41","en":"41","it":"41"}
+53:{"id":"41","label":"$54"}
+52:{"size":"$53","color":"grey","sku":"LEON-MOVEOCRNA-[object Object]-grey","priceCHF":53,"stock":10}
+57:{"de":"41","fr":"41","en":"41","it":"41"}
+56:{"id":"41","label":"$57"}
+55:{"size":"$56","color":"white","sku":"LEON-MOVEOCRNA-[object Object]-white","priceCHF":53,"stock":10}
+21:["$22","$25","$28","$2b","$2e","$31","$34","$37","$3a","$3d","$40","$43","$46","$49","$4c","$4f","$52","$55"]
+5a:{"de":"Obermaterial","fr":"Composition du dessus","en":"Upper material","it":"Tomaia"}
+5b:{"de":"Naturleder mit anatomischem Profil","fr":"Cuir naturel avec bande de roulement anatomique","en":"Natural leather with anatomical tread","it":"Pelle naturale con battistrada anatomico"}
+59:{"label":"$5a","value":"$5b"}
+5d:{"de":"Fußbett","fr":"Semelle intérieure","en":"Footbed","it":"Plantare"}
+5e:{"de":"Naturleder mit anatomischem Profil","fr":"Cuir naturel avec bande de roulement anatomique","en":"Natural leather with anatomical tread","it":"Pelle naturale con battistrada anatomico"}
+5c:{"label":"$5d","value":"$5e"}
+60:{"de":"Laufsohle","fr":"Semelle extérieure","en":"Outsole","it":"Suola"}
+61:{"de":"Polyurethan","fr":"Polyur�thane","en":"Polyurethane","it":"Poliuretano"}
+5f:{"label":"$60","value":"$61"}
+58:["$59","$5c","$5f"]
+d:{"id":"leon-moveo-crna","slug":"moveo-crna","category":"women","brand":"leon","modelGroupId":"leon-mg-moveo-women","name":"$e","description":"$f","image":"https://cdn.leon.rs/wp-content/uploads/2026/04/520-Crna1.jpg","sizes":"$10","colors":"$1d","variants":"$21","articleNumber":"520","colorLabel":"Black","images":"$b","specifications":"$58"}
+64:{"de":"Moveo – LED","fr":"Moveo – LED","en":"Moveo – LED","it":"Moveo – LED"}
+65:{"de":"Anatomische Damensandale mit speziell geformtem Profil und Massagegel. Hergestellt aus nat�rlichem Material � Leder und Polyurethanschaum.","fr":"Sandale anatomique pour femme avec bande de roulement de forme sp�ciale, gel de massage. Fabriqu� en mat�riau naturel - cuir et mousse de polyur�thane.","en":"Women's anatomical sandal with a specially shaped tread, massage gel. Made of natural material - leather, and polyurethane foam.","it":"Sandalo anatomico da donna con battistrada dalla forma particolare, gel massaggiante. Realizzato in materiale naturale: pelle e schiuma di poliuretano."}
+68:{"de":"36","fr":"36","en":"36","it":"36"}
+67:{"id":"36","label":"$68"}
+6a:{"de":"37","fr":"37","en":"37","it":"37"}
+69:{"id":"37","label":"$6a"}
+6c:{"de":"38","fr":"38","en":"38","it":"38"}
+6b:{"id":"38","label":"$6c"}
+6e:{"de":"39","fr":"39","en":"39","it":"39"}
+6d:{"id":"39","label":"$6e"}
+70:{"de":"40","fr":"40","en":"40","it":"40"}
+6f:{"id":"40","label":"$70"}
+72:{"de":"41","fr":"41","en":"41","it":"41"}
+71:{"id":"41","label":"$72"}
+66:["$67","$69","$6b","$6d","$6f","$71"]
+74:{"id":"black","label":"Schwarz","hex":"#111827"}
+75:{"id":"grey","label":"Grau","hex":"#6b7280"}
+76:{"id":"white","label":"Weiss","hex":"#f9fafb"}
+73:["$74","$75","$76"]
+7a:{"de":"36","fr":"36","en":"36","it":"36"}
+79:{"id":"36","label":"$7a"}
+78:{"size":"$79","color":"black","sku":"LEON-MOVEOLED-[object Object]-black","priceCHF":53,"stock":10}
+7d:{"de":"36","fr":"36","en":"36","it":"36"}
+7c:{"id":"36","label":"$7d"}
+7b:{"size":"$7c","color":"grey","sku":"LEON-MOVEOLED-[object Object]-grey","priceCHF":53,"stock":10}
+80:{"de":"36","fr":"36","en":"36","it":"36"}
+7f:{"id":"36","label":"$80"}
+7e:{"size":"$7f","color":"white","sku":"LEON-MOVEOLED-[object Object]-white","priceCHF":53,"stock":10}
+83:{"de":"37","fr":"37","en":"37","it":"37"}
+82:{"id":"37","label":"$83"}
+81:{"size":"$82","color":"black","sku":"LEON-MOVEOLED-[object Object]-black","priceCHF":53,"stock":10}
+86:{"de":"37","fr":"37","en":"37","it":"37"}
+85:{"id":"37","label":"$86"}
+84:{"size":"$85","color":"grey","sku":"LEON-MOVEOLED-[object Object]-grey","priceCHF":53,"stock":10}
+89:{"de":"37","fr":"37","en":"37","it":"37"}
+88:{"id":"37","label":"$89"}
+87:{"size":"$88","color":"white","sku":"LEON-MOVEOLED-[object Object]-white","priceCHF":53,"stock":10}
+8c:{"de":"38","fr":"38","en":"38","it":"38"}
+8b:{"id":"38","label":"$8c"}
+8a:{"size":"$8b","color":"black","sku":"LEON-MOVEOLED-[object Object]-black","priceCHF":53,"stock":10}
+8f:{"de":"38","fr":"38","en":"38","it":"38"}
+8e:{"id":"38","label":"$8f"}
+8d:{"size":"$8e","color":"grey","sku":"LEON-MOVEOLED-[object Object]-grey","priceCHF":53,"stock":10}
+92:{"de":"38","fr":"38","en":"38","it":"38"}
+91:{"id":"38","label":"$92"}
+90:{"size":"$91","color":"white","sku":"LEON-MOVEOLED-[object Object]-white","priceCHF":53,"stock":10}
+95:{"de":"39","fr":"39","en":"39","it":"39"}
+94:{"id":"39","label":"$95"}
+93:{"size":"$94","color":"black","sku":"LEON-MOVEOLED-[object Object]-black","priceCHF":53,"stock":10}
+98:{"de":"39","fr":"39","en":"39","it":"39"}
+97:{"id":"39","label":"$98"}
+96:{"size":"$97","color":"grey","sku":"LEON-MOVEOLED-[object Object]-grey","priceCHF":53,"stock":10}
+9b:{"de":"39","fr":"39","en":"39","it":"39"}
+9a:{"id":"39","label":"$9b"}
+99:{"size":"$9a","color":"white","sku":"LEON-MOVEOLED-[object Object]-white","priceCHF":53,"stock":10}
+9e:{"de":"40","fr":"40","en":"40","it":"40"}
+9d:{"id":"40","label":"$9e"}
+9c:{"size":"$9d","color":"black","sku":"LEON-MOVEOLED-[object Object]-black","priceCHF":53,"stock":10}
+a1:{"de":"40","fr":"40","en":"40","it":"40"}
+a0:{"id":"40","label":"$a1"}
+9f:{"size":"$a0","color":"grey","sku":"LEON-MOVEOLED-[object Object]-grey","priceCHF":53,"stock":10}
+a4:{"de":"40","fr":"40","en":"40","it":"40"}
+a3:{"id":"40","label":"$a4"}
+a2:{"size":"$a3","color":"white","sku":"LEON-MOVEOLED-[object Object]-white","priceCHF":53,"stock":10}
+a7:{"de":"41","fr":"41","en":"41","it":"41"}
+a6:{"id":"41","label":"$a7"}
+a5:{"size":"$a6","color":"black","sku":"LEON-MOVEOLED-[object Object]-black","priceCHF":53,"stock":10}
+aa:{"de":"41","fr":"41","en":"41","it":"41"}
+a9:{"id":"41","label":"$aa"}
+a8:{"size":"$a9","color":"grey","sku":"LEON-MOVEOLED-[object Object]-grey","priceCHF":53,"stock":10}
+ad:{"de":"41","fr":"41","en":"41","it":"41"}
+ac:{"id":"41","label":"$ad"}
+ab:{"size":"$ac","color":"white","sku":"LEON-MOVEOLED-[object Object]-white","priceCHF":53,"stock":10}
+77:["$78","$7b","$7e","$81","$84","$87","$8a","$8d","$90","$93","$96","$99","$9c","$9f","$a2","$a5","$a8","$ab"]
+ae:["https://cdn.leon.rs/wp-content/uploads/2026/04/520-Led1.jpg","https://cdn.leon.rs/wp-content/uploads/2026/04/520-Led2.jpg","https://cdn.leon.rs/wp-content/uploads/2026/04/520-Led3.jpg"]
+b1:{"de":"Obermaterial","fr":"Composition du dessus","en":"Upper material","it":"Tomaia"}
+b2:{"de":"Naturleder mit anatomischem Profil","fr":"Cuir naturel avec bande de roulement anatomique","en":"Natural leather with anatomical tread","it":"Pelle naturale con battistrada anatomico"}
+b0:{"label":"$b1","value":"$b2"}
+b4:{"de":"Fußbett","fr":"Semelle intérieure","en":"Footbed","it":"Plantare"}
+b5:{"de":"Naturleder mit anatomischem Profil","fr":"Cuir naturel avec bande de roulement anatomique","en":"Natural leather with anatomical tread","it":"Pelle naturale con battistrada anatomico"}
+b3:{"label":"$b4","value":"$b5"}
+b7:{"de":"Laufsohle","fr":"Semelle extérieure","en":"Outsole","it":"Suola"}
+b8:{"de":"Polyurethan","fr":"Polyur�thane","en":"Polyurethane","it":"Poliuretano"}
+b6:{"label":"$b7","value":"$b8"}
+af:["$b0","$b3","$b6"]
+63:{"id":"leon-moveo-led","slug":"moveo-led","category":"women","brand":"leon","modelGroupId":"leon-mg-moveo-women","name":"$64","description":"$65","image":"https://cdn.leon.rs/wp-content/uploads/2026/04/520-Led1.jpg","sizes":"$66","colors":"$73","variants":"$77","articleNumber":"520","colorLabel":"LED","images":"$ae","specifications":"$af"}
+ba:{"de":"Moveo – Beige","fr":"Moveo – Beige","en":"Moveo – Beige","it":"Moveo – Beige"}
+bb:{"de":"Anatomische Damensandale mit speziell geformtem Profil und Massagegel. Hergestellt aus nat�rlichem Material � Leder und Polyurethanschaum.","fr":"Sandale anatomique pour femme avec bande de roulement de forme sp�ciale, gel de massage. Fabriqu� en mat�riau naturel - cuir et mousse de polyur�thane.","en":"Women's anatomical sandal with a specially shaped tread, massage gel. Made of natural material - leather, and polyurethane foam.","it":"Sandalo anatomico da donna con battistrada dalla forma particolare, gel massaggiante. Realizzato in materiale naturale: pelle e schiuma di poliuretano."}
+be:{"de":"36","fr":"36","en":"36","it":"36"}
+bd:{"id":"36","label":"$be"}
+c0:{"de":"37","fr":"37","en":"37","it":"37"}
+bf:{"id":"37","label":"$c0"}
+c2:{"de":"38","fr":"38","en":"38","it":"38"}
+c1:{"id":"38","label":"$c2"}
+c4:{"de":"39","fr":"39","en":"39","it":"39"}
+c3:{"id":"39","label":"$c4"}
+c6:{"de":"40","fr":"40","en":"40","it":"40"}
+c5:{"id":"40","label":"$c6"}
+c8:{"de":"41","fr":"41","en":"41","it":"41"}
+c7:{"id":"41","label":"$c8"}
+bc:["$bd","$bf","$c1","$c3","$c5","$c7"]
+ca:{"id":"black","label":"Schwarz","hex":"#111827"}
+cb:{"id":"grey","label":"Grau","hex":"#6b7280"}
+cc:{"id":"white","label":"Weiss","hex":"#f9fafb"}
+c9:["$ca","$cb","$cc"]
+d0:{"de":"36","fr":"36","en":"36","it":"36"}
+cf:{"id":"36","label":"$d0"}
+ce:{"size":"$cf","color":"black","sku":"LEON-MOVEOBEZ-[object Object]-black","priceCHF":53,"stock":10}
+d3:{"de":"36","fr":"36","en":"36","it":"36"}
+d2:{"id":"36","label":"$d3"}
+d1:{"size":"$d2","color":"grey","sku":"LEON-MOVEOBEZ-[object Object]-grey","priceCHF":53,"stock":10}
+d6:{"de":"36","fr":"36","en":"36","it":"36"}
+d5:{"id":"36","label":"$d6"}
+d4:{"size":"$d5","color":"white","sku":"LEON-MOVEOBEZ-[object Object]-white","priceCHF":53,"stock":10}
+d9:{"de":"37","fr":"37","en":"37","it":"37"}
+d8:{"id":"37","label":"$d9"}
+d7:{"size":"$d8","color":"black","sku":"LEON-MOVEOBEZ-[object Object]-black","priceCHF":53,"stock":10}
+dc:{"de":"37","fr":"37","en":"37","it":"37"}
+db:{"id":"37","label":"$dc"}
+da:{"size":"$db","color":"grey","sku":"LEON-MOVEOBEZ-[object Object]-grey","priceCHF":53,"stock":10}
+df:{"de":"37","fr":"37","en":"37","it":"37"}
+de:{"id":"37","label":"$df"}
+dd:{"size":"$de","color":"white","sku":"LEON-MOVEOBEZ-[object Object]-white","priceCHF":53,"stock":10}
+e2:{"de":"38","fr":"38","en":"38","it":"38"}
+e1:{"id":"38","label":"$e2"}
+e0:{"size":"$e1","color":"black","sku":"LEON-MOVEOBEZ-[object Object]-black","priceCHF":53,"stock":10}
+e5:{"de":"38","fr":"38","en":"38","it":"38"}
+e4:{"id":"38","label":"$e5"}
+e3:{"size":"$e4","color":"grey","sku":"LEON-MOVEOBEZ-[object Object]-grey","priceCHF":53,"stock":10}
+e8:{"de":"38","fr":"38","en":"38","it":"38"}
+e7:{"id":"38","label":"$e8"}
+e6:{"size":"$e7","color":"white","sku":"LEON-MOVEOBEZ-[object Object]-white","priceCHF":53,"stock":10}
+eb:{"de":"39","fr":"39","en":"39","it":"39"}
+ea:{"id":"39","label":"$eb"}
+e9:{"size":"$ea","color":"black","sku":"LEON-MOVEOBEZ-[object Object]-black","priceCHF":53,"stock":10}
+ee:{"de":"39","fr":"39","en":"39","it":"39"}
+ed:{"id":"39","label":"$ee"}
+ec:{"size":"$ed","color":"grey","sku":"LEON-MOVEOBEZ-[object Object]-grey","priceCHF":53,"stock":10}
+f1:{"de":"39","fr":"39","en":"39","it":"39"}
+f0:{"id":"39","label":"$f1"}
+ef:{"size":"$f0","color":"white","sku":"LEON-MOVEOBEZ-[object Object]-white","priceCHF":53,"stock":10}
+f4:{"de":"40","fr":"40","en":"40","it":"40"}
+f3:{"id":"40","label":"$f4"}
+f2:{"size":"$f3","color":"black","sku":"LEON-MOVEOBEZ-[object Object]-black","priceCHF":53,"stock":10}
+f7:{"de":"40","fr":"40","en":"40","it":"40"}
+f6:{"id":"40","label":"$f7"}
+f5:{"size":"$f6","color":"grey","sku":"LEON-MOVEOBEZ-[object Object]-grey","priceCHF":53,"stock":10}
+fa:{"de":"40","fr":"40","en":"40","it":"40"}
+f9:{"id":"40","label":"$fa"}
+f8:{"size":"$f9","color":"white","sku":"LEON-MOVEOBEZ-[object Object]-white","priceCHF":53,"stock":10}
+fd:{"de":"41","fr":"41","en":"41","it":"41"}
+fc:{"id":"41","label":"$fd"}
+fb:{"size":"$fc","color":"black","sku":"LEON-MOVEOBEZ-[object Object]-black","priceCHF":53,"stock":10}
+100:{"de":"41","fr":"41","en":"41","it":"41"}
+ff:{"id":"41","label":"$100"}
+fe:{"size":"$ff","color":"grey","sku":"LEON-MOVEOBEZ-[object Object]-grey","priceCHF":53,"stock":10}
+103:{"de":"41","fr":"41","en":"41","it":"41"}
+102:{"id":"41","label":"$103"}
+101:{"size":"$102","color":"white","sku":"LEON-MOVEOBEZ-[object Object]-white","priceCHF":53,"stock":10}
+cd:["$ce","$d1","$d4","$d7","$da","$dd","$e0","$e3","$e6","$e9","$ec","$ef","$f2","$f5","$f8","$fb","$fe","$101"]
+104:["https://cdn.leon.rs/wp-content/uploads/2026/04/520-Bez1.jpg","https://cdn.leon.rs/wp-content/uploads/2026/04/520-Bez2.jpg","https://cdn.leon.rs/wp-content/uploads/2026/04/520-Bez3.jpg"]
+107:{"de":"Obermaterial","fr":"Composition du dessus","en":"Upper material","it":"Tomaia"}
+108:{"de":"Naturleder mit anatomischem Profil","fr":"Cuir naturel avec bande de roulement anatomique","en":"Natural leather with anatomical tread","it":"Pelle naturale con battistrada anatomico"}
+106:{"label":"$107","value":"$108"}
+10a:{"de":"Fußbett","fr":"Semelle intérieure","en":"Footbed","it":"Plantare"}
+10b:{"de":"Naturleder mit anatomischem Profil","fr":"Cuir naturel avec bande de roulement anatomique","en":"Natural leather with anatomical tread","it":"Pelle naturale con battistrada anatomico"}
+109:{"label":"$10a","value":"$10b"}
+10d:{"de":"Laufsohle","fr":"Semelle extérieure","en":"Outsole","it":"Suola"}
+10e:{"de":"Polyurethan","fr":"Polyur�thane","en":"Polyurethane","it":"Poliuretano"}
+10c:{"label":"$10d","value":"$10e"}
+105:["$106","$109","$10c"]
+b9:{"id":"leon-moveo-bez","slug":"moveo-bez","category":"women","brand":"leon","modelGroupId":"leon-mg-moveo-women","name":"$ba","description":"$bb","image":"https://cdn.leon.rs/wp-content/uploads/2026/04/520-Bez1.jpg","sizes":"$bc","colors":"$c9","variants":"$cd","articleNumber":"520","colorLabel":"Beige","images":"$104","specifications":"$105"}
+62:["$63","$d","$b9"]
+2:["$","div",null,{"className":"mx-auto max-w-6xl px-4 py-10","children":[["$","div",null,{"className":"grid gap-10 md:grid-cols-2","children":[["$","$L9",null,{"images":["https://cdn.leon.rs/wp-content/uploads/2026/04/520-Crna1.jpg","https://cdn.leon.rs/wp-content/uploads/2026/04/520-Crna3.jpg"],"alt":"Moveo – Noir"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-2xl font-bold text-neutral-900 md:text-3xl","children":"Moveo – Noir"}],["$","p",null,{"className":"mt-2 text-sm text-neutral-600","children":[["$","span",null,{"className":"font-medium text-neutral-500","children":["Réf.",":"]}]," ",["$","span",null,{"className":"font-mono font-semibold tracking-wide text-neutral-900","children":"520 · Black"}]]}],["$","p",null,{"className":"mt-4 text-neutral-600","children":"Sandale anatomique pour femme avec bande de roulement de forme sp�ciale, gel de massage. Fabriqu� en mat�riau naturel - cuir et mousse de polyur�thane."}],["$","p",null,{"className":"mt-4 text-lg font-semibold text-red-600","children":"CHF 53.00"}],["$","$La",null,{"locale":"fr","currentSlug":"moveo-crna","siblings":[{"id":"leon-moveo-led","slug":"moveo-led","category":"women","brand":"leon","modelGroupId":"leon-mg-moveo-women","name":{"de":"Moveo – LED","fr":"Moveo – LED","en":"Moveo – LED","it":"Moveo – LED"},"description":{"de":"Anatomische Damensandale mit speziell geformtem Profil und Massagegel. Hergestellt aus nat�rlichem Material � Leder und Polyurethanschaum.","fr":"Sandale anatomique pour femme avec bande de roulement de forme sp�ciale, gel de massage. Fabriqu� en mat�riau naturel - cuir et mousse de polyur�thane.","en":"Women's anatomical sandal with a specially shaped tread, massage gel. Made of natural material - leather, and polyurethane foam.","it":"Sandalo anatomico da donna con battistrada dalla forma particolare, gel massaggiante. Realizzato in materiale naturale: pelle e schiuma di poliuretano."},"image":"https://cdn.leon.rs/wp-content/uploads/2026/04/520-Led1.jpg","sizes":[{"id":"36","label":{"de":"36","fr":"36","en":"36","it":"36"}},{"id":"37","label":{"de":"37","fr":"37","en":"37","it":"37"}},{"id":"38","label":{"de":"38","fr":"38","en":"38","it":"38"}},{"id":"39","label":{"de":"39","fr":"39","en":"39","it":"39"}},{"id":"40","label":{"de":"40","fr":"40","en":"40","it":"40"}},{"id":"41","label":{"de":"41","fr":"41","en":"41","it":"41"}}],"colors":[{"id":"black","label":"Schwarz","hex":"#111827"},{"id":"grey","label":"Grau","hex":"#6b7280"},{"id":"white","label":"Weiss","hex":"#f9fafb"}],"variants":[{"size":{"id":"36","label":{"de":"36","fr":"36","en":"36","it":"36"}},"color":"black","sku":"LEON-MOVEOLED-[object Object]-black","priceCHF":53,"stock":10},{"size":{"id":"36","label":{"de":"36","fr":"36","en":"36","it":"36"}},"color":"grey","sku":"LEON-MOVEOLED-[object Object]-grey","priceCHF":53,"stock":10},{"size":{"id":"36","label":{"de":"36","fr":"36","en":"36","it":"36"}},"color":"white","sku":"LEON-MOVEOLED-[object Object]-white","priceCHF":53,"stock":10},{"size":{"id":"37","label":{"de":"37","fr":"37","en":"37","it":"37"}},"color":"black","sku":"LEON-MOVEOLED-[object Object]-black","priceCHF":53,"stock":10},{"size":{"id":"37","label":{"de":"37","fr":"37","en":"37","it":"37"}},"color":"grey","sku":"LEON-MOVEOLED-[object Object]-grey","priceCHF":53,"stock":10},{"size":{"id":"37","label":{"de":"37","fr":"37","en":"37","it":"37"}},"color":"white","sku":"LEON-MOVEOLED-[object Object]-white","priceCHF":53,"stock":10},{"size":{"id":"38","label":{"de":"38","fr":"38","en":"38","it":"38"}},"color":"black","sku":"LEON-MOVEOLED-[object Object]-black","priceCHF":53,"stock":10},{"size":{"id":"38","label":{"de":"38","fr":"38","en":"38","it":"38"}},"color":"grey","sku":"LEON-MOVEOLED-[object Object]-grey","priceCHF":53,"stock":10},{"size":{"id":"38","label":{"de":"38","fr":"38","en":"38","it":"38"}},"color":"white","sku":"LEON-MOVEOLED-[object Object]-white","priceCHF":53,"stock":10},{"size":{"id":"39","label":{"de":"39","fr":"39","en":"39","it":"39"}},"color":"black","sku":"LEON-MOVEOLED-[object Object]-black","priceCHF":53,"stock":10},{"size":{"id":"39","label":{"de":"39","fr":"39","en":"39","it":"39"}},"color":"grey","sku":"LEON-MOVEOLED-[object Object]-grey","priceCHF":53,"stock":10},{"size":{"id":"39","label":{"de":"39","fr":"39","en":"39","it":"39"}},"color":"white","sku":"LEON-MOVEOLED-[object Object]-white","priceCHF":53,"stock":10},{"size":{"id":"40","label":{"de":"40","fr":"40","en":"40","it":"40"}},"color":"black","sku":"LEON-MOVEOLED-[object Object]-black","priceCHF":53,"stock":10},{"size":{"id":"40","label":{"de":"40","fr":"40","en":"40","it":"40"}},"color":"grey","sku":"LEON-MOVEOLED-[object Object]-grey","priceCHF":53,"stock":10},{"size":{"id":"40","label":{"de":"40","fr":"40","en":"40","it":"40"}},"color":"white","sku":"LEON-MOVEOLED-[object Object]-white","priceCHF":53,"stock":10},{"size":{"id":"41","label":{"de":"41","fr":"41","en":"41","it":"41"}},"color":"black","sku":"LEON-MOVEOLED-[object Object]-black","priceCHF":53,"stock":10},{"size":{"id":"41","label":{"de":"41","fr":"41","en":"41","it":"41"}},"color":"grey","sku":"LEON-MOVEOLED-[object Object]-grey","priceCHF":53,"stock":10},{"size":{"id":"41","label":{"de":"41","fr":"41","en":"41","it":"41"}},"color":"white","sku":"LEON-MOVEOLED-[object Object]-white","priceCHF":53,"stock":10}],"articleNumber":"520","colorLabel":"LED","images":["https://cdn.leon.rs/wp-content/uploads/2026/04/520-Led1.jpg","https://cdn.leon.rs/wp-content/uploads/2026/04/520-Led2.jpg","https://cdn.leon.rs/wp-content/uploads/2026/04/520-Led3.jpg"],"specifications":[{"label":{"de":"Obermaterial","fr":"Composition du dessus","en":"Upper material","it":"Tomaia"},"value":{"de":"Naturleder mit anatomischem Profil","fr":"Cuir naturel avec bande de roulement anatomique","en":"Natural leather with anatomical tread","it":"Pelle naturale con battistrada anatomico"}},{"label":{"de":"Fußbett","fr":"Semelle intérieure","en":"Footbed","it":"Plantare"},"value":{"de":"Naturleder mit anatomischem Profil","fr":"Cuir naturel avec bande de roulement anatomique","en":"Natural leather with anatomical tread","it":"Pelle naturale con battistrada anatomico"}},{"label":{"de":"Laufsohle","fr":"Semelle extérieure","en":"Outsole","it":"Suola"},"value":{"de":"Polyurethan","fr":"Polyur�thane","en":"Polyurethane","it":"Poliuretano"}}]},{"id":"leon-moveo-crna","slug":"moveo-crna","category":"women","brand":"leon","modelGroupId":"leon-mg-moveo-women","name":{"de":"Moveo – Schwarz","fr":"Moveo – Noir","en":"Moveo – Black","it":"Moveo – Nero"},"description":{"de":"Anatomische Damensandale mit speziell geformtem Profil und Massagegel. Hergestellt aus nat�rlichem Material � Leder und Polyurethanschaum.","fr":"Sandale anatomique pour femme avec bande de roulement de forme sp�ciale, gel de massage. Fabriqu� en mat�riau naturel - cuir et mousse de polyur�thane.","en":"Women's anatomical sandal with a specially shaped tread, massage gel. Made of natural material - leather, and polyurethane foam.","it":"Sandalo anatomico da donna con battistrada dalla forma particolare, gel massaggiante. Realizzato in materiale naturale: pelle e schiuma di poliuretano."},"image":"https://cdn.leon.rs/wp-content/uploads/2026/04/520-Crna1.jpg","sizes":[{"id":"36","label":{"de":"36","fr":"36","en":"36","it":"36"}},{"id":"37","label":{"de":"37","fr":"37","en":"37","it":"37"}},{"id":"38","label":{"de":"38","fr":"38","en":"38","it":"38"}},{"id":"39","label":{"de":"39","fr":"39","en":"39","it":"39"}},{"id":"40","label":{"de":"40","fr":"40","en":"40","it":"40"}},{"id":"41","label":{"de":"41","fr":"41","en":"41","it":"41"}}],"colors":[{"id":"black","label":"Schwarz","hex":"#111827"},{"id":"grey","label":"Grau","hex":"#6b7280"},{"id":"white","label":"Weiss","hex":"#f9fafb"}],"variants":[{"size":{"id":"36","label":{"de":"36","fr":"36","en":"36","it":"36"}},"color":"black","sku":"LEON-MOVEOCRNA-[object Object]-black","priceCHF":53,"stock":10},{"size":{"id":"36","label":{"de":"36","fr":"36","en":"36","it":"36"}},"color":"grey","sku":"LEON-MOVEOCRNA-[object Object]-grey","priceCHF":53,"stock":10},{"size":{"id":"36","label":{"de":"36","fr":"36","en":"36","it":"36"}},"color":"white","sku":"LEON-MOVEOCRNA-[object Object]-white","priceCHF":53,"stock":10},{"size":{"id":"37","label":{"de":"37","fr":"37","en":"37","it":"37"}},"color":"black","sku":"LEON-MOVEOCRNA-[object Object]-black","priceCHF":53,"stock":10},{"size":{"id":"37","label":{"de":"37","fr":"37","en":"37","it":"37"}},"color":"grey","sku":"LEON-MOVEOCRNA-[object Object]-grey","priceCHF":53,"stock":10},{"size":{"id":"37","label":{"de":"37","fr":"37","en":"37","it":"37"}},"color":"white","sku":"LEON-MOVEOCRNA-[object Object]-white","priceCHF":53,"stock":10},{"size":{"id":"38","label":{"de":"38","fr":"38","en":"38","it":"38"}},"color":"black","sku":"LEON-MOVEOCRNA-[object Object]-black","priceCHF":53,"stock":10},{"size":{"id":"38","label":{"de":"38","fr":"38","en":"38","it":"38"}},"color":"grey","sku":"LEON-MOVEOCRNA-[object Object]-grey","priceCHF":53,"stock":10},{"size":{"id":"38","label":{"de":"38","fr":"38","en":"38","it":"38"}},"color":"white","sku":"LEON-MOVEOCRNA-[object Object]-white","priceCHF":53,"stock":10},{"size":{"id":"39","label":{"de":"39","fr":"39","en":"39","it":"39"}},"color":"black","sku":"LEON-MOVEOCRNA-[object Object]-black","priceCHF":53,"stock":10},{"size":{"id":"39","label":{"de":"39","fr":"39","en":"39","it":"39"}},"color":"grey","sku":"LEON-MOVEOCRNA-[object Object]-grey","priceCHF":53,"stock":10},{"size":{"id":"39","label":{"de":"39","fr":"39","en":"39","it":"39"}},"color":"white","sku":"LEON-MOVEOCRNA-[object Object]-white","priceCHF":53,"stock":10},{"size":{"id":"40","label":{"de":"40","fr":"40","en":"40","it":"40"}},"color":"black","sku":"LEON-MOVEOCRNA-[object Object]-black","priceCHF":53,"stock":10},{"size":{"id":"40","label":{"de":"40","fr":"40","en":"40","it":"40"}},"color":"grey","sku":"LEON-MOVEOCRNA-[object Object]-grey","priceCHF":53,"stock":10},{"size":{"id":"40","label":{"de":"40","fr":"40","en":"40","it":"40"}},"color":"white","sku":"LEON-MOVEOCRNA-[object Object]-white","priceCHF":53,"stock":10},{"size":{"id":"41","label":{"de":"41","fr":"41","en":"41","it":"41"}},"color":"black","sku":"LEON-MOVEOCRNA-[object Object]-black","priceCHF":53,"stock":10},{"size":{"id":"41","label":{"de":"41","fr":"41","en":"41","it":"41"}},"color":"grey","sku":"LEON-MOVEOCRNA-[object Object]-grey","priceCHF":53,"stock":10},{"size":{"id":"41","label":{"de":"41","fr":"41","en":"41","it":"41"}},"color":"white","sku":"LEON-MOVEOCRNA-[object Object]-white","priceCHF":53,"stock":10}],"articleNumber":"520","colorLabel":"Black","images":"$b","specifications":[{"label":{"de":"Obermaterial","fr":"Composition du dessus","en":"Upper material","it":"Tomaia"},"value":{"de":"Naturleder mit anatomischem Profil","fr":"Cuir naturel avec bande de roulement anatomique","en":"Natural leather with anatomical tread","it":"Pelle naturale con battistrada anatomico"}},{"label":{"de":"Fußbett","fr":"Semelle intérieure","en":"Footbed","it":"Plantare"},"value":{"de":"Naturleder mit anatomischem Profil","fr":"Cuir naturel avec bande de roulement anatomique","en":"Natural leather with anatomical tread","it":"Pelle naturale con battistrada anatomico"}},{"label":{"de":"Laufsohle","fr":"Semelle extérieure","en":"Outsole","it":"Suola"},"value":{"de":"Polyurethan","fr":"Polyur�thane","en":"Polyurethane","it":"Poliuretano"}}]},{"id":"leon-moveo-bez","slug":"moveo-bez","category":"women","brand":"leon","modelGroupId":"leon-mg-moveo-women","name":{"de":"Moveo – Beige","fr":"Moveo – Beige","en":"Moveo – Beige","it":"Moveo – Beige"},"description":{"de":"Anatomische Damensandale mit speziell geformtem Profil und Massagegel. Hergestellt aus nat�rlichem Material � Leder und Polyurethanschaum.","fr":"Sandale anatomique pour femme avec bande de roulement de forme sp�ciale, gel de massage. Fabriqu� en mat�riau naturel - cuir et mousse de polyur�thane.","en":"Women's anatomical sandal with a specially shaped tread, massage gel. Made of natural material - leather, and polyurethane foam.","it":"Sandalo anatomico da donna con battistrada dalla forma particolare, gel massaggiante. Realizzato in materiale naturale: pelle e schiuma di poliuretano."},"image":"https://cdn.leon.rs/wp-content/uploads/2026/04/520-Bez1.jpg","sizes":[{"id":"36","label":{"de":"36","fr":"36","en":"36","it":"36"}},{"id":"37","label":{"de":"37","fr":"37","en":"37","it":"37"}},{"id":"38","label":{"de":"38","fr":"38","en":"38","it":"38"}},{"id":"39","label":{"de":"39","fr":"39","en":"39","it":"39"}},{"id":"40","label":{"de":"40","fr":"40","en":"40","it":"40"}},{"id":"41","label":{"de":"41","fr":"41","en":"41","it":"41"}}],"colors":[{"id":"black","label":"Schwarz","hex":"#111827"},{"id":"grey","label":"Grau","hex":"#6b7280"},{"id":"white","label":"Weiss","hex":"#f9fafb"}],"variants":[{"size":{"id":"36","label":{"de":"36","fr":"36","en":"36","it":"36"}},"color":"black","sku":"LEON-MOVEOBEZ-[object Object]-black","priceCHF":53,"stock":10},{"size":{"id":"36","label":{"de":"36","fr":"36","en":"36","it":"36"}},"color":"grey","sku":"LEON-MOVEOBEZ-[object Object]-grey","priceCHF":53,"stock":10},{"size":{"id":"36","label":{"de":"36","fr":"36","en":"36","it":"36"}},"color":"white","sku":"LEON-MOVEOBEZ-[object Object]-white","priceCHF":53,"stock":10},{"size":{"id":"37","label":{"de":"37","fr":"37","en":"37","it":"37"}},"color":"black","sku":"LEON-MOVEOBEZ-[object Object]-black","priceCHF":53,"stock":10},{"size":{"id":"37","label":{"de":"37","fr":"37","en":"37","it":"37"}},"color":"grey","sku":"LEON-MOVEOBEZ-[object Object]-grey","priceCHF":53,"stock":10},{"size":{"id":"37","label":{"de":"37","fr":"37","en":"37","it":"37"}},"color":"white","sku":"LEON-MOVEOBEZ-[object Object]-white","priceCHF":53,"stock":10},{"size":{"id":"38","label":{"de":"38","fr":"38","en":"38","it":"38"}},"color":"black","sku":"LEON-MOVEOBEZ-[object Object]-black","priceCHF":53,"stock":10},{"size":{"id":"38","label":{"de":"38","fr":"38","en":"38","it":"38"}},"color":"grey","sku":"LEON-MOVEOBEZ-[object Object]-grey","priceCHF":53,"stock":10},{"size":{"id":"38","label":{"de":"38","fr":"38","en":"38","it":"38"}},"color":"white","sku":"LEON-MOVEOBEZ-[object Object]-white","priceCHF":53,"stock":10},{"size":{"id":"39","label":{"de":"39","fr":"39","en":"39","it":"39"}},"color":"black","sku":"LEON-MOVEOBEZ-[object Object]-black","priceCHF":53,"stock":10},{"size":{"id":"39","label":{"de":"39","fr":"39","en":"39","it":"39"}},"color":"grey","sku":"LEON-MOVEOBEZ-[object Object]-grey","priceCHF":53,"stock":10},{"size":{"id":"39","label":{"de":"39","fr":"39","en":"39","it":"39"}},"color":"white","sku":"LEON-MOVEOBEZ-[object Object]-white","priceCHF":53,"stock":10},{"size":{"id":"40","label":{"de":"40","fr":"40","en":"40","it":"40"}},"color":"black","sku":"LEON-MOVEOBEZ-[object Object]-black","priceCHF":53,"stock":10},{"size":{"id":"40","label":{"de":"40","fr":"40","en":"40","it":"40"}},"color":"grey","sku":"LEON-MOVEOBEZ-[object Object]-grey","priceCHF":53,"stock":10},{"size":{"id":"40","label":{"de":"40","fr":"40","en":"40","it":"40"}},"color":"white","sku":"LEON-MOVEOBEZ-[object Object]-white","priceCHF":53,"stock":10},{"size":{"id":"41","label":{"de":"41","fr":"41","en":"41","it":"41"}},"color":"black","sku":"LEON-MOVEOBEZ-[object Object]-black","priceCHF":53,"stock":10},{"size":{"id":"41","label":{"de":"41","fr":"41","en":"41","it":"41"}},"color":"grey","sku":"LEON-MOVEOBEZ-[object Object]-grey","priceCHF":53,"stock":10},{"size":{"id":"41","label":{"de":"41","fr":"41","en":"41","it":"41"}},"color":"white","sku":"LEON-MOVEOBEZ-[object Object]-white","priceCHF":53,"stock":10}],"articleNumber":"520","colorLabel":"Beige","images":["https://cdn.leon.rs/wp-content/uploads/2026/04/520-Bez1.jpg","https://cdn.leon.rs/wp-content/uploads/2026/04/520-Bez2.jpg","https://cdn.leon.rs/wp-content/uploads/2026/04/520-Bez3.jpg"],"specifications":[{"label":{"de":"Obermaterial","fr":"Composition du dessus","en":"Upper material","it":"Tomaia"},"value":{"de":"Naturleder mit anatomischem Profil","fr":"Cuir naturel avec bande de roulement anatomique","en":"Natural leather with anatomical tread","it":"Pelle naturale con battistrada anatomico"}},{"label":{"de":"Fußbett","fr":"Semelle intérieure","en":"Footbed","it":"Plantare"},"value":{"de":"Naturleder mit anatomischem Profil","fr":"Cuir naturel avec bande de roulement anatomique","en":"Natural leather with anatomical tread","it":"Pelle naturale con battistrada anatomico"}},{"label":{"de":"Laufsohle","fr":"Semelle extérieure","en":"Outsole","it":"Suola"},"value":{"de":"Polyurethan","fr":"Polyur�thane","en":"Polyurethane","it":"Poliuretano"}}]}]}],["$","$Lc",null,{"product":"$d","locale":"fr","modelGroupSiblings":"$62"}]]}]]}],["$","$L10f",null,{"product":"$d","locale":"fr"}]]}]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Trend Swiss Shop | trendswiss.ch"}],["$","meta","3",{"name":"description","content":"Online shop – Swiss quality and style. trendswiss.ch"}]]
+1:null
+110:I[6456,["972","static/chunks/972-d71866a6631b6318.js","529","static/chunks/529-56c5ab17e14cba56.js","145","static/chunks/145-a8953cd3f91aee0b.js","883","static/chunks/883-e2a4759db12ee0dc.js","203","static/chunks/app/%5Blocale%5D/layout-1b7a049853e5d5e0.js"],"default"]
+111:I[3970,["972","static/chunks/972-d71866a6631b6318.js","529","static/chunks/529-56c5ab17e14cba56.js","145","static/chunks/145-a8953cd3f91aee0b.js","883","static/chunks/883-e2a4759db12ee0dc.js","203","static/chunks/app/%5Blocale%5D/layout-1b7a049853e5d5e0.js"],"default"]
+112:I[4767,["972","static/chunks/972-d71866a6631b6318.js","529","static/chunks/529-56c5ab17e14cba56.js","145","static/chunks/145-a8953cd3f91aee0b.js","883","static/chunks/883-e2a4759db12ee0dc.js","203","static/chunks/app/%5Blocale%5D/layout-1b7a049853e5d5e0.js"],"default"]
+7:["$","$L110",null,{"locale":"fr","now":"$D2026-08-11T13:21:03.490Z","timeZone":"Europe/Belgrade","messages":{"nav":{"home":"Accueil","shop":"Boutique","cart":"Panier","about":"À propos","contact":"Contact","searchLabel":"Rechercher des modèles","searchPlaceholder":"Nom du modèle ou numéro d'article…","searchClear":"Effacer la recherche","searchNoResults":"Aucun modèle trouvé."},"home":{"heroTitle":"Bienvenue chez Trend Swiss","heroSubtitle":"Qualité et style suisses","aboutTitle":"À propos de nous","aboutCompany":"TrendSwiss GmbH","aboutTagline":"Confort élégant au quotidien – vos experts en chaussures de qualité","aboutWelcomeTitle":"Bienvenue chez TrendSwiss GmbH !","aboutWelcomeBody":"En tant qu'entreprise suisse moderne, nous nous sommes consacrés à une mission claire : vous apporter un confort de marche et de station debout de haute qualité. En tant que représentation générale officielle de producteurs internationaux de premier plan, nous faisons le lien entre l'artisanat traditionnel, le design moderne et l'ergonomie contemporaine.","aboutPhilosophyTitle":"Notre philosophie : une qualité que l'on ressent","aboutPhilosophyBody":"Une grande partie de notre vie se déroule sur nos pieds. Que ce soit dans un quotidien professionnel exigeant, à la maison ou pendant les loisirs – nos pieds méritent le meilleur soutien possible. Chez TrendSwiss, nous sélectionnons nos collections selon les critères les plus stricts. Nous misons systématiquement sur des matériaux naturels de première qualité (comme le cuir véritable fin) et une fabrication exigeante qui garantit durabilité et un confort de port optimal.","aboutAssortmentTitle":"Notre assortiment : la diversité au service de la fonction","aboutAssortmentBody":"Avec un assortiment soigneusement composé et polyvalent, nous répondons à des besoins variés. Des sabots classiques pour un usage professionnel en cabinet, pharmacie ou soins aux élégantes pantoufles et chaussons confortables pour toute la famille : nos produits allient une semelle anatomique à un design moderne. Ils s'intègrent harmonieusement à chaque situation de vie et favorisent le bien-être quotidien à chaque pas.","aboutPartnerTitle":"Votre partenaire suisse de confiance","aboutPartnerBody1":"TrendSwiss GmbH se considère non seulement comme un commerçant, mais comme un partenaire à long terme. Grâce à notre lien direct avec les sites de production, nous pouvons agir avec flexibilité, garantir les normes de qualité les plus élevées et vous offrir en permanence un excellent rapport qualité-prix.","aboutPartnerBody2":"Que vous soyez un revendeur souhaitant enrichir votre assortiment avec nos produits de qualité ou un client particulier à la recherche du compagnon idéal pour votre quotidien – le client et un service de premier ordre sont toujours au centre de nos préoccupations.","aboutWhyTitle":"Pourquoi TrendSwiss ?","aboutWhy1Title":"Collections exclusives :","aboutWhy1Text":"Modèles soigneusement sélectionnés auprès de producteurs internationaux établis.","aboutWhy2Title":"Design ergonomique :","aboutWhy2Text":"Coupe anatomiquement étudiée pour une station debout et une marche sans fatigue au quotidien.","aboutWhy3Title":"Matériaux naturels :","aboutWhy3Text":"Cuir de haute qualité et composants respirants pour un climat agréable au pied.","aboutWhy4Title":"Fiabilité suisse :","aboutWhy4Text":"Service compétent, traitement simple et proximité client authentique.","aboutClosingLine":"Avancez avec nous vers le succès et redécouvrez le confort.","aboutFooterLine":"TrendSwiss GmbH – pas à pas vers un plus grand bien-être.","contactTitle":"Contact","contactPhone":"Tél","contactAddress":"Adresse","contactEmail":"E-mail","contactStreet":"Bodenackerstrasse 50","contactCity":"5200, Brugg","contactCountry":"Suisse","galleryAriaLabel":"Galerie d'images"},"shop":{"title":"Boutique","allProducts":"Tous les produits","uncategorizedFilter":"Sans catégorie ({count})","exploreByCategory":"Explorer par catégorie","view":"Voir","exploreFilterTitle":"Catégories","filtersTitle":"Filtres","openFilters":"Filtres","close":"Fermer","categories":"Catégories","all":"Tout","brandTitle":"Marque","allBrands":"Toutes les marques","noProductsInCategory":"Aucun produit dans cette catégorie.","perPageLabel":"Par page","perPage20":"20","perPage50":"50","perPageAll":"Tous","showingRange":"Affichage de {from} à {to} sur {total} produits","prevPage":"Précédent","nextPage":"Suivant","pageOf":"Page {page} sur {totalPages}","addToCart":"Ajouter au panier","catalogOnly":"Catalogue uniquement","purchaseDisabled":"Les achats sont temporairement désactivés. Ce site sert actuellement de catalogue en ligne.","size":"Taille","color":"Couleur","price":"Prix","priceFilterTitle":"Prix","pricedOnly":"Afficher uniquement les modèles avec prix","sku":"Réf.","chf":"CHF","selectSize":"Choisir la taille","selectColor":"Choisir la couleur","quantity":"Quantité","sameModelColors":"Ce modèle dans d’autres couleurs","leonSizeGuide":{"link":"Guide des tailles","title":"Guide des tailles","tabMeasurements":"Mesures","tabInstructions":"Mode d’emploi","close":"Fermer","eu":"UE","footLengthMm":"Longueur du pied (mm)","footLengthIn":"Longueur du pied (po)","unitMm":"mm","unitIn":"po","howToTitle":"Comment mesurer :","step1":"Posez le pied à plat sur une feuille et marquez le point le plus long des orteils et l’arrière du talon. Idéalement debout et avec des chaussettes.","step2":"Mesurez en ligne droite de l’orteil le plus long jusqu’au talon avec une règle ou un mètre ruban.","step3":"Utilisez le tableau pour trouver votre pointure EU."}},"productTabs":{"specs":"Spécifications","description":"Description","shipping":"Livraison & retours","reviews":"Avis","specsContent":"Matière : peluche douce, mélange coton. Entretien : lavage machine 30 °C. Tailles et couleurs disponibles voir sélection ci-dessus.","shippingContent":"Livraison en Suisse : 2–4 jours ouvrés. Frais de port à partir de 6 CHF, gratuit dès 80 CHF. Retours sous 30 jours, article non porté.","reviewsIntro":"Avis clients","review1":"Très confortables, je les porte tous les jours. Taille parfaite.","review2":"Bon rapport qualité-prix, livraison rapide. Je recommande.","review3":"Doux et chauds. Je conseille de prendre sa taille habituelle."},"cart":{"title":"Panier","empty":"Votre panier est vide","purchaseDisabled":"Les achats sont temporairement désactivés. Le panier et le paiement ne sont pas disponibles pour le moment.","subtotal":"Sous-total","discount":"Réduction","total":"Total","checkout":"Commander","remove":"Retirer","voucherPlaceholder":"Code promo","applyVoucher":"Appliquer","voucherInvalid":"Code invalide ou non applicable.","voucherApplied":"Code « {code} » appliqué : -{amount} CHF","goToShop":"À la boutique"},"checkout":{"title":"Paiement","successTitle":"Paiement réussi","successMessage":"Merci ! Vous recevrez sous peu un e-mail de confirmation.","cancelMessage":"Paiement annulé.","backToShop":"Retour à la boutique"},"footer":{"rights":"Tous droits réservés."}},"children":[["$","$L111",null,{}],["$","div",null,{"className":"flex min-h-screen flex-col overflow-x-hidden bg-[var(--bg-warm)] text-neutral-900 antialiased","children":[["$","$L112",null,{}],["$","main",null,{"className":"flex-1","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]}],"$L113"]}]]}]
+113:["$","footer",null,{"className":"bg-neutral-900 py-8 text-center text-sm text-neutral-300","children":[["$","div",null,{"className":"h-1 w-full bg-[var(--header-dark)]","aria-hidden":true}],["$","div",null,{"className":"pt-6","children":["© ",2026," ",["$","strong",null,{"className":"font-semibold text-white","children":"trendswiss.ch"}],". ","Tous droits réservés."]}]]}]

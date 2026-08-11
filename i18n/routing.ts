@@ -1,19 +1,15 @@
 import { defineRouting } from 'next-intl/routing';
 
 /**
- * Active UI locales.
- * To restore languages later, put them back here, e.g.:
- *   locales: ['de', 'fr', 'en', 'it'],
- * and clear/update DISABLED_LOCALES below.
- * LocaleSwitcher and static paths follow routing.locales automatically.
- * Keep messages/*.json and LocalizedString fields — do not delete them.
+ * Active UI locales — add/remove here; LocaleSwitcher follows this list.
+ * Keep messages/*.json even if a locale is temporarily disabled.
  */
 export const routing = defineRouting({
-  locales: ['de'],
+  locales: ['de', 'fr', 'en', 'it'],
   defaultLocale: 'de',
   localePrefix: 'always',
   localeDetection: false,
 });
 
-/** Locales that used to be public — middleware redirects them to /de/... */
-export const DISABLED_LOCALES = ['fr', 'en', 'it'] as const;
+/** Not used while all locales are active. Kept for optional temporary disables. */
+export const DISABLED_LOCALES = [] as const;

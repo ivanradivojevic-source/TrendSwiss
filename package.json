@@ -10,6 +10,7 @@
     "up": "npm run clean && npm run build && next start -p 3000",
     "build": "npx tsx scripts/generate-shop-listing.ts && next build",
     "generate:shop-listing": "npx tsx scripts/generate-shop-listing.ts",
+    "build:pages": "node scripts/build-github-pages.mjs",
     "start": "next start -p 3000",
     "lint": "next lint"
   },

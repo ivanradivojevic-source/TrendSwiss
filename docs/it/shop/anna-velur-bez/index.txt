@@ -1,0 +1,419 @@
+3:I[4707,[],""]
+6:I[6423,[],""]
+4:["locale","it","d"]
+5:["slug","anna-velur-bez","d"]
+0:["ml7UmRV2zItQXVGmRrv7j",[[["",{"children":[["locale","it","d"],{"children":["shop",{"children":[["slug","anna-velur-bez","d"],{"children":["__PAGE__?{\"locale\":\"it\",\"slug\":\"anna-velur-bez\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","it","d"],{"children":["shop",{"children":[["slug","anna-velur-bez","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children","shop","children","$5","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children","shop","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/810bbd7e806ce024.css","precedence":"next","crossOrigin":"$undefined"}]],"$L7"],null],null]},[[null,["$","html",null,{"suppressHydrationWarning":true,"children":["$","body",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}]}]],null],null],["$L8",null]]]]
+9:I[5664,["972","static/chunks/972-d71866a6631b6318.js","529","static/chunks/529-56c5ab17e14cba56.js","145","static/chunks/145-a8953cd3f91aee0b.js","883","static/chunks/883-e2a4759db12ee0dc.js","623","static/chunks/623-299883740fc8c65a.js","437","static/chunks/app/%5Blocale%5D/shop/%5Bslug%5D/page-35d9698df50a1a4d.js"],"default"]
+a:I[4456,["972","static/chunks/972-d71866a6631b6318.js","529","static/chunks/529-56c5ab17e14cba56.js","145","static/chunks/145-a8953cd3f91aee0b.js","883","static/chunks/883-e2a4759db12ee0dc.js","623","static/chunks/623-299883740fc8c65a.js","437","static/chunks/app/%5Blocale%5D/shop/%5Bslug%5D/page-35d9698df50a1a4d.js"],"default"]
+c:I[4929,["972","static/chunks/972-d71866a6631b6318.js","529","static/chunks/529-56c5ab17e14cba56.js","145","static/chunks/145-a8953cd3f91aee0b.js","883","static/chunks/883-e2a4759db12ee0dc.js","623","static/chunks/623-299883740fc8c65a.js","437","static/chunks/app/%5Blocale%5D/shop/%5Bslug%5D/page-35d9698df50a1a4d.js"],"default"]
+19e:I[564,["972","static/chunks/972-d71866a6631b6318.js","529","static/chunks/529-56c5ab17e14cba56.js","145","static/chunks/145-a8953cd3f91aee0b.js","883","static/chunks/883-e2a4759db12ee0dc.js","623","static/chunks/623-299883740fc8c65a.js","437","static/chunks/app/%5Blocale%5D/shop/%5Bslug%5D/page-35d9698df50a1a4d.js"],"default"]
+b:["https://cdn.leon.rs/wp-content/uploads/2025/09/Anna-Velur-BEZ.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Anna-Velur-BEZ-1.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Anna-Velur-BEZ-2.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Anna-Velur-BEZ-3.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Anna-Velur-BEZ-4.jpg"]
+e:{"de":"Anna – Velours Beige","fr":"Anna – Velours Beige","en":"Anna – Suede Beige","it":"Anna – Velluto Beige"}
+f:{"de":"Damenmodell „Anna“ mit weichem, anatomischem Fussbett.","fr":"Modèle femme « Anna » avec semelle intérieure anatomique douce.","en":"Women's model \"Anna\" with a soft anatomical footbed.","it":"Modello da donna «Anna» con plantare anatomico morbido."}
+12:{"de":"35","fr":"35","en":"35","it":"35"}
+11:{"id":"35","label":"$12"}
+14:{"de":"36","fr":"36","en":"36","it":"36"}
+13:{"id":"36","label":"$14"}
+16:{"de":"37","fr":"37","en":"37","it":"37"}
+15:{"id":"37","label":"$16"}
+18:{"de":"38","fr":"38","en":"38","it":"38"}
+17:{"id":"38","label":"$18"}
+1a:{"de":"39","fr":"39","en":"39","it":"39"}
+19:{"id":"39","label":"$1a"}
+1c:{"de":"40","fr":"40","en":"40","it":"40"}
+1b:{"id":"40","label":"$1c"}
+1e:{"de":"41","fr":"41","en":"41","it":"41"}
+1d:{"id":"41","label":"$1e"}
+20:{"de":"42","fr":"42","en":"42","it":"42"}
+1f:{"id":"42","label":"$20"}
+10:["$11","$13","$15","$17","$19","$1b","$1d","$1f"]
+22:{"id":"black","label":"Schwarz","hex":"#111827"}
+23:{"id":"grey","label":"Grau","hex":"#6b7280"}
+24:{"id":"white","label":"Weiss","hex":"#f9fafb"}
+21:["$22","$23","$24"]
+26:{"size":"35","color":"black","sku":"LEON-ANNAVELURBEZ-35-black","priceCHF":49,"stock":10}
+27:{"size":"35","color":"grey","sku":"LEON-ANNAVELURBEZ-35-grey","priceCHF":49,"stock":10}
+28:{"size":"35","color":"white","sku":"LEON-ANNAVELURBEZ-35-white","priceCHF":49,"stock":10}
+29:{"size":"36","color":"black","sku":"LEON-ANNAVELURBEZ-36-black","priceCHF":49,"stock":10}
+2a:{"size":"36","color":"grey","sku":"LEON-ANNAVELURBEZ-36-grey","priceCHF":49,"stock":10}
+2b:{"size":"36","color":"white","sku":"LEON-ANNAVELURBEZ-36-white","priceCHF":49,"stock":10}
+2c:{"size":"37","color":"black","sku":"LEON-ANNAVELURBEZ-37-black","priceCHF":49,"stock":10}
+2d:{"size":"37","color":"grey","sku":"LEON-ANNAVELURBEZ-37-grey","priceCHF":49,"stock":10}
+2e:{"size":"37","color":"white","sku":"LEON-ANNAVELURBEZ-37-white","priceCHF":49,"stock":10}
+2f:{"size":"38","color":"black","sku":"LEON-ANNAVELURBEZ-38-black","priceCHF":49,"stock":10}
+30:{"size":"38","color":"grey","sku":"LEON-ANNAVELURBEZ-38-grey","priceCHF":49,"stock":10}
+31:{"size":"38","color":"white","sku":"LEON-ANNAVELURBEZ-38-white","priceCHF":49,"stock":10}
+32:{"size":"39","color":"black","sku":"LEON-ANNAVELURBEZ-39-black","priceCHF":49,"stock":10}
+33:{"size":"39","color":"grey","sku":"LEON-ANNAVELURBEZ-39-grey","priceCHF":49,"stock":10}
+34:{"size":"39","color":"white","sku":"LEON-ANNAVELURBEZ-39-white","priceCHF":49,"stock":10}
+35:{"size":"40","color":"black","sku":"LEON-ANNAVELURBEZ-40-black","priceCHF":49,"stock":10}
+36:{"size":"40","color":"grey","sku":"LEON-ANNAVELURBEZ-40-grey","priceCHF":49,"stock":10}
+37:{"size":"40","color":"white","sku":"LEON-ANNAVELURBEZ-40-white","priceCHF":49,"stock":10}
+38:{"size":"41","color":"black","sku":"LEON-ANNAVELURBEZ-41-black","priceCHF":49,"stock":10}
+39:{"size":"41","color":"grey","sku":"LEON-ANNAVELURBEZ-41-grey","priceCHF":49,"stock":10}
+3a:{"size":"41","color":"white","sku":"LEON-ANNAVELURBEZ-41-white","priceCHF":49,"stock":10}
+3b:{"size":"42","color":"black","sku":"LEON-ANNAVELURBEZ-42-black","priceCHF":49,"stock":10}
+3c:{"size":"42","color":"grey","sku":"LEON-ANNAVELURBEZ-42-grey","priceCHF":49,"stock":10}
+3d:{"size":"42","color":"white","sku":"LEON-ANNAVELURBEZ-42-white","priceCHF":49,"stock":10}
+25:["$26","$27","$28","$29","$2a","$2b","$2c","$2d","$2e","$2f","$30","$31","$32","$33","$34","$35","$36","$37","$38","$39","$3a","$3b","$3c","$3d"]
+40:{"de":"Obermaterial","fr":"Composition du dessus","en":"Upper material","it":"Tomaia"}
+41:{"de":"Naturleder","fr":"Cuir naturel","en":"Natural leather","it":"Pelle naturale"}
+3f:{"label":"$40","value":"$41"}
+43:{"de":"Fußbett","fr":"Semelle intérieure","en":"Footbed","it":"Plantare"}
+44:{"de":"Naturleder mit anatomischem Profil und weicher Gel-Innensohle","fr":"Cuir naturel avec bande de roulement anatomique et semelle int�rieure en gel souple","en":"Natural leather with anatomical tread and soft gel insole","it":"Pelle naturale con battistrada anatomico e plantare in morbido gel"}
+42:{"label":"$43","value":"$44"}
+46:{"de":"Laufsohle","fr":"Semelle extérieure","en":"Outsole","it":"Suola"}
+47:{"de":"Polyurethan","fr":"Polyur�thane","en":"Polyurethane","it":"Poliuretano"}
+45:{"label":"$46","value":"$47"}
+3e:["$3f","$42","$45"]
+d:{"id":"leon-anna-velur-bez","slug":"anna-velur-bez","category":"women","brand":"leon","modelGroupId":"leon-mg-anna-women","name":"$e","description":"$f","image":"https://cdn.leon.rs/wp-content/uploads/2025/09/Anna-Velur-BEZ.jpg","sizes":"$10","colors":"$21","variants":"$25","articleNumber":"4010","colorLabel":"Suede Beige","images":"$b","specifications":"$3e"}
+4a:{"de":"Anna – Gelb Velours","fr":"Anna – Jaune velours","en":"Anna – Yellow suede","it":"Anna – Giallo velluto"}
+4b:{"de":"Damenmodell „Anna“ mit weichem, anatomischem Fussbett.","fr":"Modèle femme « Anna » avec semelle intérieure anatomique douce.","en":"Women's model \"Anna\" with a soft anatomical footbed.","it":"Modello da donna «Anna» con plantare anatomico morbido."}
+4e:{"de":"35","fr":"35","en":"35","it":"35"}
+4d:{"id":"35","label":"$4e"}
+50:{"de":"36","fr":"36","en":"36","it":"36"}
+4f:{"id":"36","label":"$50"}
+52:{"de":"37","fr":"37","en":"37","it":"37"}
+51:{"id":"37","label":"$52"}
+54:{"de":"38","fr":"38","en":"38","it":"38"}
+53:{"id":"38","label":"$54"}
+56:{"de":"39","fr":"39","en":"39","it":"39"}
+55:{"id":"39","label":"$56"}
+58:{"de":"40","fr":"40","en":"40","it":"40"}
+57:{"id":"40","label":"$58"}
+5a:{"de":"41","fr":"41","en":"41","it":"41"}
+59:{"id":"41","label":"$5a"}
+5c:{"de":"42","fr":"42","en":"42","it":"42"}
+5b:{"id":"42","label":"$5c"}
+4c:["$4d","$4f","$51","$53","$55","$57","$59","$5b"]
+5e:{"id":"black","label":"Schwarz","hex":"#111827"}
+5f:{"id":"grey","label":"Grau","hex":"#6b7280"}
+5d:["$5e","$5f"]
+61:{"size":"35","color":"black","sku":"LEON-ANNAZUTAVELUR-35-black","priceCHF":null,"stock":10}
+62:{"size":"35","color":"grey","sku":"LEON-ANNAZUTAVELUR-35-grey","priceCHF":null,"stock":10}
+63:{"size":"36","color":"black","sku":"LEON-ANNAZUTAVELUR-36-black","priceCHF":null,"stock":10}
+64:{"size":"36","color":"grey","sku":"LEON-ANNAZUTAVELUR-36-grey","priceCHF":null,"stock":10}
+65:{"size":"37","color":"black","sku":"LEON-ANNAZUTAVELUR-37-black","priceCHF":null,"stock":10}
+66:{"size":"37","color":"grey","sku":"LEON-ANNAZUTAVELUR-37-grey","priceCHF":null,"stock":10}
+67:{"size":"38","color":"black","sku":"LEON-ANNAZUTAVELUR-38-black","priceCHF":null,"stock":10}
+68:{"size":"38","color":"grey","sku":"LEON-ANNAZUTAVELUR-38-grey","priceCHF":null,"stock":10}
+69:{"size":"39","color":"black","sku":"LEON-ANNAZUTAVELUR-39-black","priceCHF":null,"stock":10}
+6a:{"size":"39","color":"grey","sku":"LEON-ANNAZUTAVELUR-39-grey","priceCHF":null,"stock":10}
+6b:{"size":"40","color":"black","sku":"LEON-ANNAZUTAVELUR-40-black","priceCHF":null,"stock":10}
+6c:{"size":"40","color":"grey","sku":"LEON-ANNAZUTAVELUR-40-grey","priceCHF":null,"stock":10}
+6d:{"size":"41","color":"black","sku":"LEON-ANNAZUTAVELUR-41-black","priceCHF":null,"stock":10}
+6e:{"size":"41","color":"grey","sku":"LEON-ANNAZUTAVELUR-41-grey","priceCHF":null,"stock":10}
+6f:{"size":"42","color":"black","sku":"LEON-ANNAZUTAVELUR-42-black","priceCHF":null,"stock":10}
+70:{"size":"42","color":"grey","sku":"LEON-ANNAZUTAVELUR-42-grey","priceCHF":null,"stock":10}
+60:["$61","$62","$63","$64","$65","$66","$67","$68","$69","$6a","$6b","$6c","$6d","$6e","$6f","$70"]
+71:["https://cdn.leon.rs/wp-content/uploads/2025/09/Anna-ZUTA-VELUR.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Anna-ZUTA-VELUR-1.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Anna-ZUTA-VELUR-2.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Anna-ZUTA-VELUR-3.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Anna-ZUTA-VELUR-4.jpg"]
+49:{"id":"leon-anna-zuta-velur","slug":"anna-zuta-velur","category":"women","brand":"leon","name":"$4a","description":"$4b","image":"https://cdn.leon.rs/wp-content/uploads/2025/09/Anna-ZUTA-VELUR.jpg","sizes":"$4c","colors":"$5d","variants":"$60","modelGroupId":"leon-mg-anna-women","colorLabel":"Yellow suede","images":"$71"}
+73:{"de":"Anna – Velours Grau","fr":"Anna – Velours Gris","en":"Anna – Suede Grey","it":"Anna – Velluto Grigio"}
+74:{"de":"Damenmodell „Anna“ mit weichem, anatomischem Fussbett.","fr":"Modèle femme « Anna » avec semelle intérieure anatomique douce.","en":"Women's model \"Anna\" with a soft anatomical footbed.","it":"Modello da donna «Anna» con plantare anatomico morbido."}
+77:{"de":"35","fr":"35","en":"35","it":"35"}
+76:{"id":"35","label":"$77"}
+79:{"de":"36","fr":"36","en":"36","it":"36"}
+78:{"id":"36","label":"$79"}
+7b:{"de":"37","fr":"37","en":"37","it":"37"}
+7a:{"id":"37","label":"$7b"}
+7d:{"de":"38","fr":"38","en":"38","it":"38"}
+7c:{"id":"38","label":"$7d"}
+7f:{"de":"39","fr":"39","en":"39","it":"39"}
+7e:{"id":"39","label":"$7f"}
+81:{"de":"40","fr":"40","en":"40","it":"40"}
+80:{"id":"40","label":"$81"}
+83:{"de":"41","fr":"41","en":"41","it":"41"}
+82:{"id":"41","label":"$83"}
+85:{"de":"42","fr":"42","en":"42","it":"42"}
+84:{"id":"42","label":"$85"}
+75:["$76","$78","$7a","$7c","$7e","$80","$82","$84"]
+87:{"id":"black","label":"Schwarz","hex":"#111827"}
+88:{"id":"grey","label":"Grau","hex":"#6b7280"}
+89:{"id":"white","label":"Weiss","hex":"#f9fafb"}
+86:["$87","$88","$89"]
+8b:{"size":"35","color":"black","sku":"LEON-ANNAVELURSIVA-35-black","priceCHF":49,"stock":10}
+8c:{"size":"35","color":"grey","sku":"LEON-ANNAVELURSIVA-35-grey","priceCHF":49,"stock":10}
+8d:{"size":"35","color":"white","sku":"LEON-ANNAVELURSIVA-35-white","priceCHF":49,"stock":10}
+8e:{"size":"36","color":"black","sku":"LEON-ANNAVELURSIVA-36-black","priceCHF":49,"stock":10}
+8f:{"size":"36","color":"grey","sku":"LEON-ANNAVELURSIVA-36-grey","priceCHF":49,"stock":10}
+90:{"size":"36","color":"white","sku":"LEON-ANNAVELURSIVA-36-white","priceCHF":49,"stock":10}
+91:{"size":"37","color":"black","sku":"LEON-ANNAVELURSIVA-37-black","priceCHF":49,"stock":10}
+92:{"size":"37","color":"grey","sku":"LEON-ANNAVELURSIVA-37-grey","priceCHF":49,"stock":10}
+93:{"size":"37","color":"white","sku":"LEON-ANNAVELURSIVA-37-white","priceCHF":49,"stock":10}
+94:{"size":"38","color":"black","sku":"LEON-ANNAVELURSIVA-38-black","priceCHF":49,"stock":10}
+95:{"size":"38","color":"grey","sku":"LEON-ANNAVELURSIVA-38-grey","priceCHF":49,"stock":10}
+96:{"size":"38","color":"white","sku":"LEON-ANNAVELURSIVA-38-white","priceCHF":49,"stock":10}
+97:{"size":"39","color":"black","sku":"LEON-ANNAVELURSIVA-39-black","priceCHF":49,"stock":10}
+98:{"size":"39","color":"grey","sku":"LEON-ANNAVELURSIVA-39-grey","priceCHF":49,"stock":10}
+99:{"size":"39","color":"white","sku":"LEON-ANNAVELURSIVA-39-white","priceCHF":49,"stock":10}
+9a:{"size":"40","color":"black","sku":"LEON-ANNAVELURSIVA-40-black","priceCHF":49,"stock":10}
+9b:{"size":"40","color":"grey","sku":"LEON-ANNAVELURSIVA-40-grey","priceCHF":49,"stock":10}
+9c:{"size":"40","color":"white","sku":"LEON-ANNAVELURSIVA-40-white","priceCHF":49,"stock":10}
+9d:{"size":"41","color":"black","sku":"LEON-ANNAVELURSIVA-41-black","priceCHF":49,"stock":10}
+9e:{"size":"41","color":"grey","sku":"LEON-ANNAVELURSIVA-41-grey","priceCHF":49,"stock":10}
+9f:{"size":"41","color":"white","sku":"LEON-ANNAVELURSIVA-41-white","priceCHF":49,"stock":10}
+a0:{"size":"42","color":"black","sku":"LEON-ANNAVELURSIVA-42-black","priceCHF":49,"stock":10}
+a1:{"size":"42","color":"grey","sku":"LEON-ANNAVELURSIVA-42-grey","priceCHF":49,"stock":10}
+a2:{"size":"42","color":"white","sku":"LEON-ANNAVELURSIVA-42-white","priceCHF":49,"stock":10}
+8a:["$8b","$8c","$8d","$8e","$8f","$90","$91","$92","$93","$94","$95","$96","$97","$98","$99","$9a","$9b","$9c","$9d","$9e","$9f","$a0","$a1","$a2"]
+a3:["https://cdn.leon.rs/wp-content/uploads/2025/09/Anna-Velur-SIVA.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Anna-Velur-SIVA-1.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Anna-Velur-SIVA-2.jpg"]
+a6:{"de":"Obermaterial","fr":"Composition du dessus","en":"Upper material","it":"Tomaia"}
+a7:{"de":"Naturleder","fr":"Cuir naturel","en":"Natural leather","it":"Pelle naturale"}
+a5:{"label":"$a6","value":"$a7"}
+a9:{"de":"Fußbett","fr":"Semelle intérieure","en":"Footbed","it":"Plantare"}
+aa:{"de":"Naturleder mit anatomischem Profil und weicher Gel-Innensohle","fr":"Cuir naturel avec bande de roulement anatomique et semelle int�rieure en gel souple","en":"Natural leather with anatomical tread and soft gel insole","it":"Pelle naturale con battistrada anatomico e plantare in morbido gel"}
+a8:{"label":"$a9","value":"$aa"}
+ac:{"de":"Laufsohle","fr":"Semelle extérieure","en":"Outsole","it":"Suola"}
+ad:{"de":"Polyurethan","fr":"Polyur�thane","en":"Polyurethane","it":"Poliuretano"}
+ab:{"label":"$ac","value":"$ad"}
+a4:["$a5","$a8","$ab"]
+72:{"id":"leon-anna-velur-siva","slug":"anna-velur-siva","category":"women","brand":"leon","modelGroupId":"leon-mg-anna-women","name":"$73","description":"$74","image":"https://cdn.leon.rs/wp-content/uploads/2025/09/Anna-Velur-SIVA.jpg","sizes":"$75","colors":"$86","variants":"$8a","articleNumber":"4010","colorLabel":"Suede Grey","images":"$a3","specifications":"$a4"}
+af:{"de":"Anna – Velours Braun","fr":"Anna – Velours Marron","en":"Anna – Suede Brown","it":"Anna – Velluto Marrone"}
+b0:{"de":"Damenmodell „Anna“ mit weichem, anatomischem Fussbett.","fr":"Modèle femme « Anna » avec semelle intérieure anatomique douce.","en":"Women's model \"Anna\" with a soft anatomical footbed.","it":"Modello da donna «Anna» con plantare anatomico morbido."}
+b3:{"de":"35","fr":"35","en":"35","it":"35"}
+b2:{"id":"35","label":"$b3"}
+b5:{"de":"36","fr":"36","en":"36","it":"36"}
+b4:{"id":"36","label":"$b5"}
+b7:{"de":"37","fr":"37","en":"37","it":"37"}
+b6:{"id":"37","label":"$b7"}
+b9:{"de":"38","fr":"38","en":"38","it":"38"}
+b8:{"id":"38","label":"$b9"}
+bb:{"de":"39","fr":"39","en":"39","it":"39"}
+ba:{"id":"39","label":"$bb"}
+bd:{"de":"40","fr":"40","en":"40","it":"40"}
+bc:{"id":"40","label":"$bd"}
+bf:{"de":"41","fr":"41","en":"41","it":"41"}
+be:{"id":"41","label":"$bf"}
+c1:{"de":"42","fr":"42","en":"42","it":"42"}
+c0:{"id":"42","label":"$c1"}
+b1:["$b2","$b4","$b6","$b8","$ba","$bc","$be","$c0"]
+c3:{"id":"black","label":"Schwarz","hex":"#111827"}
+c4:{"id":"grey","label":"Grau","hex":"#6b7280"}
+c5:{"id":"white","label":"Weiss","hex":"#f9fafb"}
+c2:["$c3","$c4","$c5"]
+c7:{"size":"35","color":"black","sku":"LEON-ANNAVELURBRAON-35-black","priceCHF":49,"stock":10}
+c8:{"size":"35","color":"grey","sku":"LEON-ANNAVELURBRAON-35-grey","priceCHF":49,"stock":10}
+c9:{"size":"35","color":"white","sku":"LEON-ANNAVELURBRAON-35-white","priceCHF":49,"stock":10}
+ca:{"size":"36","color":"black","sku":"LEON-ANNAVELURBRAON-36-black","priceCHF":49,"stock":10}
+cb:{"size":"36","color":"grey","sku":"LEON-ANNAVELURBRAON-36-grey","priceCHF":49,"stock":10}
+cc:{"size":"36","color":"white","sku":"LEON-ANNAVELURBRAON-36-white","priceCHF":49,"stock":10}
+cd:{"size":"37","color":"black","sku":"LEON-ANNAVELURBRAON-37-black","priceCHF":49,"stock":10}
+ce:{"size":"37","color":"grey","sku":"LEON-ANNAVELURBRAON-37-grey","priceCHF":49,"stock":10}
+cf:{"size":"37","color":"white","sku":"LEON-ANNAVELURBRAON-37-white","priceCHF":49,"stock":10}
+d0:{"size":"38","color":"black","sku":"LEON-ANNAVELURBRAON-38-black","priceCHF":49,"stock":10}
+d1:{"size":"38","color":"grey","sku":"LEON-ANNAVELURBRAON-38-grey","priceCHF":49,"stock":10}
+d2:{"size":"38","color":"white","sku":"LEON-ANNAVELURBRAON-38-white","priceCHF":49,"stock":10}
+d3:{"size":"39","color":"black","sku":"LEON-ANNAVELURBRAON-39-black","priceCHF":49,"stock":10}
+d4:{"size":"39","color":"grey","sku":"LEON-ANNAVELURBRAON-39-grey","priceCHF":49,"stock":10}
+d5:{"size":"39","color":"white","sku":"LEON-ANNAVELURBRAON-39-white","priceCHF":49,"stock":10}
+d6:{"size":"40","color":"black","sku":"LEON-ANNAVELURBRAON-40-black","priceCHF":49,"stock":10}
+d7:{"size":"40","color":"grey","sku":"LEON-ANNAVELURBRAON-40-grey","priceCHF":49,"stock":10}
+d8:{"size":"40","color":"white","sku":"LEON-ANNAVELURBRAON-40-white","priceCHF":49,"stock":10}
+d9:{"size":"41","color":"black","sku":"LEON-ANNAVELURBRAON-41-black","priceCHF":49,"stock":10}
+da:{"size":"41","color":"grey","sku":"LEON-ANNAVELURBRAON-41-grey","priceCHF":49,"stock":10}
+db:{"size":"41","color":"white","sku":"LEON-ANNAVELURBRAON-41-white","priceCHF":49,"stock":10}
+dc:{"size":"42","color":"black","sku":"LEON-ANNAVELURBRAON-42-black","priceCHF":49,"stock":10}
+dd:{"size":"42","color":"grey","sku":"LEON-ANNAVELURBRAON-42-grey","priceCHF":49,"stock":10}
+de:{"size":"42","color":"white","sku":"LEON-ANNAVELURBRAON-42-white","priceCHF":49,"stock":10}
+c6:["$c7","$c8","$c9","$ca","$cb","$cc","$cd","$ce","$cf","$d0","$d1","$d2","$d3","$d4","$d5","$d6","$d7","$d8","$d9","$da","$db","$dc","$dd","$de"]
+df:["https://cdn.leon.rs/wp-content/uploads/2025/09/Anna-Velur-BRAON.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Anna-Velur-BRAON-1.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Anna-Velur-BRAON-2.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Anna-Velur-BRAON-3.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Anna-Velur-BRAON-4.jpg"]
+e2:{"de":"Obermaterial","fr":"Composition du dessus","en":"Upper material","it":"Tomaia"}
+e3:{"de":"Naturleder","fr":"Cuir naturel","en":"Natural leather","it":"Pelle naturale"}
+e1:{"label":"$e2","value":"$e3"}
+e5:{"de":"Fußbett","fr":"Semelle intérieure","en":"Footbed","it":"Plantare"}
+e6:{"de":"Naturleder mit anatomischem Profil und weicher Gel-Innensohle","fr":"Cuir naturel avec bande de roulement anatomique et semelle int�rieure en gel souple","en":"Natural leather with anatomical tread and soft gel insole","it":"Pelle naturale con battistrada anatomico e plantare in morbido gel"}
+e4:{"label":"$e5","value":"$e6"}
+e8:{"de":"Laufsohle","fr":"Semelle extérieure","en":"Outsole","it":"Suola"}
+e9:{"de":"Polyurethan","fr":"Polyur�thane","en":"Polyurethane","it":"Poliuretano"}
+e7:{"label":"$e8","value":"$e9"}
+e0:["$e1","$e4","$e7"]
+ae:{"id":"leon-anna-velur-braon","slug":"anna-velur-braon","category":"women","brand":"leon","modelGroupId":"leon-mg-anna-women","name":"$af","description":"$b0","image":"https://cdn.leon.rs/wp-content/uploads/2025/09/Anna-Velur-BRAON.jpg","sizes":"$b1","colors":"$c2","variants":"$c6","articleNumber":"4010","colorLabel":"Suede Brown","images":"$df","specifications":"$e0"}
+eb:{"de":"Anna – Rosa Velours","fr":"Anna – Rose velours","en":"Anna – Pink suede","it":"Anna – Rosa velluto"}
+ec:{"de":"Damenmodell „Anna“ mit weichem, anatomischem Fussbett.","fr":"Modèle femme « Anna » avec semelle intérieure anatomique douce.","en":"Women's model \"Anna\" with a soft anatomical footbed.","it":"Modello da donna «Anna» con plantare anatomico morbido."}
+ef:{"de":"35","fr":"35","en":"35","it":"35"}
+ee:{"id":"35","label":"$ef"}
+f1:{"de":"36","fr":"36","en":"36","it":"36"}
+f0:{"id":"36","label":"$f1"}
+f3:{"de":"37","fr":"37","en":"37","it":"37"}
+f2:{"id":"37","label":"$f3"}
+f5:{"de":"38","fr":"38","en":"38","it":"38"}
+f4:{"id":"38","label":"$f5"}
+f7:{"de":"39","fr":"39","en":"39","it":"39"}
+f6:{"id":"39","label":"$f7"}
+f9:{"de":"40","fr":"40","en":"40","it":"40"}
+f8:{"id":"40","label":"$f9"}
+fb:{"de":"41","fr":"41","en":"41","it":"41"}
+fa:{"id":"41","label":"$fb"}
+fd:{"de":"42","fr":"42","en":"42","it":"42"}
+fc:{"id":"42","label":"$fd"}
+ed:["$ee","$f0","$f2","$f4","$f6","$f8","$fa","$fc"]
+ff:{"id":"black","label":"Schwarz","hex":"#111827"}
+100:{"id":"grey","label":"Grau","hex":"#6b7280"}
+101:{"id":"white","label":"Weiss","hex":"#f9fafb"}
+fe:["$ff","$100","$101"]
+103:{"size":"35","color":"black","sku":"LEON-ANNAROZEVELUR-35-black","priceCHF":49,"stock":10}
+104:{"size":"35","color":"grey","sku":"LEON-ANNAROZEVELUR-35-grey","priceCHF":49,"stock":10}
+105:{"size":"35","color":"white","sku":"LEON-ANNAROZEVELUR-35-white","priceCHF":49,"stock":10}
+106:{"size":"36","color":"black","sku":"LEON-ANNAROZEVELUR-36-black","priceCHF":49,"stock":10}
+107:{"size":"36","color":"grey","sku":"LEON-ANNAROZEVELUR-36-grey","priceCHF":49,"stock":10}
+108:{"size":"36","color":"white","sku":"LEON-ANNAROZEVELUR-36-white","priceCHF":49,"stock":10}
+109:{"size":"37","color":"black","sku":"LEON-ANNAROZEVELUR-37-black","priceCHF":49,"stock":10}
+10a:{"size":"37","color":"grey","sku":"LEON-ANNAROZEVELUR-37-grey","priceCHF":49,"stock":10}
+10b:{"size":"37","color":"white","sku":"LEON-ANNAROZEVELUR-37-white","priceCHF":49,"stock":10}
+10c:{"size":"38","color":"black","sku":"LEON-ANNAROZEVELUR-38-black","priceCHF":49,"stock":10}
+10d:{"size":"38","color":"grey","sku":"LEON-ANNAROZEVELUR-38-grey","priceCHF":49,"stock":10}
+10e:{"size":"38","color":"white","sku":"LEON-ANNAROZEVELUR-38-white","priceCHF":49,"stock":10}
+10f:{"size":"39","color":"black","sku":"LEON-ANNAROZEVELUR-39-black","priceCHF":49,"stock":10}
+110:{"size":"39","color":"grey","sku":"LEON-ANNAROZEVELUR-39-grey","priceCHF":49,"stock":10}
+111:{"size":"39","color":"white","sku":"LEON-ANNAROZEVELUR-39-white","priceCHF":49,"stock":10}
+112:{"size":"40","color":"black","sku":"LEON-ANNAROZEVELUR-40-black","priceCHF":49,"stock":10}
+113:{"size":"40","color":"grey","sku":"LEON-ANNAROZEVELUR-40-grey","priceCHF":49,"stock":10}
+114:{"size":"40","color":"white","sku":"LEON-ANNAROZEVELUR-40-white","priceCHF":49,"stock":10}
+115:{"size":"41","color":"black","sku":"LEON-ANNAROZEVELUR-41-black","priceCHF":49,"stock":10}
+116:{"size":"41","color":"grey","sku":"LEON-ANNAROZEVELUR-41-grey","priceCHF":49,"stock":10}
+117:{"size":"41","color":"white","sku":"LEON-ANNAROZEVELUR-41-white","priceCHF":49,"stock":10}
+118:{"size":"42","color":"black","sku":"LEON-ANNAROZEVELUR-42-black","priceCHF":49,"stock":10}
+119:{"size":"42","color":"grey","sku":"LEON-ANNAROZEVELUR-42-grey","priceCHF":49,"stock":10}
+11a:{"size":"42","color":"white","sku":"LEON-ANNAROZEVELUR-42-white","priceCHF":49,"stock":10}
+102:["$103","$104","$105","$106","$107","$108","$109","$10a","$10b","$10c","$10d","$10e","$10f","$110","$111","$112","$113","$114","$115","$116","$117","$118","$119","$11a"]
+11b:["https://cdn.leon.rs/wp-content/uploads/2025/09/Anna-ROZE-VELUR.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Anna-ROZE-VELUR-1.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Anna-ROZE-VELUR-2.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Anna-ROZE-VELUR-3.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Anna-ROZE-VELUR-4.jpg"]
+11e:{"de":"Obermaterial","fr":"Composition du dessus","en":"Upper material","it":"Tomaia"}
+11f:{"de":"Naturleder","fr":"Cuir naturel","en":"Natural leather","it":"Pelle naturale"}
+11d:{"label":"$11e","value":"$11f"}
+121:{"de":"Fußbett","fr":"Semelle intérieure","en":"Footbed","it":"Plantare"}
+122:{"de":"Naturleder mit anatomischem Profil und weicher Gel-Innensohle","fr":"Cuir naturel avec bande de roulement anatomique et semelle int�rieure en gel souple","en":"Natural leather with anatomical tread and soft gel insole","it":"Pelle naturale con battistrada anatomico e plantare in morbido gel"}
+120:{"label":"$121","value":"$122"}
+124:{"de":"Laufsohle","fr":"Semelle extérieure","en":"Outsole","it":"Suola"}
+125:{"de":"Polyurethan","fr":"Polyur�thane","en":"Polyurethane","it":"Poliuretano"}
+123:{"label":"$124","value":"$125"}
+11c:["$11d","$120","$123"]
+ea:{"id":"leon-anna-roze-velur","slug":"anna-roze-velur","category":"women","brand":"leon","modelGroupId":"leon-mg-anna-women","name":"$eb","description":"$ec","image":"https://cdn.leon.rs/wp-content/uploads/2025/09/Anna-ROZE-VELUR.jpg","sizes":"$ed","colors":"$fe","variants":"$102","colorLabel":"Pink suede","images":"$11b","specifications":"$11c","articleNumber":"4010"}
+127:{"de":"Anna – Schwarz Lack","fr":"Anna – Noir verni","en":"Anna – Black patent","it":"Anna – Nero verniciato"}
+128:{"de":"Damenmodell „Anna“ mit weichem, anatomischem Fussbett.","fr":"Modèle femme « Anna » avec semelle intérieure anatomique douce.","en":"Women's model \"Anna\" with a soft anatomical footbed.","it":"Modello da donna «Anna» con plantare anatomico morbido."}
+12b:{"de":"35","fr":"35","en":"35","it":"35"}
+12a:{"id":"35","label":"$12b"}
+12d:{"de":"36","fr":"36","en":"36","it":"36"}
+12c:{"id":"36","label":"$12d"}
+12f:{"de":"37","fr":"37","en":"37","it":"37"}
+12e:{"id":"37","label":"$12f"}
+131:{"de":"38","fr":"38","en":"38","it":"38"}
+130:{"id":"38","label":"$131"}
+133:{"de":"39","fr":"39","en":"39","it":"39"}
+132:{"id":"39","label":"$133"}
+135:{"de":"40","fr":"40","en":"40","it":"40"}
+134:{"id":"40","label":"$135"}
+137:{"de":"41","fr":"41","en":"41","it":"41"}
+136:{"id":"41","label":"$137"}
+139:{"de":"42","fr":"42","en":"42","it":"42"}
+138:{"id":"42","label":"$139"}
+129:["$12a","$12c","$12e","$130","$132","$134","$136","$138"]
+13b:{"id":"black","label":"Schwarz","hex":"#111827"}
+13c:{"id":"grey","label":"Grau","hex":"#6b7280"}
+13d:{"id":"white","label":"Weiss","hex":"#f9fafb"}
+13a:["$13b","$13c","$13d"]
+13f:{"size":"35","color":"black","sku":"LEON-ANNACRNABAKKAR-35-black","priceCHF":49,"stock":10}
+140:{"size":"35","color":"grey","sku":"LEON-ANNACRNABAKKAR-35-grey","priceCHF":49,"stock":10}
+141:{"size":"35","color":"white","sku":"LEON-ANNACRNABAKKAR-35-white","priceCHF":49,"stock":10}
+142:{"size":"36","color":"black","sku":"LEON-ANNACRNABAKKAR-36-black","priceCHF":49,"stock":10}
+143:{"size":"36","color":"grey","sku":"LEON-ANNACRNABAKKAR-36-grey","priceCHF":49,"stock":10}
+144:{"size":"36","color":"white","sku":"LEON-ANNACRNABAKKAR-36-white","priceCHF":49,"stock":10}
+145:{"size":"37","color":"black","sku":"LEON-ANNACRNABAKKAR-37-black","priceCHF":49,"stock":10}
+146:{"size":"37","color":"grey","sku":"LEON-ANNACRNABAKKAR-37-grey","priceCHF":49,"stock":10}
+147:{"size":"37","color":"white","sku":"LEON-ANNACRNABAKKAR-37-white","priceCHF":49,"stock":10}
+148:{"size":"38","color":"black","sku":"LEON-ANNACRNABAKKAR-38-black","priceCHF":49,"stock":10}
+149:{"size":"38","color":"grey","sku":"LEON-ANNACRNABAKKAR-38-grey","priceCHF":49,"stock":10}
+14a:{"size":"38","color":"white","sku":"LEON-ANNACRNABAKKAR-38-white","priceCHF":49,"stock":10}
+14b:{"size":"39","color":"black","sku":"LEON-ANNACRNABAKKAR-39-black","priceCHF":49,"stock":10}
+14c:{"size":"39","color":"grey","sku":"LEON-ANNACRNABAKKAR-39-grey","priceCHF":49,"stock":10}
+14d:{"size":"39","color":"white","sku":"LEON-ANNACRNABAKKAR-39-white","priceCHF":49,"stock":10}
+14e:{"size":"40","color":"black","sku":"LEON-ANNACRNABAKKAR-40-black","priceCHF":49,"stock":10}
+14f:{"size":"40","color":"grey","sku":"LEON-ANNACRNABAKKAR-40-grey","priceCHF":49,"stock":10}
+150:{"size":"40","color":"white","sku":"LEON-ANNACRNABAKKAR-40-white","priceCHF":49,"stock":10}
+151:{"size":"41","color":"black","sku":"LEON-ANNACRNABAKKAR-41-black","priceCHF":49,"stock":10}
+152:{"size":"41","color":"grey","sku":"LEON-ANNACRNABAKKAR-41-grey","priceCHF":49,"stock":10}
+153:{"size":"41","color":"white","sku":"LEON-ANNACRNABAKKAR-41-white","priceCHF":49,"stock":10}
+154:{"size":"42","color":"black","sku":"LEON-ANNACRNABAKKAR-42-black","priceCHF":49,"stock":10}
+155:{"size":"42","color":"grey","sku":"LEON-ANNACRNABAKKAR-42-grey","priceCHF":49,"stock":10}
+156:{"size":"42","color":"white","sku":"LEON-ANNACRNABAKKAR-42-white","priceCHF":49,"stock":10}
+13e:["$13f","$140","$141","$142","$143","$144","$145","$146","$147","$148","$149","$14a","$14b","$14c","$14d","$14e","$14f","$150","$151","$152","$153","$154","$155","$156"]
+157:["https://cdn.leon.rs/wp-content/uploads/2025/09/Anna-CRNA-BAKKAR.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Anna-CRNA-BAKKAR-1.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Anna-CRNA-BAKKAR-2.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Anna-CRNA-BAKKAR-3.jpg"]
+15a:{"de":"Obermaterial","fr":"Composition du dessus","en":"Upper material","it":"Tomaia"}
+15b:{"de":"Naturleder","fr":"Cuir naturel","en":"Natural leather","it":"Pelle naturale"}
+159:{"label":"$15a","value":"$15b"}
+15d:{"de":"Fußbett","fr":"Semelle intérieure","en":"Footbed","it":"Plantare"}
+15e:{"de":"Naturleder mit anatomischem Profil und weicher Gel-Innensohle","fr":"Cuir naturel avec bande de roulement anatomique et semelle int�rieure en gel souple","en":"Natural leather with anatomical tread and soft gel insole","it":"Pelle naturale con battistrada anatomico e plantare in morbido gel"}
+15c:{"label":"$15d","value":"$15e"}
+160:{"de":"Laufsohle","fr":"Semelle extérieure","en":"Outsole","it":"Suola"}
+161:{"de":"Polyurethan","fr":"Polyur�thane","en":"Polyurethane","it":"Poliuretano"}
+15f:{"label":"$160","value":"$161"}
+158:["$159","$15c","$15f"]
+126:{"id":"leon-anna-crna-bakkar","slug":"anna-crna-bakkar","category":"women","brand":"leon","modelGroupId":"leon-mg-anna-women","name":"$127","description":"$128","image":"https://cdn.leon.rs/wp-content/uploads/2025/09/Anna-CRNA-BAKKAR.jpg","sizes":"$129","colors":"$13a","variants":"$13e","colorLabel":"Black patent","images":"$157","specifications":"$158","articleNumber":"4010"}
+163:{"de":"Anna – Braun","fr":"Anna – Marron","en":"Anna – Brown","it":"Anna – Marrone"}
+164:{"de":"Damenmodell „Anna“ mit weichem, anatomischem Fussbett.","fr":"Modèle femme « Anna » avec semelle intérieure anatomique douce.","en":"Women's model \"Anna\" with a soft anatomical footbed.","it":"Modello da donna «Anna» con plantare anatomico morbido."}
+167:{"de":"35","fr":"35","en":"35","it":"35"}
+166:{"id":"35","label":"$167"}
+169:{"de":"36","fr":"36","en":"36","it":"36"}
+168:{"id":"36","label":"$169"}
+16b:{"de":"37","fr":"37","en":"37","it":"37"}
+16a:{"id":"37","label":"$16b"}
+16d:{"de":"38","fr":"38","en":"38","it":"38"}
+16c:{"id":"38","label":"$16d"}
+16f:{"de":"39","fr":"39","en":"39","it":"39"}
+16e:{"id":"39","label":"$16f"}
+171:{"de":"40","fr":"40","en":"40","it":"40"}
+170:{"id":"40","label":"$171"}
+173:{"de":"41","fr":"41","en":"41","it":"41"}
+172:{"id":"41","label":"$173"}
+175:{"de":"42","fr":"42","en":"42","it":"42"}
+174:{"id":"42","label":"$175"}
+165:["$166","$168","$16a","$16c","$16e","$170","$172","$174"]
+177:{"id":"black","label":"Schwarz","hex":"#111827"}
+178:{"id":"grey","label":"Grau","hex":"#6b7280"}
+179:{"id":"white","label":"Weiss","hex":"#f9fafb"}
+176:["$177","$178","$179"]
+17b:{"size":"35","color":"black","sku":"LEON-ANNABRAON-35-black","priceCHF":49,"stock":10}
+17c:{"size":"35","color":"grey","sku":"LEON-ANNABRAON-35-grey","priceCHF":49,"stock":10}
+17d:{"size":"35","color":"white","sku":"LEON-ANNABRAON-35-white","priceCHF":49,"stock":10}
+17e:{"size":"36","color":"black","sku":"LEON-ANNABRAON-36-black","priceCHF":49,"stock":10}
+17f:{"size":"36","color":"grey","sku":"LEON-ANNABRAON-36-grey","priceCHF":49,"stock":10}
+180:{"size":"36","color":"white","sku":"LEON-ANNABRAON-36-white","priceCHF":49,"stock":10}
+181:{"size":"37","color":"black","sku":"LEON-ANNABRAON-37-black","priceCHF":49,"stock":10}
+182:{"size":"37","color":"grey","sku":"LEON-ANNABRAON-37-grey","priceCHF":49,"stock":10}
+183:{"size":"37","color":"white","sku":"LEON-ANNABRAON-37-white","priceCHF":49,"stock":10}
+184:{"size":"38","color":"black","sku":"LEON-ANNABRAON-38-black","priceCHF":49,"stock":10}
+185:{"size":"38","color":"grey","sku":"LEON-ANNABRAON-38-grey","priceCHF":49,"stock":10}
+186:{"size":"38","color":"white","sku":"LEON-ANNABRAON-38-white","priceCHF":49,"stock":10}
+187:{"size":"39","color":"black","sku":"LEON-ANNABRAON-39-black","priceCHF":49,"stock":10}
+188:{"size":"39","color":"grey","sku":"LEON-ANNABRAON-39-grey","priceCHF":49,"stock":10}
+189:{"size":"39","color":"white","sku":"LEON-ANNABRAON-39-white","priceCHF":49,"stock":10}
+18a:{"size":"40","color":"black","sku":"LEON-ANNABRAON-40-black","priceCHF":49,"stock":10}
+18b:{"size":"40","color":"grey","sku":"LEON-ANNABRAON-40-grey","priceCHF":49,"stock":10}
+18c:{"size":"40","color":"white","sku":"LEON-ANNABRAON-40-white","priceCHF":49,"stock":10}
+18d:{"size":"41","color":"black","sku":"LEON-ANNABRAON-41-black","priceCHF":49,"stock":10}
+18e:{"size":"41","color":"grey","sku":"LEON-ANNABRAON-41-grey","priceCHF":49,"stock":10}
+18f:{"size":"41","color":"white","sku":"LEON-ANNABRAON-41-white","priceCHF":49,"stock":10}
+190:{"size":"42","color":"black","sku":"LEON-ANNABRAON-42-black","priceCHF":49,"stock":10}
+191:{"size":"42","color":"grey","sku":"LEON-ANNABRAON-42-grey","priceCHF":49,"stock":10}
+192:{"size":"42","color":"white","sku":"LEON-ANNABRAON-42-white","priceCHF":49,"stock":10}
+17a:["$17b","$17c","$17d","$17e","$17f","$180","$181","$182","$183","$184","$185","$186","$187","$188","$189","$18a","$18b","$18c","$18d","$18e","$18f","$190","$191","$192"]
+193:["https://cdn.leon.rs/wp-content/uploads/2025/11/4010-Braon-novo-1.jpg","https://cdn.leon.rs/wp-content/uploads/2025/11/4010-Braon-novo-2.jpg","https://cdn.leon.rs/wp-content/uploads/2025/11/4010-Braon-novo-3.jpg","https://cdn.leon.rs/wp-content/uploads/2025/11/4010-Braon-novo-4.jpg"]
+196:{"de":"Obermaterial","fr":"Composition du dessus","en":"Upper material","it":"Tomaia"}
+197:{"de":"Naturleder","fr":"Cuir naturel","en":"Natural leather","it":"Pelle naturale"}
+195:{"label":"$196","value":"$197"}
+199:{"de":"Fußbett","fr":"Semelle intérieure","en":"Footbed","it":"Plantare"}
+19a:{"de":"Naturleder mit anatomischem Profil und weicher Gel-Innensohle","fr":"Cuir naturel avec bande de roulement anatomique et semelle int�rieure en gel souple","en":"Natural leather with anatomical tread and soft gel insole","it":"Pelle naturale con battistrada anatomico e plantare in morbido gel"}
+198:{"label":"$199","value":"$19a"}
+19c:{"de":"Laufsohle","fr":"Semelle extérieure","en":"Outsole","it":"Suola"}
+19d:{"de":"Polyurethan","fr":"Polyur�thane","en":"Polyurethane","it":"Poliuretano"}
+19b:{"label":"$19c","value":"$19d"}
+194:["$195","$198","$19b"]
+162:{"id":"leon-anna-braon","slug":"anna-braon","category":"women","brand":"leon","modelGroupId":"leon-mg-anna-women","name":"$163","description":"$164","image":"https://cdn.leon.rs/wp-content/uploads/2025/11/4010-Braon-novo-1.jpg","sizes":"$165","colors":"$176","variants":"$17a","articleNumber":"4010","colorLabel":"Brown","images":"$193","specifications":"$194"}
+48:["$49","$72","$ae","$d","$ea","$126","$162"]
+2:["$","div",null,{"className":"mx-auto max-w-6xl px-4 py-10","children":[["$","div",null,{"className":"grid gap-10 md:grid-cols-2","children":[["$","$L9",null,{"images":["https://cdn.leon.rs/wp-content/uploads/2025/09/Anna-Velur-BEZ.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Anna-Velur-BEZ-1.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Anna-Velur-BEZ-2.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Anna-Velur-BEZ-3.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Anna-Velur-BEZ-4.jpg"],"alt":"Anna – Velluto Beige"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-2xl font-bold text-neutral-900 md:text-3xl","children":"Anna – Velluto Beige"}],["$","p",null,{"className":"mt-2 text-sm text-neutral-600","children":[["$","span",null,{"className":"font-medium text-neutral-500","children":["Cod.",":"]}]," ",["$","span",null,{"className":"font-mono font-semibold tracking-wide text-neutral-900","children":"4010 · Suede Beige"}]]}],["$","p",null,{"className":"mt-4 text-neutral-600","children":"Modello da donna «Anna» con plantare anatomico morbido."}],["$","p",null,{"className":"mt-4 text-lg font-semibold text-red-600","children":"CHF 49.00"}],["$","$La",null,{"locale":"it","currentSlug":"anna-velur-bez","siblings":[{"id":"leon-anna-zuta-velur","slug":"anna-zuta-velur","category":"women","brand":"leon","name":{"de":"Anna – Gelb Velours","fr":"Anna – Jaune velours","en":"Anna – Yellow suede","it":"Anna – Giallo velluto"},"description":{"de":"Damenmodell „Anna“ mit weichem, anatomischem Fussbett.","fr":"Modèle femme « Anna » avec semelle intérieure anatomique douce.","en":"Women's model \"Anna\" with a soft anatomical footbed.","it":"Modello da donna «Anna» con plantare anatomico morbido."},"image":"https://cdn.leon.rs/wp-content/uploads/2025/09/Anna-ZUTA-VELUR.jpg","sizes":[{"id":"35","label":{"de":"35","fr":"35","en":"35","it":"35"}},{"id":"36","label":{"de":"36","fr":"36","en":"36","it":"36"}},{"id":"37","label":{"de":"37","fr":"37","en":"37","it":"37"}},{"id":"38","label":{"de":"38","fr":"38","en":"38","it":"38"}},{"id":"39","label":{"de":"39","fr":"39","en":"39","it":"39"}},{"id":"40","label":{"de":"40","fr":"40","en":"40","it":"40"}},{"id":"41","label":{"de":"41","fr":"41","en":"41","it":"41"}},{"id":"42","label":{"de":"42","fr":"42","en":"42","it":"42"}}],"colors":[{"id":"black","label":"Schwarz","hex":"#111827"},{"id":"grey","label":"Grau","hex":"#6b7280"}],"variants":[{"size":"35","color":"black","sku":"LEON-ANNAZUTAVELUR-35-black","priceCHF":null,"stock":10},{"size":"35","color":"grey","sku":"LEON-ANNAZUTAVELUR-35-grey","priceCHF":null,"stock":10},{"size":"36","color":"black","sku":"LEON-ANNAZUTAVELUR-36-black","priceCHF":null,"stock":10},{"size":"36","color":"grey","sku":"LEON-ANNAZUTAVELUR-36-grey","priceCHF":null,"stock":10},{"size":"37","color":"black","sku":"LEON-ANNAZUTAVELUR-37-black","priceCHF":null,"stock":10},{"size":"37","color":"grey","sku":"LEON-ANNAZUTAVELUR-37-grey","priceCHF":null,"stock":10},{"size":"38","color":"black","sku":"LEON-ANNAZUTAVELUR-38-black","priceCHF":null,"stock":10},{"size":"38","color":"grey","sku":"LEON-ANNAZUTAVELUR-38-grey","priceCHF":null,"stock":10},{"size":"39","color":"black","sku":"LEON-ANNAZUTAVELUR-39-black","priceCHF":null,"stock":10},{"size":"39","color":"grey","sku":"LEON-ANNAZUTAVELUR-39-grey","priceCHF":null,"stock":10},{"size":"40","color":"black","sku":"LEON-ANNAZUTAVELUR-40-black","priceCHF":null,"stock":10},{"size":"40","color":"grey","sku":"LEON-ANNAZUTAVELUR-40-grey","priceCHF":null,"stock":10},{"size":"41","color":"black","sku":"LEON-ANNAZUTAVELUR-41-black","priceCHF":null,"stock":10},{"size":"41","color":"grey","sku":"LEON-ANNAZUTAVELUR-41-grey","priceCHF":null,"stock":10},{"size":"42","color":"black","sku":"LEON-ANNAZUTAVELUR-42-black","priceCHF":null,"stock":10},{"size":"42","color":"grey","sku":"LEON-ANNAZUTAVELUR-42-grey","priceCHF":null,"stock":10}],"modelGroupId":"leon-mg-anna-women","colorLabel":"Yellow suede","images":["https://cdn.leon.rs/wp-content/uploads/2025/09/Anna-ZUTA-VELUR.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Anna-ZUTA-VELUR-1.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Anna-ZUTA-VELUR-2.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Anna-ZUTA-VELUR-3.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Anna-ZUTA-VELUR-4.jpg"]},{"id":"leon-anna-velur-siva","slug":"anna-velur-siva","category":"women","brand":"leon","modelGroupId":"leon-mg-anna-women","name":{"de":"Anna – Velours Grau","fr":"Anna – Velours Gris","en":"Anna – Suede Grey","it":"Anna – Velluto Grigio"},"description":{"de":"Damenmodell „Anna“ mit weichem, anatomischem Fussbett.","fr":"Modèle femme « Anna » avec semelle intérieure anatomique douce.","en":"Women's model \"Anna\" with a soft anatomical footbed.","it":"Modello da donna «Anna» con plantare anatomico morbido."},"image":"https://cdn.leon.rs/wp-content/uploads/2025/09/Anna-Velur-SIVA.jpg","sizes":[{"id":"35","label":{"de":"35","fr":"35","en":"35","it":"35"}},{"id":"36","label":{"de":"36","fr":"36","en":"36","it":"36"}},{"id":"37","label":{"de":"37","fr":"37","en":"37","it":"37"}},{"id":"38","label":{"de":"38","fr":"38","en":"38","it":"38"}},{"id":"39","label":{"de":"39","fr":"39","en":"39","it":"39"}},{"id":"40","label":{"de":"40","fr":"40","en":"40","it":"40"}},{"id":"41","label":{"de":"41","fr":"41","en":"41","it":"41"}},{"id":"42","label":{"de":"42","fr":"42","en":"42","it":"42"}}],"colors":[{"id":"black","label":"Schwarz","hex":"#111827"},{"id":"grey","label":"Grau","hex":"#6b7280"},{"id":"white","label":"Weiss","hex":"#f9fafb"}],"variants":[{"size":"35","color":"black","sku":"LEON-ANNAVELURSIVA-35-black","priceCHF":49,"stock":10},{"size":"35","color":"grey","sku":"LEON-ANNAVELURSIVA-35-grey","priceCHF":49,"stock":10},{"size":"35","color":"white","sku":"LEON-ANNAVELURSIVA-35-white","priceCHF":49,"stock":10},{"size":"36","color":"black","sku":"LEON-ANNAVELURSIVA-36-black","priceCHF":49,"stock":10},{"size":"36","color":"grey","sku":"LEON-ANNAVELURSIVA-36-grey","priceCHF":49,"stock":10},{"size":"36","color":"white","sku":"LEON-ANNAVELURSIVA-36-white","priceCHF":49,"stock":10},{"size":"37","color":"black","sku":"LEON-ANNAVELURSIVA-37-black","priceCHF":49,"stock":10},{"size":"37","color":"grey","sku":"LEON-ANNAVELURSIVA-37-grey","priceCHF":49,"stock":10},{"size":"37","color":"white","sku":"LEON-ANNAVELURSIVA-37-white","priceCHF":49,"stock":10},{"size":"38","color":"black","sku":"LEON-ANNAVELURSIVA-38-black","priceCHF":49,"stock":10},{"size":"38","color":"grey","sku":"LEON-ANNAVELURSIVA-38-grey","priceCHF":49,"stock":10},{"size":"38","color":"white","sku":"LEON-ANNAVELURSIVA-38-white","priceCHF":49,"stock":10},{"size":"39","color":"black","sku":"LEON-ANNAVELURSIVA-39-black","priceCHF":49,"stock":10},{"size":"39","color":"grey","sku":"LEON-ANNAVELURSIVA-39-grey","priceCHF":49,"stock":10},{"size":"39","color":"white","sku":"LEON-ANNAVELURSIVA-39-white","priceCHF":49,"stock":10},{"size":"40","color":"black","sku":"LEON-ANNAVELURSIVA-40-black","priceCHF":49,"stock":10},{"size":"40","color":"grey","sku":"LEON-ANNAVELURSIVA-40-grey","priceCHF":49,"stock":10},{"size":"40","color":"white","sku":"LEON-ANNAVELURSIVA-40-white","priceCHF":49,"stock":10},{"size":"41","color":"black","sku":"LEON-ANNAVELURSIVA-41-black","priceCHF":49,"stock":10},{"size":"41","color":"grey","sku":"LEON-ANNAVELURSIVA-41-grey","priceCHF":49,"stock":10},{"size":"41","color":"white","sku":"LEON-ANNAVELURSIVA-41-white","priceCHF":49,"stock":10},{"size":"42","color":"black","sku":"LEON-ANNAVELURSIVA-42-black","priceCHF":49,"stock":10},{"size":"42","color":"grey","sku":"LEON-ANNAVELURSIVA-42-grey","priceCHF":49,"stock":10},{"size":"42","color":"white","sku":"LEON-ANNAVELURSIVA-42-white","priceCHF":49,"stock":10}],"articleNumber":"4010","colorLabel":"Suede Grey","images":["https://cdn.leon.rs/wp-content/uploads/2025/09/Anna-Velur-SIVA.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Anna-Velur-SIVA-1.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Anna-Velur-SIVA-2.jpg"],"specifications":[{"label":{"de":"Obermaterial","fr":"Composition du dessus","en":"Upper material","it":"Tomaia"},"value":{"de":"Naturleder","fr":"Cuir naturel","en":"Natural leather","it":"Pelle naturale"}},{"label":{"de":"Fußbett","fr":"Semelle intérieure","en":"Footbed","it":"Plantare"},"value":{"de":"Naturleder mit anatomischem Profil und weicher Gel-Innensohle","fr":"Cuir naturel avec bande de roulement anatomique et semelle int�rieure en gel souple","en":"Natural leather with anatomical tread and soft gel insole","it":"Pelle naturale con battistrada anatomico e plantare in morbido gel"}},{"label":{"de":"Laufsohle","fr":"Semelle extérieure","en":"Outsole","it":"Suola"},"value":{"de":"Polyurethan","fr":"Polyur�thane","en":"Polyurethane","it":"Poliuretano"}}]},{"id":"leon-anna-velur-braon","slug":"anna-velur-braon","category":"women","brand":"leon","modelGroupId":"leon-mg-anna-women","name":{"de":"Anna – Velours Braun","fr":"Anna – Velours Marron","en":"Anna – Suede Brown","it":"Anna – Velluto Marrone"},"description":{"de":"Damenmodell „Anna“ mit weichem, anatomischem Fussbett.","fr":"Modèle femme « Anna » avec semelle intérieure anatomique douce.","en":"Women's model \"Anna\" with a soft anatomical footbed.","it":"Modello da donna «Anna» con plantare anatomico morbido."},"image":"https://cdn.leon.rs/wp-content/uploads/2025/09/Anna-Velur-BRAON.jpg","sizes":[{"id":"35","label":{"de":"35","fr":"35","en":"35","it":"35"}},{"id":"36","label":{"de":"36","fr":"36","en":"36","it":"36"}},{"id":"37","label":{"de":"37","fr":"37","en":"37","it":"37"}},{"id":"38","label":{"de":"38","fr":"38","en":"38","it":"38"}},{"id":"39","label":{"de":"39","fr":"39","en":"39","it":"39"}},{"id":"40","label":{"de":"40","fr":"40","en":"40","it":"40"}},{"id":"41","label":{"de":"41","fr":"41","en":"41","it":"41"}},{"id":"42","label":{"de":"42","fr":"42","en":"42","it":"42"}}],"colors":[{"id":"black","label":"Schwarz","hex":"#111827"},{"id":"grey","label":"Grau","hex":"#6b7280"},{"id":"white","label":"Weiss","hex":"#f9fafb"}],"variants":[{"size":"35","color":"black","sku":"LEON-ANNAVELURBRAON-35-black","priceCHF":49,"stock":10},{"size":"35","color":"grey","sku":"LEON-ANNAVELURBRAON-35-grey","priceCHF":49,"stock":10},{"size":"35","color":"white","sku":"LEON-ANNAVELURBRAON-35-white","priceCHF":49,"stock":10},{"size":"36","color":"black","sku":"LEON-ANNAVELURBRAON-36-black","priceCHF":49,"stock":10},{"size":"36","color":"grey","sku":"LEON-ANNAVELURBRAON-36-grey","priceCHF":49,"stock":10},{"size":"36","color":"white","sku":"LEON-ANNAVELURBRAON-36-white","priceCHF":49,"stock":10},{"size":"37","color":"black","sku":"LEON-ANNAVELURBRAON-37-black","priceCHF":49,"stock":10},{"size":"37","color":"grey","sku":"LEON-ANNAVELURBRAON-37-grey","priceCHF":49,"stock":10},{"size":"37","color":"white","sku":"LEON-ANNAVELURBRAON-37-white","priceCHF":49,"stock":10},{"size":"38","color":"black","sku":"LEON-ANNAVELURBRAON-38-black","priceCHF":49,"stock":10},{"size":"38","color":"grey","sku":"LEON-ANNAVELURBRAON-38-grey","priceCHF":49,"stock":10},{"size":"38","color":"white","sku":"LEON-ANNAVELURBRAON-38-white","priceCHF":49,"stock":10},{"size":"39","color":"black","sku":"LEON-ANNAVELURBRAON-39-black","priceCHF":49,"stock":10},{"size":"39","color":"grey","sku":"LEON-ANNAVELURBRAON-39-grey","priceCHF":49,"stock":10},{"size":"39","color":"white","sku":"LEON-ANNAVELURBRAON-39-white","priceCHF":49,"stock":10},{"size":"40","color":"black","sku":"LEON-ANNAVELURBRAON-40-black","priceCHF":49,"stock":10},{"size":"40","color":"grey","sku":"LEON-ANNAVELURBRAON-40-grey","priceCHF":49,"stock":10},{"size":"40","color":"white","sku":"LEON-ANNAVELURBRAON-40-white","priceCHF":49,"stock":10},{"size":"41","color":"black","sku":"LEON-ANNAVELURBRAON-41-black","priceCHF":49,"stock":10},{"size":"41","color":"grey","sku":"LEON-ANNAVELURBRAON-41-grey","priceCHF":49,"stock":10},{"size":"41","color":"white","sku":"LEON-ANNAVELURBRAON-41-white","priceCHF":49,"stock":10},{"size":"42","color":"black","sku":"LEON-ANNAVELURBRAON-42-black","priceCHF":49,"stock":10},{"size":"42","color":"grey","sku":"LEON-ANNAVELURBRAON-42-grey","priceCHF":49,"stock":10},{"size":"42","color":"white","sku":"LEON-ANNAVELURBRAON-42-white","priceCHF":49,"stock":10}],"articleNumber":"4010","colorLabel":"Suede Brown","images":["https://cdn.leon.rs/wp-content/uploads/2025/09/Anna-Velur-BRAON.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Anna-Velur-BRAON-1.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Anna-Velur-BRAON-2.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Anna-Velur-BRAON-3.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Anna-Velur-BRAON-4.jpg"],"specifications":[{"label":{"de":"Obermaterial","fr":"Composition du dessus","en":"Upper material","it":"Tomaia"},"value":{"de":"Naturleder","fr":"Cuir naturel","en":"Natural leather","it":"Pelle naturale"}},{"label":{"de":"Fußbett","fr":"Semelle intérieure","en":"Footbed","it":"Plantare"},"value":{"de":"Naturleder mit anatomischem Profil und weicher Gel-Innensohle","fr":"Cuir naturel avec bande de roulement anatomique et semelle int�rieure en gel souple","en":"Natural leather with anatomical tread and soft gel insole","it":"Pelle naturale con battistrada anatomico e plantare in morbido gel"}},{"label":{"de":"Laufsohle","fr":"Semelle extérieure","en":"Outsole","it":"Suola"},"value":{"de":"Polyurethan","fr":"Polyur�thane","en":"Polyurethane","it":"Poliuretano"}}]},{"id":"leon-anna-velur-bez","slug":"anna-velur-bez","category":"women","brand":"leon","modelGroupId":"leon-mg-anna-women","name":{"de":"Anna – Velours Beige","fr":"Anna – Velours Beige","en":"Anna – Suede Beige","it":"Anna – Velluto Beige"},"description":{"de":"Damenmodell „Anna“ mit weichem, anatomischem Fussbett.","fr":"Modèle femme « Anna » avec semelle intérieure anatomique douce.","en":"Women's model \"Anna\" with a soft anatomical footbed.","it":"Modello da donna «Anna» con plantare anatomico morbido."},"image":"https://cdn.leon.rs/wp-content/uploads/2025/09/Anna-Velur-BEZ.jpg","sizes":[{"id":"35","label":{"de":"35","fr":"35","en":"35","it":"35"}},{"id":"36","label":{"de":"36","fr":"36","en":"36","it":"36"}},{"id":"37","label":{"de":"37","fr":"37","en":"37","it":"37"}},{"id":"38","label":{"de":"38","fr":"38","en":"38","it":"38"}},{"id":"39","label":{"de":"39","fr":"39","en":"39","it":"39"}},{"id":"40","label":{"de":"40","fr":"40","en":"40","it":"40"}},{"id":"41","label":{"de":"41","fr":"41","en":"41","it":"41"}},{"id":"42","label":{"de":"42","fr":"42","en":"42","it":"42"}}],"colors":[{"id":"black","label":"Schwarz","hex":"#111827"},{"id":"grey","label":"Grau","hex":"#6b7280"},{"id":"white","label":"Weiss","hex":"#f9fafb"}],"variants":[{"size":"35","color":"black","sku":"LEON-ANNAVELURBEZ-35-black","priceCHF":49,"stock":10},{"size":"35","color":"grey","sku":"LEON-ANNAVELURBEZ-35-grey","priceCHF":49,"stock":10},{"size":"35","color":"white","sku":"LEON-ANNAVELURBEZ-35-white","priceCHF":49,"stock":10},{"size":"36","color":"black","sku":"LEON-ANNAVELURBEZ-36-black","priceCHF":49,"stock":10},{"size":"36","color":"grey","sku":"LEON-ANNAVELURBEZ-36-grey","priceCHF":49,"stock":10},{"size":"36","color":"white","sku":"LEON-ANNAVELURBEZ-36-white","priceCHF":49,"stock":10},{"size":"37","color":"black","sku":"LEON-ANNAVELURBEZ-37-black","priceCHF":49,"stock":10},{"size":"37","color":"grey","sku":"LEON-ANNAVELURBEZ-37-grey","priceCHF":49,"stock":10},{"size":"37","color":"white","sku":"LEON-ANNAVELURBEZ-37-white","priceCHF":49,"stock":10},{"size":"38","color":"black","sku":"LEON-ANNAVELURBEZ-38-black","priceCHF":49,"stock":10},{"size":"38","color":"grey","sku":"LEON-ANNAVELURBEZ-38-grey","priceCHF":49,"stock":10},{"size":"38","color":"white","sku":"LEON-ANNAVELURBEZ-38-white","priceCHF":49,"stock":10},{"size":"39","color":"black","sku":"LEON-ANNAVELURBEZ-39-black","priceCHF":49,"stock":10},{"size":"39","color":"grey","sku":"LEON-ANNAVELURBEZ-39-grey","priceCHF":49,"stock":10},{"size":"39","color":"white","sku":"LEON-ANNAVELURBEZ-39-white","priceCHF":49,"stock":10},{"size":"40","color":"black","sku":"LEON-ANNAVELURBEZ-40-black","priceCHF":49,"stock":10},{"size":"40","color":"grey","sku":"LEON-ANNAVELURBEZ-40-grey","priceCHF":49,"stock":10},{"size":"40","color":"white","sku":"LEON-ANNAVELURBEZ-40-white","priceCHF":49,"stock":10},{"size":"41","color":"black","sku":"LEON-ANNAVELURBEZ-41-black","priceCHF":49,"stock":10},{"size":"41","color":"grey","sku":"LEON-ANNAVELURBEZ-41-grey","priceCHF":49,"stock":10},{"size":"41","color":"white","sku":"LEON-ANNAVELURBEZ-41-white","priceCHF":49,"stock":10},{"size":"42","color":"black","sku":"LEON-ANNAVELURBEZ-42-black","priceCHF":49,"stock":10},{"size":"42","color":"grey","sku":"LEON-ANNAVELURBEZ-42-grey","priceCHF":49,"stock":10},{"size":"42","color":"white","sku":"LEON-ANNAVELURBEZ-42-white","priceCHF":49,"stock":10}],"articleNumber":"4010","colorLabel":"Suede Beige","images":"$b","specifications":[{"label":{"de":"Obermaterial","fr":"Composition du dessus","en":"Upper material","it":"Tomaia"},"value":{"de":"Naturleder","fr":"Cuir naturel","en":"Natural leather","it":"Pelle naturale"}},{"label":{"de":"Fußbett","fr":"Semelle intérieure","en":"Footbed","it":"Plantare"},"value":{"de":"Naturleder mit anatomischem Profil und weicher Gel-Innensohle","fr":"Cuir naturel avec bande de roulement anatomique et semelle int�rieure en gel souple","en":"Natural leather with anatomical tread and soft gel insole","it":"Pelle naturale con battistrada anatomico e plantare in morbido gel"}},{"label":{"de":"Laufsohle","fr":"Semelle extérieure","en":"Outsole","it":"Suola"},"value":{"de":"Polyurethan","fr":"Polyur�thane","en":"Polyurethane","it":"Poliuretano"}}]},{"id":"leon-anna-roze-velur","slug":"anna-roze-velur","category":"women","brand":"leon","modelGroupId":"leon-mg-anna-women","name":{"de":"Anna – Rosa Velours","fr":"Anna – Rose velours","en":"Anna – Pink suede","it":"Anna – Rosa velluto"},"description":{"de":"Damenmodell „Anna“ mit weichem, anatomischem Fussbett.","fr":"Modèle femme « Anna » avec semelle intérieure anatomique douce.","en":"Women's model \"Anna\" with a soft anatomical footbed.","it":"Modello da donna «Anna» con plantare anatomico morbido."},"image":"https://cdn.leon.rs/wp-content/uploads/2025/09/Anna-ROZE-VELUR.jpg","sizes":[{"id":"35","label":{"de":"35","fr":"35","en":"35","it":"35"}},{"id":"36","label":{"de":"36","fr":"36","en":"36","it":"36"}},{"id":"37","label":{"de":"37","fr":"37","en":"37","it":"37"}},{"id":"38","label":{"de":"38","fr":"38","en":"38","it":"38"}},{"id":"39","label":{"de":"39","fr":"39","en":"39","it":"39"}},{"id":"40","label":{"de":"40","fr":"40","en":"40","it":"40"}},{"id":"41","label":{"de":"41","fr":"41","en":"41","it":"41"}},{"id":"42","label":{"de":"42","fr":"42","en":"42","it":"42"}}],"colors":[{"id":"black","label":"Schwarz","hex":"#111827"},{"id":"grey","label":"Grau","hex":"#6b7280"},{"id":"white","label":"Weiss","hex":"#f9fafb"}],"variants":[{"size":"35","color":"black","sku":"LEON-ANNAROZEVELUR-35-black","priceCHF":49,"stock":10},{"size":"35","color":"grey","sku":"LEON-ANNAROZEVELUR-35-grey","priceCHF":49,"stock":10},{"size":"35","color":"white","sku":"LEON-ANNAROZEVELUR-35-white","priceCHF":49,"stock":10},{"size":"36","color":"black","sku":"LEON-ANNAROZEVELUR-36-black","priceCHF":49,"stock":10},{"size":"36","color":"grey","sku":"LEON-ANNAROZEVELUR-36-grey","priceCHF":49,"stock":10},{"size":"36","color":"white","sku":"LEON-ANNAROZEVELUR-36-white","priceCHF":49,"stock":10},{"size":"37","color":"black","sku":"LEON-ANNAROZEVELUR-37-black","priceCHF":49,"stock":10},{"size":"37","color":"grey","sku":"LEON-ANNAROZEVELUR-37-grey","priceCHF":49,"stock":10},{"size":"37","color":"white","sku":"LEON-ANNAROZEVELUR-37-white","priceCHF":49,"stock":10},{"size":"38","color":"black","sku":"LEON-ANNAROZEVELUR-38-black","priceCHF":49,"stock":10},{"size":"38","color":"grey","sku":"LEON-ANNAROZEVELUR-38-grey","priceCHF":49,"stock":10},{"size":"38","color":"white","sku":"LEON-ANNAROZEVELUR-38-white","priceCHF":49,"stock":10},{"size":"39","color":"black","sku":"LEON-ANNAROZEVELUR-39-black","priceCHF":49,"stock":10},{"size":"39","color":"grey","sku":"LEON-ANNAROZEVELUR-39-grey","priceCHF":49,"stock":10},{"size":"39","color":"white","sku":"LEON-ANNAROZEVELUR-39-white","priceCHF":49,"stock":10},{"size":"40","color":"black","sku":"LEON-ANNAROZEVELUR-40-black","priceCHF":49,"stock":10},{"size":"40","color":"grey","sku":"LEON-ANNAROZEVELUR-40-grey","priceCHF":49,"stock":10},{"size":"40","color":"white","sku":"LEON-ANNAROZEVELUR-40-white","priceCHF":49,"stock":10},{"size":"41","color":"black","sku":"LEON-ANNAROZEVELUR-41-black","priceCHF":49,"stock":10},{"size":"41","color":"grey","sku":"LEON-ANNAROZEVELUR-41-grey","priceCHF":49,"stock":10},{"size":"41","color":"white","sku":"LEON-ANNAROZEVELUR-41-white","priceCHF":49,"stock":10},{"size":"42","color":"black","sku":"LEON-ANNAROZEVELUR-42-black","priceCHF":49,"stock":10},{"size":"42","color":"grey","sku":"LEON-ANNAROZEVELUR-42-grey","priceCHF":49,"stock":10},{"size":"42","color":"white","sku":"LEON-ANNAROZEVELUR-42-white","priceCHF":49,"stock":10}],"colorLabel":"Pink suede","images":["https://cdn.leon.rs/wp-content/uploads/2025/09/Anna-ROZE-VELUR.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Anna-ROZE-VELUR-1.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Anna-ROZE-VELUR-2.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Anna-ROZE-VELUR-3.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Anna-ROZE-VELUR-4.jpg"],"specifications":[{"label":{"de":"Obermaterial","fr":"Composition du dessus","en":"Upper material","it":"Tomaia"},"value":{"de":"Naturleder","fr":"Cuir naturel","en":"Natural leather","it":"Pelle naturale"}},{"label":{"de":"Fußbett","fr":"Semelle intérieure","en":"Footbed","it":"Plantare"},"value":{"de":"Naturleder mit anatomischem Profil und weicher Gel-Innensohle","fr":"Cuir naturel avec bande de roulement anatomique et semelle int�rieure en gel souple","en":"Natural leather with anatomical tread and soft gel insole","it":"Pelle naturale con battistrada anatomico e plantare in morbido gel"}},{"label":{"de":"Laufsohle","fr":"Semelle extérieure","en":"Outsole","it":"Suola"},"value":{"de":"Polyurethan","fr":"Polyur�thane","en":"Polyurethane","it":"Poliuretano"}}],"articleNumber":"4010"},{"id":"leon-anna-crna-bakkar","slug":"anna-crna-bakkar","category":"women","brand":"leon","modelGroupId":"leon-mg-anna-women","name":{"de":"Anna – Schwarz Lack","fr":"Anna – Noir verni","en":"Anna – Black patent","it":"Anna – Nero verniciato"},"description":{"de":"Damenmodell „Anna“ mit weichem, anatomischem Fussbett.","fr":"Modèle femme « Anna » avec semelle intérieure anatomique douce.","en":"Women's model \"Anna\" with a soft anatomical footbed.","it":"Modello da donna «Anna» con plantare anatomico morbido."},"image":"https://cdn.leon.rs/wp-content/uploads/2025/09/Anna-CRNA-BAKKAR.jpg","sizes":[{"id":"35","label":{"de":"35","fr":"35","en":"35","it":"35"}},{"id":"36","label":{"de":"36","fr":"36","en":"36","it":"36"}},{"id":"37","label":{"de":"37","fr":"37","en":"37","it":"37"}},{"id":"38","label":{"de":"38","fr":"38","en":"38","it":"38"}},{"id":"39","label":{"de":"39","fr":"39","en":"39","it":"39"}},{"id":"40","label":{"de":"40","fr":"40","en":"40","it":"40"}},{"id":"41","label":{"de":"41","fr":"41","en":"41","it":"41"}},{"id":"42","label":{"de":"42","fr":"42","en":"42","it":"42"}}],"colors":[{"id":"black","label":"Schwarz","hex":"#111827"},{"id":"grey","label":"Grau","hex":"#6b7280"},{"id":"white","label":"Weiss","hex":"#f9fafb"}],"variants":[{"size":"35","color":"black","sku":"LEON-ANNACRNABAKKAR-35-black","priceCHF":49,"stock":10},{"size":"35","color":"grey","sku":"LEON-ANNACRNABAKKAR-35-grey","priceCHF":49,"stock":10},{"size":"35","color":"white","sku":"LEON-ANNACRNABAKKAR-35-white","priceCHF":49,"stock":10},{"size":"36","color":"black","sku":"LEON-ANNACRNABAKKAR-36-black","priceCHF":49,"stock":10},{"size":"36","color":"grey","sku":"LEON-ANNACRNABAKKAR-36-grey","priceCHF":49,"stock":10},{"size":"36","color":"white","sku":"LEON-ANNACRNABAKKAR-36-white","priceCHF":49,"stock":10},{"size":"37","color":"black","sku":"LEON-ANNACRNABAKKAR-37-black","priceCHF":49,"stock":10},{"size":"37","color":"grey","sku":"LEON-ANNACRNABAKKAR-37-grey","priceCHF":49,"stock":10},{"size":"37","color":"white","sku":"LEON-ANNACRNABAKKAR-37-white","priceCHF":49,"stock":10},{"size":"38","color":"black","sku":"LEON-ANNACRNABAKKAR-38-black","priceCHF":49,"stock":10},{"size":"38","color":"grey","sku":"LEON-ANNACRNABAKKAR-38-grey","priceCHF":49,"stock":10},{"size":"38","color":"white","sku":"LEON-ANNACRNABAKKAR-38-white","priceCHF":49,"stock":10},{"size":"39","color":"black","sku":"LEON-ANNACRNABAKKAR-39-black","priceCHF":49,"stock":10},{"size":"39","color":"grey","sku":"LEON-ANNACRNABAKKAR-39-grey","priceCHF":49,"stock":10},{"size":"39","color":"white","sku":"LEON-ANNACRNABAKKAR-39-white","priceCHF":49,"stock":10},{"size":"40","color":"black","sku":"LEON-ANNACRNABAKKAR-40-black","priceCHF":49,"stock":10},{"size":"40","color":"grey","sku":"LEON-ANNACRNABAKKAR-40-grey","priceCHF":49,"stock":10},{"size":"40","color":"white","sku":"LEON-ANNACRNABAKKAR-40-white","priceCHF":49,"stock":10},{"size":"41","color":"black","sku":"LEON-ANNACRNABAKKAR-41-black","priceCHF":49,"stock":10},{"size":"41","color":"grey","sku":"LEON-ANNACRNABAKKAR-41-grey","priceCHF":49,"stock":10},{"size":"41","color":"white","sku":"LEON-ANNACRNABAKKAR-41-white","priceCHF":49,"stock":10},{"size":"42","color":"black","sku":"LEON-ANNACRNABAKKAR-42-black","priceCHF":49,"stock":10},{"size":"42","color":"grey","sku":"LEON-ANNACRNABAKKAR-42-grey","priceCHF":49,"stock":10},{"size":"42","color":"white","sku":"LEON-ANNACRNABAKKAR-42-white","priceCHF":49,"stock":10}],"colorLabel":"Black patent","images":["https://cdn.leon.rs/wp-content/uploads/2025/09/Anna-CRNA-BAKKAR.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Anna-CRNA-BAKKAR-1.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Anna-CRNA-BAKKAR-2.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Anna-CRNA-BAKKAR-3.jpg"],"specifications":[{"label":{"de":"Obermaterial","fr":"Composition du dessus","en":"Upper material","it":"Tomaia"},"value":{"de":"Naturleder","fr":"Cuir naturel","en":"Natural leather","it":"Pelle naturale"}},{"label":{"de":"Fußbett","fr":"Semelle intérieure","en":"Footbed","it":"Plantare"},"value":{"de":"Naturleder mit anatomischem Profil und weicher Gel-Innensohle","fr":"Cuir naturel avec bande de roulement anatomique et semelle int�rieure en gel souple","en":"Natural leather with anatomical tread and soft gel insole","it":"Pelle naturale con battistrada anatomico e plantare in morbido gel"}},{"label":{"de":"Laufsohle","fr":"Semelle extérieure","en":"Outsole","it":"Suola"},"value":{"de":"Polyurethan","fr":"Polyur�thane","en":"Polyurethane","it":"Poliuretano"}}],"articleNumber":"4010"},{"id":"leon-anna-braon","slug":"anna-braon","category":"women","brand":"leon","modelGroupId":"leon-mg-anna-women","name":{"de":"Anna – Braun","fr":"Anna – Marron","en":"Anna – Brown","it":"Anna – Marrone"},"description":{"de":"Damenmodell „Anna“ mit weichem, anatomischem Fussbett.","fr":"Modèle femme « Anna » avec semelle intérieure anatomique douce.","en":"Women's model \"Anna\" with a soft anatomical footbed.","it":"Modello da donna «Anna» con plantare anatomico morbido."},"image":"https://cdn.leon.rs/wp-content/uploads/2025/11/4010-Braon-novo-1.jpg","sizes":[{"id":"35","label":{"de":"35","fr":"35","en":"35","it":"35"}},{"id":"36","label":{"de":"36","fr":"36","en":"36","it":"36"}},{"id":"37","label":{"de":"37","fr":"37","en":"37","it":"37"}},{"id":"38","label":{"de":"38","fr":"38","en":"38","it":"38"}},{"id":"39","label":{"de":"39","fr":"39","en":"39","it":"39"}},{"id":"40","label":{"de":"40","fr":"40","en":"40","it":"40"}},{"id":"41","label":{"de":"41","fr":"41","en":"41","it":"41"}},{"id":"42","label":{"de":"42","fr":"42","en":"42","it":"42"}}],"colors":[{"id":"black","label":"Schwarz","hex":"#111827"},{"id":"grey","label":"Grau","hex":"#6b7280"},{"id":"white","label":"Weiss","hex":"#f9fafb"}],"variants":[{"size":"35","color":"black","sku":"LEON-ANNABRAON-35-black","priceCHF":49,"stock":10},{"size":"35","color":"grey","sku":"LEON-ANNABRAON-35-grey","priceCHF":49,"stock":10},{"size":"35","color":"white","sku":"LEON-ANNABRAON-35-white","priceCHF":49,"stock":10},{"size":"36","color":"black","sku":"LEON-ANNABRAON-36-black","priceCHF":49,"stock":10},{"size":"36","color":"grey","sku":"LEON-ANNABRAON-36-grey","priceCHF":49,"stock":10},{"size":"36","color":"white","sku":"LEON-ANNABRAON-36-white","priceCHF":49,"stock":10},{"size":"37","color":"black","sku":"LEON-ANNABRAON-37-black","priceCHF":49,"stock":10},{"size":"37","color":"grey","sku":"LEON-ANNABRAON-37-grey","priceCHF":49,"stock":10},{"size":"37","color":"white","sku":"LEON-ANNABRAON-37-white","priceCHF":49,"stock":10},{"size":"38","color":"black","sku":"LEON-ANNABRAON-38-black","priceCHF":49,"stock":10},{"size":"38","color":"grey","sku":"LEON-ANNABRAON-38-grey","priceCHF":49,"stock":10},{"size":"38","color":"white","sku":"LEON-ANNABRAON-38-white","priceCHF":49,"stock":10},{"size":"39","color":"black","sku":"LEON-ANNABRAON-39-black","priceCHF":49,"stock":10},{"size":"39","color":"grey","sku":"LEON-ANNABRAON-39-grey","priceCHF":49,"stock":10},{"size":"39","color":"white","sku":"LEON-ANNABRAON-39-white","priceCHF":49,"stock":10},{"size":"40","color":"black","sku":"LEON-ANNABRAON-40-black","priceCHF":49,"stock":10},{"size":"40","color":"grey","sku":"LEON-ANNABRAON-40-grey","priceCHF":49,"stock":10},{"size":"40","color":"white","sku":"LEON-ANNABRAON-40-white","priceCHF":49,"stock":10},{"size":"41","color":"black","sku":"LEON-ANNABRAON-41-black","priceCHF":49,"stock":10},{"size":"41","color":"grey","sku":"LEON-ANNABRAON-41-grey","priceCHF":49,"stock":10},{"size":"41","color":"white","sku":"LEON-ANNABRAON-41-white","priceCHF":49,"stock":10},{"size":"42","color":"black","sku":"LEON-ANNABRAON-42-black","priceCHF":49,"stock":10},{"size":"42","color":"grey","sku":"LEON-ANNABRAON-42-grey","priceCHF":49,"stock":10},{"size":"42","color":"white","sku":"LEON-ANNABRAON-42-white","priceCHF":49,"stock":10}],"articleNumber":"4010","colorLabel":"Brown","images":["https://cdn.leon.rs/wp-content/uploads/2025/11/4010-Braon-novo-1.jpg","https://cdn.leon.rs/wp-content/uploads/2025/11/4010-Braon-novo-2.jpg","https://cdn.leon.rs/wp-content/uploads/2025/11/4010-Braon-novo-3.jpg","https://cdn.leon.rs/wp-content/uploads/2025/11/4010-Braon-novo-4.jpg"],"specifications":[{"label":{"de":"Obermaterial","fr":"Composition du dessus","en":"Upper material","it":"Tomaia"},"value":{"de":"Naturleder","fr":"Cuir naturel","en":"Natural leather","it":"Pelle naturale"}},{"label":{"de":"Fußbett","fr":"Semelle intérieure","en":"Footbed","it":"Plantare"},"value":{"de":"Naturleder mit anatomischem Profil und weicher Gel-Innensohle","fr":"Cuir naturel avec bande de roulement anatomique et semelle int�rieure en gel souple","en":"Natural leather with anatomical tread and soft gel insole","it":"Pelle naturale con battistrada anatomico e plantare in morbido gel"}},{"label":{"de":"Laufsohle","fr":"Semelle extérieure","en":"Outsole","it":"Suola"},"value":{"de":"Polyurethan","fr":"Polyur�thane","en":"Polyurethane","it":"Poliuretano"}}]}]}],["$","$Lc",null,{"product":"$d","locale":"it","modelGroupSiblings":"$48"}]]}]]}],["$","$L19e",null,{"product":"$d","locale":"it"}]]}]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Trend Swiss Shop | trendswiss.ch"}],["$","meta","3",{"name":"description","content":"Online shop – Swiss quality and style. trendswiss.ch"}]]
+1:null
+19f:I[6456,["972","static/chunks/972-d71866a6631b6318.js","529","static/chunks/529-56c5ab17e14cba56.js","145","static/chunks/145-a8953cd3f91aee0b.js","883","static/chunks/883-e2a4759db12ee0dc.js","203","static/chunks/app/%5Blocale%5D/layout-1b7a049853e5d5e0.js"],"default"]
+1a0:I[3970,["972","static/chunks/972-d71866a6631b6318.js","529","static/chunks/529-56c5ab17e14cba56.js","145","static/chunks/145-a8953cd3f91aee0b.js","883","static/chunks/883-e2a4759db12ee0dc.js","203","static/chunks/app/%5Blocale%5D/layout-1b7a049853e5d5e0.js"],"default"]
+1a1:I[4767,["972","static/chunks/972-d71866a6631b6318.js","529","static/chunks/529-56c5ab17e14cba56.js","145","static/chunks/145-a8953cd3f91aee0b.js","883","static/chunks/883-e2a4759db12ee0dc.js","203","static/chunks/app/%5Blocale%5D/layout-1b7a049853e5d5e0.js"],"default"]
+7:["$","$L19f",null,{"locale":"it","now":"$D2026-08-11T13:21:13.643Z","timeZone":"Europe/Belgrade","messages":{"nav":{"home":"Home","shop":"Shop","cart":"Carrello","about":"Chi siamo","contact":"Contatti","searchLabel":"Cerca modelli","searchPlaceholder":"Nome modello o numero articolo…","searchClear":"Cancella ricerca","searchNoResults":"Nessun modello trovato."},"home":{"heroTitle":"Benvenuto su Trend Swiss","heroSubtitle":"Qualità e stile svizzeri","aboutTitle":"Chi siamo","aboutCompany":"TrendSwiss GmbH","aboutTagline":"Comfort elegante per ogni giorno – i vostri esperti in calzature di prima qualità","aboutWelcomeTitle":"Benvenuti da TrendSwiss GmbH!","aboutWelcomeBody":"Come moderna azienda svizzera, ci siamo dedicate a una missione chiara: portarvi direttamente un comfort di camminata e di posizione in piedi di alta qualità. In qualità di rappresentanza generale ufficiale di produttori internazionali leader, uniamo artigianato tradizionale, design moderno ed ergonomia contemporanea.","aboutPhilosophyTitle":"La nostra filosofia: qualità che si sente","aboutPhilosophyBody":"Gran parte della nostra vita si svolge in piedi. Che sia in una giornata lavorativa impegnativa, a casa o nel tempo libero – i nostri piedi meritano il miglior sostegno possibile. Da TrendSwiss selezioniamo le nostre collezioni secondo i criteri più rigorosi. Puntiamo costantemente su materiali naturali di prima qualità (come la pregiata pelle veramente) e su una lavorazione accurata che garantisce durata e un comfort di calzata ottimale.","aboutAssortmentTitle":"La nostra gamma: varietà e funzionalità","aboutAssortmentBody":"Con un assortimento curato e versatile offriamo la risposta giusta a esigenze diverse. Dai classici zoccoli per l'uso professionale in studio, farmacia o assistenza alle eleganti pantofole e comode ciabatte per tutta la famiglia: i nostri prodotti uniscono una suola anatomica a un design moderno. Si integrano armoniosamente in ogni situazione quotidiana e favoriscono il benessere ad ogni passo.","aboutPartnerTitle":"Il vostro partner svizzero affidabile","aboutPartnerBody1":"TrendSwiss GmbH si considera non solo un rivenditore, ma un partner a lungo termine. Grazie al collegamento diretto con i siti produttivi possiamo agire con flessibilità, garantire i più alti standard qualitativi e offrirvi sempre un rapporto qualità-prezzo interessante.","aboutPartnerBody2":"Che siate rivenditori desiderosi di arricchire il vostro assortimento con i nostri prodotti di qualità o clienti privati in cerca del compagno perfetto per la vita quotidiana – il cliente e un servizio di prima classe sono sempre al centro.","aboutWhyTitle":"Perché TrendSwiss?","aboutWhy1Title":"Collezioni esclusive:","aboutWhy1Text":"Modelli accuratamente selezionati da produttori internazionali affermati.","aboutWhy2Title":"Design ergonomico:","aboutWhy2Text":"Calzata studiata anatomicamente per stare in piedi e camminare senza affaticamento nella vita quotidiana.","aboutWhy3Title":"Materiali naturali:","aboutWhy3Text":"Pelle di alta qualità e componenti traspiranti per un piacevole microclima del piede.","aboutWhy4Title":"Affidabilità svizzera:","aboutWhy4Text":"Servizio competente, gestione semplice e vicinanza autentica al cliente.","aboutClosingLine":"Percorrete con noi la strada del successo e riscoprite il comfort.","aboutFooterLine":"TrendSwiss GmbH – passo dopo passo verso un maggiore benessere.","contactTitle":"Contatti","contactPhone":"Tel","contactAddress":"Indirizzo","contactEmail":"E-mail","contactStreet":"Bodenackerstrasse 50","contactCity":"5200, Brugg","contactCountry":"Svizzera","galleryAriaLabel":"Galleria immagini"},"shop":{"title":"Shop","allProducts":"Tutti i prodotti","uncategorizedFilter":"Senza categoria ({count})","exploreByCategory":"Esplora per categoria","view":"Vedi","exploreFilterTitle":"Categorie","filtersTitle":"Filtri","openFilters":"Filtri","close":"Chiudi","categories":"Categorie","all":"Tutti","brandTitle":"Marca","allBrands":"Tutte le marche","noProductsInCategory":"Nessun prodotto in questa categoria.","perPageLabel":"Per pagina","perPage20":"20","perPage50":"50","perPageAll":"Tutti","showingRange":"Visualizzati {from}–{to} di {total} prodotti","prevPage":"Indietro","nextPage":"Avanti","pageOf":"Pagina {page} di {totalPages}","addToCart":"Aggiungi al carrello","catalogOnly":"Solo catalogo","purchaseDisabled":"Gli acquisti sono temporaneamente disattivati. Questo sito al momento è solo un catalogo online.","size":"Taglia","color":"Colore","price":"Prezzo","priceFilterTitle":"Prezzo","pricedOnly":"Mostra solo modelli con prezzo","sku":"Cod.","chf":"CHF","selectSize":"Seleziona la taglia","selectColor":"Seleziona il colore","quantity":"Quantità","sameModelColors":"Stesso modello in altri colori","leonSizeGuide":{"link":"Guida alle taglie","title":"Guida alle taglie","tabMeasurements":"Misure","tabInstructions":"Istruzioni","close":"Chiudi","eu":"EU","footLengthMm":"Lunghezza del piede (mm)","footLengthIn":"Lunghezza del piede (in)","unitMm":"mm","unitIn":"in","howToTitle":"Come misurare:","step1":"Appoggia il piede in piano su un foglio e segna il punto più lungo delle dita e il tallone. Meglio in piedi e con le calze.","step2":"Misura in linea retta dal dito più lungo al tallone con un righello o un metro.","step3":"Usa la tabella per trovare la tua taglia EU."}},"productTabs":{"specs":"Specifiche","description":"Descrizione","shipping":"Spedizione e resi","reviews":"Recensioni","specsContent":"Materiale: pelo morbido, misto cotone. Cura: lavaggio in lavatrice a 30°C. Taglie e colori disponibili: vedi selezione sopra.","shippingContent":"Spedizione in Svizzera: 2–4 giorni lavorativi. Spese di spedizione da 6 CHF, gratis da 80 CHF. Reso entro 30 giorni, articolo non utilizzato.","reviewsIntro":"Recensioni dei clienti","review1":"Molto comode, le indosso ogni giorno. Vestono perfettamente.","review2":"Buona qualità, consegna rapida. Acquisterò di nuovo.","review3":"Morbide e calde. Consiglio la taglia abituale."},"cart":{"title":"Carrello","empty":"Il tuo carrello è vuoto","purchaseDisabled":"Gli acquisti sono temporaneamente disattivati. Carrello e checkout non sono disponibili al momento.","subtotal":"Subtotale","discount":"Sconto","total":"Totale","checkout":"Vai alla cassa","remove":"Rimuovi","voucherPlaceholder":"Codice sconto","applyVoucher":"Applica","voucherInvalid":"Codice non valido o non applicabile.","voucherApplied":"Codice \"{code}\" applicato: -{amount} CHF","goToShop":"Vai allo shop"},"checkout":{"title":"Cassa","successTitle":"Pagamento riuscito","successMessage":"Grazie! Riceverai a breve un’e-mail di conferma.","cancelMessage":"Pagamento annullato.","backToShop":"Torna allo shop"},"footer":{"rights":"Tutti i diritti riservati."}},"children":[["$","$L1a0",null,{}],["$","div",null,{"className":"flex min-h-screen flex-col overflow-x-hidden bg-[var(--bg-warm)] text-neutral-900 antialiased","children":[["$","$L1a1",null,{}],["$","main",null,{"className":"flex-1","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]}],"$L1a2"]}]]}]
+1a2:["$","footer",null,{"className":"bg-neutral-900 py-8 text-center text-sm text-neutral-300","children":[["$","div",null,{"className":"h-1 w-full bg-[var(--header-dark)]","aria-hidden":true}],["$","div",null,{"className":"pt-6","children":["© ",2026," ",["$","strong",null,{"className":"font-semibold text-white","children":"trendswiss.ch"}],". ","Tutti i diritti riservati."]}]]}]

@@ -1,0 +1,237 @@
+3:I[4707,[],""]
+6:I[6423,[],""]
+4:["locale","en","d"]
+5:["slug","linea-zlatna","d"]
+0:["ml7UmRV2zItQXVGmRrv7j",[[["",{"children":[["locale","en","d"],{"children":["shop",{"children":[["slug","linea-zlatna","d"],{"children":["__PAGE__?{\"locale\":\"en\",\"slug\":\"linea-zlatna\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","en","d"],{"children":["shop",{"children":[["slug","linea-zlatna","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children","shop","children","$5","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children","shop","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/810bbd7e806ce024.css","precedence":"next","crossOrigin":"$undefined"}]],"$L7"],null],null]},[[null,["$","html",null,{"suppressHydrationWarning":true,"children":["$","body",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}]}]],null],null],["$L8",null]]]]
+9:I[5664,["972","static/chunks/972-d71866a6631b6318.js","529","static/chunks/529-56c5ab17e14cba56.js","145","static/chunks/145-a8953cd3f91aee0b.js","883","static/chunks/883-e2a4759db12ee0dc.js","623","static/chunks/623-299883740fc8c65a.js","437","static/chunks/app/%5Blocale%5D/shop/%5Bslug%5D/page-35d9698df50a1a4d.js"],"default"]
+a:I[4456,["972","static/chunks/972-d71866a6631b6318.js","529","static/chunks/529-56c5ab17e14cba56.js","145","static/chunks/145-a8953cd3f91aee0b.js","883","static/chunks/883-e2a4759db12ee0dc.js","623","static/chunks/623-299883740fc8c65a.js","437","static/chunks/app/%5Blocale%5D/shop/%5Bslug%5D/page-35d9698df50a1a4d.js"],"default"]
+b:I[4929,["972","static/chunks/972-d71866a6631b6318.js","529","static/chunks/529-56c5ab17e14cba56.js","145","static/chunks/145-a8953cd3f91aee0b.js","883","static/chunks/883-e2a4759db12ee0dc.js","623","static/chunks/623-299883740fc8c65a.js","437","static/chunks/app/%5Blocale%5D/shop/%5Bslug%5D/page-35d9698df50a1a4d.js"],"default"]
+e8:I[564,["972","static/chunks/972-d71866a6631b6318.js","529","static/chunks/529-56c5ab17e14cba56.js","145","static/chunks/145-a8953cd3f91aee0b.js","883","static/chunks/883-e2a4759db12ee0dc.js","623","static/chunks/623-299883740fc8c65a.js","437","static/chunks/app/%5Blocale%5D/shop/%5Bslug%5D/page-35d9698df50a1a4d.js"],"default"]
+d:{"de":"Linea – Gold","fr":"Linea – Or","en":"Linea – Gold","it":"Linea – Oro"}
+e:{"de":"Damenmodell „Linea“ mit weichem, anatomischem Fussbett.","fr":"Modèle femme « Linea » avec semelle intérieure anatomique douce.","en":"Women's model \"Linea\" with a soft anatomical footbed.","it":"Modello da donna «Linea» con plantare anatomico morbido."}
+11:{"de":"36","fr":"36","en":"36","it":"36"}
+10:{"id":"36","label":"$11"}
+13:{"de":"37","fr":"37","en":"37","it":"37"}
+12:{"id":"37","label":"$13"}
+15:{"de":"38","fr":"38","en":"38","it":"38"}
+14:{"id":"38","label":"$15"}
+17:{"de":"39","fr":"39","en":"39","it":"39"}
+16:{"id":"39","label":"$17"}
+19:{"de":"40","fr":"40","en":"40","it":"40"}
+18:{"id":"40","label":"$19"}
+1b:{"de":"41","fr":"41","en":"41","it":"41"}
+1a:{"id":"41","label":"$1b"}
+f:["$10","$12","$14","$16","$18","$1a"]
+1d:{"id":"black","label":"Schwarz","hex":"#111827"}
+1e:{"id":"grey","label":"Grau","hex":"#6b7280"}
+1f:{"id":"white","label":"Weiss","hex":"#f9fafb"}
+1c:["$1d","$1e","$1f"]
+23:{"de":"36","fr":"36","en":"36","it":"36"}
+22:{"id":"36","label":"$23"}
+21:{"size":"$22","color":"black","sku":"LEON-LINEAZLATNA-[object Object]-black","priceCHF":59,"stock":10}
+26:{"de":"36","fr":"36","en":"36","it":"36"}
+25:{"id":"36","label":"$26"}
+24:{"size":"$25","color":"grey","sku":"LEON-LINEAZLATNA-[object Object]-grey","priceCHF":59,"stock":10}
+29:{"de":"36","fr":"36","en":"36","it":"36"}
+28:{"id":"36","label":"$29"}
+27:{"size":"$28","color":"white","sku":"LEON-LINEAZLATNA-[object Object]-white","priceCHF":59,"stock":10}
+2c:{"de":"37","fr":"37","en":"37","it":"37"}
+2b:{"id":"37","label":"$2c"}
+2a:{"size":"$2b","color":"black","sku":"LEON-LINEAZLATNA-[object Object]-black","priceCHF":59,"stock":10}
+2f:{"de":"37","fr":"37","en":"37","it":"37"}
+2e:{"id":"37","label":"$2f"}
+2d:{"size":"$2e","color":"grey","sku":"LEON-LINEAZLATNA-[object Object]-grey","priceCHF":59,"stock":10}
+32:{"de":"37","fr":"37","en":"37","it":"37"}
+31:{"id":"37","label":"$32"}
+30:{"size":"$31","color":"white","sku":"LEON-LINEAZLATNA-[object Object]-white","priceCHF":59,"stock":10}
+35:{"de":"38","fr":"38","en":"38","it":"38"}
+34:{"id":"38","label":"$35"}
+33:{"size":"$34","color":"black","sku":"LEON-LINEAZLATNA-[object Object]-black","priceCHF":59,"stock":10}
+38:{"de":"38","fr":"38","en":"38","it":"38"}
+37:{"id":"38","label":"$38"}
+36:{"size":"$37","color":"grey","sku":"LEON-LINEAZLATNA-[object Object]-grey","priceCHF":59,"stock":10}
+3b:{"de":"38","fr":"38","en":"38","it":"38"}
+3a:{"id":"38","label":"$3b"}
+39:{"size":"$3a","color":"white","sku":"LEON-LINEAZLATNA-[object Object]-white","priceCHF":59,"stock":10}
+3e:{"de":"39","fr":"39","en":"39","it":"39"}
+3d:{"id":"39","label":"$3e"}
+3c:{"size":"$3d","color":"black","sku":"LEON-LINEAZLATNA-[object Object]-black","priceCHF":59,"stock":10}
+41:{"de":"39","fr":"39","en":"39","it":"39"}
+40:{"id":"39","label":"$41"}
+3f:{"size":"$40","color":"grey","sku":"LEON-LINEAZLATNA-[object Object]-grey","priceCHF":59,"stock":10}
+44:{"de":"39","fr":"39","en":"39","it":"39"}
+43:{"id":"39","label":"$44"}
+42:{"size":"$43","color":"white","sku":"LEON-LINEAZLATNA-[object Object]-white","priceCHF":59,"stock":10}
+47:{"de":"40","fr":"40","en":"40","it":"40"}
+46:{"id":"40","label":"$47"}
+45:{"size":"$46","color":"black","sku":"LEON-LINEAZLATNA-[object Object]-black","priceCHF":59,"stock":10}
+4a:{"de":"40","fr":"40","en":"40","it":"40"}
+49:{"id":"40","label":"$4a"}
+48:{"size":"$49","color":"grey","sku":"LEON-LINEAZLATNA-[object Object]-grey","priceCHF":59,"stock":10}
+4d:{"de":"40","fr":"40","en":"40","it":"40"}
+4c:{"id":"40","label":"$4d"}
+4b:{"size":"$4c","color":"white","sku":"LEON-LINEAZLATNA-[object Object]-white","priceCHF":59,"stock":10}
+50:{"de":"41","fr":"41","en":"41","it":"41"}
+4f:{"id":"41","label":"$50"}
+4e:{"size":"$4f","color":"black","sku":"LEON-LINEAZLATNA-[object Object]-black","priceCHF":59,"stock":10}
+53:{"de":"41","fr":"41","en":"41","it":"41"}
+52:{"id":"41","label":"$53"}
+51:{"size":"$52","color":"grey","sku":"LEON-LINEAZLATNA-[object Object]-grey","priceCHF":59,"stock":10}
+56:{"de":"41","fr":"41","en":"41","it":"41"}
+55:{"id":"41","label":"$56"}
+54:{"size":"$55","color":"white","sku":"LEON-LINEAZLATNA-[object Object]-white","priceCHF":59,"stock":10}
+20:["$21","$24","$27","$2a","$2d","$30","$33","$36","$39","$3c","$3f","$42","$45","$48","$4b","$4e","$51","$54"]
+59:{"de":"Obermaterial","fr":"Composition du dessus","en":"Upper material","it":"Tomaia"}
+5a:{"de":"Naturleder","fr":"Cuir naturel","en":"Natural leather","it":"Pelle naturale"}
+58:{"label":"$59","value":"$5a"}
+5c:{"de":"Fußbett","fr":"Semelle intérieure","en":"Footbed","it":"Plantare"}
+5d:{"de":"Naturleder","fr":"Cuir naturel","en":"Natural leather","it":"Pelle naturale"}
+5b:{"label":"$5c","value":"$5d"}
+5f:{"de":"Laufsohle","fr":"Semelle extérieure","en":"Outsole","it":"Suola"}
+60:{"de":"Polyurethan","fr":"Polyur�thane","en":"Polyurethane","it":"Poliuretano"}
+5e:{"label":"$5f","value":"$60"}
+57:["$58","$5b","$5e"]
+c:{"id":"leon-linea-zlatna","slug":"linea-zlatna","category":"women","brand":"leon","modelGroupId":"leon-mg-linea-women","name":"$d","description":"$e","image":"https://cdn.leon.rs/wp-content/uploads/2026/04/8001-Zlato1.jpg","sizes":"$f","colors":"$1c","variants":"$20","articleNumber":"8001","colorLabel":"Gold","specifications":"$57"}
+63:{"de":"Linea – Beige","fr":"Linea – Beige","en":"Linea – Beige","it":"Linea – Beige"}
+64:{"de":"Damenmodell „Linea“ mit weichem, anatomischem Fussbett.","fr":"Modèle femme « Linea » avec semelle intérieure anatomique douce.","en":"Women's model \"Linea\" with a soft anatomical footbed.","it":"Modello da donna «Linea» con plantare anatomico morbido."}
+67:{"de":"36","fr":"36","en":"36","it":"36"}
+66:{"id":"36","label":"$67"}
+69:{"de":"37","fr":"37","en":"37","it":"37"}
+68:{"id":"37","label":"$69"}
+6b:{"de":"38","fr":"38","en":"38","it":"38"}
+6a:{"id":"38","label":"$6b"}
+6d:{"de":"39","fr":"39","en":"39","it":"39"}
+6c:{"id":"39","label":"$6d"}
+6f:{"de":"40","fr":"40","en":"40","it":"40"}
+6e:{"id":"40","label":"$6f"}
+71:{"de":"41","fr":"41","en":"41","it":"41"}
+70:{"id":"41","label":"$71"}
+65:["$66","$68","$6a","$6c","$6e","$70"]
+73:{"id":"black","label":"Schwarz","hex":"#111827"}
+74:{"id":"grey","label":"Grau","hex":"#6b7280"}
+75:{"id":"white","label":"Weiss","hex":"#f9fafb"}
+72:["$73","$74","$75"]
+79:{"de":"36","fr":"36","en":"36","it":"36"}
+78:{"id":"36","label":"$79"}
+77:{"size":"$78","color":"black","sku":"LEON-LINEABEZ-[object Object]-black","priceCHF":59,"stock":10}
+7c:{"de":"36","fr":"36","en":"36","it":"36"}
+7b:{"id":"36","label":"$7c"}
+7a:{"size":"$7b","color":"grey","sku":"LEON-LINEABEZ-[object Object]-grey","priceCHF":59,"stock":10}
+7f:{"de":"36","fr":"36","en":"36","it":"36"}
+7e:{"id":"36","label":"$7f"}
+7d:{"size":"$7e","color":"white","sku":"LEON-LINEABEZ-[object Object]-white","priceCHF":59,"stock":10}
+82:{"de":"37","fr":"37","en":"37","it":"37"}
+81:{"id":"37","label":"$82"}
+80:{"size":"$81","color":"black","sku":"LEON-LINEABEZ-[object Object]-black","priceCHF":59,"stock":10}
+85:{"de":"37","fr":"37","en":"37","it":"37"}
+84:{"id":"37","label":"$85"}
+83:{"size":"$84","color":"grey","sku":"LEON-LINEABEZ-[object Object]-grey","priceCHF":59,"stock":10}
+88:{"de":"37","fr":"37","en":"37","it":"37"}
+87:{"id":"37","label":"$88"}
+86:{"size":"$87","color":"white","sku":"LEON-LINEABEZ-[object Object]-white","priceCHF":59,"stock":10}
+8b:{"de":"38","fr":"38","en":"38","it":"38"}
+8a:{"id":"38","label":"$8b"}
+89:{"size":"$8a","color":"black","sku":"LEON-LINEABEZ-[object Object]-black","priceCHF":59,"stock":10}
+8e:{"de":"38","fr":"38","en":"38","it":"38"}
+8d:{"id":"38","label":"$8e"}
+8c:{"size":"$8d","color":"grey","sku":"LEON-LINEABEZ-[object Object]-grey","priceCHF":59,"stock":10}
+91:{"de":"38","fr":"38","en":"38","it":"38"}
+90:{"id":"38","label":"$91"}
+8f:{"size":"$90","color":"white","sku":"LEON-LINEABEZ-[object Object]-white","priceCHF":59,"stock":10}
+94:{"de":"39","fr":"39","en":"39","it":"39"}
+93:{"id":"39","label":"$94"}
+92:{"size":"$93","color":"black","sku":"LEON-LINEABEZ-[object Object]-black","priceCHF":59,"stock":10}
+97:{"de":"39","fr":"39","en":"39","it":"39"}
+96:{"id":"39","label":"$97"}
+95:{"size":"$96","color":"grey","sku":"LEON-LINEABEZ-[object Object]-grey","priceCHF":59,"stock":10}
+9a:{"de":"39","fr":"39","en":"39","it":"39"}
+99:{"id":"39","label":"$9a"}
+98:{"size":"$99","color":"white","sku":"LEON-LINEABEZ-[object Object]-white","priceCHF":59,"stock":10}
+9d:{"de":"40","fr":"40","en":"40","it":"40"}
+9c:{"id":"40","label":"$9d"}
+9b:{"size":"$9c","color":"black","sku":"LEON-LINEABEZ-[object Object]-black","priceCHF":59,"stock":10}
+a0:{"de":"40","fr":"40","en":"40","it":"40"}
+9f:{"id":"40","label":"$a0"}
+9e:{"size":"$9f","color":"grey","sku":"LEON-LINEABEZ-[object Object]-grey","priceCHF":59,"stock":10}
+a3:{"de":"40","fr":"40","en":"40","it":"40"}
+a2:{"id":"40","label":"$a3"}
+a1:{"size":"$a2","color":"white","sku":"LEON-LINEABEZ-[object Object]-white","priceCHF":59,"stock":10}
+a6:{"de":"41","fr":"41","en":"41","it":"41"}
+a5:{"id":"41","label":"$a6"}
+a4:{"size":"$a5","color":"black","sku":"LEON-LINEABEZ-[object Object]-black","priceCHF":59,"stock":10}
+a9:{"de":"41","fr":"41","en":"41","it":"41"}
+a8:{"id":"41","label":"$a9"}
+a7:{"size":"$a8","color":"grey","sku":"LEON-LINEABEZ-[object Object]-grey","priceCHF":59,"stock":10}
+ac:{"de":"41","fr":"41","en":"41","it":"41"}
+ab:{"id":"41","label":"$ac"}
+aa:{"size":"$ab","color":"white","sku":"LEON-LINEABEZ-[object Object]-white","priceCHF":59,"stock":10}
+76:["$77","$7a","$7d","$80","$83","$86","$89","$8c","$8f","$92","$95","$98","$9b","$9e","$a1","$a4","$a7","$aa"]
+af:{"de":"Obermaterial","fr":"Composition du dessus","en":"Upper material","it":"Tomaia"}
+b0:{"de":"Naturleder","fr":"Cuir naturel","en":"Natural leather","it":"Pelle naturale"}
+ae:{"label":"$af","value":"$b0"}
+b2:{"de":"Fußbett","fr":"Semelle intérieure","en":"Footbed","it":"Plantare"}
+b3:{"de":"Naturleder","fr":"Cuir naturel","en":"Natural leather","it":"Pelle naturale"}
+b1:{"label":"$b2","value":"$b3"}
+b5:{"de":"Laufsohle","fr":"Semelle extérieure","en":"Outsole","it":"Suola"}
+b6:{"de":"Polyurethan","fr":"Polyur�thane","en":"Polyurethane","it":"Poliuretano"}
+b4:{"label":"$b5","value":"$b6"}
+ad:["$ae","$b1","$b4"]
+62:{"id":"leon-linea-bez","slug":"linea-bez","category":"women","brand":"leon","modelGroupId":"leon-mg-linea-women","name":"$63","description":"$64","image":"https://cdn.leon.rs/wp-content/uploads/2026/04/8001-Bez-velur1.jpg","sizes":"$65","colors":"$72","variants":"$76","articleNumber":"8001","colorLabel":"Beige","specifications":"$ad"}
+b8:{"de":"Linea – Braun","fr":"Linea – Marron","en":"Linea – Brown","it":"Linea – Marrone"}
+b9:{"de":"Damenmodell „Linea“ mit weichem, anatomischem Fussbett.","fr":"Modèle femme « Linea » avec semelle intérieure anatomique douce.","en":"Women's model \"Linea\" with a soft anatomical footbed.","it":"Modello da donna «Linea» con plantare anatomico morbido."}
+bc:{"de":"36","fr":"36","en":"36","it":"36"}
+bb:{"id":"36","label":"$bc"}
+be:{"de":"37","fr":"37","en":"37","it":"37"}
+bd:{"id":"37","label":"$be"}
+c0:{"de":"38","fr":"38","en":"38","it":"38"}
+bf:{"id":"38","label":"$c0"}
+c2:{"de":"39","fr":"39","en":"39","it":"39"}
+c1:{"id":"39","label":"$c2"}
+c4:{"de":"40","fr":"40","en":"40","it":"40"}
+c3:{"id":"40","label":"$c4"}
+c6:{"de":"41","fr":"41","en":"41","it":"41"}
+c5:{"id":"41","label":"$c6"}
+ba:["$bb","$bd","$bf","$c1","$c3","$c5"]
+c8:{"id":"black","label":"Schwarz","hex":"#111827"}
+c9:{"id":"grey","label":"Grau","hex":"#6b7280"}
+ca:{"id":"white","label":"Weiss","hex":"#f9fafb"}
+c7:["$c8","$c9","$ca"]
+cc:{"size":"36","color":"black","sku":"LEON-LIENABRAON-36-black","priceCHF":59,"stock":10}
+cd:{"size":"36","color":"grey","sku":"LEON-LIENABRAON-36-grey","priceCHF":59,"stock":10}
+ce:{"size":"36","color":"white","sku":"LEON-LIENABRAON-36-white","priceCHF":59,"stock":10}
+cf:{"size":"37","color":"black","sku":"LEON-LIENABRAON-37-black","priceCHF":59,"stock":10}
+d0:{"size":"37","color":"grey","sku":"LEON-LIENABRAON-37-grey","priceCHF":59,"stock":10}
+d1:{"size":"37","color":"white","sku":"LEON-LIENABRAON-37-white","priceCHF":59,"stock":10}
+d2:{"size":"38","color":"black","sku":"LEON-LIENABRAON-38-black","priceCHF":59,"stock":10}
+d3:{"size":"38","color":"grey","sku":"LEON-LIENABRAON-38-grey","priceCHF":59,"stock":10}
+d4:{"size":"38","color":"white","sku":"LEON-LIENABRAON-38-white","priceCHF":59,"stock":10}
+d5:{"size":"39","color":"black","sku":"LEON-LIENABRAON-39-black","priceCHF":59,"stock":10}
+d6:{"size":"39","color":"grey","sku":"LEON-LIENABRAON-39-grey","priceCHF":59,"stock":10}
+d7:{"size":"39","color":"white","sku":"LEON-LIENABRAON-39-white","priceCHF":59,"stock":10}
+d8:{"size":"40","color":"black","sku":"LEON-LIENABRAON-40-black","priceCHF":59,"stock":10}
+d9:{"size":"40","color":"grey","sku":"LEON-LIENABRAON-40-grey","priceCHF":59,"stock":10}
+da:{"size":"40","color":"white","sku":"LEON-LIENABRAON-40-white","priceCHF":59,"stock":10}
+db:{"size":"41","color":"black","sku":"LEON-LIENABRAON-41-black","priceCHF":59,"stock":10}
+dc:{"size":"41","color":"grey","sku":"LEON-LIENABRAON-41-grey","priceCHF":59,"stock":10}
+dd:{"size":"41","color":"white","sku":"LEON-LIENABRAON-41-white","priceCHF":59,"stock":10}
+cb:["$cc","$cd","$ce","$cf","$d0","$d1","$d2","$d3","$d4","$d5","$d6","$d7","$d8","$d9","$da","$db","$dc","$dd"]
+e0:{"de":"Obermaterial","fr":"Composition du dessus","en":"Upper material","it":"Tomaia"}
+e1:{"de":"Naturleder","fr":"Cuir naturel","en":"Natural leather","it":"Pelle naturale"}
+df:{"label":"$e0","value":"$e1"}
+e3:{"de":"Fußbett","fr":"Semelle intérieure","en":"Footbed","it":"Plantare"}
+e4:{"de":"Naturleder","fr":"Cuir naturel","en":"Natural leather","it":"Pelle naturale"}
+e2:{"label":"$e3","value":"$e4"}
+e6:{"de":"Laufsohle","fr":"Semelle extérieure","en":"Outsole","it":"Suola"}
+e7:{"de":"Polyurethan","fr":"Polyur�thane","en":"Polyurethane","it":"Poliuretano"}
+e5:{"label":"$e6","value":"$e7"}
+de:["$df","$e2","$e5"]
+b7:{"id":"leon-liena-braon","slug":"liena-braon","category":"women","brand":"leon","modelGroupId":"leon-mg-linea-women","name":"$b8","description":"$b9","image":"https://cdn.leon.rs/wp-content/uploads/2026/04/8001-Braon-velur1.jpg","sizes":"$ba","colors":"$c7","variants":"$cb","colorLabel":"Brown","articleNumber":"8001","specifications":"$de"}
+61:["$62","$c","$b7"]
+2:["$","div",null,{"className":"mx-auto max-w-6xl px-4 py-10","children":[["$","div",null,{"className":"grid gap-10 md:grid-cols-2","children":[["$","$L9",null,{"images":["https://cdn.leon.rs/wp-content/uploads/2026/04/8001-Zlato1.jpg"],"alt":"Linea – Gold"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-2xl font-bold text-neutral-900 md:text-3xl","children":"Linea – Gold"}],["$","p",null,{"className":"mt-2 text-sm text-neutral-600","children":[["$","span",null,{"className":"font-medium text-neutral-500","children":["SKU",":"]}]," ",["$","span",null,{"className":"font-mono font-semibold tracking-wide text-neutral-900","children":"8001 · Gold"}]]}],["$","p",null,{"className":"mt-4 text-neutral-600","children":"Women's model \"Linea\" with a soft anatomical footbed."}],["$","p",null,{"className":"mt-4 text-lg font-semibold text-red-600","children":"CHF 59.00"}],["$","$La",null,{"locale":"en","currentSlug":"linea-zlatna","siblings":[{"id":"leon-linea-bez","slug":"linea-bez","category":"women","brand":"leon","modelGroupId":"leon-mg-linea-women","name":{"de":"Linea – Beige","fr":"Linea – Beige","en":"Linea – Beige","it":"Linea – Beige"},"description":{"de":"Damenmodell „Linea“ mit weichem, anatomischem Fussbett.","fr":"Modèle femme « Linea » avec semelle intérieure anatomique douce.","en":"Women's model \"Linea\" with a soft anatomical footbed.","it":"Modello da donna «Linea» con plantare anatomico morbido."},"image":"https://cdn.leon.rs/wp-content/uploads/2026/04/8001-Bez-velur1.jpg","sizes":[{"id":"36","label":{"de":"36","fr":"36","en":"36","it":"36"}},{"id":"37","label":{"de":"37","fr":"37","en":"37","it":"37"}},{"id":"38","label":{"de":"38","fr":"38","en":"38","it":"38"}},{"id":"39","label":{"de":"39","fr":"39","en":"39","it":"39"}},{"id":"40","label":{"de":"40","fr":"40","en":"40","it":"40"}},{"id":"41","label":{"de":"41","fr":"41","en":"41","it":"41"}}],"colors":[{"id":"black","label":"Schwarz","hex":"#111827"},{"id":"grey","label":"Grau","hex":"#6b7280"},{"id":"white","label":"Weiss","hex":"#f9fafb"}],"variants":[{"size":{"id":"36","label":{"de":"36","fr":"36","en":"36","it":"36"}},"color":"black","sku":"LEON-LINEABEZ-[object Object]-black","priceCHF":59,"stock":10},{"size":{"id":"36","label":{"de":"36","fr":"36","en":"36","it":"36"}},"color":"grey","sku":"LEON-LINEABEZ-[object Object]-grey","priceCHF":59,"stock":10},{"size":{"id":"36","label":{"de":"36","fr":"36","en":"36","it":"36"}},"color":"white","sku":"LEON-LINEABEZ-[object Object]-white","priceCHF":59,"stock":10},{"size":{"id":"37","label":{"de":"37","fr":"37","en":"37","it":"37"}},"color":"black","sku":"LEON-LINEABEZ-[object Object]-black","priceCHF":59,"stock":10},{"size":{"id":"37","label":{"de":"37","fr":"37","en":"37","it":"37"}},"color":"grey","sku":"LEON-LINEABEZ-[object Object]-grey","priceCHF":59,"stock":10},{"size":{"id":"37","label":{"de":"37","fr":"37","en":"37","it":"37"}},"color":"white","sku":"LEON-LINEABEZ-[object Object]-white","priceCHF":59,"stock":10},{"size":{"id":"38","label":{"de":"38","fr":"38","en":"38","it":"38"}},"color":"black","sku":"LEON-LINEABEZ-[object Object]-black","priceCHF":59,"stock":10},{"size":{"id":"38","label":{"de":"38","fr":"38","en":"38","it":"38"}},"color":"grey","sku":"LEON-LINEABEZ-[object Object]-grey","priceCHF":59,"stock":10},{"size":{"id":"38","label":{"de":"38","fr":"38","en":"38","it":"38"}},"color":"white","sku":"LEON-LINEABEZ-[object Object]-white","priceCHF":59,"stock":10},{"size":{"id":"39","label":{"de":"39","fr":"39","en":"39","it":"39"}},"color":"black","sku":"LEON-LINEABEZ-[object Object]-black","priceCHF":59,"stock":10},{"size":{"id":"39","label":{"de":"39","fr":"39","en":"39","it":"39"}},"color":"grey","sku":"LEON-LINEABEZ-[object Object]-grey","priceCHF":59,"stock":10},{"size":{"id":"39","label":{"de":"39","fr":"39","en":"39","it":"39"}},"color":"white","sku":"LEON-LINEABEZ-[object Object]-white","priceCHF":59,"stock":10},{"size":{"id":"40","label":{"de":"40","fr":"40","en":"40","it":"40"}},"color":"black","sku":"LEON-LINEABEZ-[object Object]-black","priceCHF":59,"stock":10},{"size":{"id":"40","label":{"de":"40","fr":"40","en":"40","it":"40"}},"color":"grey","sku":"LEON-LINEABEZ-[object Object]-grey","priceCHF":59,"stock":10},{"size":{"id":"40","label":{"de":"40","fr":"40","en":"40","it":"40"}},"color":"white","sku":"LEON-LINEABEZ-[object Object]-white","priceCHF":59,"stock":10},{"size":{"id":"41","label":{"de":"41","fr":"41","en":"41","it":"41"}},"color":"black","sku":"LEON-LINEABEZ-[object Object]-black","priceCHF":59,"stock":10},{"size":{"id":"41","label":{"de":"41","fr":"41","en":"41","it":"41"}},"color":"grey","sku":"LEON-LINEABEZ-[object Object]-grey","priceCHF":59,"stock":10},{"size":{"id":"41","label":{"de":"41","fr":"41","en":"41","it":"41"}},"color":"white","sku":"LEON-LINEABEZ-[object Object]-white","priceCHF":59,"stock":10}],"articleNumber":"8001","colorLabel":"Beige","specifications":[{"label":{"de":"Obermaterial","fr":"Composition du dessus","en":"Upper material","it":"Tomaia"},"value":{"de":"Naturleder","fr":"Cuir naturel","en":"Natural leather","it":"Pelle naturale"}},{"label":{"de":"Fußbett","fr":"Semelle intérieure","en":"Footbed","it":"Plantare"},"value":{"de":"Naturleder","fr":"Cuir naturel","en":"Natural leather","it":"Pelle naturale"}},{"label":{"de":"Laufsohle","fr":"Semelle extérieure","en":"Outsole","it":"Suola"},"value":{"de":"Polyurethan","fr":"Polyur�thane","en":"Polyurethane","it":"Poliuretano"}}]},{"id":"leon-linea-zlatna","slug":"linea-zlatna","category":"women","brand":"leon","modelGroupId":"leon-mg-linea-women","name":{"de":"Linea – Gold","fr":"Linea – Or","en":"Linea – Gold","it":"Linea – Oro"},"description":{"de":"Damenmodell „Linea“ mit weichem, anatomischem Fussbett.","fr":"Modèle femme « Linea » avec semelle intérieure anatomique douce.","en":"Women's model \"Linea\" with a soft anatomical footbed.","it":"Modello da donna «Linea» con plantare anatomico morbido."},"image":"https://cdn.leon.rs/wp-content/uploads/2026/04/8001-Zlato1.jpg","sizes":[{"id":"36","label":{"de":"36","fr":"36","en":"36","it":"36"}},{"id":"37","label":{"de":"37","fr":"37","en":"37","it":"37"}},{"id":"38","label":{"de":"38","fr":"38","en":"38","it":"38"}},{"id":"39","label":{"de":"39","fr":"39","en":"39","it":"39"}},{"id":"40","label":{"de":"40","fr":"40","en":"40","it":"40"}},{"id":"41","label":{"de":"41","fr":"41","en":"41","it":"41"}}],"colors":[{"id":"black","label":"Schwarz","hex":"#111827"},{"id":"grey","label":"Grau","hex":"#6b7280"},{"id":"white","label":"Weiss","hex":"#f9fafb"}],"variants":[{"size":{"id":"36","label":{"de":"36","fr":"36","en":"36","it":"36"}},"color":"black","sku":"LEON-LINEAZLATNA-[object Object]-black","priceCHF":59,"stock":10},{"size":{"id":"36","label":{"de":"36","fr":"36","en":"36","it":"36"}},"color":"grey","sku":"LEON-LINEAZLATNA-[object Object]-grey","priceCHF":59,"stock":10},{"size":{"id":"36","label":{"de":"36","fr":"36","en":"36","it":"36"}},"color":"white","sku":"LEON-LINEAZLATNA-[object Object]-white","priceCHF":59,"stock":10},{"size":{"id":"37","label":{"de":"37","fr":"37","en":"37","it":"37"}},"color":"black","sku":"LEON-LINEAZLATNA-[object Object]-black","priceCHF":59,"stock":10},{"size":{"id":"37","label":{"de":"37","fr":"37","en":"37","it":"37"}},"color":"grey","sku":"LEON-LINEAZLATNA-[object Object]-grey","priceCHF":59,"stock":10},{"size":{"id":"37","label":{"de":"37","fr":"37","en":"37","it":"37"}},"color":"white","sku":"LEON-LINEAZLATNA-[object Object]-white","priceCHF":59,"stock":10},{"size":{"id":"38","label":{"de":"38","fr":"38","en":"38","it":"38"}},"color":"black","sku":"LEON-LINEAZLATNA-[object Object]-black","priceCHF":59,"stock":10},{"size":{"id":"38","label":{"de":"38","fr":"38","en":"38","it":"38"}},"color":"grey","sku":"LEON-LINEAZLATNA-[object Object]-grey","priceCHF":59,"stock":10},{"size":{"id":"38","label":{"de":"38","fr":"38","en":"38","it":"38"}},"color":"white","sku":"LEON-LINEAZLATNA-[object Object]-white","priceCHF":59,"stock":10},{"size":{"id":"39","label":{"de":"39","fr":"39","en":"39","it":"39"}},"color":"black","sku":"LEON-LINEAZLATNA-[object Object]-black","priceCHF":59,"stock":10},{"size":{"id":"39","label":{"de":"39","fr":"39","en":"39","it":"39"}},"color":"grey","sku":"LEON-LINEAZLATNA-[object Object]-grey","priceCHF":59,"stock":10},{"size":{"id":"39","label":{"de":"39","fr":"39","en":"39","it":"39"}},"color":"white","sku":"LEON-LINEAZLATNA-[object Object]-white","priceCHF":59,"stock":10},{"size":{"id":"40","label":{"de":"40","fr":"40","en":"40","it":"40"}},"color":"black","sku":"LEON-LINEAZLATNA-[object Object]-black","priceCHF":59,"stock":10},{"size":{"id":"40","label":{"de":"40","fr":"40","en":"40","it":"40"}},"color":"grey","sku":"LEON-LINEAZLATNA-[object Object]-grey","priceCHF":59,"stock":10},{"size":{"id":"40","label":{"de":"40","fr":"40","en":"40","it":"40"}},"color":"white","sku":"LEON-LINEAZLATNA-[object Object]-white","priceCHF":59,"stock":10},{"size":{"id":"41","label":{"de":"41","fr":"41","en":"41","it":"41"}},"color":"black","sku":"LEON-LINEAZLATNA-[object Object]-black","priceCHF":59,"stock":10},{"size":{"id":"41","label":{"de":"41","fr":"41","en":"41","it":"41"}},"color":"grey","sku":"LEON-LINEAZLATNA-[object Object]-grey","priceCHF":59,"stock":10},{"size":{"id":"41","label":{"de":"41","fr":"41","en":"41","it":"41"}},"color":"white","sku":"LEON-LINEAZLATNA-[object Object]-white","priceCHF":59,"stock":10}],"articleNumber":"8001","colorLabel":"Gold","specifications":[{"label":{"de":"Obermaterial","fr":"Composition du dessus","en":"Upper material","it":"Tomaia"},"value":{"de":"Naturleder","fr":"Cuir naturel","en":"Natural leather","it":"Pelle naturale"}},{"label":{"de":"Fußbett","fr":"Semelle intérieure","en":"Footbed","it":"Plantare"},"value":{"de":"Naturleder","fr":"Cuir naturel","en":"Natural leather","it":"Pelle naturale"}},{"label":{"de":"Laufsohle","fr":"Semelle extérieure","en":"Outsole","it":"Suola"},"value":{"de":"Polyurethan","fr":"Polyur�thane","en":"Polyurethane","it":"Poliuretano"}}]},{"id":"leon-liena-braon","slug":"liena-braon","category":"women","brand":"leon","modelGroupId":"leon-mg-linea-women","name":{"de":"Linea – Braun","fr":"Linea – Marron","en":"Linea – Brown","it":"Linea – Marrone"},"description":{"de":"Damenmodell „Linea“ mit weichem, anatomischem Fussbett.","fr":"Modèle femme « Linea » avec semelle intérieure anatomique douce.","en":"Women's model \"Linea\" with a soft anatomical footbed.","it":"Modello da donna «Linea» con plantare anatomico morbido."},"image":"https://cdn.leon.rs/wp-content/uploads/2026/04/8001-Braon-velur1.jpg","sizes":[{"id":"36","label":{"de":"36","fr":"36","en":"36","it":"36"}},{"id":"37","label":{"de":"37","fr":"37","en":"37","it":"37"}},{"id":"38","label":{"de":"38","fr":"38","en":"38","it":"38"}},{"id":"39","label":{"de":"39","fr":"39","en":"39","it":"39"}},{"id":"40","label":{"de":"40","fr":"40","en":"40","it":"40"}},{"id":"41","label":{"de":"41","fr":"41","en":"41","it":"41"}}],"colors":[{"id":"black","label":"Schwarz","hex":"#111827"},{"id":"grey","label":"Grau","hex":"#6b7280"},{"id":"white","label":"Weiss","hex":"#f9fafb"}],"variants":[{"size":"36","color":"black","sku":"LEON-LIENABRAON-36-black","priceCHF":59,"stock":10},{"size":"36","color":"grey","sku":"LEON-LIENABRAON-36-grey","priceCHF":59,"stock":10},{"size":"36","color":"white","sku":"LEON-LIENABRAON-36-white","priceCHF":59,"stock":10},{"size":"37","color":"black","sku":"LEON-LIENABRAON-37-black","priceCHF":59,"stock":10},{"size":"37","color":"grey","sku":"LEON-LIENABRAON-37-grey","priceCHF":59,"stock":10},{"size":"37","color":"white","sku":"LEON-LIENABRAON-37-white","priceCHF":59,"stock":10},{"size":"38","color":"black","sku":"LEON-LIENABRAON-38-black","priceCHF":59,"stock":10},{"size":"38","color":"grey","sku":"LEON-LIENABRAON-38-grey","priceCHF":59,"stock":10},{"size":"38","color":"white","sku":"LEON-LIENABRAON-38-white","priceCHF":59,"stock":10},{"size":"39","color":"black","sku":"LEON-LIENABRAON-39-black","priceCHF":59,"stock":10},{"size":"39","color":"grey","sku":"LEON-LIENABRAON-39-grey","priceCHF":59,"stock":10},{"size":"39","color":"white","sku":"LEON-LIENABRAON-39-white","priceCHF":59,"stock":10},{"size":"40","color":"black","sku":"LEON-LIENABRAON-40-black","priceCHF":59,"stock":10},{"size":"40","color":"grey","sku":"LEON-LIENABRAON-40-grey","priceCHF":59,"stock":10},{"size":"40","color":"white","sku":"LEON-LIENABRAON-40-white","priceCHF":59,"stock":10},{"size":"41","color":"black","sku":"LEON-LIENABRAON-41-black","priceCHF":59,"stock":10},{"size":"41","color":"grey","sku":"LEON-LIENABRAON-41-grey","priceCHF":59,"stock":10},{"size":"41","color":"white","sku":"LEON-LIENABRAON-41-white","priceCHF":59,"stock":10}],"colorLabel":"Brown","articleNumber":"8001","specifications":[{"label":{"de":"Obermaterial","fr":"Composition du dessus","en":"Upper material","it":"Tomaia"},"value":{"de":"Naturleder","fr":"Cuir naturel","en":"Natural leather","it":"Pelle naturale"}},{"label":{"de":"Fußbett","fr":"Semelle intérieure","en":"Footbed","it":"Plantare"},"value":{"de":"Naturleder","fr":"Cuir naturel","en":"Natural leather","it":"Pelle naturale"}},{"label":{"de":"Laufsohle","fr":"Semelle extérieure","en":"Outsole","it":"Suola"},"value":{"de":"Polyurethan","fr":"Polyur�thane","en":"Polyurethane","it":"Poliuretano"}}]}]}],["$","$Lb",null,{"product":"$c","locale":"en","modelGroupSiblings":"$61"}]]}]]}],["$","$Le8",null,{"product":"$c","locale":"en"}]]}]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Trend Swiss Shop | trendswiss.ch"}],["$","meta","3",{"name":"description","content":"Online shop – Swiss quality and style. trendswiss.ch"}]]
+1:null
+e9:I[6456,["972","static/chunks/972-d71866a6631b6318.js","529","static/chunks/529-56c5ab17e14cba56.js","145","static/chunks/145-a8953cd3f91aee0b.js","883","static/chunks/883-e2a4759db12ee0dc.js","203","static/chunks/app/%5Blocale%5D/layout-1b7a049853e5d5e0.js"],"default"]
+ea:I[3970,["972","static/chunks/972-d71866a6631b6318.js","529","static/chunks/529-56c5ab17e14cba56.js","145","static/chunks/145-a8953cd3f91aee0b.js","883","static/chunks/883-e2a4759db12ee0dc.js","203","static/chunks/app/%5Blocale%5D/layout-1b7a049853e5d5e0.js"],"default"]
+eb:I[4767,["972","static/chunks/972-d71866a6631b6318.js","529","static/chunks/529-56c5ab17e14cba56.js","145","static/chunks/145-a8953cd3f91aee0b.js","883","static/chunks/883-e2a4759db12ee0dc.js","203","static/chunks/app/%5Blocale%5D/layout-1b7a049853e5d5e0.js"],"default"]
+7:["$","$Le9",null,{"locale":"en","now":"$D2026-08-11T13:21:08.781Z","timeZone":"Europe/Belgrade","messages":{"nav":{"home":"Home","shop":"Shop","cart":"Cart","about":"About us","contact":"Contact","searchLabel":"Search models","searchPlaceholder":"Model name or article number…","searchClear":"Clear search","searchNoResults":"No models found."},"home":{"heroTitle":"Welcome to Trend Swiss","heroSubtitle":"Swiss quality and style","aboutTitle":"About us","aboutCompany":"TrendSwiss GmbH","aboutTagline":"Stylish comfort for every day – your experts in premium footwear","aboutWelcomeTitle":"Welcome to TrendSwiss GmbH!","aboutWelcomeBody":"As a modern Swiss company, we are dedicated to a clear mission: bringing high-quality walking and standing comfort directly to you. As the official general distributor for internationally leading manufacturers, we bridge traditional craftsmanship, modern design and contemporary ergonomics.","aboutPhilosophyTitle":"Our philosophy: quality you can feel","aboutPhilosophyBody":"Much of our lives is spent on our feet. Whether in a demanding workday, at home or in leisure time – our feet deserve the best possible support. At TrendSwiss we select our collections according to the strictest criteria. We consistently rely on premium natural materials (such as fine genuine leather) and meticulous workmanship that guarantees durability and an optimal wearing experience.","aboutAssortmentTitle":"Our range: variety meets function","aboutAssortmentBody":"With a carefully curated and versatile range, we offer the right answer to different needs. From classic clogs for professional use in practices, pharmacies or care settings to elegant sandals and comfortable slippers for the whole family: our products combine an anatomically shaped footbed with modern design. They fit harmoniously into every situation in life and promote daily wellbeing with every step.","aboutPartnerTitle":"Your reliable Swiss partner","aboutPartnerBody1":"TrendSwiss GmbH sees itself not only as a retailer, but as a long-term partner. Thanks to our direct connection to manufacturing facilities, we can act flexibly, ensure the highest quality standards and always offer you an attractive price-performance ratio.","aboutPartnerBody2":"Whether you are a trade customer looking to enrich your range with our quality products or a private customer seeking the perfect companion for everyday life – the customer and first-class service are always our priority.","aboutWhyTitle":"Why TrendSwiss?","aboutWhy1Title":"Exclusive collections:","aboutWhy1Text":"Carefully selected models from established international producers.","aboutWhy2Title":"Ergonomic design:","aboutWhy2Text":"Anatomically considered fits for fatigue-free standing and walking in everyday life.","aboutWhy3Title":"Natural materials:","aboutWhy3Text":"High-quality leather and breathable components for a pleasant foot climate.","aboutWhy4Title":"Swiss reliability:","aboutWhy4Text":"Competent service, straightforward handling and genuine customer proximity.","aboutClosingLine":"Take the path to success with us and experience comfort anew.","aboutFooterLine":"TrendSwiss GmbH – step by step towards greater wellbeing.","contactTitle":"Contact","contactPhone":"Tel","contactAddress":"Address","contactEmail":"E-mail","contactStreet":"Bodenackerstrasse 50","contactCity":"5200, Brugg","contactCountry":"Switzerland","galleryAriaLabel":"Image gallery"},"shop":{"title":"Shop","allProducts":"All products","uncategorizedFilter":"Without category ({count})","exploreByCategory":"Explore by category","view":"View","exploreFilterTitle":"Categories","filtersTitle":"Filters","openFilters":"Filters","close":"Close","categories":"Categories","all":"All","brandTitle":"Brand","allBrands":"All brands","noProductsInCategory":"No products in this category.","perPageLabel":"Per page","perPage20":"20","perPage50":"50","perPageAll":"All","showingRange":"Showing {from}–{to} of {total} products","prevPage":"Previous","nextPage":"Next","pageOf":"Page {page} of {totalPages}","addToCart":"Add to cart","catalogOnly":"Catalogue only","purchaseDisabled":"Purchasing is temporarily disabled. This website currently serves as an online catalogue.","size":"Size","color":"Color","price":"Price","priceFilterTitle":"Price","pricedOnly":"Show only models with a price","sku":"SKU","chf":"CHF","selectSize":"Select size","selectColor":"Select color","quantity":"Quantity","sameModelColors":"This model in other colours","leonSizeGuide":{"link":"Size guide","title":"Size guide","tabMeasurements":"Measurements","tabInstructions":"Instructions","close":"Close","eu":"EU","footLengthMm":"Foot length (mm)","footLengthIn":"Foot length (in)","unitMm":"mm","unitIn":"in","howToTitle":"How to measure:","step1":"Place your foot flat on a sheet of paper and mark the longest point of your toes and the back of your heel. It is best to do this standing up and wearing socks.","step2":"Measure the distance in a straight line from the longest toe to the back of your heel using a ruler or tape measure.","step3":"Use the table to find your EU size."}},"productTabs":{"specs":"Specifications","description":"Description","shipping":"Shipping & returns","reviews":"Reviews","specsContent":"Material: Soft pile, cotton blend. Care: Machine wash 30°C. Available sizes and colours see selection above.","shippingContent":"Shipping within Switzerland: 2–4 working days. Shipping from 6 CHF, free from 80 CHF. 30-day return policy, unused items.","reviewsIntro":"Customer reviews","review1":"Very comfortable, I wear them every day. Fit perfectly.","review2":"Good quality, fast delivery. Would buy again.","review3":"Soft and warm. Recommend choosing your usual size."},"cart":{"title":"Cart","empty":"Your cart is empty","purchaseDisabled":"Purchasing is temporarily disabled. The cart and checkout are not available right now.","subtotal":"Subtotal","discount":"Discount","total":"Total","checkout":"Checkout","remove":"Remove","voucherPlaceholder":"Voucher code","applyVoucher":"Apply","voucherInvalid":"Invalid or not applicable code.","voucherApplied":"Code \"{code}\" applied: -{amount} CHF","goToShop":"To shop"},"checkout":{"title":"Checkout","successTitle":"Payment successful","successMessage":"Thank you! You will receive a confirmation email shortly.","cancelMessage":"Payment cancelled.","backToShop":"Back to shop"},"footer":{"rights":"All rights reserved."}},"children":[["$","$Lea",null,{}],["$","div",null,{"className":"flex min-h-screen flex-col overflow-x-hidden bg-[var(--bg-warm)] text-neutral-900 antialiased","children":[["$","$Leb",null,{}],["$","main",null,{"className":"flex-1","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]}],"$Lec"]}]]}]
+ec:["$","footer",null,{"className":"bg-neutral-900 py-8 text-center text-sm text-neutral-300","children":[["$","div",null,{"className":"h-1 w-full bg-[var(--header-dark)]","aria-hidden":true}],["$","div",null,{"className":"pt-6","children":["© ",2026," ",["$","strong",null,{"className":"font-semibold text-white","children":"trendswiss.ch"}],". ","All rights reserved."]}]]}]

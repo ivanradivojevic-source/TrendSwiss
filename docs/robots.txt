@@ -1,0 +1,24 @@
+User-Agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+Disallow: /*/cart
+Disallow: /*/checkout/
+
+User-Agent: GPTBot
+User-Agent: ChatGPT-User
+User-Agent: CCBot
+User-Agent: Google-Extended
+User-Agent: Bytespider
+User-Agent: DataForSeoBot
+User-Agent: AhrefsBot
+User-Agent: SemrushBot
+User-Agent: DotBot
+User-Agent: MJ12bot
+User-Agent: PetalBot
+User-Agent: Amazonbot
+User-Agent: ClaudeBot
+User-Agent: anthropic-ai
+Disallow: /
+
+Host: https://www.trendswiss.ch

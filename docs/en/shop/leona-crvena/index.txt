@@ -1,0 +1,438 @@
+3:I[4707,[],""]
+6:I[6423,[],""]
+4:["locale","en","d"]
+5:["slug","leona-crvena","d"]
+0:["ml7UmRV2zItQXVGmRrv7j",[[["",{"children":[["locale","en","d"],{"children":["shop",{"children":[["slug","leona-crvena","d"],{"children":["__PAGE__?{\"locale\":\"en\",\"slug\":\"leona-crvena\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","en","d"],{"children":["shop",{"children":[["slug","leona-crvena","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children","shop","children","$5","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children","shop","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/810bbd7e806ce024.css","precedence":"next","crossOrigin":"$undefined"}]],"$L7"],null],null]},[[null,["$","html",null,{"suppressHydrationWarning":true,"children":["$","body",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}]}]],null],null],["$L8",null]]]]
+9:I[5664,["972","static/chunks/972-d71866a6631b6318.js","529","static/chunks/529-56c5ab17e14cba56.js","145","static/chunks/145-a8953cd3f91aee0b.js","883","static/chunks/883-e2a4759db12ee0dc.js","623","static/chunks/623-299883740fc8c65a.js","437","static/chunks/app/%5Blocale%5D/shop/%5Bslug%5D/page-35d9698df50a1a4d.js"],"default"]
+a:I[4456,["972","static/chunks/972-d71866a6631b6318.js","529","static/chunks/529-56c5ab17e14cba56.js","145","static/chunks/145-a8953cd3f91aee0b.js","883","static/chunks/883-e2a4759db12ee0dc.js","623","static/chunks/623-299883740fc8c65a.js","437","static/chunks/app/%5Blocale%5D/shop/%5Bslug%5D/page-35d9698df50a1a4d.js"],"default"]
+c:I[4929,["972","static/chunks/972-d71866a6631b6318.js","529","static/chunks/529-56c5ab17e14cba56.js","145","static/chunks/145-a8953cd3f91aee0b.js","883","static/chunks/883-e2a4759db12ee0dc.js","623","static/chunks/623-299883740fc8c65a.js","437","static/chunks/app/%5Blocale%5D/shop/%5Bslug%5D/page-35d9698df50a1a4d.js"],"default"]
+1b1:I[564,["972","static/chunks/972-d71866a6631b6318.js","529","static/chunks/529-56c5ab17e14cba56.js","145","static/chunks/145-a8953cd3f91aee0b.js","883","static/chunks/883-e2a4759db12ee0dc.js","623","static/chunks/623-299883740fc8c65a.js","437","static/chunks/app/%5Blocale%5D/shop/%5Bslug%5D/page-35d9698df50a1a4d.js"],"default"]
+b:["https://cdn.leon.rs/wp-content/uploads/2025/09/950-Crvena1.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/950-Crvena2.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/950-Crvena3.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/950-Crvena4.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/950-Crvena5.jpg"]
+e:{"de":"Leona – Rot","fr":"Leona – Rouge","en":"Leona – Red","it":"Leona – Rosso"}
+f:{"de":"Damenmodell „Leona“ mit weichem, anatomischem Fussbett.","fr":"Modèle femme « Leona » avec semelle intérieure anatomique douce.","en":"Women's model \"Leona\" with a soft anatomical footbed.","it":"Modello da donna «Leona» con plantare anatomico morbido."}
+12:{"de":"35","fr":"35","en":"35","it":"35"}
+11:{"id":"35","label":"$12"}
+14:{"de":"36","fr":"36","en":"36","it":"36"}
+13:{"id":"36","label":"$14"}
+16:{"de":"37","fr":"37","en":"37","it":"37"}
+15:{"id":"37","label":"$16"}
+18:{"de":"38","fr":"38","en":"38","it":"38"}
+17:{"id":"38","label":"$18"}
+1a:{"de":"39","fr":"39","en":"39","it":"39"}
+19:{"id":"39","label":"$1a"}
+1c:{"de":"40","fr":"40","en":"40","it":"40"}
+1b:{"id":"40","label":"$1c"}
+1e:{"de":"41","fr":"41","en":"41","it":"41"}
+1d:{"id":"41","label":"$1e"}
+20:{"de":"42","fr":"42","en":"42","it":"42"}
+1f:{"id":"42","label":"$20"}
+10:["$11","$13","$15","$17","$19","$1b","$1d","$1f"]
+22:{"id":"black","label":"Schwarz","hex":"#111827"}
+23:{"id":"grey","label":"Grau","hex":"#6b7280"}
+24:{"id":"white","label":"Weiss","hex":"#f9fafb"}
+21:["$22","$23","$24"]
+26:{"size":"35","color":"black","sku":"LEON-LEONACRVENA-35-black","priceCHF":49,"stock":10}
+27:{"size":"35","color":"grey","sku":"LEON-LEONACRVENA-35-grey","priceCHF":49,"stock":10}
+28:{"size":"35","color":"white","sku":"LEON-LEONACRVENA-35-white","priceCHF":49,"stock":10}
+29:{"size":"36","color":"black","sku":"LEON-LEONACRVENA-36-black","priceCHF":49,"stock":10}
+2a:{"size":"36","color":"grey","sku":"LEON-LEONACRVENA-36-grey","priceCHF":49,"stock":10}
+2b:{"size":"36","color":"white","sku":"LEON-LEONACRVENA-36-white","priceCHF":49,"stock":10}
+2c:{"size":"37","color":"black","sku":"LEON-LEONACRVENA-37-black","priceCHF":49,"stock":10}
+2d:{"size":"37","color":"grey","sku":"LEON-LEONACRVENA-37-grey","priceCHF":49,"stock":10}
+2e:{"size":"37","color":"white","sku":"LEON-LEONACRVENA-37-white","priceCHF":49,"stock":10}
+2f:{"size":"38","color":"black","sku":"LEON-LEONACRVENA-38-black","priceCHF":49,"stock":10}
+30:{"size":"38","color":"grey","sku":"LEON-LEONACRVENA-38-grey","priceCHF":49,"stock":10}
+31:{"size":"38","color":"white","sku":"LEON-LEONACRVENA-38-white","priceCHF":49,"stock":10}
+32:{"size":"39","color":"black","sku":"LEON-LEONACRVENA-39-black","priceCHF":49,"stock":10}
+33:{"size":"39","color":"grey","sku":"LEON-LEONACRVENA-39-grey","priceCHF":49,"stock":10}
+34:{"size":"39","color":"white","sku":"LEON-LEONACRVENA-39-white","priceCHF":49,"stock":10}
+35:{"size":"40","color":"black","sku":"LEON-LEONACRVENA-40-black","priceCHF":49,"stock":10}
+36:{"size":"40","color":"grey","sku":"LEON-LEONACRVENA-40-grey","priceCHF":49,"stock":10}
+37:{"size":"40","color":"white","sku":"LEON-LEONACRVENA-40-white","priceCHF":49,"stock":10}
+38:{"size":"41","color":"black","sku":"LEON-LEONACRVENA-41-black","priceCHF":49,"stock":10}
+39:{"size":"41","color":"grey","sku":"LEON-LEONACRVENA-41-grey","priceCHF":49,"stock":10}
+3a:{"size":"41","color":"white","sku":"LEON-LEONACRVENA-41-white","priceCHF":49,"stock":10}
+3b:{"size":"42","color":"black","sku":"LEON-LEONACRVENA-42-black","priceCHF":49,"stock":10}
+3c:{"size":"42","color":"grey","sku":"LEON-LEONACRVENA-42-grey","priceCHF":49,"stock":10}
+3d:{"size":"42","color":"white","sku":"LEON-LEONACRVENA-42-white","priceCHF":49,"stock":10}
+25:["$26","$27","$28","$29","$2a","$2b","$2c","$2d","$2e","$2f","$30","$31","$32","$33","$34","$35","$36","$37","$38","$39","$3a","$3b","$3c","$3d"]
+40:{"de":"Obermaterial","fr":"Composition du dessus","en":"Upper material","it":"Tomaia"}
+41:{"de":"Naturleder","fr":"Cuir naturel","en":"Natural leather","it":"Pelle naturale"}
+3f:{"label":"$40","value":"$41"}
+43:{"de":"Fußbett","fr":"Semelle intérieure","en":"Footbed","it":"Plantare"}
+44:{"de":"Naturleder mit anatomischem Profil und weicher Gel-Innensohle","fr":"Cuir naturel avec bande de roulement anatomique et semelle int�rieure en gel souple","en":"Natural leather with anatomical tread and soft gel insole","it":"Pelle naturale con battistrada anatomico e plantare in morbido gel"}
+42:{"label":"$43","value":"$44"}
+46:{"de":"Laufsohle","fr":"Semelle extérieure","en":"Outsole","it":"Suola"}
+47:{"de":"Polyurethan- und Anti-Rutsch-Lauffl�che","fr":"Bande de roulement en polyur�thane et antid�rapante","en":"Polyurethane and anti-slip tread","it":"Battistrada in poliuretano e antiscivolo"}
+45:{"label":"$46","value":"$47"}
+3e:["$3f","$42","$45"]
+d:{"id":"leon-leona-crvena","slug":"leona-crvena","category":"women","brand":"leon","modelGroupId":"leon-mg-leona-women","name":"$e","description":"$f","image":"https://cdn.leon.rs/wp-content/uploads/2025/09/950-Crvena1.jpg","images":"$b","sizes":"$10","colors":"$21","variants":"$25","articleNumber":"950","colorLabel":"Red","specifications":"$3e"}
+4a:{"de":"Leona – Perle","fr":"Leona – Perle","en":"Leona – Pearl","it":"Leona – Perla"}
+4b:{"de":"Damenmodell „Leona“ mit weichem, anatomischem Fussbett.","fr":"Modèle femme « Leona » avec semelle intérieure anatomique douce.","en":"Women's model \"Leona\" with a soft anatomical footbed.","it":"Modello da donna «Leona» con plantare anatomico morbido."}
+4e:{"de":"35","fr":"35","en":"35","it":"35"}
+4d:{"id":"35","label":"$4e"}
+50:{"de":"36","fr":"36","en":"36","it":"36"}
+4f:{"id":"36","label":"$50"}
+52:{"de":"37","fr":"37","en":"37","it":"37"}
+51:{"id":"37","label":"$52"}
+54:{"de":"38","fr":"38","en":"38","it":"38"}
+53:{"id":"38","label":"$54"}
+56:{"de":"39","fr":"39","en":"39","it":"39"}
+55:{"id":"39","label":"$56"}
+58:{"de":"40","fr":"40","en":"40","it":"40"}
+57:{"id":"40","label":"$58"}
+5a:{"de":"41","fr":"41","en":"41","it":"41"}
+59:{"id":"41","label":"$5a"}
+5c:{"de":"42","fr":"42","en":"42","it":"42"}
+5b:{"id":"42","label":"$5c"}
+4c:["$4d","$4f","$51","$53","$55","$57","$59","$5b"]
+5e:{"id":"black","label":"Schwarz","hex":"#111827"}
+5f:{"id":"grey","label":"Grau","hex":"#6b7280"}
+60:{"id":"white","label":"Weiss","hex":"#f9fafb"}
+5d:["$5e","$5f","$60"]
+62:{"size":"35","color":"black","sku":"LEON-LEONAPERLA-35-black","priceCHF":49,"stock":10}
+63:{"size":"35","color":"grey","sku":"LEON-LEONAPERLA-35-grey","priceCHF":49,"stock":10}
+64:{"size":"35","color":"white","sku":"LEON-LEONAPERLA-35-white","priceCHF":49,"stock":10}
+65:{"size":"36","color":"black","sku":"LEON-LEONAPERLA-36-black","priceCHF":49,"stock":10}
+66:{"size":"36","color":"grey","sku":"LEON-LEONAPERLA-36-grey","priceCHF":49,"stock":10}
+67:{"size":"36","color":"white","sku":"LEON-LEONAPERLA-36-white","priceCHF":49,"stock":10}
+68:{"size":"37","color":"black","sku":"LEON-LEONAPERLA-37-black","priceCHF":49,"stock":10}
+69:{"size":"37","color":"grey","sku":"LEON-LEONAPERLA-37-grey","priceCHF":49,"stock":10}
+6a:{"size":"37","color":"white","sku":"LEON-LEONAPERLA-37-white","priceCHF":49,"stock":10}
+6b:{"size":"38","color":"black","sku":"LEON-LEONAPERLA-38-black","priceCHF":49,"stock":10}
+6c:{"size":"38","color":"grey","sku":"LEON-LEONAPERLA-38-grey","priceCHF":49,"stock":10}
+6d:{"size":"38","color":"white","sku":"LEON-LEONAPERLA-38-white","priceCHF":49,"stock":10}
+6e:{"size":"39","color":"black","sku":"LEON-LEONAPERLA-39-black","priceCHF":49,"stock":10}
+6f:{"size":"39","color":"grey","sku":"LEON-LEONAPERLA-39-grey","priceCHF":49,"stock":10}
+70:{"size":"39","color":"white","sku":"LEON-LEONAPERLA-39-white","priceCHF":49,"stock":10}
+71:{"size":"40","color":"black","sku":"LEON-LEONAPERLA-40-black","priceCHF":49,"stock":10}
+72:{"size":"40","color":"grey","sku":"LEON-LEONAPERLA-40-grey","priceCHF":49,"stock":10}
+73:{"size":"40","color":"white","sku":"LEON-LEONAPERLA-40-white","priceCHF":49,"stock":10}
+74:{"size":"41","color":"black","sku":"LEON-LEONAPERLA-41-black","priceCHF":49,"stock":10}
+75:{"size":"41","color":"grey","sku":"LEON-LEONAPERLA-41-grey","priceCHF":49,"stock":10}
+76:{"size":"41","color":"white","sku":"LEON-LEONAPERLA-41-white","priceCHF":49,"stock":10}
+77:{"size":"42","color":"black","sku":"LEON-LEONAPERLA-42-black","priceCHF":49,"stock":10}
+78:{"size":"42","color":"grey","sku":"LEON-LEONAPERLA-42-grey","priceCHF":49,"stock":10}
+79:{"size":"42","color":"white","sku":"LEON-LEONAPERLA-42-white","priceCHF":49,"stock":10}
+61:["$62","$63","$64","$65","$66","$67","$68","$69","$6a","$6b","$6c","$6d","$6e","$6f","$70","$71","$72","$73","$74","$75","$76","$77","$78","$79"]
+7a:["https://cdn.leon.rs/wp-content/uploads/2025/09/Leona-PERLA.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Leona-PERLA-1.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Leona-PERLA-2.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Leona-PERLA-3.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Leona-PERLA-4.jpg"]
+7d:{"de":"Obermaterial","fr":"Composition du dessus","en":"Upper material","it":"Tomaia"}
+7e:{"de":"Naturleder","fr":"Cuir naturel","en":"Natural leather","it":"Pelle naturale"}
+7c:{"label":"$7d","value":"$7e"}
+80:{"de":"Fußbett","fr":"Semelle intérieure","en":"Footbed","it":"Plantare"}
+81:{"de":"Naturleder mit anatomischem Profil und weicher Gel-Innensohle","fr":"Cuir naturel avec bande de roulement anatomique et semelle int�rieure en gel souple","en":"Natural leather with anatomical tread and soft gel insole","it":"Pelle naturale con battistrada anatomico e plantare in morbido gel"}
+7f:{"label":"$80","value":"$81"}
+83:{"de":"Laufsohle","fr":"Semelle extérieure","en":"Outsole","it":"Suola"}
+84:{"de":"Polyurethan- und Anti-Rutsch-Lauffl�che","fr":"Bande de roulement en polyur�thane et antid�rapante","en":"Polyurethane and anti-slip tread","it":"Battistrada in poliuretano e antiscivolo"}
+82:{"label":"$83","value":"$84"}
+7b:["$7c","$7f","$82"]
+49:{"id":"leon-leona-perla","slug":"leona-perla","category":"women","brand":"leon","modelGroupId":"leon-mg-leona-women","name":"$4a","description":"$4b","image":"https://cdn.leon.rs/wp-content/uploads/2025/09/Leona-PERLA.jpg","sizes":"$4c","colors":"$5d","variants":"$61","articleNumber":"950","colorLabel":"Pearl","images":"$7a","specifications":"$7b"}
+86:{"de":"Leona – Champagner","fr":"Leona – Champagne","en":"Leona – Champagne","it":"Leona – Champagne"}
+87:{"de":"Damenmodell „Leona“ mit weichem, anatomischem Fussbett.","fr":"Modèle femme « Leona » avec semelle intérieure anatomique douce.","en":"Women's model \"Leona\" with a soft anatomical footbed.","it":"Modello da donna «Leona» con plantare anatomico morbido."}
+8a:{"de":"35","fr":"35","en":"35","it":"35"}
+89:{"id":"35","label":"$8a"}
+8c:{"de":"36","fr":"36","en":"36","it":"36"}
+8b:{"id":"36","label":"$8c"}
+8e:{"de":"37","fr":"37","en":"37","it":"37"}
+8d:{"id":"37","label":"$8e"}
+90:{"de":"38","fr":"38","en":"38","it":"38"}
+8f:{"id":"38","label":"$90"}
+92:{"de":"39","fr":"39","en":"39","it":"39"}
+91:{"id":"39","label":"$92"}
+94:{"de":"40","fr":"40","en":"40","it":"40"}
+93:{"id":"40","label":"$94"}
+96:{"de":"41","fr":"41","en":"41","it":"41"}
+95:{"id":"41","label":"$96"}
+98:{"de":"42","fr":"42","en":"42","it":"42"}
+97:{"id":"42","label":"$98"}
+88:["$89","$8b","$8d","$8f","$91","$93","$95","$97"]
+9a:{"id":"black","label":"Schwarz","hex":"#111827"}
+9b:{"id":"grey","label":"Grau","hex":"#6b7280"}
+9c:{"id":"white","label":"Weiss","hex":"#f9fafb"}
+99:["$9a","$9b","$9c"]
+9e:{"size":"35","color":"black","sku":"LEON-LEONASAMPANJ-35-black","priceCHF":49,"stock":10}
+9f:{"size":"35","color":"grey","sku":"LEON-LEONASAMPANJ-35-grey","priceCHF":49,"stock":10}
+a0:{"size":"35","color":"white","sku":"LEON-LEONASAMPANJ-35-white","priceCHF":49,"stock":10}
+a1:{"size":"36","color":"black","sku":"LEON-LEONASAMPANJ-36-black","priceCHF":49,"stock":10}
+a2:{"size":"36","color":"grey","sku":"LEON-LEONASAMPANJ-36-grey","priceCHF":49,"stock":10}
+a3:{"size":"36","color":"white","sku":"LEON-LEONASAMPANJ-36-white","priceCHF":49,"stock":10}
+a4:{"size":"37","color":"black","sku":"LEON-LEONASAMPANJ-37-black","priceCHF":49,"stock":10}
+a5:{"size":"37","color":"grey","sku":"LEON-LEONASAMPANJ-37-grey","priceCHF":49,"stock":10}
+a6:{"size":"37","color":"white","sku":"LEON-LEONASAMPANJ-37-white","priceCHF":49,"stock":10}
+a7:{"size":"38","color":"black","sku":"LEON-LEONASAMPANJ-38-black","priceCHF":49,"stock":10}
+a8:{"size":"38","color":"grey","sku":"LEON-LEONASAMPANJ-38-grey","priceCHF":49,"stock":10}
+a9:{"size":"38","color":"white","sku":"LEON-LEONASAMPANJ-38-white","priceCHF":49,"stock":10}
+aa:{"size":"39","color":"black","sku":"LEON-LEONASAMPANJ-39-black","priceCHF":49,"stock":10}
+ab:{"size":"39","color":"grey","sku":"LEON-LEONASAMPANJ-39-grey","priceCHF":49,"stock":10}
+ac:{"size":"39","color":"white","sku":"LEON-LEONASAMPANJ-39-white","priceCHF":49,"stock":10}
+ad:{"size":"40","color":"black","sku":"LEON-LEONASAMPANJ-40-black","priceCHF":49,"stock":10}
+ae:{"size":"40","color":"grey","sku":"LEON-LEONASAMPANJ-40-grey","priceCHF":49,"stock":10}
+af:{"size":"40","color":"white","sku":"LEON-LEONASAMPANJ-40-white","priceCHF":49,"stock":10}
+b0:{"size":"41","color":"black","sku":"LEON-LEONASAMPANJ-41-black","priceCHF":49,"stock":10}
+b1:{"size":"41","color":"grey","sku":"LEON-LEONASAMPANJ-41-grey","priceCHF":49,"stock":10}
+b2:{"size":"41","color":"white","sku":"LEON-LEONASAMPANJ-41-white","priceCHF":49,"stock":10}
+b3:{"size":"42","color":"black","sku":"LEON-LEONASAMPANJ-42-black","priceCHF":49,"stock":10}
+b4:{"size":"42","color":"grey","sku":"LEON-LEONASAMPANJ-42-grey","priceCHF":49,"stock":10}
+b5:{"size":"42","color":"white","sku":"LEON-LEONASAMPANJ-42-white","priceCHF":49,"stock":10}
+9d:["$9e","$9f","$a0","$a1","$a2","$a3","$a4","$a5","$a6","$a7","$a8","$a9","$aa","$ab","$ac","$ad","$ae","$af","$b0","$b1","$b2","$b3","$b4","$b5"]
+b6:["https://cdn.leon.rs/wp-content/uploads/2026/01/950-SAMP2.jpg","https://cdn.leon.rs/wp-content/uploads/2026/01/950-SAMP3.jpg","https://cdn.leon.rs/wp-content/uploads/2026/01/950-SAMP4.jpg","https://cdn.leon.rs/wp-content/uploads/2026/01/950-SAMP1.jpg"]
+b9:{"de":"Obermaterial","fr":"Composition du dessus","en":"Upper material","it":"Tomaia"}
+ba:{"de":"Naturleder","fr":"Cuir naturel","en":"Natural leather","it":"Pelle naturale"}
+b8:{"label":"$b9","value":"$ba"}
+bc:{"de":"Fußbett","fr":"Semelle intérieure","en":"Footbed","it":"Plantare"}
+bd:{"de":"Naturleder mit anatomischem Profil und weicher Gel-Innensohle","fr":"Cuir naturel avec bande de roulement anatomique et semelle int�rieure en gel souple","en":"Natural leather with anatomical tread and soft gel insole","it":"Pelle naturale con battistrada anatomico e plantare in morbido gel"}
+bb:{"label":"$bc","value":"$bd"}
+bf:{"de":"Laufsohle","fr":"Semelle extérieure","en":"Outsole","it":"Suola"}
+c0:{"de":"Polyurethan- und Anti-Rutsch-Lauffl�che","fr":"Bande de roulement en polyur�thane et antid�rapante","en":"Polyurethane and anti-slip tread","it":"Battistrada in poliuretano e antiscivolo"}
+be:{"label":"$bf","value":"$c0"}
+b7:["$b8","$bb","$be"]
+85:{"id":"leon-leona-sampanj","slug":"leona-sampanj","category":"women","brand":"leon","modelGroupId":"leon-mg-leona-women","name":"$86","description":"$87","image":"https://cdn.leon.rs/wp-content/uploads/2026/01/950-SAMP2.jpg","sizes":"$88","colors":"$99","variants":"$9d","articleNumber":"950","colorLabel":"Champagne","images":"$b6","specifications":"$b7"}
+c2:{"de":"Leona – Grün Perlato","fr":"Leona – Vert perlato","en":"Leona – Green perlato","it":"Leona – Verde perlato"}
+c3:{"de":"Damenmodell „Leona“ mit weichem, anatomischem Fussbett.","fr":"Modèle femme « Leona » avec semelle intérieure anatomique douce.","en":"Women's model \"Leona\" with a soft anatomical footbed.","it":"Modello da donna «Leona» con plantare anatomico morbido."}
+c6:{"de":"35","fr":"35","en":"35","it":"35"}
+c5:{"id":"35","label":"$c6"}
+c8:{"de":"36","fr":"36","en":"36","it":"36"}
+c7:{"id":"36","label":"$c8"}
+ca:{"de":"37","fr":"37","en":"37","it":"37"}
+c9:{"id":"37","label":"$ca"}
+cc:{"de":"38","fr":"38","en":"38","it":"38"}
+cb:{"id":"38","label":"$cc"}
+ce:{"de":"39","fr":"39","en":"39","it":"39"}
+cd:{"id":"39","label":"$ce"}
+d0:{"de":"40","fr":"40","en":"40","it":"40"}
+cf:{"id":"40","label":"$d0"}
+d2:{"de":"41","fr":"41","en":"41","it":"41"}
+d1:{"id":"41","label":"$d2"}
+d4:{"de":"42","fr":"42","en":"42","it":"42"}
+d3:{"id":"42","label":"$d4"}
+c4:["$c5","$c7","$c9","$cb","$cd","$cf","$d1","$d3"]
+d6:{"id":"black","label":"Schwarz","hex":"#111827"}
+d7:{"id":"grey","label":"Grau","hex":"#6b7280"}
+d8:{"id":"white","label":"Weiss","hex":"#f9fafb"}
+d5:["$d6","$d7","$d8"]
+da:{"size":"35","color":"black","sku":"LEON-LEONAZELENAPERLATO-35-black","priceCHF":49,"stock":10}
+db:{"size":"35","color":"grey","sku":"LEON-LEONAZELENAPERLATO-35-grey","priceCHF":49,"stock":10}
+dc:{"size":"35","color":"white","sku":"LEON-LEONAZELENAPERLATO-35-white","priceCHF":49,"stock":10}
+dd:{"size":"36","color":"black","sku":"LEON-LEONAZELENAPERLATO-36-black","priceCHF":49,"stock":10}
+de:{"size":"36","color":"grey","sku":"LEON-LEONAZELENAPERLATO-36-grey","priceCHF":49,"stock":10}
+df:{"size":"36","color":"white","sku":"LEON-LEONAZELENAPERLATO-36-white","priceCHF":49,"stock":10}
+e0:{"size":"37","color":"black","sku":"LEON-LEONAZELENAPERLATO-37-black","priceCHF":49,"stock":10}
+e1:{"size":"37","color":"grey","sku":"LEON-LEONAZELENAPERLATO-37-grey","priceCHF":49,"stock":10}
+e2:{"size":"37","color":"white","sku":"LEON-LEONAZELENAPERLATO-37-white","priceCHF":49,"stock":10}
+e3:{"size":"38","color":"black","sku":"LEON-LEONAZELENAPERLATO-38-black","priceCHF":49,"stock":10}
+e4:{"size":"38","color":"grey","sku":"LEON-LEONAZELENAPERLATO-38-grey","priceCHF":49,"stock":10}
+e5:{"size":"38","color":"white","sku":"LEON-LEONAZELENAPERLATO-38-white","priceCHF":49,"stock":10}
+e6:{"size":"39","color":"black","sku":"LEON-LEONAZELENAPERLATO-39-black","priceCHF":49,"stock":10}
+e7:{"size":"39","color":"grey","sku":"LEON-LEONAZELENAPERLATO-39-grey","priceCHF":49,"stock":10}
+e8:{"size":"39","color":"white","sku":"LEON-LEONAZELENAPERLATO-39-white","priceCHF":49,"stock":10}
+e9:{"size":"40","color":"black","sku":"LEON-LEONAZELENAPERLATO-40-black","priceCHF":49,"stock":10}
+ea:{"size":"40","color":"grey","sku":"LEON-LEONAZELENAPERLATO-40-grey","priceCHF":49,"stock":10}
+eb:{"size":"40","color":"white","sku":"LEON-LEONAZELENAPERLATO-40-white","priceCHF":49,"stock":10}
+ec:{"size":"41","color":"black","sku":"LEON-LEONAZELENAPERLATO-41-black","priceCHF":49,"stock":10}
+ed:{"size":"41","color":"grey","sku":"LEON-LEONAZELENAPERLATO-41-grey","priceCHF":49,"stock":10}
+ee:{"size":"41","color":"white","sku":"LEON-LEONAZELENAPERLATO-41-white","priceCHF":49,"stock":10}
+ef:{"size":"42","color":"black","sku":"LEON-LEONAZELENAPERLATO-42-black","priceCHF":49,"stock":10}
+f0:{"size":"42","color":"grey","sku":"LEON-LEONAZELENAPERLATO-42-grey","priceCHF":49,"stock":10}
+f1:{"size":"42","color":"white","sku":"LEON-LEONAZELENAPERLATO-42-white","priceCHF":49,"stock":10}
+d9:["$da","$db","$dc","$dd","$de","$df","$e0","$e1","$e2","$e3","$e4","$e5","$e6","$e7","$e8","$e9","$ea","$eb","$ec","$ed","$ee","$ef","$f0","$f1"]
+f2:["https://cdn.leon.rs/wp-content/uploads/2025/09/Leona-ZELENA-PERLATO.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Leona-ZELENA-PERLATO-1.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Leona-ZELENA-PERLATO-2.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Leona-ZELENA-PERLATO-3.jpg"]
+f5:{"de":"Obermaterial","fr":"Composition du dessus","en":"Upper material","it":"Tomaia"}
+f6:{"de":"Naturleder","fr":"Cuir naturel","en":"Natural leather","it":"Pelle naturale"}
+f4:{"label":"$f5","value":"$f6"}
+f8:{"de":"Fußbett","fr":"Semelle intérieure","en":"Footbed","it":"Plantare"}
+f9:{"de":"Naturleder mit anatomischem Profil und weicher Gel-Innensohle","fr":"Cuir naturel avec bande de roulement anatomique et semelle int�rieure en gel souple","en":"Natural leather with anatomical tread and soft gel insole","it":"Pelle naturale con battistrada anatomico e plantare in morbido gel"}
+f7:{"label":"$f8","value":"$f9"}
+fb:{"de":"Laufsohle","fr":"Semelle extérieure","en":"Outsole","it":"Suola"}
+fc:{"de":"Polyurethan- und Anti-Rutsch-Lauffl�che","fr":"Bande de roulement en polyur�thane et antid�rapante","en":"Polyurethane and anti-slip tread","it":"Battistrada in poliuretano e antiscivolo"}
+fa:{"label":"$fb","value":"$fc"}
+f3:["$f4","$f7","$fa"]
+c1:{"id":"leon-leona-zelena-perlato","slug":"leona-zelena-perlato","category":"women","brand":"leon","modelGroupId":"leon-mg-leona-women","name":"$c2","description":"$c3","image":"https://cdn.leon.rs/wp-content/uploads/2025/09/Leona-ZELENA-PERLATO.jpg","sizes":"$c4","colors":"$d5","variants":"$d9","articleNumber":"950","colorLabel":"Green perlato","images":"$f2","specifications":"$f3"}
+fe:{"de":"Leona – Anthrazit","fr":"Leona – Anthracite","en":"Leona – Charcoal","it":"Leona – Antracite"}
+ff:{"de":"Damenmodell „Leona“ mit weichem, anatomischem Fussbett.","fr":"Modèle femme « Leona » avec semelle intérieure anatomique douce.","en":"Women's model \"Leona\" with a soft anatomical footbed.","it":"Modello da donna «Leona» con plantare anatomico morbido."}
+102:{"de":"35","fr":"35","en":"35","it":"35"}
+101:{"id":"35","label":"$102"}
+104:{"de":"36","fr":"36","en":"36","it":"36"}
+103:{"id":"36","label":"$104"}
+106:{"de":"37","fr":"37","en":"37","it":"37"}
+105:{"id":"37","label":"$106"}
+108:{"de":"38","fr":"38","en":"38","it":"38"}
+107:{"id":"38","label":"$108"}
+10a:{"de":"39","fr":"39","en":"39","it":"39"}
+109:{"id":"39","label":"$10a"}
+10c:{"de":"40","fr":"40","en":"40","it":"40"}
+10b:{"id":"40","label":"$10c"}
+10e:{"de":"41","fr":"41","en":"41","it":"41"}
+10d:{"id":"41","label":"$10e"}
+110:{"de":"42","fr":"42","en":"42","it":"42"}
+10f:{"id":"42","label":"$110"}
+100:["$101","$103","$105","$107","$109","$10b","$10d","$10f"]
+112:{"id":"black","label":"Schwarz","hex":"#111827"}
+113:{"id":"grey","label":"Grau","hex":"#6b7280"}
+114:{"id":"white","label":"Weiss","hex":"#f9fafb"}
+111:["$112","$113","$114"]
+116:{"size":"35","color":"black","sku":"LEON-LEONATEGET-35-black","priceCHF":49,"stock":10}
+117:{"size":"35","color":"grey","sku":"LEON-LEONATEGET-35-grey","priceCHF":49,"stock":10}
+118:{"size":"35","color":"white","sku":"LEON-LEONATEGET-35-white","priceCHF":49,"stock":10}
+119:{"size":"36","color":"black","sku":"LEON-LEONATEGET-36-black","priceCHF":49,"stock":10}
+11a:{"size":"36","color":"grey","sku":"LEON-LEONATEGET-36-grey","priceCHF":49,"stock":10}
+11b:{"size":"36","color":"white","sku":"LEON-LEONATEGET-36-white","priceCHF":49,"stock":10}
+11c:{"size":"37","color":"black","sku":"LEON-LEONATEGET-37-black","priceCHF":49,"stock":10}
+11d:{"size":"37","color":"grey","sku":"LEON-LEONATEGET-37-grey","priceCHF":49,"stock":10}
+11e:{"size":"37","color":"white","sku":"LEON-LEONATEGET-37-white","priceCHF":49,"stock":10}
+11f:{"size":"38","color":"black","sku":"LEON-LEONATEGET-38-black","priceCHF":49,"stock":10}
+120:{"size":"38","color":"grey","sku":"LEON-LEONATEGET-38-grey","priceCHF":49,"stock":10}
+121:{"size":"38","color":"white","sku":"LEON-LEONATEGET-38-white","priceCHF":49,"stock":10}
+122:{"size":"39","color":"black","sku":"LEON-LEONATEGET-39-black","priceCHF":49,"stock":10}
+123:{"size":"39","color":"grey","sku":"LEON-LEONATEGET-39-grey","priceCHF":49,"stock":10}
+124:{"size":"39","color":"white","sku":"LEON-LEONATEGET-39-white","priceCHF":49,"stock":10}
+125:{"size":"40","color":"black","sku":"LEON-LEONATEGET-40-black","priceCHF":49,"stock":10}
+126:{"size":"40","color":"grey","sku":"LEON-LEONATEGET-40-grey","priceCHF":49,"stock":10}
+127:{"size":"40","color":"white","sku":"LEON-LEONATEGET-40-white","priceCHF":49,"stock":10}
+128:{"size":"41","color":"black","sku":"LEON-LEONATEGET-41-black","priceCHF":49,"stock":10}
+129:{"size":"41","color":"grey","sku":"LEON-LEONATEGET-41-grey","priceCHF":49,"stock":10}
+12a:{"size":"41","color":"white","sku":"LEON-LEONATEGET-41-white","priceCHF":49,"stock":10}
+12b:{"size":"42","color":"black","sku":"LEON-LEONATEGET-42-black","priceCHF":49,"stock":10}
+12c:{"size":"42","color":"grey","sku":"LEON-LEONATEGET-42-grey","priceCHF":49,"stock":10}
+12d:{"size":"42","color":"white","sku":"LEON-LEONATEGET-42-white","priceCHF":49,"stock":10}
+115:["$116","$117","$118","$119","$11a","$11b","$11c","$11d","$11e","$11f","$120","$121","$122","$123","$124","$125","$126","$127","$128","$129","$12a","$12b","$12c","$12d"]
+12e:["https://cdn.leon.rs/wp-content/uploads/2025/09/Leona-TEGET.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Leona-TEGET-1.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Leona-TEGET-2.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Leona-TEGET-3.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Leona-TEGET-4.jpg"]
+131:{"de":"Obermaterial","fr":"Composition du dessus","en":"Upper material","it":"Tomaia"}
+132:{"de":"Naturleder","fr":"Cuir naturel","en":"Natural leather","it":"Pelle naturale"}
+130:{"label":"$131","value":"$132"}
+134:{"de":"Fußbett","fr":"Semelle intérieure","en":"Footbed","it":"Plantare"}
+135:{"de":"Naturleder mit anatomischem Profil und weicher Gel-Innensohle","fr":"Cuir naturel avec bande de roulement anatomique et semelle int�rieure en gel souple","en":"Natural leather with anatomical tread and soft gel insole","it":"Pelle naturale con battistrada anatomico e plantare in morbido gel"}
+133:{"label":"$134","value":"$135"}
+137:{"de":"Laufsohle","fr":"Semelle extérieure","en":"Outsole","it":"Suola"}
+138:{"de":"Polyurethan- und Anti-Rutsch-Lauffl�che","fr":"Bande de roulement en polyur�thane et antid�rapante","en":"Polyurethane and anti-slip tread","it":"Battistrada in poliuretano e antiscivolo"}
+136:{"label":"$137","value":"$138"}
+12f:["$130","$133","$136"]
+fd:{"id":"leon-leona-teget","slug":"leona-teget","category":"women","brand":"leon","modelGroupId":"leon-mg-leona-women","name":"$fe","description":"$ff","image":"https://cdn.leon.rs/wp-content/uploads/2025/09/Leona-TEGET.jpg","sizes":"$100","colors":"$111","variants":"$115","articleNumber":"950","colorLabel":"Charcoal","images":"$12e","specifications":"$12f"}
+13a:{"de":"Leona – Schwarz","fr":"Leona – Noir","en":"Leona – Black","it":"Leona – Nero"}
+13b:{"de":"Damenmodell „Leona“ mit weichem, anatomischem Fussbett.","fr":"Modèle femme « Leona » avec semelle intérieure anatomique douce.","en":"Women's model \"Leona\" with a soft anatomical footbed.","it":"Modello da donna «Leona» con plantare anatomico morbido."}
+13e:{"de":"35","fr":"35","en":"35","it":"35"}
+13d:{"id":"35","label":"$13e"}
+140:{"de":"36","fr":"36","en":"36","it":"36"}
+13f:{"id":"36","label":"$140"}
+142:{"de":"37","fr":"37","en":"37","it":"37"}
+141:{"id":"37","label":"$142"}
+144:{"de":"38","fr":"38","en":"38","it":"38"}
+143:{"id":"38","label":"$144"}
+146:{"de":"39","fr":"39","en":"39","it":"39"}
+145:{"id":"39","label":"$146"}
+148:{"de":"40","fr":"40","en":"40","it":"40"}
+147:{"id":"40","label":"$148"}
+14a:{"de":"41","fr":"41","en":"41","it":"41"}
+149:{"id":"41","label":"$14a"}
+14c:{"de":"42","fr":"42","en":"42","it":"42"}
+14b:{"id":"42","label":"$14c"}
+13c:["$13d","$13f","$141","$143","$145","$147","$149","$14b"]
+14e:{"id":"black","label":"Schwarz","hex":"#111827"}
+14f:{"id":"grey","label":"Grau","hex":"#6b7280"}
+150:{"id":"white","label":"Weiss","hex":"#f9fafb"}
+14d:["$14e","$14f","$150"]
+152:{"size":"35","color":"black","sku":"LEON-LEONACRNA-35-black","priceCHF":49,"stock":10}
+153:{"size":"35","color":"grey","sku":"LEON-LEONACRNA-35-grey","priceCHF":49,"stock":10}
+154:{"size":"35","color":"white","sku":"LEON-LEONACRNA-35-white","priceCHF":49,"stock":10}
+155:{"size":"36","color":"black","sku":"LEON-LEONACRNA-36-black","priceCHF":49,"stock":10}
+156:{"size":"36","color":"grey","sku":"LEON-LEONACRNA-36-grey","priceCHF":49,"stock":10}
+157:{"size":"36","color":"white","sku":"LEON-LEONACRNA-36-white","priceCHF":49,"stock":10}
+158:{"size":"37","color":"black","sku":"LEON-LEONACRNA-37-black","priceCHF":49,"stock":10}
+159:{"size":"37","color":"grey","sku":"LEON-LEONACRNA-37-grey","priceCHF":49,"stock":10}
+15a:{"size":"37","color":"white","sku":"LEON-LEONACRNA-37-white","priceCHF":49,"stock":10}
+15b:{"size":"38","color":"black","sku":"LEON-LEONACRNA-38-black","priceCHF":49,"stock":10}
+15c:{"size":"38","color":"grey","sku":"LEON-LEONACRNA-38-grey","priceCHF":49,"stock":10}
+15d:{"size":"38","color":"white","sku":"LEON-LEONACRNA-38-white","priceCHF":49,"stock":10}
+15e:{"size":"39","color":"black","sku":"LEON-LEONACRNA-39-black","priceCHF":49,"stock":10}
+15f:{"size":"39","color":"grey","sku":"LEON-LEONACRNA-39-grey","priceCHF":49,"stock":10}
+160:{"size":"39","color":"white","sku":"LEON-LEONACRNA-39-white","priceCHF":49,"stock":10}
+161:{"size":"40","color":"black","sku":"LEON-LEONACRNA-40-black","priceCHF":49,"stock":10}
+162:{"size":"40","color":"grey","sku":"LEON-LEONACRNA-40-grey","priceCHF":49,"stock":10}
+163:{"size":"40","color":"white","sku":"LEON-LEONACRNA-40-white","priceCHF":49,"stock":10}
+164:{"size":"41","color":"black","sku":"LEON-LEONACRNA-41-black","priceCHF":49,"stock":10}
+165:{"size":"41","color":"grey","sku":"LEON-LEONACRNA-41-grey","priceCHF":49,"stock":10}
+166:{"size":"41","color":"white","sku":"LEON-LEONACRNA-41-white","priceCHF":49,"stock":10}
+167:{"size":"42","color":"black","sku":"LEON-LEONACRNA-42-black","priceCHF":49,"stock":10}
+168:{"size":"42","color":"grey","sku":"LEON-LEONACRNA-42-grey","priceCHF":49,"stock":10}
+169:{"size":"42","color":"white","sku":"LEON-LEONACRNA-42-white","priceCHF":49,"stock":10}
+151:["$152","$153","$154","$155","$156","$157","$158","$159","$15a","$15b","$15c","$15d","$15e","$15f","$160","$161","$162","$163","$164","$165","$166","$167","$168","$169"]
+16a:["https://cdn.leon.rs/wp-content/uploads/2025/09/Leona-CRNA.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Leona-CRNA-1.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Leona-CRNA-2.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Leona-CRNA-3.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Leona-CRNA-4.jpg"]
+16d:{"de":"Obermaterial","fr":"Composition du dessus","en":"Upper material","it":"Tomaia"}
+16e:{"de":"Naturleder","fr":"Cuir naturel","en":"Natural leather","it":"Pelle naturale"}
+16c:{"label":"$16d","value":"$16e"}
+170:{"de":"Fußbett","fr":"Semelle intérieure","en":"Footbed","it":"Plantare"}
+171:{"de":"Naturleder mit anatomischem Profil und weicher Gel-Innensohle","fr":"Cuir naturel avec bande de roulement anatomique et semelle int�rieure en gel souple","en":"Natural leather with anatomical tread and soft gel insole","it":"Pelle naturale con battistrada anatomico e plantare in morbido gel"}
+16f:{"label":"$170","value":"$171"}
+173:{"de":"Laufsohle","fr":"Semelle extérieure","en":"Outsole","it":"Suola"}
+174:{"de":"Polyurethan- und Anti-Rutsch-Lauffl�che","fr":"Bande de roulement en polyur�thane et antid�rapante","en":"Polyurethane and anti-slip tread","it":"Battistrada in poliuretano e antiscivolo"}
+172:{"label":"$173","value":"$174"}
+16b:["$16c","$16f","$172"]
+139:{"id":"leon-leona-crna","slug":"leona-crna","category":"women","brand":"leon","modelGroupId":"leon-mg-leona-women","name":"$13a","description":"$13b","image":"https://cdn.leon.rs/wp-content/uploads/2025/09/Leona-CRNA.jpg","sizes":"$13c","colors":"$14d","variants":"$151","articleNumber":"950","colorLabel":"Black","images":"$16a","specifications":"$16b"}
+176:{"de":"Leona – Weiß","fr":"Leona – Blanc","en":"Leona – White","it":"Leona – Bianco"}
+177:{"de":"Damenmodell „Leona“ mit weichem, anatomischem Fussbett.","fr":"Modèle femme « Leona » avec semelle intérieure anatomique douce.","en":"Women's model \"Leona\" with a soft anatomical footbed.","it":"Modello da donna «Leona» con plantare anatomico morbido."}
+17a:{"de":"35","fr":"35","en":"35","it":"35"}
+179:{"id":"35","label":"$17a"}
+17c:{"de":"36","fr":"36","en":"36","it":"36"}
+17b:{"id":"36","label":"$17c"}
+17e:{"de":"37","fr":"37","en":"37","it":"37"}
+17d:{"id":"37","label":"$17e"}
+180:{"de":"38","fr":"38","en":"38","it":"38"}
+17f:{"id":"38","label":"$180"}
+182:{"de":"39","fr":"39","en":"39","it":"39"}
+181:{"id":"39","label":"$182"}
+184:{"de":"40","fr":"40","en":"40","it":"40"}
+183:{"id":"40","label":"$184"}
+186:{"de":"41","fr":"41","en":"41","it":"41"}
+185:{"id":"41","label":"$186"}
+188:{"de":"42","fr":"42","en":"42","it":"42"}
+187:{"id":"42","label":"$188"}
+178:["$179","$17b","$17d","$17f","$181","$183","$185","$187"]
+18a:{"id":"black","label":"Schwarz","hex":"#111827"}
+18b:{"id":"grey","label":"Grau","hex":"#6b7280"}
+18c:{"id":"white","label":"Weiss","hex":"#f9fafb"}
+189:["$18a","$18b","$18c"]
+18e:{"size":"35","color":"black","sku":"LEON-LEONABELA-35-black","priceCHF":49,"stock":10}
+18f:{"size":"35","color":"grey","sku":"LEON-LEONABELA-35-grey","priceCHF":49,"stock":10}
+190:{"size":"35","color":"white","sku":"LEON-LEONABELA-35-white","priceCHF":49,"stock":10}
+191:{"size":"36","color":"black","sku":"LEON-LEONABELA-36-black","priceCHF":49,"stock":10}
+192:{"size":"36","color":"grey","sku":"LEON-LEONABELA-36-grey","priceCHF":49,"stock":10}
+193:{"size":"36","color":"white","sku":"LEON-LEONABELA-36-white","priceCHF":49,"stock":10}
+194:{"size":"37","color":"black","sku":"LEON-LEONABELA-37-black","priceCHF":49,"stock":10}
+195:{"size":"37","color":"grey","sku":"LEON-LEONABELA-37-grey","priceCHF":49,"stock":10}
+196:{"size":"37","color":"white","sku":"LEON-LEONABELA-37-white","priceCHF":49,"stock":10}
+197:{"size":"38","color":"black","sku":"LEON-LEONABELA-38-black","priceCHF":49,"stock":10}
+198:{"size":"38","color":"grey","sku":"LEON-LEONABELA-38-grey","priceCHF":49,"stock":10}
+199:{"size":"38","color":"white","sku":"LEON-LEONABELA-38-white","priceCHF":49,"stock":10}
+19a:{"size":"39","color":"black","sku":"LEON-LEONABELA-39-black","priceCHF":49,"stock":10}
+19b:{"size":"39","color":"grey","sku":"LEON-LEONABELA-39-grey","priceCHF":49,"stock":10}
+19c:{"size":"39","color":"white","sku":"LEON-LEONABELA-39-white","priceCHF":49,"stock":10}
+19d:{"size":"40","color":"black","sku":"LEON-LEONABELA-40-black","priceCHF":49,"stock":10}
+19e:{"size":"40","color":"grey","sku":"LEON-LEONABELA-40-grey","priceCHF":49,"stock":10}
+19f:{"size":"40","color":"white","sku":"LEON-LEONABELA-40-white","priceCHF":49,"stock":10}
+1a0:{"size":"41","color":"black","sku":"LEON-LEONABELA-41-black","priceCHF":49,"stock":10}
+1a1:{"size":"41","color":"grey","sku":"LEON-LEONABELA-41-grey","priceCHF":49,"stock":10}
+1a2:{"size":"41","color":"white","sku":"LEON-LEONABELA-41-white","priceCHF":49,"stock":10}
+1a3:{"size":"42","color":"black","sku":"LEON-LEONABELA-42-black","priceCHF":49,"stock":10}
+1a4:{"size":"42","color":"grey","sku":"LEON-LEONABELA-42-grey","priceCHF":49,"stock":10}
+1a5:{"size":"42","color":"white","sku":"LEON-LEONABELA-42-white","priceCHF":49,"stock":10}
+18d:["$18e","$18f","$190","$191","$192","$193","$194","$195","$196","$197","$198","$199","$19a","$19b","$19c","$19d","$19e","$19f","$1a0","$1a1","$1a2","$1a3","$1a4","$1a5"]
+1a6:["https://cdn.leon.rs/wp-content/uploads/2025/09/Leona-BELA.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Leona-BELA-1.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Leona-BELA-2.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Leona-BELA-3.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Leona-BELA-4.jpg"]
+1a9:{"de":"Obermaterial","fr":"Composition du dessus","en":"Upper material","it":"Tomaia"}
+1aa:{"de":"Naturleder","fr":"Cuir naturel","en":"Natural leather","it":"Pelle naturale"}
+1a8:{"label":"$1a9","value":"$1aa"}
+1ac:{"de":"Fußbett","fr":"Semelle intérieure","en":"Footbed","it":"Plantare"}
+1ad:{"de":"Naturleder mit anatomischem Profil und weicher Gel-Innensohle","fr":"Cuir naturel avec bande de roulement anatomique et semelle int�rieure en gel souple","en":"Natural leather with anatomical tread and soft gel insole","it":"Pelle naturale con battistrada anatomico e plantare in morbido gel"}
+1ab:{"label":"$1ac","value":"$1ad"}
+1af:{"de":"Laufsohle","fr":"Semelle extérieure","en":"Outsole","it":"Suola"}
+1b0:{"de":"Polyurethan- und Anti-Rutsch-Lauffl�che","fr":"Bande de roulement en polyur�thane et antid�rapante","en":"Polyurethane and anti-slip tread","it":"Battistrada in poliuretano e antiscivolo"}
+1ae:{"label":"$1af","value":"$1b0"}
+1a7:["$1a8","$1ab","$1ae"]
+175:{"id":"leon-leona-bela","slug":"leona-bela","category":"women","brand":"leon","modelGroupId":"leon-mg-leona-women","name":"$176","description":"$177","image":"https://cdn.leon.rs/wp-content/uploads/2025/09/Leona-BELA.jpg","sizes":"$178","colors":"$189","variants":"$18d","articleNumber":"950","colorLabel":"White","images":"$1a6","specifications":"$1a7"}
+48:["$49","$85","$c1","$fd","$139","$175","$d"]
+2:["$","div",null,{"className":"mx-auto max-w-6xl px-4 py-10","children":[["$","div",null,{"className":"grid gap-10 md:grid-cols-2","children":[["$","$L9",null,{"images":["https://cdn.leon.rs/wp-content/uploads/2025/09/950-Crvena1.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/950-Crvena2.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/950-Crvena3.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/950-Crvena4.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/950-Crvena5.jpg"],"alt":"Leona – Red"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-2xl font-bold text-neutral-900 md:text-3xl","children":"Leona – Red"}],["$","p",null,{"className":"mt-2 text-sm text-neutral-600","children":[["$","span",null,{"className":"font-medium text-neutral-500","children":["SKU",":"]}]," ",["$","span",null,{"className":"font-mono font-semibold tracking-wide text-neutral-900","children":"950 · Red"}]]}],["$","p",null,{"className":"mt-4 text-neutral-600","children":"Women's model \"Leona\" with a soft anatomical footbed."}],["$","p",null,{"className":"mt-4 text-lg font-semibold text-red-600","children":"CHF 49.00"}],["$","$La",null,{"locale":"en","currentSlug":"leona-crvena","siblings":[{"id":"leon-leona-perla","slug":"leona-perla","category":"women","brand":"leon","modelGroupId":"leon-mg-leona-women","name":{"de":"Leona – Perle","fr":"Leona – Perle","en":"Leona – Pearl","it":"Leona – Perla"},"description":{"de":"Damenmodell „Leona“ mit weichem, anatomischem Fussbett.","fr":"Modèle femme « Leona » avec semelle intérieure anatomique douce.","en":"Women's model \"Leona\" with a soft anatomical footbed.","it":"Modello da donna «Leona» con plantare anatomico morbido."},"image":"https://cdn.leon.rs/wp-content/uploads/2025/09/Leona-PERLA.jpg","sizes":[{"id":"35","label":{"de":"35","fr":"35","en":"35","it":"35"}},{"id":"36","label":{"de":"36","fr":"36","en":"36","it":"36"}},{"id":"37","label":{"de":"37","fr":"37","en":"37","it":"37"}},{"id":"38","label":{"de":"38","fr":"38","en":"38","it":"38"}},{"id":"39","label":{"de":"39","fr":"39","en":"39","it":"39"}},{"id":"40","label":{"de":"40","fr":"40","en":"40","it":"40"}},{"id":"41","label":{"de":"41","fr":"41","en":"41","it":"41"}},{"id":"42","label":{"de":"42","fr":"42","en":"42","it":"42"}}],"colors":[{"id":"black","label":"Schwarz","hex":"#111827"},{"id":"grey","label":"Grau","hex":"#6b7280"},{"id":"white","label":"Weiss","hex":"#f9fafb"}],"variants":[{"size":"35","color":"black","sku":"LEON-LEONAPERLA-35-black","priceCHF":49,"stock":10},{"size":"35","color":"grey","sku":"LEON-LEONAPERLA-35-grey","priceCHF":49,"stock":10},{"size":"35","color":"white","sku":"LEON-LEONAPERLA-35-white","priceCHF":49,"stock":10},{"size":"36","color":"black","sku":"LEON-LEONAPERLA-36-black","priceCHF":49,"stock":10},{"size":"36","color":"grey","sku":"LEON-LEONAPERLA-36-grey","priceCHF":49,"stock":10},{"size":"36","color":"white","sku":"LEON-LEONAPERLA-36-white","priceCHF":49,"stock":10},{"size":"37","color":"black","sku":"LEON-LEONAPERLA-37-black","priceCHF":49,"stock":10},{"size":"37","color":"grey","sku":"LEON-LEONAPERLA-37-grey","priceCHF":49,"stock":10},{"size":"37","color":"white","sku":"LEON-LEONAPERLA-37-white","priceCHF":49,"stock":10},{"size":"38","color":"black","sku":"LEON-LEONAPERLA-38-black","priceCHF":49,"stock":10},{"size":"38","color":"grey","sku":"LEON-LEONAPERLA-38-grey","priceCHF":49,"stock":10},{"size":"38","color":"white","sku":"LEON-LEONAPERLA-38-white","priceCHF":49,"stock":10},{"size":"39","color":"black","sku":"LEON-LEONAPERLA-39-black","priceCHF":49,"stock":10},{"size":"39","color":"grey","sku":"LEON-LEONAPERLA-39-grey","priceCHF":49,"stock":10},{"size":"39","color":"white","sku":"LEON-LEONAPERLA-39-white","priceCHF":49,"stock":10},{"size":"40","color":"black","sku":"LEON-LEONAPERLA-40-black","priceCHF":49,"stock":10},{"size":"40","color":"grey","sku":"LEON-LEONAPERLA-40-grey","priceCHF":49,"stock":10},{"size":"40","color":"white","sku":"LEON-LEONAPERLA-40-white","priceCHF":49,"stock":10},{"size":"41","color":"black","sku":"LEON-LEONAPERLA-41-black","priceCHF":49,"stock":10},{"size":"41","color":"grey","sku":"LEON-LEONAPERLA-41-grey","priceCHF":49,"stock":10},{"size":"41","color":"white","sku":"LEON-LEONAPERLA-41-white","priceCHF":49,"stock":10},{"size":"42","color":"black","sku":"LEON-LEONAPERLA-42-black","priceCHF":49,"stock":10},{"size":"42","color":"grey","sku":"LEON-LEONAPERLA-42-grey","priceCHF":49,"stock":10},{"size":"42","color":"white","sku":"LEON-LEONAPERLA-42-white","priceCHF":49,"stock":10}],"articleNumber":"950","colorLabel":"Pearl","images":["https://cdn.leon.rs/wp-content/uploads/2025/09/Leona-PERLA.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Leona-PERLA-1.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Leona-PERLA-2.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Leona-PERLA-3.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Leona-PERLA-4.jpg"],"specifications":[{"label":{"de":"Obermaterial","fr":"Composition du dessus","en":"Upper material","it":"Tomaia"},"value":{"de":"Naturleder","fr":"Cuir naturel","en":"Natural leather","it":"Pelle naturale"}},{"label":{"de":"Fußbett","fr":"Semelle intérieure","en":"Footbed","it":"Plantare"},"value":{"de":"Naturleder mit anatomischem Profil und weicher Gel-Innensohle","fr":"Cuir naturel avec bande de roulement anatomique et semelle int�rieure en gel souple","en":"Natural leather with anatomical tread and soft gel insole","it":"Pelle naturale con battistrada anatomico e plantare in morbido gel"}},{"label":{"de":"Laufsohle","fr":"Semelle extérieure","en":"Outsole","it":"Suola"},"value":{"de":"Polyurethan- und Anti-Rutsch-Lauffl�che","fr":"Bande de roulement en polyur�thane et antid�rapante","en":"Polyurethane and anti-slip tread","it":"Battistrada in poliuretano e antiscivolo"}}]},{"id":"leon-leona-sampanj","slug":"leona-sampanj","category":"women","brand":"leon","modelGroupId":"leon-mg-leona-women","name":{"de":"Leona – Champagner","fr":"Leona – Champagne","en":"Leona – Champagne","it":"Leona – Champagne"},"description":{"de":"Damenmodell „Leona“ mit weichem, anatomischem Fussbett.","fr":"Modèle femme « Leona » avec semelle intérieure anatomique douce.","en":"Women's model \"Leona\" with a soft anatomical footbed.","it":"Modello da donna «Leona» con plantare anatomico morbido."},"image":"https://cdn.leon.rs/wp-content/uploads/2026/01/950-SAMP2.jpg","sizes":[{"id":"35","label":{"de":"35","fr":"35","en":"35","it":"35"}},{"id":"36","label":{"de":"36","fr":"36","en":"36","it":"36"}},{"id":"37","label":{"de":"37","fr":"37","en":"37","it":"37"}},{"id":"38","label":{"de":"38","fr":"38","en":"38","it":"38"}},{"id":"39","label":{"de":"39","fr":"39","en":"39","it":"39"}},{"id":"40","label":{"de":"40","fr":"40","en":"40","it":"40"}},{"id":"41","label":{"de":"41","fr":"41","en":"41","it":"41"}},{"id":"42","label":{"de":"42","fr":"42","en":"42","it":"42"}}],"colors":[{"id":"black","label":"Schwarz","hex":"#111827"},{"id":"grey","label":"Grau","hex":"#6b7280"},{"id":"white","label":"Weiss","hex":"#f9fafb"}],"variants":[{"size":"35","color":"black","sku":"LEON-LEONASAMPANJ-35-black","priceCHF":49,"stock":10},{"size":"35","color":"grey","sku":"LEON-LEONASAMPANJ-35-grey","priceCHF":49,"stock":10},{"size":"35","color":"white","sku":"LEON-LEONASAMPANJ-35-white","priceCHF":49,"stock":10},{"size":"36","color":"black","sku":"LEON-LEONASAMPANJ-36-black","priceCHF":49,"stock":10},{"size":"36","color":"grey","sku":"LEON-LEONASAMPANJ-36-grey","priceCHF":49,"stock":10},{"size":"36","color":"white","sku":"LEON-LEONASAMPANJ-36-white","priceCHF":49,"stock":10},{"size":"37","color":"black","sku":"LEON-LEONASAMPANJ-37-black","priceCHF":49,"stock":10},{"size":"37","color":"grey","sku":"LEON-LEONASAMPANJ-37-grey","priceCHF":49,"stock":10},{"size":"37","color":"white","sku":"LEON-LEONASAMPANJ-37-white","priceCHF":49,"stock":10},{"size":"38","color":"black","sku":"LEON-LEONASAMPANJ-38-black","priceCHF":49,"stock":10},{"size":"38","color":"grey","sku":"LEON-LEONASAMPANJ-38-grey","priceCHF":49,"stock":10},{"size":"38","color":"white","sku":"LEON-LEONASAMPANJ-38-white","priceCHF":49,"stock":10},{"size":"39","color":"black","sku":"LEON-LEONASAMPANJ-39-black","priceCHF":49,"stock":10},{"size":"39","color":"grey","sku":"LEON-LEONASAMPANJ-39-grey","priceCHF":49,"stock":10},{"size":"39","color":"white","sku":"LEON-LEONASAMPANJ-39-white","priceCHF":49,"stock":10},{"size":"40","color":"black","sku":"LEON-LEONASAMPANJ-40-black","priceCHF":49,"stock":10},{"size":"40","color":"grey","sku":"LEON-LEONASAMPANJ-40-grey","priceCHF":49,"stock":10},{"size":"40","color":"white","sku":"LEON-LEONASAMPANJ-40-white","priceCHF":49,"stock":10},{"size":"41","color":"black","sku":"LEON-LEONASAMPANJ-41-black","priceCHF":49,"stock":10},{"size":"41","color":"grey","sku":"LEON-LEONASAMPANJ-41-grey","priceCHF":49,"stock":10},{"size":"41","color":"white","sku":"LEON-LEONASAMPANJ-41-white","priceCHF":49,"stock":10},{"size":"42","color":"black","sku":"LEON-LEONASAMPANJ-42-black","priceCHF":49,"stock":10},{"size":"42","color":"grey","sku":"LEON-LEONASAMPANJ-42-grey","priceCHF":49,"stock":10},{"size":"42","color":"white","sku":"LEON-LEONASAMPANJ-42-white","priceCHF":49,"stock":10}],"articleNumber":"950","colorLabel":"Champagne","images":["https://cdn.leon.rs/wp-content/uploads/2026/01/950-SAMP2.jpg","https://cdn.leon.rs/wp-content/uploads/2026/01/950-SAMP3.jpg","https://cdn.leon.rs/wp-content/uploads/2026/01/950-SAMP4.jpg","https://cdn.leon.rs/wp-content/uploads/2026/01/950-SAMP1.jpg"],"specifications":[{"label":{"de":"Obermaterial","fr":"Composition du dessus","en":"Upper material","it":"Tomaia"},"value":{"de":"Naturleder","fr":"Cuir naturel","en":"Natural leather","it":"Pelle naturale"}},{"label":{"de":"Fußbett","fr":"Semelle intérieure","en":"Footbed","it":"Plantare"},"value":{"de":"Naturleder mit anatomischem Profil und weicher Gel-Innensohle","fr":"Cuir naturel avec bande de roulement anatomique et semelle int�rieure en gel souple","en":"Natural leather with anatomical tread and soft gel insole","it":"Pelle naturale con battistrada anatomico e plantare in morbido gel"}},{"label":{"de":"Laufsohle","fr":"Semelle extérieure","en":"Outsole","it":"Suola"},"value":{"de":"Polyurethan- und Anti-Rutsch-Lauffl�che","fr":"Bande de roulement en polyur�thane et antid�rapante","en":"Polyurethane and anti-slip tread","it":"Battistrada in poliuretano e antiscivolo"}}]},{"id":"leon-leona-zelena-perlato","slug":"leona-zelena-perlato","category":"women","brand":"leon","modelGroupId":"leon-mg-leona-women","name":{"de":"Leona – Grün Perlato","fr":"Leona – Vert perlato","en":"Leona – Green perlato","it":"Leona – Verde perlato"},"description":{"de":"Damenmodell „Leona“ mit weichem, anatomischem Fussbett.","fr":"Modèle femme « Leona » avec semelle intérieure anatomique douce.","en":"Women's model \"Leona\" with a soft anatomical footbed.","it":"Modello da donna «Leona» con plantare anatomico morbido."},"image":"https://cdn.leon.rs/wp-content/uploads/2025/09/Leona-ZELENA-PERLATO.jpg","sizes":[{"id":"35","label":{"de":"35","fr":"35","en":"35","it":"35"}},{"id":"36","label":{"de":"36","fr":"36","en":"36","it":"36"}},{"id":"37","label":{"de":"37","fr":"37","en":"37","it":"37"}},{"id":"38","label":{"de":"38","fr":"38","en":"38","it":"38"}},{"id":"39","label":{"de":"39","fr":"39","en":"39","it":"39"}},{"id":"40","label":{"de":"40","fr":"40","en":"40","it":"40"}},{"id":"41","label":{"de":"41","fr":"41","en":"41","it":"41"}},{"id":"42","label":{"de":"42","fr":"42","en":"42","it":"42"}}],"colors":[{"id":"black","label":"Schwarz","hex":"#111827"},{"id":"grey","label":"Grau","hex":"#6b7280"},{"id":"white","label":"Weiss","hex":"#f9fafb"}],"variants":[{"size":"35","color":"black","sku":"LEON-LEONAZELENAPERLATO-35-black","priceCHF":49,"stock":10},{"size":"35","color":"grey","sku":"LEON-LEONAZELENAPERLATO-35-grey","priceCHF":49,"stock":10},{"size":"35","color":"white","sku":"LEON-LEONAZELENAPERLATO-35-white","priceCHF":49,"stock":10},{"size":"36","color":"black","sku":"LEON-LEONAZELENAPERLATO-36-black","priceCHF":49,"stock":10},{"size":"36","color":"grey","sku":"LEON-LEONAZELENAPERLATO-36-grey","priceCHF":49,"stock":10},{"size":"36","color":"white","sku":"LEON-LEONAZELENAPERLATO-36-white","priceCHF":49,"stock":10},{"size":"37","color":"black","sku":"LEON-LEONAZELENAPERLATO-37-black","priceCHF":49,"stock":10},{"size":"37","color":"grey","sku":"LEON-LEONAZELENAPERLATO-37-grey","priceCHF":49,"stock":10},{"size":"37","color":"white","sku":"LEON-LEONAZELENAPERLATO-37-white","priceCHF":49,"stock":10},{"size":"38","color":"black","sku":"LEON-LEONAZELENAPERLATO-38-black","priceCHF":49,"stock":10},{"size":"38","color":"grey","sku":"LEON-LEONAZELENAPERLATO-38-grey","priceCHF":49,"stock":10},{"size":"38","color":"white","sku":"LEON-LEONAZELENAPERLATO-38-white","priceCHF":49,"stock":10},{"size":"39","color":"black","sku":"LEON-LEONAZELENAPERLATO-39-black","priceCHF":49,"stock":10},{"size":"39","color":"grey","sku":"LEON-LEONAZELENAPERLATO-39-grey","priceCHF":49,"stock":10},{"size":"39","color":"white","sku":"LEON-LEONAZELENAPERLATO-39-white","priceCHF":49,"stock":10},{"size":"40","color":"black","sku":"LEON-LEONAZELENAPERLATO-40-black","priceCHF":49,"stock":10},{"size":"40","color":"grey","sku":"LEON-LEONAZELENAPERLATO-40-grey","priceCHF":49,"stock":10},{"size":"40","color":"white","sku":"LEON-LEONAZELENAPERLATO-40-white","priceCHF":49,"stock":10},{"size":"41","color":"black","sku":"LEON-LEONAZELENAPERLATO-41-black","priceCHF":49,"stock":10},{"size":"41","color":"grey","sku":"LEON-LEONAZELENAPERLATO-41-grey","priceCHF":49,"stock":10},{"size":"41","color":"white","sku":"LEON-LEONAZELENAPERLATO-41-white","priceCHF":49,"stock":10},{"size":"42","color":"black","sku":"LEON-LEONAZELENAPERLATO-42-black","priceCHF":49,"stock":10},{"size":"42","color":"grey","sku":"LEON-LEONAZELENAPERLATO-42-grey","priceCHF":49,"stock":10},{"size":"42","color":"white","sku":"LEON-LEONAZELENAPERLATO-42-white","priceCHF":49,"stock":10}],"articleNumber":"950","colorLabel":"Green perlato","images":["https://cdn.leon.rs/wp-content/uploads/2025/09/Leona-ZELENA-PERLATO.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Leona-ZELENA-PERLATO-1.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Leona-ZELENA-PERLATO-2.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Leona-ZELENA-PERLATO-3.jpg"],"specifications":[{"label":{"de":"Obermaterial","fr":"Composition du dessus","en":"Upper material","it":"Tomaia"},"value":{"de":"Naturleder","fr":"Cuir naturel","en":"Natural leather","it":"Pelle naturale"}},{"label":{"de":"Fußbett","fr":"Semelle intérieure","en":"Footbed","it":"Plantare"},"value":{"de":"Naturleder mit anatomischem Profil und weicher Gel-Innensohle","fr":"Cuir naturel avec bande de roulement anatomique et semelle int�rieure en gel souple","en":"Natural leather with anatomical tread and soft gel insole","it":"Pelle naturale con battistrada anatomico e plantare in morbido gel"}},{"label":{"de":"Laufsohle","fr":"Semelle extérieure","en":"Outsole","it":"Suola"},"value":{"de":"Polyurethan- und Anti-Rutsch-Lauffl�che","fr":"Bande de roulement en polyur�thane et antid�rapante","en":"Polyurethane and anti-slip tread","it":"Battistrada in poliuretano e antiscivolo"}}]},{"id":"leon-leona-teget","slug":"leona-teget","category":"women","brand":"leon","modelGroupId":"leon-mg-leona-women","name":{"de":"Leona – Anthrazit","fr":"Leona – Anthracite","en":"Leona – Charcoal","it":"Leona – Antracite"},"description":{"de":"Damenmodell „Leona“ mit weichem, anatomischem Fussbett.","fr":"Modèle femme « Leona » avec semelle intérieure anatomique douce.","en":"Women's model \"Leona\" with a soft anatomical footbed.","it":"Modello da donna «Leona» con plantare anatomico morbido."},"image":"https://cdn.leon.rs/wp-content/uploads/2025/09/Leona-TEGET.jpg","sizes":[{"id":"35","label":{"de":"35","fr":"35","en":"35","it":"35"}},{"id":"36","label":{"de":"36","fr":"36","en":"36","it":"36"}},{"id":"37","label":{"de":"37","fr":"37","en":"37","it":"37"}},{"id":"38","label":{"de":"38","fr":"38","en":"38","it":"38"}},{"id":"39","label":{"de":"39","fr":"39","en":"39","it":"39"}},{"id":"40","label":{"de":"40","fr":"40","en":"40","it":"40"}},{"id":"41","label":{"de":"41","fr":"41","en":"41","it":"41"}},{"id":"42","label":{"de":"42","fr":"42","en":"42","it":"42"}}],"colors":[{"id":"black","label":"Schwarz","hex":"#111827"},{"id":"grey","label":"Grau","hex":"#6b7280"},{"id":"white","label":"Weiss","hex":"#f9fafb"}],"variants":[{"size":"35","color":"black","sku":"LEON-LEONATEGET-35-black","priceCHF":49,"stock":10},{"size":"35","color":"grey","sku":"LEON-LEONATEGET-35-grey","priceCHF":49,"stock":10},{"size":"35","color":"white","sku":"LEON-LEONATEGET-35-white","priceCHF":49,"stock":10},{"size":"36","color":"black","sku":"LEON-LEONATEGET-36-black","priceCHF":49,"stock":10},{"size":"36","color":"grey","sku":"LEON-LEONATEGET-36-grey","priceCHF":49,"stock":10},{"size":"36","color":"white","sku":"LEON-LEONATEGET-36-white","priceCHF":49,"stock":10},{"size":"37","color":"black","sku":"LEON-LEONATEGET-37-black","priceCHF":49,"stock":10},{"size":"37","color":"grey","sku":"LEON-LEONATEGET-37-grey","priceCHF":49,"stock":10},{"size":"37","color":"white","sku":"LEON-LEONATEGET-37-white","priceCHF":49,"stock":10},{"size":"38","color":"black","sku":"LEON-LEONATEGET-38-black","priceCHF":49,"stock":10},{"size":"38","color":"grey","sku":"LEON-LEONATEGET-38-grey","priceCHF":49,"stock":10},{"size":"38","color":"white","sku":"LEON-LEONATEGET-38-white","priceCHF":49,"stock":10},{"size":"39","color":"black","sku":"LEON-LEONATEGET-39-black","priceCHF":49,"stock":10},{"size":"39","color":"grey","sku":"LEON-LEONATEGET-39-grey","priceCHF":49,"stock":10},{"size":"39","color":"white","sku":"LEON-LEONATEGET-39-white","priceCHF":49,"stock":10},{"size":"40","color":"black","sku":"LEON-LEONATEGET-40-black","priceCHF":49,"stock":10},{"size":"40","color":"grey","sku":"LEON-LEONATEGET-40-grey","priceCHF":49,"stock":10},{"size":"40","color":"white","sku":"LEON-LEONATEGET-40-white","priceCHF":49,"stock":10},{"size":"41","color":"black","sku":"LEON-LEONATEGET-41-black","priceCHF":49,"stock":10},{"size":"41","color":"grey","sku":"LEON-LEONATEGET-41-grey","priceCHF":49,"stock":10},{"size":"41","color":"white","sku":"LEON-LEONATEGET-41-white","priceCHF":49,"stock":10},{"size":"42","color":"black","sku":"LEON-LEONATEGET-42-black","priceCHF":49,"stock":10},{"size":"42","color":"grey","sku":"LEON-LEONATEGET-42-grey","priceCHF":49,"stock":10},{"size":"42","color":"white","sku":"LEON-LEONATEGET-42-white","priceCHF":49,"stock":10}],"articleNumber":"950","colorLabel":"Charcoal","images":["https://cdn.leon.rs/wp-content/uploads/2025/09/Leona-TEGET.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Leona-TEGET-1.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Leona-TEGET-2.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Leona-TEGET-3.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Leona-TEGET-4.jpg"],"specifications":[{"label":{"de":"Obermaterial","fr":"Composition du dessus","en":"Upper material","it":"Tomaia"},"value":{"de":"Naturleder","fr":"Cuir naturel","en":"Natural leather","it":"Pelle naturale"}},{"label":{"de":"Fußbett","fr":"Semelle intérieure","en":"Footbed","it":"Plantare"},"value":{"de":"Naturleder mit anatomischem Profil und weicher Gel-Innensohle","fr":"Cuir naturel avec bande de roulement anatomique et semelle int�rieure en gel souple","en":"Natural leather with anatomical tread and soft gel insole","it":"Pelle naturale con battistrada anatomico e plantare in morbido gel"}},{"label":{"de":"Laufsohle","fr":"Semelle extérieure","en":"Outsole","it":"Suola"},"value":{"de":"Polyurethan- und Anti-Rutsch-Lauffl�che","fr":"Bande de roulement en polyur�thane et antid�rapante","en":"Polyurethane and anti-slip tread","it":"Battistrada in poliuretano e antiscivolo"}}]},{"id":"leon-leona-crna","slug":"leona-crna","category":"women","brand":"leon","modelGroupId":"leon-mg-leona-women","name":{"de":"Leona – Schwarz","fr":"Leona – Noir","en":"Leona – Black","it":"Leona – Nero"},"description":{"de":"Damenmodell „Leona“ mit weichem, anatomischem Fussbett.","fr":"Modèle femme « Leona » avec semelle intérieure anatomique douce.","en":"Women's model \"Leona\" with a soft anatomical footbed.","it":"Modello da donna «Leona» con plantare anatomico morbido."},"image":"https://cdn.leon.rs/wp-content/uploads/2025/09/Leona-CRNA.jpg","sizes":[{"id":"35","label":{"de":"35","fr":"35","en":"35","it":"35"}},{"id":"36","label":{"de":"36","fr":"36","en":"36","it":"36"}},{"id":"37","label":{"de":"37","fr":"37","en":"37","it":"37"}},{"id":"38","label":{"de":"38","fr":"38","en":"38","it":"38"}},{"id":"39","label":{"de":"39","fr":"39","en":"39","it":"39"}},{"id":"40","label":{"de":"40","fr":"40","en":"40","it":"40"}},{"id":"41","label":{"de":"41","fr":"41","en":"41","it":"41"}},{"id":"42","label":{"de":"42","fr":"42","en":"42","it":"42"}}],"colors":[{"id":"black","label":"Schwarz","hex":"#111827"},{"id":"grey","label":"Grau","hex":"#6b7280"},{"id":"white","label":"Weiss","hex":"#f9fafb"}],"variants":[{"size":"35","color":"black","sku":"LEON-LEONACRNA-35-black","priceCHF":49,"stock":10},{"size":"35","color":"grey","sku":"LEON-LEONACRNA-35-grey","priceCHF":49,"stock":10},{"size":"35","color":"white","sku":"LEON-LEONACRNA-35-white","priceCHF":49,"stock":10},{"size":"36","color":"black","sku":"LEON-LEONACRNA-36-black","priceCHF":49,"stock":10},{"size":"36","color":"grey","sku":"LEON-LEONACRNA-36-grey","priceCHF":49,"stock":10},{"size":"36","color":"white","sku":"LEON-LEONACRNA-36-white","priceCHF":49,"stock":10},{"size":"37","color":"black","sku":"LEON-LEONACRNA-37-black","priceCHF":49,"stock":10},{"size":"37","color":"grey","sku":"LEON-LEONACRNA-37-grey","priceCHF":49,"stock":10},{"size":"37","color":"white","sku":"LEON-LEONACRNA-37-white","priceCHF":49,"stock":10},{"size":"38","color":"black","sku":"LEON-LEONACRNA-38-black","priceCHF":49,"stock":10},{"size":"38","color":"grey","sku":"LEON-LEONACRNA-38-grey","priceCHF":49,"stock":10},{"size":"38","color":"white","sku":"LEON-LEONACRNA-38-white","priceCHF":49,"stock":10},{"size":"39","color":"black","sku":"LEON-LEONACRNA-39-black","priceCHF":49,"stock":10},{"size":"39","color":"grey","sku":"LEON-LEONACRNA-39-grey","priceCHF":49,"stock":10},{"size":"39","color":"white","sku":"LEON-LEONACRNA-39-white","priceCHF":49,"stock":10},{"size":"40","color":"black","sku":"LEON-LEONACRNA-40-black","priceCHF":49,"stock":10},{"size":"40","color":"grey","sku":"LEON-LEONACRNA-40-grey","priceCHF":49,"stock":10},{"size":"40","color":"white","sku":"LEON-LEONACRNA-40-white","priceCHF":49,"stock":10},{"size":"41","color":"black","sku":"LEON-LEONACRNA-41-black","priceCHF":49,"stock":10},{"size":"41","color":"grey","sku":"LEON-LEONACRNA-41-grey","priceCHF":49,"stock":10},{"size":"41","color":"white","sku":"LEON-LEONACRNA-41-white","priceCHF":49,"stock":10},{"size":"42","color":"black","sku":"LEON-LEONACRNA-42-black","priceCHF":49,"stock":10},{"size":"42","color":"grey","sku":"LEON-LEONACRNA-42-grey","priceCHF":49,"stock":10},{"size":"42","color":"white","sku":"LEON-LEONACRNA-42-white","priceCHF":49,"stock":10}],"articleNumber":"950","colorLabel":"Black","images":["https://cdn.leon.rs/wp-content/uploads/2025/09/Leona-CRNA.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Leona-CRNA-1.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Leona-CRNA-2.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Leona-CRNA-3.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Leona-CRNA-4.jpg"],"specifications":[{"label":{"de":"Obermaterial","fr":"Composition du dessus","en":"Upper material","it":"Tomaia"},"value":{"de":"Naturleder","fr":"Cuir naturel","en":"Natural leather","it":"Pelle naturale"}},{"label":{"de":"Fußbett","fr":"Semelle intérieure","en":"Footbed","it":"Plantare"},"value":{"de":"Naturleder mit anatomischem Profil und weicher Gel-Innensohle","fr":"Cuir naturel avec bande de roulement anatomique et semelle int�rieure en gel souple","en":"Natural leather with anatomical tread and soft gel insole","it":"Pelle naturale con battistrada anatomico e plantare in morbido gel"}},{"label":{"de":"Laufsohle","fr":"Semelle extérieure","en":"Outsole","it":"Suola"},"value":{"de":"Polyurethan- und Anti-Rutsch-Lauffl�che","fr":"Bande de roulement en polyur�thane et antid�rapante","en":"Polyurethane and anti-slip tread","it":"Battistrada in poliuretano e antiscivolo"}}]},{"id":"leon-leona-bela","slug":"leona-bela","category":"women","brand":"leon","modelGroupId":"leon-mg-leona-women","name":{"de":"Leona – Weiß","fr":"Leona – Blanc","en":"Leona – White","it":"Leona – Bianco"},"description":{"de":"Damenmodell „Leona“ mit weichem, anatomischem Fussbett.","fr":"Modèle femme « Leona » avec semelle intérieure anatomique douce.","en":"Women's model \"Leona\" with a soft anatomical footbed.","it":"Modello da donna «Leona» con plantare anatomico morbido."},"image":"https://cdn.leon.rs/wp-content/uploads/2025/09/Leona-BELA.jpg","sizes":[{"id":"35","label":{"de":"35","fr":"35","en":"35","it":"35"}},{"id":"36","label":{"de":"36","fr":"36","en":"36","it":"36"}},{"id":"37","label":{"de":"37","fr":"37","en":"37","it":"37"}},{"id":"38","label":{"de":"38","fr":"38","en":"38","it":"38"}},{"id":"39","label":{"de":"39","fr":"39","en":"39","it":"39"}},{"id":"40","label":{"de":"40","fr":"40","en":"40","it":"40"}},{"id":"41","label":{"de":"41","fr":"41","en":"41","it":"41"}},{"id":"42","label":{"de":"42","fr":"42","en":"42","it":"42"}}],"colors":[{"id":"black","label":"Schwarz","hex":"#111827"},{"id":"grey","label":"Grau","hex":"#6b7280"},{"id":"white","label":"Weiss","hex":"#f9fafb"}],"variants":[{"size":"35","color":"black","sku":"LEON-LEONABELA-35-black","priceCHF":49,"stock":10},{"size":"35","color":"grey","sku":"LEON-LEONABELA-35-grey","priceCHF":49,"stock":10},{"size":"35","color":"white","sku":"LEON-LEONABELA-35-white","priceCHF":49,"stock":10},{"size":"36","color":"black","sku":"LEON-LEONABELA-36-black","priceCHF":49,"stock":10},{"size":"36","color":"grey","sku":"LEON-LEONABELA-36-grey","priceCHF":49,"stock":10},{"size":"36","color":"white","sku":"LEON-LEONABELA-36-white","priceCHF":49,"stock":10},{"size":"37","color":"black","sku":"LEON-LEONABELA-37-black","priceCHF":49,"stock":10},{"size":"37","color":"grey","sku":"LEON-LEONABELA-37-grey","priceCHF":49,"stock":10},{"size":"37","color":"white","sku":"LEON-LEONABELA-37-white","priceCHF":49,"stock":10},{"size":"38","color":"black","sku":"LEON-LEONABELA-38-black","priceCHF":49,"stock":10},{"size":"38","color":"grey","sku":"LEON-LEONABELA-38-grey","priceCHF":49,"stock":10},{"size":"38","color":"white","sku":"LEON-LEONABELA-38-white","priceCHF":49,"stock":10},{"size":"39","color":"black","sku":"LEON-LEONABELA-39-black","priceCHF":49,"stock":10},{"size":"39","color":"grey","sku":"LEON-LEONABELA-39-grey","priceCHF":49,"stock":10},{"size":"39","color":"white","sku":"LEON-LEONABELA-39-white","priceCHF":49,"stock":10},{"size":"40","color":"black","sku":"LEON-LEONABELA-40-black","priceCHF":49,"stock":10},{"size":"40","color":"grey","sku":"LEON-LEONABELA-40-grey","priceCHF":49,"stock":10},{"size":"40","color":"white","sku":"LEON-LEONABELA-40-white","priceCHF":49,"stock":10},{"size":"41","color":"black","sku":"LEON-LEONABELA-41-black","priceCHF":49,"stock":10},{"size":"41","color":"grey","sku":"LEON-LEONABELA-41-grey","priceCHF":49,"stock":10},{"size":"41","color":"white","sku":"LEON-LEONABELA-41-white","priceCHF":49,"stock":10},{"size":"42","color":"black","sku":"LEON-LEONABELA-42-black","priceCHF":49,"stock":10},{"size":"42","color":"grey","sku":"LEON-LEONABELA-42-grey","priceCHF":49,"stock":10},{"size":"42","color":"white","sku":"LEON-LEONABELA-42-white","priceCHF":49,"stock":10}],"articleNumber":"950","colorLabel":"White","images":["https://cdn.leon.rs/wp-content/uploads/2025/09/Leona-BELA.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Leona-BELA-1.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Leona-BELA-2.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Leona-BELA-3.jpg","https://cdn.leon.rs/wp-content/uploads/2025/09/Leona-BELA-4.jpg"],"specifications":[{"label":{"de":"Obermaterial","fr":"Composition du dessus","en":"Upper material","it":"Tomaia"},"value":{"de":"Naturleder","fr":"Cuir naturel","en":"Natural leather","it":"Pelle naturale"}},{"label":{"de":"Fußbett","fr":"Semelle intérieure","en":"Footbed","it":"Plantare"},"value":{"de":"Naturleder mit anatomischem Profil und weicher Gel-Innensohle","fr":"Cuir naturel avec bande de roulement anatomique et semelle int�rieure en gel souple","en":"Natural leather with anatomical tread and soft gel insole","it":"Pelle naturale con battistrada anatomico e plantare in morbido gel"}},{"label":{"de":"Laufsohle","fr":"Semelle extérieure","en":"Outsole","it":"Suola"},"value":{"de":"Polyurethan- und Anti-Rutsch-Lauffl�che","fr":"Bande de roulement en polyur�thane et antid�rapante","en":"Polyurethane and anti-slip tread","it":"Battistrada in poliuretano e antiscivolo"}}]},{"id":"leon-leona-crvena","slug":"leona-crvena","category":"women","brand":"leon","modelGroupId":"leon-mg-leona-women","name":{"de":"Leona – Rot","fr":"Leona – Rouge","en":"Leona – Red","it":"Leona – Rosso"},"description":{"de":"Damenmodell „Leona“ mit weichem, anatomischem Fussbett.","fr":"Modèle femme « Leona » avec semelle intérieure anatomique douce.","en":"Women's model \"Leona\" with a soft anatomical footbed.","it":"Modello da donna «Leona» con plantare anatomico morbido."},"image":"https://cdn.leon.rs/wp-content/uploads/2025/09/950-Crvena1.jpg","images":"$b","sizes":[{"id":"35","label":{"de":"35","fr":"35","en":"35","it":"35"}},{"id":"36","label":{"de":"36","fr":"36","en":"36","it":"36"}},{"id":"37","label":{"de":"37","fr":"37","en":"37","it":"37"}},{"id":"38","label":{"de":"38","fr":"38","en":"38","it":"38"}},{"id":"39","label":{"de":"39","fr":"39","en":"39","it":"39"}},{"id":"40","label":{"de":"40","fr":"40","en":"40","it":"40"}},{"id":"41","label":{"de":"41","fr":"41","en":"41","it":"41"}},{"id":"42","label":{"de":"42","fr":"42","en":"42","it":"42"}}],"colors":[{"id":"black","label":"Schwarz","hex":"#111827"},{"id":"grey","label":"Grau","hex":"#6b7280"},{"id":"white","label":"Weiss","hex":"#f9fafb"}],"variants":[{"size":"35","color":"black","sku":"LEON-LEONACRVENA-35-black","priceCHF":49,"stock":10},{"size":"35","color":"grey","sku":"LEON-LEONACRVENA-35-grey","priceCHF":49,"stock":10},{"size":"35","color":"white","sku":"LEON-LEONACRVENA-35-white","priceCHF":49,"stock":10},{"size":"36","color":"black","sku":"LEON-LEONACRVENA-36-black","priceCHF":49,"stock":10},{"size":"36","color":"grey","sku":"LEON-LEONACRVENA-36-grey","priceCHF":49,"stock":10},{"size":"36","color":"white","sku":"LEON-LEONACRVENA-36-white","priceCHF":49,"stock":10},{"size":"37","color":"black","sku":"LEON-LEONACRVENA-37-black","priceCHF":49,"stock":10},{"size":"37","color":"grey","sku":"LEON-LEONACRVENA-37-grey","priceCHF":49,"stock":10},{"size":"37","color":"white","sku":"LEON-LEONACRVENA-37-white","priceCHF":49,"stock":10},{"size":"38","color":"black","sku":"LEON-LEONACRVENA-38-black","priceCHF":49,"stock":10},{"size":"38","color":"grey","sku":"LEON-LEONACRVENA-38-grey","priceCHF":49,"stock":10},{"size":"38","color":"white","sku":"LEON-LEONACRVENA-38-white","priceCHF":49,"stock":10},{"size":"39","color":"black","sku":"LEON-LEONACRVENA-39-black","priceCHF":49,"stock":10},{"size":"39","color":"grey","sku":"LEON-LEONACRVENA-39-grey","priceCHF":49,"stock":10},{"size":"39","color":"white","sku":"LEON-LEONACRVENA-39-white","priceCHF":49,"stock":10},{"size":"40","color":"black","sku":"LEON-LEONACRVENA-40-black","priceCHF":49,"stock":10},{"size":"40","color":"grey","sku":"LEON-LEONACRVENA-40-grey","priceCHF":49,"stock":10},{"size":"40","color":"white","sku":"LEON-LEONACRVENA-40-white","priceCHF":49,"stock":10},{"size":"41","color":"black","sku":"LEON-LEONACRVENA-41-black","priceCHF":49,"stock":10},{"size":"41","color":"grey","sku":"LEON-LEONACRVENA-41-grey","priceCHF":49,"stock":10},{"size":"41","color":"white","sku":"LEON-LEONACRVENA-41-white","priceCHF":49,"stock":10},{"size":"42","color":"black","sku":"LEON-LEONACRVENA-42-black","priceCHF":49,"stock":10},{"size":"42","color":"grey","sku":"LEON-LEONACRVENA-42-grey","priceCHF":49,"stock":10},{"size":"42","color":"white","sku":"LEON-LEONACRVENA-42-white","priceCHF":49,"stock":10}],"articleNumber":"950","colorLabel":"Red","specifications":[{"label":{"de":"Obermaterial","fr":"Composition du dessus","en":"Upper material","it":"Tomaia"},"value":{"de":"Naturleder","fr":"Cuir naturel","en":"Natural leather","it":"Pelle naturale"}},{"label":{"de":"Fußbett","fr":"Semelle intérieure","en":"Footbed","it":"Plantare"},"value":{"de":"Naturleder mit anatomischem Profil und weicher Gel-Innensohle","fr":"Cuir naturel avec bande de roulement anatomique et semelle int�rieure en gel souple","en":"Natural leather with anatomical tread and soft gel insole","it":"Pelle naturale con battistrada anatomico e plantare in morbido gel"}},{"label":{"de":"Laufsohle","fr":"Semelle extérieure","en":"Outsole","it":"Suola"},"value":{"de":"Polyurethan- und Anti-Rutsch-Lauffl�che","fr":"Bande de roulement en polyur�thane et antid�rapante","en":"Polyurethane and anti-slip tread","it":"Battistrada in poliuretano e antiscivolo"}}]}]}],["$","$Lc",null,{"product":"$d","locale":"en","modelGroupSiblings":"$48"}]]}]]}],["$","$L1b1",null,{"product":"$d","locale":"en"}]]}]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Trend Swiss Shop | trendswiss.ch"}],["$","meta","3",{"name":"description","content":"Online shop – Swiss quality and style. trendswiss.ch"}]]
+1:null
+1b2:I[6456,["972","static/chunks/972-d71866a6631b6318.js","529","static/chunks/529-56c5ab17e14cba56.js","145","static/chunks/145-a8953cd3f91aee0b.js","883","static/chunks/883-e2a4759db12ee0dc.js","203","static/chunks/app/%5Blocale%5D/layout-1b7a049853e5d5e0.js"],"default"]
+1b3:I[3970,["972","static/chunks/972-d71866a6631b6318.js","529","static/chunks/529-56c5ab17e14cba56.js","145","static/chunks/145-a8953cd3f91aee0b.js","883","static/chunks/883-e2a4759db12ee0dc.js","203","static/chunks/app/%5Blocale%5D/layout-1b7a049853e5d5e0.js"],"default"]
+1b4:I[4767,["972","static/chunks/972-d71866a6631b6318.js","529","static/chunks/529-56c5ab17e14cba56.js","145","static/chunks/145-a8953cd3f91aee0b.js","883","static/chunks/883-e2a4759db12ee0dc.js","203","static/chunks/app/%5Blocale%5D/layout-1b7a049853e5d5e0.js"],"default"]
+7:["$","$L1b2",null,{"locale":"en","now":"$D2026-08-11T13:21:09.286Z","timeZone":"Europe/Belgrade","messages":{"nav":{"home":"Home","shop":"Shop","cart":"Cart","about":"About us","contact":"Contact","searchLabel":"Search models","searchPlaceholder":"Model name or article number…","searchClear":"Clear search","searchNoResults":"No models found."},"home":{"heroTitle":"Welcome to Trend Swiss","heroSubtitle":"Swiss quality and style","aboutTitle":"About us","aboutCompany":"TrendSwiss GmbH","aboutTagline":"Stylish comfort for every day – your experts in premium footwear","aboutWelcomeTitle":"Welcome to TrendSwiss GmbH!","aboutWelcomeBody":"As a modern Swiss company, we are dedicated to a clear mission: bringing high-quality walking and standing comfort directly to you. As the official general distributor for internationally leading manufacturers, we bridge traditional craftsmanship, modern design and contemporary ergonomics.","aboutPhilosophyTitle":"Our philosophy: quality you can feel","aboutPhilosophyBody":"Much of our lives is spent on our feet. Whether in a demanding workday, at home or in leisure time – our feet deserve the best possible support. At TrendSwiss we select our collections according to the strictest criteria. We consistently rely on premium natural materials (such as fine genuine leather) and meticulous workmanship that guarantees durability and an optimal wearing experience.","aboutAssortmentTitle":"Our range: variety meets function","aboutAssortmentBody":"With a carefully curated and versatile range, we offer the right answer to different needs. From classic clogs for professional use in practices, pharmacies or care settings to elegant sandals and comfortable slippers for the whole family: our products combine an anatomically shaped footbed with modern design. They fit harmoniously into every situation in life and promote daily wellbeing with every step.","aboutPartnerTitle":"Your reliable Swiss partner","aboutPartnerBody1":"TrendSwiss GmbH sees itself not only as a retailer, but as a long-term partner. Thanks to our direct connection to manufacturing facilities, we can act flexibly, ensure the highest quality standards and always offer you an attractive price-performance ratio.","aboutPartnerBody2":"Whether you are a trade customer looking to enrich your range with our quality products or a private customer seeking the perfect companion for everyday life – the customer and first-class service are always our priority.","aboutWhyTitle":"Why TrendSwiss?","aboutWhy1Title":"Exclusive collections:","aboutWhy1Text":"Carefully selected models from established international producers.","aboutWhy2Title":"Ergonomic design:","aboutWhy2Text":"Anatomically considered fits for fatigue-free standing and walking in everyday life.","aboutWhy3Title":"Natural materials:","aboutWhy3Text":"High-quality leather and breathable components for a pleasant foot climate.","aboutWhy4Title":"Swiss reliability:","aboutWhy4Text":"Competent service, straightforward handling and genuine customer proximity.","aboutClosingLine":"Take the path to success with us and experience comfort anew.","aboutFooterLine":"TrendSwiss GmbH – step by step towards greater wellbeing.","contactTitle":"Contact","contactPhone":"Tel","contactAddress":"Address","contactEmail":"E-mail","contactStreet":"Bodenackerstrasse 50","contactCity":"5200, Brugg","contactCountry":"Switzerland","galleryAriaLabel":"Image gallery"},"shop":{"title":"Shop","allProducts":"All products","uncategorizedFilter":"Without category ({count})","exploreByCategory":"Explore by category","view":"View","exploreFilterTitle":"Categories","filtersTitle":"Filters","openFilters":"Filters","close":"Close","categories":"Categories","all":"All","brandTitle":"Brand","allBrands":"All brands","noProductsInCategory":"No products in this category.","perPageLabel":"Per page","perPage20":"20","perPage50":"50","perPageAll":"All","showingRange":"Showing {from}–{to} of {total} products","prevPage":"Previous","nextPage":"Next","pageOf":"Page {page} of {totalPages}","addToCart":"Add to cart","catalogOnly":"Catalogue only","purchaseDisabled":"Purchasing is temporarily disabled. This website currently serves as an online catalogue.","size":"Size","color":"Color","price":"Price","priceFilterTitle":"Price","pricedOnly":"Show only models with a price","sku":"SKU","chf":"CHF","selectSize":"Select size","selectColor":"Select color","quantity":"Quantity","sameModelColors":"This model in other colours","leonSizeGuide":{"link":"Size guide","title":"Size guide","tabMeasurements":"Measurements","tabInstructions":"Instructions","close":"Close","eu":"EU","footLengthMm":"Foot length (mm)","footLengthIn":"Foot length (in)","unitMm":"mm","unitIn":"in","howToTitle":"How to measure:","step1":"Place your foot flat on a sheet of paper and mark the longest point of your toes and the back of your heel. It is best to do this standing up and wearing socks.","step2":"Measure the distance in a straight line from the longest toe to the back of your heel using a ruler or tape measure.","step3":"Use the table to find your EU size."}},"productTabs":{"specs":"Specifications","description":"Description","shipping":"Shipping & returns","reviews":"Reviews","specsContent":"Material: Soft pile, cotton blend. Care: Machine wash 30°C. Available sizes and colours see selection above.","shippingContent":"Shipping within Switzerland: 2–4 working days. Shipping from 6 CHF, free from 80 CHF. 30-day return policy, unused items.","reviewsIntro":"Customer reviews","review1":"Very comfortable, I wear them every day. Fit perfectly.","review2":"Good quality, fast delivery. Would buy again.","review3":"Soft and warm. Recommend choosing your usual size."},"cart":{"title":"Cart","empty":"Your cart is empty","purchaseDisabled":"Purchasing is temporarily disabled. The cart and checkout are not available right now.","subtotal":"Subtotal","discount":"Discount","total":"Total","checkout":"Checkout","remove":"Remove","voucherPlaceholder":"Voucher code","applyVoucher":"Apply","voucherInvalid":"Invalid or not applicable code.","voucherApplied":"Code \"{code}\" applied: -{amount} CHF","goToShop":"To shop"},"checkout":{"title":"Checkout","successTitle":"Payment successful","successMessage":"Thank you! You will receive a confirmation email shortly.","cancelMessage":"Payment cancelled.","backToShop":"Back to shop"},"footer":{"rights":"All rights reserved."}},"children":[["$","$L1b3",null,{}],["$","div",null,{"className":"flex min-h-screen flex-col overflow-x-hidden bg-[var(--bg-warm)] text-neutral-900 antialiased","children":[["$","$L1b4",null,{}],["$","main",null,{"className":"flex-1","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]}],"$L1b5"]}]]}]
+1b5:["$","footer",null,{"className":"bg-neutral-900 py-8 text-center text-sm text-neutral-300","children":[["$","div",null,{"className":"h-1 w-full bg-[var(--header-dark)]","aria-hidden":true}],["$","div",null,{"className":"pt-6","children":["© ",2026," ",["$","strong",null,{"className":"font-semibold text-white","children":"trendswiss.ch"}],". ","All rights reserved."]}]]}]

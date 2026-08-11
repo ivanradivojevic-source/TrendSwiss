@@ -1,0 +1,186 @@
+3:I[4707,[],""]
+6:I[6423,[],""]
+4:["locale","en","d"]
+5:["slug","dubai-i-plava-orlando","d"]
+0:["ml7UmRV2zItQXVGmRrv7j",[[["",{"children":[["locale","en","d"],{"children":["shop",{"children":[["slug","dubai-i-plava-orlando","d"],{"children":["__PAGE__?{\"locale\":\"en\",\"slug\":\"dubai-i-plava-orlando\"}",{}]}]}]}]},"$undefined","$undefined",true],["",{"children":[["locale","en","d"],{"children":["shop",{"children":[["slug","dubai-i-plava-orlando","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children","shop","children","$5","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children","shop","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/810bbd7e806ce024.css","precedence":"next","crossOrigin":"$undefined"}]],"$L7"],null],null]},[[null,["$","html",null,{"suppressHydrationWarning":true,"children":["$","body",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}]}]],null],null],["$L8",null]]]]
+9:I[5664,["972","static/chunks/972-d71866a6631b6318.js","529","static/chunks/529-56c5ab17e14cba56.js","145","static/chunks/145-a8953cd3f91aee0b.js","883","static/chunks/883-e2a4759db12ee0dc.js","623","static/chunks/623-299883740fc8c65a.js","437","static/chunks/app/%5Blocale%5D/shop/%5Bslug%5D/page-35d9698df50a1a4d.js"],"default"]
+a:I[4456,["972","static/chunks/972-d71866a6631b6318.js","529","static/chunks/529-56c5ab17e14cba56.js","145","static/chunks/145-a8953cd3f91aee0b.js","883","static/chunks/883-e2a4759db12ee0dc.js","623","static/chunks/623-299883740fc8c65a.js","437","static/chunks/app/%5Blocale%5D/shop/%5Bslug%5D/page-35d9698df50a1a4d.js"],"default"]
+b:I[4929,["972","static/chunks/972-d71866a6631b6318.js","529","static/chunks/529-56c5ab17e14cba56.js","145","static/chunks/145-a8953cd3f91aee0b.js","883","static/chunks/883-e2a4759db12ee0dc.js","623","static/chunks/623-299883740fc8c65a.js","437","static/chunks/app/%5Blocale%5D/shop/%5Bslug%5D/page-35d9698df50a1a4d.js"],"default"]
+b5:I[564,["972","static/chunks/972-d71866a6631b6318.js","529","static/chunks/529-56c5ab17e14cba56.js","145","static/chunks/145-a8953cd3f91aee0b.js","883","static/chunks/883-e2a4759db12ee0dc.js","623","static/chunks/623-299883740fc8c65a.js","437","static/chunks/app/%5Blocale%5D/shop/%5Bslug%5D/page-35d9698df50a1a4d.js"],"default"]
+d:{"de":"Dubai I – Blau Orlando","fr":"Dubai I – Bleu Orlando","en":"Dubai I – Blue Orlando","it":"Dubai I – Blu Orlando"}
+e:{"de":"Damenmodell „Dubai I“ mit weichem, anatomischem Fussbett.","fr":"Modèle femme « Dubai I » avec semelle intérieure anatomique douce.","en":"Women's model \"Dubai I\" with a soft anatomical footbed.","it":"Modello da donna «Dubai I» con plantare anatomico morbido."}
+11:{"de":"36","fr":"36","en":"36","it":"36"}
+10:{"id":"36","label":"$11"}
+13:{"de":"37","fr":"37","en":"37","it":"37"}
+12:{"id":"37","label":"$13"}
+15:{"de":"38","fr":"38","en":"38","it":"38"}
+14:{"id":"38","label":"$15"}
+17:{"de":"39","fr":"39","en":"39","it":"39"}
+16:{"id":"39","label":"$17"}
+19:{"de":"40","fr":"40","en":"40","it":"40"}
+18:{"id":"40","label":"$19"}
+1b:{"de":"41","fr":"41","en":"41","it":"41"}
+1a:{"id":"41","label":"$1b"}
+f:["$10","$12","$14","$16","$18","$1a"]
+1d:{"id":"black","label":"Schwarz","hex":"#111827"}
+1e:{"id":"grey","label":"Grau","hex":"#6b7280"}
+1c:["$1d","$1e"]
+22:{"de":"36","fr":"36","en":"36","it":"36"}
+21:{"id":"36","label":"$22"}
+20:{"size":"$21","color":"black","sku":"LEON-DUBAIIPLAVAORLANDO-[object Object]-black","priceCHF":null,"stock":10}
+25:{"de":"36","fr":"36","en":"36","it":"36"}
+24:{"id":"36","label":"$25"}
+23:{"size":"$24","color":"grey","sku":"LEON-DUBAIIPLAVAORLANDO-[object Object]-grey","priceCHF":null,"stock":10}
+28:{"de":"37","fr":"37","en":"37","it":"37"}
+27:{"id":"37","label":"$28"}
+26:{"size":"$27","color":"black","sku":"LEON-DUBAIIPLAVAORLANDO-[object Object]-black","priceCHF":null,"stock":10}
+2b:{"de":"37","fr":"37","en":"37","it":"37"}
+2a:{"id":"37","label":"$2b"}
+29:{"size":"$2a","color":"grey","sku":"LEON-DUBAIIPLAVAORLANDO-[object Object]-grey","priceCHF":null,"stock":10}
+2e:{"de":"38","fr":"38","en":"38","it":"38"}
+2d:{"id":"38","label":"$2e"}
+2c:{"size":"$2d","color":"black","sku":"LEON-DUBAIIPLAVAORLANDO-[object Object]-black","priceCHF":null,"stock":10}
+31:{"de":"38","fr":"38","en":"38","it":"38"}
+30:{"id":"38","label":"$31"}
+2f:{"size":"$30","color":"grey","sku":"LEON-DUBAIIPLAVAORLANDO-[object Object]-grey","priceCHF":null,"stock":10}
+34:{"de":"39","fr":"39","en":"39","it":"39"}
+33:{"id":"39","label":"$34"}
+32:{"size":"$33","color":"black","sku":"LEON-DUBAIIPLAVAORLANDO-[object Object]-black","priceCHF":null,"stock":10}
+37:{"de":"39","fr":"39","en":"39","it":"39"}
+36:{"id":"39","label":"$37"}
+35:{"size":"$36","color":"grey","sku":"LEON-DUBAIIPLAVAORLANDO-[object Object]-grey","priceCHF":null,"stock":10}
+3a:{"de":"40","fr":"40","en":"40","it":"40"}
+39:{"id":"40","label":"$3a"}
+38:{"size":"$39","color":"black","sku":"LEON-DUBAIIPLAVAORLANDO-[object Object]-black","priceCHF":null,"stock":10}
+3d:{"de":"40","fr":"40","en":"40","it":"40"}
+3c:{"id":"40","label":"$3d"}
+3b:{"size":"$3c","color":"grey","sku":"LEON-DUBAIIPLAVAORLANDO-[object Object]-grey","priceCHF":null,"stock":10}
+40:{"de":"41","fr":"41","en":"41","it":"41"}
+3f:{"id":"41","label":"$40"}
+3e:{"size":"$3f","color":"black","sku":"LEON-DUBAIIPLAVAORLANDO-[object Object]-black","priceCHF":null,"stock":10}
+43:{"de":"41","fr":"41","en":"41","it":"41"}
+42:{"id":"41","label":"$43"}
+41:{"size":"$42","color":"grey","sku":"LEON-DUBAIIPLAVAORLANDO-[object Object]-grey","priceCHF":null,"stock":10}
+1f:["$20","$23","$26","$29","$2c","$2f","$32","$35","$38","$3b","$3e","$41"]
+c:{"id":"leon-dubai-i-plava-orlando","slug":"dubai-i-plava-orlando","category":"women","brand":"leon","name":"$d","description":"$e","image":"https://cdn.leon.rs/wp-content/uploads/2025/09/DUBAI-I-PLAVA-ORLANDO.jpg","sizes":"$f","colors":"$1c","variants":"$1f","modelGroupId":"leon-mg-dubai-i-women","colorLabel":"Blue Orlando"}
+46:{"de":"Dubai I – Schwarz Orlando","fr":"Dubai I – Noir Orlando","en":"Dubai I – Black Orlando","it":"Dubai I – Nero Orlando"}
+47:{"de":"Damenmodell „Dubai I“ mit weichem, anatomischem Fussbett.","fr":"Modèle femme « Dubai I » avec semelle intérieure anatomique douce.","en":"Women's model \"Dubai I\" with a soft anatomical footbed.","it":"Modello da donna «Dubai I» con plantare anatomico morbido."}
+4a:{"de":"36","fr":"36","en":"36","it":"36"}
+49:{"id":"36","label":"$4a"}
+4c:{"de":"37","fr":"37","en":"37","it":"37"}
+4b:{"id":"37","label":"$4c"}
+4e:{"de":"38","fr":"38","en":"38","it":"38"}
+4d:{"id":"38","label":"$4e"}
+50:{"de":"39","fr":"39","en":"39","it":"39"}
+4f:{"id":"39","label":"$50"}
+52:{"de":"40","fr":"40","en":"40","it":"40"}
+51:{"id":"40","label":"$52"}
+54:{"de":"41","fr":"41","en":"41","it":"41"}
+53:{"id":"41","label":"$54"}
+48:["$49","$4b","$4d","$4f","$51","$53"]
+56:{"id":"black","label":"Schwarz","hex":"#111827"}
+57:{"id":"grey","label":"Grau","hex":"#6b7280"}
+55:["$56","$57"]
+5b:{"de":"36","fr":"36","en":"36","it":"36"}
+5a:{"id":"36","label":"$5b"}
+59:{"size":"$5a","color":"black","sku":"LEON-DUBAIICRNAORLANDO-[object Object]-black","priceCHF":null,"stock":10}
+5e:{"de":"36","fr":"36","en":"36","it":"36"}
+5d:{"id":"36","label":"$5e"}
+5c:{"size":"$5d","color":"grey","sku":"LEON-DUBAIICRNAORLANDO-[object Object]-grey","priceCHF":null,"stock":10}
+61:{"de":"37","fr":"37","en":"37","it":"37"}
+60:{"id":"37","label":"$61"}
+5f:{"size":"$60","color":"black","sku":"LEON-DUBAIICRNAORLANDO-[object Object]-black","priceCHF":null,"stock":10}
+64:{"de":"37","fr":"37","en":"37","it":"37"}
+63:{"id":"37","label":"$64"}
+62:{"size":"$63","color":"grey","sku":"LEON-DUBAIICRNAORLANDO-[object Object]-grey","priceCHF":null,"stock":10}
+67:{"de":"38","fr":"38","en":"38","it":"38"}
+66:{"id":"38","label":"$67"}
+65:{"size":"$66","color":"black","sku":"LEON-DUBAIICRNAORLANDO-[object Object]-black","priceCHF":null,"stock":10}
+6a:{"de":"38","fr":"38","en":"38","it":"38"}
+69:{"id":"38","label":"$6a"}
+68:{"size":"$69","color":"grey","sku":"LEON-DUBAIICRNAORLANDO-[object Object]-grey","priceCHF":null,"stock":10}
+6d:{"de":"39","fr":"39","en":"39","it":"39"}
+6c:{"id":"39","label":"$6d"}
+6b:{"size":"$6c","color":"black","sku":"LEON-DUBAIICRNAORLANDO-[object Object]-black","priceCHF":null,"stock":10}
+70:{"de":"39","fr":"39","en":"39","it":"39"}
+6f:{"id":"39","label":"$70"}
+6e:{"size":"$6f","color":"grey","sku":"LEON-DUBAIICRNAORLANDO-[object Object]-grey","priceCHF":null,"stock":10}
+73:{"de":"40","fr":"40","en":"40","it":"40"}
+72:{"id":"40","label":"$73"}
+71:{"size":"$72","color":"black","sku":"LEON-DUBAIICRNAORLANDO-[object Object]-black","priceCHF":null,"stock":10}
+76:{"de":"40","fr":"40","en":"40","it":"40"}
+75:{"id":"40","label":"$76"}
+74:{"size":"$75","color":"grey","sku":"LEON-DUBAIICRNAORLANDO-[object Object]-grey","priceCHF":null,"stock":10}
+79:{"de":"41","fr":"41","en":"41","it":"41"}
+78:{"id":"41","label":"$79"}
+77:{"size":"$78","color":"black","sku":"LEON-DUBAIICRNAORLANDO-[object Object]-black","priceCHF":null,"stock":10}
+7c:{"de":"41","fr":"41","en":"41","it":"41"}
+7b:{"id":"41","label":"$7c"}
+7a:{"size":"$7b","color":"grey","sku":"LEON-DUBAIICRNAORLANDO-[object Object]-grey","priceCHF":null,"stock":10}
+58:["$59","$5c","$5f","$62","$65","$68","$6b","$6e","$71","$74","$77","$7a"]
+45:{"id":"leon-dubai-i-crna-orlando","slug":"dubai-i-crna-orlando","category":"women","brand":"leon","name":"$46","description":"$47","image":"https://cdn.leon.rs/wp-content/uploads/2025/09/DUBAI-I-CRNA-ORLANDO.jpg","sizes":"$48","colors":"$55","variants":"$58","modelGroupId":"leon-mg-dubai-i-women","colorLabel":"Black Orlando"}
+7e:{"de":"Dubai I – Bordeaux Lack","fr":"Dubai I – Bordeaux Verni","en":"Dubai I – Burgundy Patent","it":"Dubai I – Bordeaux Vernice"}
+7f:{"de":"Damenmodell „Dubai I“ mit weichem, anatomischem Fussbett.","fr":"Modèle femme « Dubai I » avec semelle intérieure anatomique douce.","en":"Women's model \"Dubai I\" with a soft anatomical footbed.","it":"Modello da donna «Dubai I» con plantare anatomico morbido."}
+82:{"de":"36","fr":"36","en":"36","it":"36"}
+81:{"id":"36","label":"$82"}
+84:{"de":"37","fr":"37","en":"37","it":"37"}
+83:{"id":"37","label":"$84"}
+86:{"de":"38","fr":"38","en":"38","it":"38"}
+85:{"id":"38","label":"$86"}
+88:{"de":"39","fr":"39","en":"39","it":"39"}
+87:{"id":"39","label":"$88"}
+8a:{"de":"40","fr":"40","en":"40","it":"40"}
+89:{"id":"40","label":"$8a"}
+8c:{"de":"41","fr":"41","en":"41","it":"41"}
+8b:{"id":"41","label":"$8c"}
+80:["$81","$83","$85","$87","$89","$8b"]
+8e:{"id":"black","label":"Schwarz","hex":"#111827"}
+8f:{"id":"grey","label":"Grau","hex":"#6b7280"}
+8d:["$8e","$8f"]
+93:{"de":"36","fr":"36","en":"36","it":"36"}
+92:{"id":"36","label":"$93"}
+91:{"size":"$92","color":"black","sku":"LEON-DUBAIIBORDOBAKKAR-[object Object]-black","priceCHF":null,"stock":10}
+96:{"de":"36","fr":"36","en":"36","it":"36"}
+95:{"id":"36","label":"$96"}
+94:{"size":"$95","color":"grey","sku":"LEON-DUBAIIBORDOBAKKAR-[object Object]-grey","priceCHF":null,"stock":10}
+99:{"de":"37","fr":"37","en":"37","it":"37"}
+98:{"id":"37","label":"$99"}
+97:{"size":"$98","color":"black","sku":"LEON-DUBAIIBORDOBAKKAR-[object Object]-black","priceCHF":null,"stock":10}
+9c:{"de":"37","fr":"37","en":"37","it":"37"}
+9b:{"id":"37","label":"$9c"}
+9a:{"size":"$9b","color":"grey","sku":"LEON-DUBAIIBORDOBAKKAR-[object Object]-grey","priceCHF":null,"stock":10}
+9f:{"de":"38","fr":"38","en":"38","it":"38"}
+9e:{"id":"38","label":"$9f"}
+9d:{"size":"$9e","color":"black","sku":"LEON-DUBAIIBORDOBAKKAR-[object Object]-black","priceCHF":null,"stock":10}
+a2:{"de":"38","fr":"38","en":"38","it":"38"}
+a1:{"id":"38","label":"$a2"}
+a0:{"size":"$a1","color":"grey","sku":"LEON-DUBAIIBORDOBAKKAR-[object Object]-grey","priceCHF":null,"stock":10}
+a5:{"de":"39","fr":"39","en":"39","it":"39"}
+a4:{"id":"39","label":"$a5"}
+a3:{"size":"$a4","color":"black","sku":"LEON-DUBAIIBORDOBAKKAR-[object Object]-black","priceCHF":null,"stock":10}
+a8:{"de":"39","fr":"39","en":"39","it":"39"}
+a7:{"id":"39","label":"$a8"}
+a6:{"size":"$a7","color":"grey","sku":"LEON-DUBAIIBORDOBAKKAR-[object Object]-grey","priceCHF":null,"stock":10}
+ab:{"de":"40","fr":"40","en":"40","it":"40"}
+aa:{"id":"40","label":"$ab"}
+a9:{"size":"$aa","color":"black","sku":"LEON-DUBAIIBORDOBAKKAR-[object Object]-black","priceCHF":null,"stock":10}
+ae:{"de":"40","fr":"40","en":"40","it":"40"}
+ad:{"id":"40","label":"$ae"}
+ac:{"size":"$ad","color":"grey","sku":"LEON-DUBAIIBORDOBAKKAR-[object Object]-grey","priceCHF":null,"stock":10}
+b1:{"de":"41","fr":"41","en":"41","it":"41"}
+b0:{"id":"41","label":"$b1"}
+af:{"size":"$b0","color":"black","sku":"LEON-DUBAIIBORDOBAKKAR-[object Object]-black","priceCHF":null,"stock":10}
+b4:{"de":"41","fr":"41","en":"41","it":"41"}
+b3:{"id":"41","label":"$b4"}
+b2:{"size":"$b3","color":"grey","sku":"LEON-DUBAIIBORDOBAKKAR-[object Object]-grey","priceCHF":null,"stock":10}
+90:["$91","$94","$97","$9a","$9d","$a0","$a3","$a6","$a9","$ac","$af","$b2"]
+7d:{"id":"leon-dubai-i-bordo-bakkar","slug":"dubai-i-bordo-bakkar","category":"women","brand":"leon","name":"$7e","description":"$7f","image":"https://cdn.leon.rs/wp-content/uploads/2025/09/DUBAI-I-BORDO-BAKKAR.jpg","sizes":"$80","colors":"$8d","variants":"$90","modelGroupId":"leon-mg-dubai-i-women","colorLabel":"Burgundy Patent"}
+44:["$c","$45","$7d"]
+2:["$","div",null,{"className":"mx-auto max-w-6xl px-4 py-10","children":[["$","div",null,{"className":"grid gap-10 md:grid-cols-2","children":[["$","$L9",null,{"images":["https://cdn.leon.rs/wp-content/uploads/2025/09/DUBAI-I-PLAVA-ORLANDO.jpg"],"alt":"Dubai I – Blue Orlando"}],["$","div",null,{"children":[["$","h1",null,{"className":"text-2xl font-bold text-neutral-900 md:text-3xl","children":"Dubai I – Blue Orlando"}],null,["$","p",null,{"className":"mt-4 text-neutral-600","children":"Women's model \"Dubai I\" with a soft anatomical footbed."}],null,["$","$La",null,{"locale":"en","currentSlug":"dubai-i-plava-orlando","siblings":[{"id":"leon-dubai-i-plava-orlando","slug":"dubai-i-plava-orlando","category":"women","brand":"leon","name":{"de":"Dubai I – Blau Orlando","fr":"Dubai I – Bleu Orlando","en":"Dubai I – Blue Orlando","it":"Dubai I – Blu Orlando"},"description":{"de":"Damenmodell „Dubai I“ mit weichem, anatomischem Fussbett.","fr":"Modèle femme « Dubai I » avec semelle intérieure anatomique douce.","en":"Women's model \"Dubai I\" with a soft anatomical footbed.","it":"Modello da donna «Dubai I» con plantare anatomico morbido."},"image":"https://cdn.leon.rs/wp-content/uploads/2025/09/DUBAI-I-PLAVA-ORLANDO.jpg","sizes":[{"id":"36","label":{"de":"36","fr":"36","en":"36","it":"36"}},{"id":"37","label":{"de":"37","fr":"37","en":"37","it":"37"}},{"id":"38","label":{"de":"38","fr":"38","en":"38","it":"38"}},{"id":"39","label":{"de":"39","fr":"39","en":"39","it":"39"}},{"id":"40","label":{"de":"40","fr":"40","en":"40","it":"40"}},{"id":"41","label":{"de":"41","fr":"41","en":"41","it":"41"}}],"colors":[{"id":"black","label":"Schwarz","hex":"#111827"},{"id":"grey","label":"Grau","hex":"#6b7280"}],"variants":[{"size":{"id":"36","label":{"de":"36","fr":"36","en":"36","it":"36"}},"color":"black","sku":"LEON-DUBAIIPLAVAORLANDO-[object Object]-black","priceCHF":null,"stock":10},{"size":{"id":"36","label":{"de":"36","fr":"36","en":"36","it":"36"}},"color":"grey","sku":"LEON-DUBAIIPLAVAORLANDO-[object Object]-grey","priceCHF":null,"stock":10},{"size":{"id":"37","label":{"de":"37","fr":"37","en":"37","it":"37"}},"color":"black","sku":"LEON-DUBAIIPLAVAORLANDO-[object Object]-black","priceCHF":null,"stock":10},{"size":{"id":"37","label":{"de":"37","fr":"37","en":"37","it":"37"}},"color":"grey","sku":"LEON-DUBAIIPLAVAORLANDO-[object Object]-grey","priceCHF":null,"stock":10},{"size":{"id":"38","label":{"de":"38","fr":"38","en":"38","it":"38"}},"color":"black","sku":"LEON-DUBAIIPLAVAORLANDO-[object Object]-black","priceCHF":null,"stock":10},{"size":{"id":"38","label":{"de":"38","fr":"38","en":"38","it":"38"}},"color":"grey","sku":"LEON-DUBAIIPLAVAORLANDO-[object Object]-grey","priceCHF":null,"stock":10},{"size":{"id":"39","label":{"de":"39","fr":"39","en":"39","it":"39"}},"color":"black","sku":"LEON-DUBAIIPLAVAORLANDO-[object Object]-black","priceCHF":null,"stock":10},{"size":{"id":"39","label":{"de":"39","fr":"39","en":"39","it":"39"}},"color":"grey","sku":"LEON-DUBAIIPLAVAORLANDO-[object Object]-grey","priceCHF":null,"stock":10},{"size":{"id":"40","label":{"de":"40","fr":"40","en":"40","it":"40"}},"color":"black","sku":"LEON-DUBAIIPLAVAORLANDO-[object Object]-black","priceCHF":null,"stock":10},{"size":{"id":"40","label":{"de":"40","fr":"40","en":"40","it":"40"}},"color":"grey","sku":"LEON-DUBAIIPLAVAORLANDO-[object Object]-grey","priceCHF":null,"stock":10},{"size":{"id":"41","label":{"de":"41","fr":"41","en":"41","it":"41"}},"color":"black","sku":"LEON-DUBAIIPLAVAORLANDO-[object Object]-black","priceCHF":null,"stock":10},{"size":{"id":"41","label":{"de":"41","fr":"41","en":"41","it":"41"}},"color":"grey","sku":"LEON-DUBAIIPLAVAORLANDO-[object Object]-grey","priceCHF":null,"stock":10}],"modelGroupId":"leon-mg-dubai-i-women","colorLabel":"Blue Orlando"},{"id":"leon-dubai-i-crna-orlando","slug":"dubai-i-crna-orlando","category":"women","brand":"leon","name":{"de":"Dubai I – Schwarz Orlando","fr":"Dubai I – Noir Orlando","en":"Dubai I – Black Orlando","it":"Dubai I – Nero Orlando"},"description":{"de":"Damenmodell „Dubai I“ mit weichem, anatomischem Fussbett.","fr":"Modèle femme « Dubai I » avec semelle intérieure anatomique douce.","en":"Women's model \"Dubai I\" with a soft anatomical footbed.","it":"Modello da donna «Dubai I» con plantare anatomico morbido."},"image":"https://cdn.leon.rs/wp-content/uploads/2025/09/DUBAI-I-CRNA-ORLANDO.jpg","sizes":[{"id":"36","label":{"de":"36","fr":"36","en":"36","it":"36"}},{"id":"37","label":{"de":"37","fr":"37","en":"37","it":"37"}},{"id":"38","label":{"de":"38","fr":"38","en":"38","it":"38"}},{"id":"39","label":{"de":"39","fr":"39","en":"39","it":"39"}},{"id":"40","label":{"de":"40","fr":"40","en":"40","it":"40"}},{"id":"41","label":{"de":"41","fr":"41","en":"41","it":"41"}}],"colors":[{"id":"black","label":"Schwarz","hex":"#111827"},{"id":"grey","label":"Grau","hex":"#6b7280"}],"variants":[{"size":{"id":"36","label":{"de":"36","fr":"36","en":"36","it":"36"}},"color":"black","sku":"LEON-DUBAIICRNAORLANDO-[object Object]-black","priceCHF":null,"stock":10},{"size":{"id":"36","label":{"de":"36","fr":"36","en":"36","it":"36"}},"color":"grey","sku":"LEON-DUBAIICRNAORLANDO-[object Object]-grey","priceCHF":null,"stock":10},{"size":{"id":"37","label":{"de":"37","fr":"37","en":"37","it":"37"}},"color":"black","sku":"LEON-DUBAIICRNAORLANDO-[object Object]-black","priceCHF":null,"stock":10},{"size":{"id":"37","label":{"de":"37","fr":"37","en":"37","it":"37"}},"color":"grey","sku":"LEON-DUBAIICRNAORLANDO-[object Object]-grey","priceCHF":null,"stock":10},{"size":{"id":"38","label":{"de":"38","fr":"38","en":"38","it":"38"}},"color":"black","sku":"LEON-DUBAIICRNAORLANDO-[object Object]-black","priceCHF":null,"stock":10},{"size":{"id":"38","label":{"de":"38","fr":"38","en":"38","it":"38"}},"color":"grey","sku":"LEON-DUBAIICRNAORLANDO-[object Object]-grey","priceCHF":null,"stock":10},{"size":{"id":"39","label":{"de":"39","fr":"39","en":"39","it":"39"}},"color":"black","sku":"LEON-DUBAIICRNAORLANDO-[object Object]-black","priceCHF":null,"stock":10},{"size":{"id":"39","label":{"de":"39","fr":"39","en":"39","it":"39"}},"color":"grey","sku":"LEON-DUBAIICRNAORLANDO-[object Object]-grey","priceCHF":null,"stock":10},{"size":{"id":"40","label":{"de":"40","fr":"40","en":"40","it":"40"}},"color":"black","sku":"LEON-DUBAIICRNAORLANDO-[object Object]-black","priceCHF":null,"stock":10},{"size":{"id":"40","label":{"de":"40","fr":"40","en":"40","it":"40"}},"color":"grey","sku":"LEON-DUBAIICRNAORLANDO-[object Object]-grey","priceCHF":null,"stock":10},{"size":{"id":"41","label":{"de":"41","fr":"41","en":"41","it":"41"}},"color":"black","sku":"LEON-DUBAIICRNAORLANDO-[object Object]-black","priceCHF":null,"stock":10},{"size":{"id":"41","label":{"de":"41","fr":"41","en":"41","it":"41"}},"color":"grey","sku":"LEON-DUBAIICRNAORLANDO-[object Object]-grey","priceCHF":null,"stock":10}],"modelGroupId":"leon-mg-dubai-i-women","colorLabel":"Black Orlando"},{"id":"leon-dubai-i-bordo-bakkar","slug":"dubai-i-bordo-bakkar","category":"women","brand":"leon","name":{"de":"Dubai I – Bordeaux Lack","fr":"Dubai I – Bordeaux Verni","en":"Dubai I – Burgundy Patent","it":"Dubai I – Bordeaux Vernice"},"description":{"de":"Damenmodell „Dubai I“ mit weichem, anatomischem Fussbett.","fr":"Modèle femme « Dubai I » avec semelle intérieure anatomique douce.","en":"Women's model \"Dubai I\" with a soft anatomical footbed.","it":"Modello da donna «Dubai I» con plantare anatomico morbido."},"image":"https://cdn.leon.rs/wp-content/uploads/2025/09/DUBAI-I-BORDO-BAKKAR.jpg","sizes":[{"id":"36","label":{"de":"36","fr":"36","en":"36","it":"36"}},{"id":"37","label":{"de":"37","fr":"37","en":"37","it":"37"}},{"id":"38","label":{"de":"38","fr":"38","en":"38","it":"38"}},{"id":"39","label":{"de":"39","fr":"39","en":"39","it":"39"}},{"id":"40","label":{"de":"40","fr":"40","en":"40","it":"40"}},{"id":"41","label":{"de":"41","fr":"41","en":"41","it":"41"}}],"colors":[{"id":"black","label":"Schwarz","hex":"#111827"},{"id":"grey","label":"Grau","hex":"#6b7280"}],"variants":[{"size":{"id":"36","label":{"de":"36","fr":"36","en":"36","it":"36"}},"color":"black","sku":"LEON-DUBAIIBORDOBAKKAR-[object Object]-black","priceCHF":null,"stock":10},{"size":{"id":"36","label":{"de":"36","fr":"36","en":"36","it":"36"}},"color":"grey","sku":"LEON-DUBAIIBORDOBAKKAR-[object Object]-grey","priceCHF":null,"stock":10},{"size":{"id":"37","label":{"de":"37","fr":"37","en":"37","it":"37"}},"color":"black","sku":"LEON-DUBAIIBORDOBAKKAR-[object Object]-black","priceCHF":null,"stock":10},{"size":{"id":"37","label":{"de":"37","fr":"37","en":"37","it":"37"}},"color":"grey","sku":"LEON-DUBAIIBORDOBAKKAR-[object Object]-grey","priceCHF":null,"stock":10},{"size":{"id":"38","label":{"de":"38","fr":"38","en":"38","it":"38"}},"color":"black","sku":"LEON-DUBAIIBORDOBAKKAR-[object Object]-black","priceCHF":null,"stock":10},{"size":{"id":"38","label":{"de":"38","fr":"38","en":"38","it":"38"}},"color":"grey","sku":"LEON-DUBAIIBORDOBAKKAR-[object Object]-grey","priceCHF":null,"stock":10},{"size":{"id":"39","label":{"de":"39","fr":"39","en":"39","it":"39"}},"color":"black","sku":"LEON-DUBAIIBORDOBAKKAR-[object Object]-black","priceCHF":null,"stock":10},{"size":{"id":"39","label":{"de":"39","fr":"39","en":"39","it":"39"}},"color":"grey","sku":"LEON-DUBAIIBORDOBAKKAR-[object Object]-grey","priceCHF":null,"stock":10},{"size":{"id":"40","label":{"de":"40","fr":"40","en":"40","it":"40"}},"color":"black","sku":"LEON-DUBAIIBORDOBAKKAR-[object Object]-black","priceCHF":null,"stock":10},{"size":{"id":"40","label":{"de":"40","fr":"40","en":"40","it":"40"}},"color":"grey","sku":"LEON-DUBAIIBORDOBAKKAR-[object Object]-grey","priceCHF":null,"stock":10},{"size":{"id":"41","label":{"de":"41","fr":"41","en":"41","it":"41"}},"color":"black","sku":"LEON-DUBAIIBORDOBAKKAR-[object Object]-black","priceCHF":null,"stock":10},{"size":{"id":"41","label":{"de":"41","fr":"41","en":"41","it":"41"}},"color":"grey","sku":"LEON-DUBAIIBORDOBAKKAR-[object Object]-grey","priceCHF":null,"stock":10}],"modelGroupId":"leon-mg-dubai-i-women","colorLabel":"Burgundy Patent"}]}],["$","$Lb",null,{"product":"$c","locale":"en","modelGroupSiblings":"$44"}]]}]]}],["$","$Lb5",null,{"product":"$c","locale":"en"}]]}]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Trend Swiss Shop | trendswiss.ch"}],["$","meta","3",{"name":"description","content":"Online shop – Swiss quality and style. trendswiss.ch"}]]
+1:null
+b6:I[6456,["972","static/chunks/972-d71866a6631b6318.js","529","static/chunks/529-56c5ab17e14cba56.js","145","static/chunks/145-a8953cd3f91aee0b.js","883","static/chunks/883-e2a4759db12ee0dc.js","203","static/chunks/app/%5Blocale%5D/layout-1b7a049853e5d5e0.js"],"default"]
+b7:I[3970,["972","static/chunks/972-d71866a6631b6318.js","529","static/chunks/529-56c5ab17e14cba56.js","145","static/chunks/145-a8953cd3f91aee0b.js","883","static/chunks/883-e2a4759db12ee0dc.js","203","static/chunks/app/%5Blocale%5D/layout-1b7a049853e5d5e0.js"],"default"]
+b8:I[4767,["972","static/chunks/972-d71866a6631b6318.js","529","static/chunks/529-56c5ab17e14cba56.js","145","static/chunks/145-a8953cd3f91aee0b.js","883","static/chunks/883-e2a4759db12ee0dc.js","203","static/chunks/app/%5Blocale%5D/layout-1b7a049853e5d5e0.js"],"default"]
+7:["$","$Lb6",null,{"locale":"en","now":"$D2026-08-11T13:21:08.005Z","timeZone":"Europe/Belgrade","messages":{"nav":{"home":"Home","shop":"Shop","cart":"Cart","about":"About us","contact":"Contact","searchLabel":"Search models","searchPlaceholder":"Model name or article number…","searchClear":"Clear search","searchNoResults":"No models found."},"home":{"heroTitle":"Welcome to Trend Swiss","heroSubtitle":"Swiss quality and style","aboutTitle":"About us","aboutCompany":"TrendSwiss GmbH","aboutTagline":"Stylish comfort for every day – your experts in premium footwear","aboutWelcomeTitle":"Welcome to TrendSwiss GmbH!","aboutWelcomeBody":"As a modern Swiss company, we are dedicated to a clear mission: bringing high-quality walking and standing comfort directly to you. As the official general distributor for internationally leading manufacturers, we bridge traditional craftsmanship, modern design and contemporary ergonomics.","aboutPhilosophyTitle":"Our philosophy: quality you can feel","aboutPhilosophyBody":"Much of our lives is spent on our feet. Whether in a demanding workday, at home or in leisure time – our feet deserve the best possible support. At TrendSwiss we select our collections according to the strictest criteria. We consistently rely on premium natural materials (such as fine genuine leather) and meticulous workmanship that guarantees durability and an optimal wearing experience.","aboutAssortmentTitle":"Our range: variety meets function","aboutAssortmentBody":"With a carefully curated and versatile range, we offer the right answer to different needs. From classic clogs for professional use in practices, pharmacies or care settings to elegant sandals and comfortable slippers for the whole family: our products combine an anatomically shaped footbed with modern design. They fit harmoniously into every situation in life and promote daily wellbeing with every step.","aboutPartnerTitle":"Your reliable Swiss partner","aboutPartnerBody1":"TrendSwiss GmbH sees itself not only as a retailer, but as a long-term partner. Thanks to our direct connection to manufacturing facilities, we can act flexibly, ensure the highest quality standards and always offer you an attractive price-performance ratio.","aboutPartnerBody2":"Whether you are a trade customer looking to enrich your range with our quality products or a private customer seeking the perfect companion for everyday life – the customer and first-class service are always our priority.","aboutWhyTitle":"Why TrendSwiss?","aboutWhy1Title":"Exclusive collections:","aboutWhy1Text":"Carefully selected models from established international producers.","aboutWhy2Title":"Ergonomic design:","aboutWhy2Text":"Anatomically considered fits for fatigue-free standing and walking in everyday life.","aboutWhy3Title":"Natural materials:","aboutWhy3Text":"High-quality leather and breathable components for a pleasant foot climate.","aboutWhy4Title":"Swiss reliability:","aboutWhy4Text":"Competent service, straightforward handling and genuine customer proximity.","aboutClosingLine":"Take the path to success with us and experience comfort anew.","aboutFooterLine":"TrendSwiss GmbH – step by step towards greater wellbeing.","contactTitle":"Contact","contactPhone":"Tel","contactAddress":"Address","contactEmail":"E-mail","contactStreet":"Bodenackerstrasse 50","contactCity":"5200, Brugg","contactCountry":"Switzerland","galleryAriaLabel":"Image gallery"},"shop":{"title":"Shop","allProducts":"All products","uncategorizedFilter":"Without category ({count})","exploreByCategory":"Explore by category","view":"View","exploreFilterTitle":"Categories","filtersTitle":"Filters","openFilters":"Filters","close":"Close","categories":"Categories","all":"All","brandTitle":"Brand","allBrands":"All brands","noProductsInCategory":"No products in this category.","perPageLabel":"Per page","perPage20":"20","perPage50":"50","perPageAll":"All","showingRange":"Showing {from}–{to} of {total} products","prevPage":"Previous","nextPage":"Next","pageOf":"Page {page} of {totalPages}","addToCart":"Add to cart","catalogOnly":"Catalogue only","purchaseDisabled":"Purchasing is temporarily disabled. This website currently serves as an online catalogue.","size":"Size","color":"Color","price":"Price","priceFilterTitle":"Price","pricedOnly":"Show only models with a price","sku":"SKU","chf":"CHF","selectSize":"Select size","selectColor":"Select color","quantity":"Quantity","sameModelColors":"This model in other colours","leonSizeGuide":{"link":"Size guide","title":"Size guide","tabMeasurements":"Measurements","tabInstructions":"Instructions","close":"Close","eu":"EU","footLengthMm":"Foot length (mm)","footLengthIn":"Foot length (in)","unitMm":"mm","unitIn":"in","howToTitle":"How to measure:","step1":"Place your foot flat on a sheet of paper and mark the longest point of your toes and the back of your heel. It is best to do this standing up and wearing socks.","step2":"Measure the distance in a straight line from the longest toe to the back of your heel using a ruler or tape measure.","step3":"Use the table to find your EU size."}},"productTabs":{"specs":"Specifications","description":"Description","shipping":"Shipping & returns","reviews":"Reviews","specsContent":"Material: Soft pile, cotton blend. Care: Machine wash 30°C. Available sizes and colours see selection above.","shippingContent":"Shipping within Switzerland: 2–4 working days. Shipping from 6 CHF, free from 80 CHF. 30-day return policy, unused items.","reviewsIntro":"Customer reviews","review1":"Very comfortable, I wear them every day. Fit perfectly.","review2":"Good quality, fast delivery. Would buy again.","review3":"Soft and warm. Recommend choosing your usual size."},"cart":{"title":"Cart","empty":"Your cart is empty","purchaseDisabled":"Purchasing is temporarily disabled. The cart and checkout are not available right now.","subtotal":"Subtotal","discount":"Discount","total":"Total","checkout":"Checkout","remove":"Remove","voucherPlaceholder":"Voucher code","applyVoucher":"Apply","voucherInvalid":"Invalid or not applicable code.","voucherApplied":"Code \"{code}\" applied: -{amount} CHF","goToShop":"To shop"},"checkout":{"title":"Checkout","successTitle":"Payment successful","successMessage":"Thank you! You will receive a confirmation email shortly.","cancelMessage":"Payment cancelled.","backToShop":"Back to shop"},"footer":{"rights":"All rights reserved."}},"children":[["$","$Lb7",null,{}],["$","div",null,{"className":"flex min-h-screen flex-col overflow-x-hidden bg-[var(--bg-warm)] text-neutral-900 antialiased","children":[["$","$Lb8",null,{}],["$","main",null,{"className":"flex-1","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]}],"$Lb9"]}]]}]
+b9:["$","footer",null,{"className":"bg-neutral-900 py-8 text-center text-sm text-neutral-300","children":[["$","div",null,{"className":"h-1 w-full bg-[var(--header-dark)]","aria-hidden":true}],["$","div",null,{"className":"pt-6","children":["© ",2026," ",["$","strong",null,{"className":"font-semibold text-white","children":"trendswiss.ch"}],". ","All rights reserved."]}]]}]

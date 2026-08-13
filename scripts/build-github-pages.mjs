@@ -94,6 +94,9 @@ try {
   // GitHub Pages custom domain
   writeFileSync(join(docsDir, 'CNAME'), `${CUSTOM_DOMAIN}\n`);
 
+  // Without this, Jekyll ignores `_next/` and the site loads without CSS/JS
+  writeFileSync(join(docsDir, '.nojekyll'), '');
+
   console.log('GitHub Pages static site ready in docs/');
   console.log(`Custom domain: https://${CUSTOM_DOMAIN}`);
   console.log('Pages settings: branch main → /docs + Custom domain www.trendswiss.ch');

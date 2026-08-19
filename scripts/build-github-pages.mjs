@@ -65,6 +65,7 @@ function restore() {
 try {
   stash();
   run('npx', ['tsx', 'scripts/generate-shop-listing.ts']);
+  run('npx', ['tsx', 'scripts/generate-product-search-index.ts']);
   // Empty basePath = custom domain at site root (www.trendswiss.ch)
   run('npx', ['next', 'build'], {
     STATIC_EXPORT: '1',

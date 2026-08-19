@@ -4,6 +4,7 @@ import type { ExploreCategoryId } from '@/data/explore-categories';
 import type { Locale, LocalizedString } from '@/data/products';
 import { getExploreCategoriesForProduct, isUncategorizedProduct } from '@/src/lib/exploreClassifier';
 import { formatArticleLine } from '@/src/lib/productArticle';
+import { HIDE_PRICES } from '@/src/lib/catalogMode';
 import { productHasPrice, productPriceRange } from '@/src/lib/productPrice';
 
 export type ShopListingItem = {
@@ -48,6 +49,7 @@ export function formatListingPrice(
   item: ShopListingItem,
   currencyLabel: string
 ): string | null {
+  if (HIDE_PRICES) return null;
   if (item.priceMin == null || item.priceMax == null) return null;
   const min = item.priceMin.toFixed(2);
   const max = item.priceMax.toFixed(2);

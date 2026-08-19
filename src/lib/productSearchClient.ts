@@ -1,4 +1,5 @@
 import type { Locale } from '@/data/products';
+import { HIDE_PRICES } from '@/src/lib/catalogMode';
 
 export type ProductSearchIndexEntry = {
   slug: string;
@@ -86,7 +87,7 @@ export function searchProductIndex(
       name: entry.name[locale] ?? entry.name.en,
       articleNumber: entry.articleNumber,
       image: entry.image,
-      priceLabel: entry.priceLabel || null,
+      priceLabel: HIDE_PRICES ? null : entry.priceLabel || null,
     });
     if (hits.length >= limit) break;
   }

@@ -1,4 +1,5 @@
 import type { Product, ProductVariant } from '@/data/products';
+import { HIDE_PRICES } from '@/src/lib/catalogMode';
 import { isOnExcelPriceList } from '@/src/lib/excelCatalog';
 
 function rawVariantPriceCHF(v: ProductVariant): number | null {
@@ -8,6 +9,7 @@ function rawVariantPriceCHF(v: ProductVariant): number | null {
 
 /** Cena varijante — samo za proizvode na Excel listi. */
 export function variantPriceCHF(v: ProductVariant, product?: Product): number | null {
+  if (HIDE_PRICES) return null;
   if (product && !isOnExcelPriceList(product)) return null;
   return rawVariantPriceCHF(v);
 }
@@ -19,6 +21,7 @@ export function productHasPrice(product: Product): boolean {
 }
 
 export function productPriceRange(product: Product): { min: number; max: number } | null {
+  if (HIDE_PRICES) return null;
   if (!isOnExcelPriceList(product)) return null;
   const prices = product.variants
     .map((v) => rawVariantPriceCHF(v))
